@@ -21,7 +21,9 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-13T08:12:26.781+00:00"
+      "lastSeenAt": "2026-09-13T16:15:11.405+00:00",
+      "lastAttemptAt": "2026-09-13T16:15:19.983+00:00",
+      "lastSuccessAt": "2026-09-13T16:15:19.983+00:00"
     },
     "job-alio-304846": {
       "state": "published",
@@ -66,7 +68,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-13T08:12:26.781+00:00"
+      "lastSeenAt": "2026-09-13T16:15:11.405+00:00"
     },
     "job-alio-304899": {
       "state": "published",
@@ -101,7 +103,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-13T08:12:26.781+00:00",
+      "lastSeenAt": "2026-09-13T16:15:11.405+00:00",
       "lastAttemptAt": "2026-09-13T01:28:12.528+00:00",
       "lastSuccessAt": "2026-09-13T01:28:12.528+00:00"
     },
@@ -126,7 +128,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-13T08:12:26.781+00:00",
+      "lastSeenAt": "2026-09-13T16:15:11.405+00:00",
       "lastAttemptAt": "2026-09-13T01:28:43.445+00:00"
     },
     "job-alio-304879": {
@@ -150,7 +152,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-13T08:12:26.781+00:00"
+      "lastSeenAt": "2026-09-13T16:15:11.405+00:00"
     },
     "job-alio-304850": {
       "state": "queued",
@@ -173,7 +175,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-13T08:12:26.781+00:00"
+      "lastSeenAt": "2026-09-13T16:15:11.405+00:00"
     },
     "job-alio-304807": {
       "state": "published",
@@ -196,7 +198,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-13T08:12:26.781+00:00",
+      "lastSeenAt": "2026-09-13T16:15:11.405+00:00",
       "lastAttemptAt": "2026-09-13T01:28:22.148+00:00",
       "lastSuccessAt": "2026-09-13T01:28:22.148+00:00"
     },
@@ -221,7 +223,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-13T08:12:26.781+00:00",
+      "lastSeenAt": "2026-09-13T16:15:11.405+00:00",
       "lastAttemptAt": "2026-09-13T01:28:33.610+00:00",
       "lastSuccessAt": "2026-09-13T01:28:33.610+00:00"
     },
@@ -246,7 +248,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-13T08:12:26.781+00:00"
+      "lastSeenAt": "2026-09-13T16:15:11.405+00:00"
     },
     "job-alio-304776": {
       "state": "queued",
@@ -521,7 +523,9 @@
         "org": "국립해양박물관",
         "title": "2026년 제2차 직원(기간제근로자(휴직대체)) 채용",
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=298815"
-      }
+      },
+      "lastAttemptAt": "2026-09-13T16:15:25.227+00:00",
+      "lastSuccessAt": "2026-09-13T16:15:25.227+00:00"
     },
     "job-alio-300568": {
       "state": "published",
@@ -532,8 +536,8 @@
         "title": "계약직 행정-휴직대체(감사팀) 채용공고",
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=300568"
       },
-      "lastAttemptAt": "2026-09-13T02:12:35.976+00:00",
-      "lastSuccessAt": "2026-09-13T02:12:35.976+00:00"
+      "lastAttemptAt": "2026-09-13T16:15:22.674+00:00",
+      "lastSuccessAt": "2026-09-13T16:15:22.674+00:00"
     },
     "job-alio-301306": {
       "state": "published",
@@ -1001,7 +1005,7 @@
       "lastSuccessAt": "2026-09-13T08:12:42.879+00:00"
     },
     "job-alio-304510": {
-      "state": "queued",
+      "state": "published",
       "row": {
         "id": "job-alio-304510",
         "idx": "304510",
@@ -1017,11 +1021,243 @@
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=304510",
-        "list_page": 4,
+        "list_page": 5,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-13T08:12:30.129+00:00"
+      "lastSeenAt": "2026-09-13T16:15:14.365+00:00",
+      "lastAttemptAt": "2026-09-13T16:15:16.974+00:00",
+      "lastSuccessAt": "2026-09-13T16:15:16.974+00:00"
+    },
+    "job-alio-304880": {
+      "state": "queued",
+      "row": {
+        "id": "job-alio-304880",
+        "idx": "304880",
+        "title": "(재)한국장기조직기증원 2026년 제4차 공개채용",
+        "org": "재단법인 한국장기조직기증원",
+        "region_raw": "서울 외 2",
+        "employment_raw": "무기계약직 외 2",
+        "registered_raw": "2026.09.14",
+        "closing_raw": "26.09.28 D-14",
+        "application_period": {
+          "raw": null,
+          "status": "미확인",
+          "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
+        },
+        "source_url": "https://job.alio.go.kr/recruitview.do?idx=304880",
+        "list_page": 1,
+        "collection_method": "python_public_html",
+        "review_status": "transport_sample_not_office_unit_reviewed"
+      },
+      "lastSeenAt": "2026-09-13T16:15:11.405+00:00"
+    },
+    "job-alio-304476": {
+      "state": "queued",
+      "row": {
+        "id": "job-alio-304476",
+        "idx": "304476",
+        "title": "[한국수자원공사] (재공고) 거제권지사 단기계약근로자(수돗물 안심서비스 운영관리) 채용 공고",
+        "org": "한국수자원공사",
+        "region_raw": "경남",
+        "employment_raw": "비정규직",
+        "registered_raw": "2026.09.02",
+        "closing_raw": "26.09.16 D-2",
+        "application_period": {
+          "raw": null,
+          "status": "미확인",
+          "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
+        },
+        "source_url": "https://job.alio.go.kr/recruitview.do?idx=304476",
+        "list_page": 5,
+        "collection_method": "python_public_html",
+        "review_status": "transport_sample_not_office_unit_reviewed"
+      },
+      "lastSeenAt": "2026-09-13T16:15:14.365+00:00"
+    },
+    "job-alio-304485": {
+      "state": "queued",
+      "row": {
+        "id": "job-alio-304485",
+        "idx": "304485",
+        "title": "2026년도 한국등산트레킹지원센터 기간제근로자(보훈 제한경쟁) 채용 공고",
+        "org": "한국등산·트레킹지원센터",
+        "region_raw": "대전",
+        "employment_raw": "비정규직",
+        "registered_raw": "2026.09.01",
+        "closing_raw": "26.09.15 D-1",
+        "application_period": {
+          "raw": null,
+          "status": "미확인",
+          "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
+        },
+        "source_url": "https://job.alio.go.kr/recruitview.do?idx=304485",
+        "list_page": 5,
+        "collection_method": "python_public_html",
+        "review_status": "transport_sample_not_office_unit_reviewed"
+      },
+      "lastSeenAt": "2026-09-13T16:15:14.365+00:00"
+    },
+    "job-alio-304387": {
+      "state": "queued",
+      "row": {
+        "id": "job-alio-304387",
+        "idx": "304387",
+        "title": "2026년 제3차 한국의료기기안전정보원 직원(기간제 근로자) 채용공고",
+        "org": "한국의료기기안전정보원",
+        "region_raw": "서울",
+        "employment_raw": "비정규직",
+        "registered_raw": "2026.09.01",
+        "closing_raw": "26.09.16 D-2",
+        "application_period": {
+          "raw": null,
+          "status": "미확인",
+          "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
+        },
+        "source_url": "https://job.alio.go.kr/recruitview.do?idx=304387",
+        "list_page": 5,
+        "collection_method": "python_public_html",
+        "review_status": "transport_sample_not_office_unit_reviewed"
+      },
+      "lastSeenAt": "2026-09-13T16:15:14.365+00:00"
+    },
+    "job-alio-304439": {
+      "state": "queued",
+      "row": {
+        "id": "job-alio-304439",
+        "idx": "304439",
+        "title": "2026년 제2차 한국로봇산업진흥원 신규직원 채용",
+        "org": "한국로봇산업진흥원",
+        "region_raw": "대구",
+        "employment_raw": "무기계약직 외 3",
+        "registered_raw": "2026.08.31",
+        "closing_raw": "26.09.15 D-1",
+        "application_period": {
+          "raw": null,
+          "status": "미확인",
+          "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
+        },
+        "source_url": "https://job.alio.go.kr/recruitview.do?idx=304439",
+        "list_page": 5,
+        "collection_method": "python_public_html",
+        "review_status": "transport_sample_not_office_unit_reviewed"
+      },
+      "lastSeenAt": "2026-09-13T16:15:14.365+00:00"
+    },
+    "job-alio-304424": {
+      "state": "queued",
+      "row": {
+        "id": "job-alio-304424",
+        "idx": "304424",
+        "title": "[제26-03-06호]한국해양과학기술원 2026년 3차 직원(육아휴직 대체인력) 공개채용",
+        "org": "한국해양과학기술원",
+        "region_raw": "경남 외 1",
+        "employment_raw": "비정규직",
+        "registered_raw": "2026.08.31",
+        "closing_raw": "26.09.15 D-1",
+        "application_period": {
+          "raw": null,
+          "status": "미확인",
+          "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
+        },
+        "source_url": "https://job.alio.go.kr/recruitview.do?idx=304424",
+        "list_page": 5,
+        "collection_method": "python_public_html",
+        "review_status": "transport_sample_not_office_unit_reviewed"
+      },
+      "lastSeenAt": "2026-09-13T16:15:14.365+00:00"
+    },
+    "job-alio-304416": {
+      "state": "queued",
+      "row": {
+        "id": "job-alio-304416",
+        "idx": "304416",
+        "title": "2026년도 장애인 별도직무(DDCC 문서관리) 기간제 근로자 채용공고",
+        "org": "한국전력기술주식회사",
+        "region_raw": "경북",
+        "employment_raw": "비정규직",
+        "registered_raw": "2026.08.31",
+        "closing_raw": "26.09.15 D-1",
+        "application_period": {
+          "raw": null,
+          "status": "미확인",
+          "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
+        },
+        "source_url": "https://job.alio.go.kr/recruitview.do?idx=304416",
+        "list_page": 5,
+        "collection_method": "python_public_html",
+        "review_status": "transport_sample_not_office_unit_reviewed"
+      },
+      "lastSeenAt": "2026-09-13T16:15:14.365+00:00"
+    },
+    "job-alio-304404": {
+      "state": "queued",
+      "row": {
+        "id": "job-alio-304404",
+        "idx": "304404",
+        "title": "2026년도 한국마사회 위촉직(비서) 채용공고",
+        "org": "한국마사회",
+        "region_raw": "부산 외 1",
+        "employment_raw": "비정규직",
+        "registered_raw": "2026.08.31",
+        "closing_raw": "26.09.14 D+0",
+        "application_period": {
+          "raw": null,
+          "status": "미확인",
+          "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
+        },
+        "source_url": "https://job.alio.go.kr/recruitview.do?idx=304404",
+        "list_page": 5,
+        "collection_method": "python_public_html",
+        "review_status": "transport_sample_not_office_unit_reviewed"
+      },
+      "lastSeenAt": "2026-09-13T16:15:14.365+00:00"
+    },
+    "job-alio-304402": {
+      "state": "queued",
+      "row": {
+        "id": "job-alio-304402",
+        "idx": "304402",
+        "title": "한국수산자원공단 2026년 개방직위(어업혁신본부장) 공개 모집(재공고)",
+        "org": "한국수산자원공단",
+        "region_raw": "부산",
+        "employment_raw": "비정규직",
+        "registered_raw": "2026.08.28",
+        "closing_raw": "26.09.14 D+0",
+        "application_period": {
+          "raw": null,
+          "status": "미확인",
+          "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
+        },
+        "source_url": "https://job.alio.go.kr/recruitview.do?idx=304402",
+        "list_page": 5,
+        "collection_method": "python_public_html",
+        "review_status": "transport_sample_not_office_unit_reviewed"
+      },
+      "lastSeenAt": "2026-09-13T16:15:14.365+00:00"
+    },
+    "job-alio-304354": {
+      "state": "queued",
+      "row": {
+        "id": "job-alio-304354",
+        "idx": "304354",
+        "title": "2026년 제4차 중앙사회서비스원 직원(개방형 직위, 기간제) 채용 공고",
+        "org": "중앙사회서비스원",
+        "region_raw": "서울",
+        "employment_raw": "비정규직 외 1",
+        "registered_raw": "2026.08.28",
+        "closing_raw": "26.09.14 D+0",
+        "application_period": {
+          "raw": null,
+          "status": "미확인",
+          "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
+        },
+        "source_url": "https://job.alio.go.kr/recruitview.do?idx=304354",
+        "list_page": 5,
+        "collection_method": "python_public_html",
+        "review_status": "transport_sample_not_office_unit_reviewed"
+      },
+      "lastSeenAt": "2026-09-13T16:15:14.365+00:00"
     }
   },
   "candidates": {
@@ -1440,8 +1676,60 @@
         "receivedAt": "2026-09-13T08:12:39.879+00:00"
       },
       "employmentEvidence": "체험형 청년인턴(전력·영상분석관_훈련기획부)"
+    },
+    "job-alio-304853:auto-fd9f017058dd8b8e": {
+      "id": "job-alio-304853:auto-fd9f017058dd8b8e",
+      "noticeId": "job-alio-304853",
+      "rawUnitName": "육아휴직대체(등급지원센터)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=304853",
+        "sha256": "22f08ed8ebda318f08c2a3524bef1da13cbeb2e64b42480d60549ba73293f3ab",
+        "receivedAt": "2026-09-13T16:15:19.983+00:00"
+      },
+      "employmentEvidence": "육아휴직대체(등급지원센터)"
+    },
+    "job-alio-304853:auto-73a9fa973846674e": {
+      "id": "job-alio-304853:auto-73a9fa973846674e",
+      "noticeId": "job-alio-304853",
+      "rawUnitName": "육아휴직대체(교육정보센터)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=304853",
+        "sha256": "22f08ed8ebda318f08c2a3524bef1da13cbeb2e64b42480d60549ba73293f3ab",
+        "receivedAt": "2026-09-13T16:15:19.983+00:00"
+      },
+      "employmentEvidence": "육아휴직대체(교육정보센터)"
+    },
+    "job-alio-298815:auto-0df0960c67e80cf5": {
+      "id": "job-alio-298815:auto-0df0960c67e80cf5",
+      "noticeId": "job-alio-298815",
+      "rawUnitName": "기간제근로자(원급대체)-학예일반",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=298815",
+        "sha256": "b49ffd36a2e76e8e16219b9dc391a51d679b837b92a259a6d67fc6a2ec2f9d06",
+        "receivedAt": "2026-09-13T16:15:25.227+00:00"
+      },
+      "employmentEvidence": "기간제근로자(원급대체)-학예일반"
+    },
+    "job-alio-298815:auto-2b130a387b8eac84": {
+      "id": "job-alio-298815:auto-2b130a387b8eac84",
+      "noticeId": "job-alio-298815",
+      "rawUnitName": "기간제근로자(공무직대체)-학예지원",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=298815",
+        "sha256": "b49ffd36a2e76e8e16219b9dc391a51d679b837b92a259a6d67fc6a2ec2f9d06",
+        "receivedAt": "2026-09-13T16:15:25.227+00:00"
+      },
+      "employmentEvidence": "기간제근로자(공무직대체)-학예지원"
     }
   },
-  "nextPage": 5,
+  "nextPage": 6,
   "schemaVersion": "automatic-refresh-state-0.2"
 }
