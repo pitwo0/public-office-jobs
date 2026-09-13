@@ -1,0 +1,104 @@
+name: Refresh and publish office jobs
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 */6 * * *'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: public-office-jobs-refresh-pages
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    if: github.event_name != 'schedule' || vars.AUTO_REFRESH_ENABLED == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+    outputs:
+      collection_status: ${{ steps.prepare.outputs.collection_status }}
+      build_ready: ${{ steps.prepare.outputs.build_ready }}
+      persisted: ${{ steps.persist.outputs.persisted }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
+          fetch-depth: 1
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Require the default branch for operational data and Pages
+        env:
+          SELECTED_BRANCH: ${{ github.ref_name }}
+          DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
+        run: |
+          if [ "$SELECTED_BRANCH" != "$DEFAULT_BRANCH" ]; then
+            echo 'Run this operational workflow from the default branch.'
+            exit 1
+          fi
+      - name: Validate public data and persistence without network requests
+        run: |
+          python -m unittest discover -s tests -p 'test_public*.py'
+          python -m unittest discover -s tests -p 'test_workflow.py'
+      - name: Collect within source limits and build public files
+        id: prepare
+        env:
+          COLLECTION_ENABLED: ${{ vars.COLLECTION_ENABLED }}
+        run: |
+          if [ "$COLLECTION_ENABLED" = "true" ]; then
+            python deployment/run_ci.py --collect true
+          else
+            python deployment/run_ci.py --collect false
+          fi
+      - name: Persist only operational JSON to the repository
+        id: persist
+        env:
+          GITHUB_REF_NAME: ${{ github.ref_name }}
+        run: python deployment/run_ci.py --persist
+      - name: Upload only the public site
+        if: steps.prepare.outputs.build_ready == 'true' && steps.persist.outputs.persisted == 'true' && vars.PAGES_DEPLOY_ENABLED == 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+          retention-days: 1
+
+  deploy:
+    needs: collect
+    if: needs.collect.outputs.build_ready == 'true' && needs.collect.outputs.persisted == 'true' && vars.PAGES_DEPLOY_ENABLED == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy the persisted snapshot
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+  report:
+    needs: [collect, deploy]
+    if: always() && needs.collect.result != 'skipped'
+    runs-on: ubuntu-latest
+    permissions: {}
+    steps:
+      - name: Report collection and deployment independently
+        env:
+          COLLECT_JOB: ${{ needs.collect.result }}
+          COLLECTION_STATUS: ${{ needs.collect.outputs.collection_status }}
+          DEPLOY_JOB: ${{ needs.deploy.result }}
+          PAGES_ENABLED: ${{ vars.PAGES_DEPLOY_ENABLED }}
+        run: |
+          printf 'Collection job: %s; result: %s; deploy: %s\n' "$COLLECT_JOB" "$COLLECTION_STATUS" "$DEPLOY_JOB"
+          if [ "$COLLECT_JOB" != "success" ]; then exit 1; fi
+          if [ "$PAGES_ENABLED" = "true" ] && [ "$DEPLOY_JOB" != "success" ]; then exit 1; fi
+          if [ "$COLLECTION_STATUS" = "failed" ] || [ "$COLLECTION_STATUS" = "partial_success" ]; then
+            echo 'Saved available records and published failure status when deployment was enabled. Review this run before calling collection successful.'
+            exit 1
+          fi

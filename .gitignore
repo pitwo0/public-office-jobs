@@ -1,0 +1,12 @@
+# Raw evidence and local test runs never belong in the public repository.
+evidence/
+__pycache__/
+*.py[cod]
+*.lock
+*.pending
+.env
+.env.*
+*.pem
+*.key
+dist/
+index.html
