@@ -1,68 +1,76 @@
 {
-  "startedAt": "2026-09-13T16:15:09+00:00",
+  "startedAt": "2026-09-13T20:49:13+00:00",
   "mode": "live",
-  "records": [
-    {
-      "id": "job-alio-304510",
-      "status": "added",
-      "unitCount": 1
-    },
-    {
-      "id": "job-alio-304853",
-      "status": "unchanged",
-      "unitCount": 2
-    },
-    {
-      "id": "job-alio-300568",
-      "status": "unchanged",
-      "unitCount": 1
-    },
-    {
-      "id": "job-alio-298815",
-      "status": "baseline_difference",
-      "unitCount": 1
-    }
-  ],
+  "records": [],
   "errors": [
     {
-      "id": "job-alio-304853",
-      "phase": "result_fields",
-      "issues": [
-        {
-          "unitId": "rating",
-          "status": "unverified",
-          "note": "현재 공식 표와 모집단위명이 정확히 대응하지 않아 결과를 연결하지 않았습니다."
-        },
-        {
-          "unitId": "education",
-          "status": "unverified",
-          "note": "현재 공식 표와 모집단위명이 정확히 대응하지 않아 결과를 연결하지 않았습니다."
-        }
-      ],
-      "error": "결과 표 일부 미확인·추출 실패. 기존 정상 결과를 보존했습니다.",
+      "id": null,
+      "phase": "list",
+      "error": "원문 수신 실패·불완전·접근제한: transport_error",
+      "existingNoticePreserved": false
+    },
+    {
+      "id": "job-alio-304341",
+      "phase": "detail",
+      "error": "원문 수신 실패·불완전·접근제한: transport_error",
+      "existingNoticePreserved": false
+    },
+    {
+      "id": "job-alio-304846",
+      "phase": "detail",
+      "error": "원문 수신 실패·불완전·접근제한: transport_error",
       "existingNoticePreserved": true
     },
     {
-      "id": "job-alio-300568",
-      "phase": "result_fields",
-      "issues": [
-        {
-          "unitId": "office",
-          "status": "unverified",
-          "note": "현재 공식 표와 모집단위명이 정확히 대응하지 않아 결과를 연결하지 않았습니다."
-        }
-      ],
-      "error": "결과 표 일부 미확인·추출 실패. 기존 정상 결과를 보존했습니다.",
+      "id": "job-alio-289145",
+      "phase": "detail",
+      "error": "원문 수신 실패·불완전·접근제한: transport_error",
       "existingNoticePreserved": true
+    },
+    {
+      "id": "job-alio-304880",
+      "phase": "detail",
+      "error": "원문 수신 실패·불완전·접근제한: transport_error",
+      "existingNoticePreserved": false
+    },
+    {
+      "phase": "list",
+      "page": 1,
+      "error": "원문 수신 실패·불완전·접근제한: transport_error"
+    },
+    {
+      "phase": "detail",
+      "id": "job-alio-304341",
+      "error": "원문 수신 실패·불완전·접근제한: transport_error"
+    },
+    {
+      "phase": "detail",
+      "id": "job-alio-304846",
+      "error": "원문 수신 실패·불완전·접근제한: transport_error"
+    },
+    {
+      "phase": "detail",
+      "id": "job-alio-289145",
+      "error": "원문 수신 실패·불완전·접근제한: transport_error"
+    },
+    {
+      "phase": "detail",
+      "id": "job-alio-304880",
+      "error": "원문 수신 실패·불완전·접근제한: transport_error"
     }
   ],
-  "newRemoteRequests": 6,
-  "status": "partial_success",
+  "newRemoteRequests": 5,
+  "status": "failed",
   "noticeCount": 17,
-  "added": 1,
+  "added": 0,
   "changedIds": [],
   "deadlineEvents": [],
-  "actualListPages": 2,
-  "preservedFailedIds": [],
-  "finishedAt": "2026-09-13T16:15:25+00:00"
+  "actualListPages": 0,
+  "preservedFailedIds": [
+    "job-alio-289145",
+    "job-alio-304341",
+    "job-alio-304846",
+    "job-alio-304880"
+  ],
+  "finishedAt": "2026-09-13T20:50:59+00:00"
 }
