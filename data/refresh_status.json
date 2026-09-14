@@ -1,5 +1,5 @@
 {
-  "startedAt": "2026-09-13T20:49:13+00:00",
+  "startedAt": "2026-09-14T04:54:06+00:00",
   "mode": "live",
   "records": [],
   "errors": [
@@ -10,25 +10,25 @@
       "existingNoticePreserved": false
     },
     {
-      "id": "job-alio-304341",
+      "id": "job-alio-304879",
       "phase": "detail",
       "error": "원문 수신 실패·불완전·접근제한: transport_error",
       "existingNoticePreserved": false
     },
     {
-      "id": "job-alio-304846",
+      "id": "job-alio-304833",
       "phase": "detail",
       "error": "원문 수신 실패·불완전·접근제한: transport_error",
       "existingNoticePreserved": true
     },
     {
-      "id": "job-alio-289145",
+      "id": "job-alio-304850",
       "phase": "detail",
       "error": "원문 수신 실패·불완전·접근제한: transport_error",
-      "existingNoticePreserved": true
+      "existingNoticePreserved": false
     },
     {
-      "id": "job-alio-304880",
+      "id": "job-alio-304793",
       "phase": "detail",
       "error": "원문 수신 실패·불완전·접근제한: transport_error",
       "existingNoticePreserved": false
@@ -40,22 +40,22 @@
     },
     {
       "phase": "detail",
-      "id": "job-alio-304341",
+      "id": "job-alio-304879",
       "error": "원문 수신 실패·불완전·접근제한: transport_error"
     },
     {
       "phase": "detail",
-      "id": "job-alio-304846",
+      "id": "job-alio-304833",
       "error": "원문 수신 실패·불완전·접근제한: transport_error"
     },
     {
       "phase": "detail",
-      "id": "job-alio-289145",
+      "id": "job-alio-304850",
       "error": "원문 수신 실패·불완전·접근제한: transport_error"
     },
     {
       "phase": "detail",
-      "id": "job-alio-304880",
+      "id": "job-alio-304793",
       "error": "원문 수신 실패·불완전·접근제한: transport_error"
     }
   ],
@@ -67,10 +67,10 @@
   "deadlineEvents": [],
   "actualListPages": 0,
   "preservedFailedIds": [
-    "job-alio-289145",
-    "job-alio-304341",
-    "job-alio-304846",
-    "job-alio-304880"
+    "job-alio-304793",
+    "job-alio-304833",
+    "job-alio-304850",
+    "job-alio-304879"
   ],
-  "finishedAt": "2026-09-13T20:50:59+00:00"
+  "finishedAt": "2026-09-14T04:55:53+00:00"
 }
