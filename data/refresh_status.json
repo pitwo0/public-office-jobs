@@ -1,43 +1,50 @@
 {
-  "startedAt": "2026-09-14T21:48:36+00:00",
+  "startedAt": "2026-09-15T04:52:40+00:00",
   "mode": "live",
   "records": [
     {
-      "id": "job-alio-304924",
+      "id": "job-alio-304973",
       "status": "added",
       "unitCount": 1
     },
     {
-      "id": "job-alio-304807",
+      "id": "job-alio-304804",
       "status": "unchanged",
       "unitCount": 1
     },
     {
-      "id": "job-alio-304636",
+      "id": "job-alio-300568",
       "status": "unchanged",
       "unitCount": 1
     },
     {
-      "id": "job-alio-304778",
+      "id": "job-alio-304220",
       "status": "added",
       "unitCount": 1
     }
   ],
-  "errors": [],
+  "errors": [
+    {
+      "id": "job-alio-300568",
+      "phase": "result_fields",
+      "issues": [
+        {
+          "unitId": "office",
+          "status": "unverified",
+          "note": "현재 공식 표와 모집단위명이 정확히 대응하지 않아 결과를 연결하지 않았습니다."
+        }
+      ],
+      "error": "결과 표 일부 미확인·추출 실패. 기존 정상 결과를 보존했습니다.",
+      "existingNoticePreserved": true
+    }
+  ],
   "newRemoteRequests": 6,
-  "status": "success",
-  "noticeCount": 21,
+  "status": "partial_success",
+  "noticeCount": 23,
   "added": 2,
   "changedIds": [],
-  "deadlineEvents": [
-    {
-      "id": "job-alio-304636",
-      "from": "open",
-      "to": "deadline_elapsed",
-      "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
-    }
-  ],
+  "deadlineEvents": [],
   "actualListPages": 2,
   "preservedFailedIds": [],
-  "finishedAt": "2026-09-14T21:48:55+00:00"
+  "finishedAt": "2026-09-15T04:53:00+00:00"
 }
