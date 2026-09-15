@@ -5625,16 +5625,16 @@
       ],
       "sources": [
         {
-          "id": "auto_alio",
-          "label": "JOB-ALIO 상세 · 코드 수신·자동 정리",
-          "url": "https://job.alio.go.kr/recruitview.do?idx=304654",
-          "sha256": "c91c92731e6a8961c7247d7d471de0f744add0c84af80b99db0ed6986a883b29",
-          "receivedAt": "2026-09-13T02:11:59.884+00:00"
-        },
-        {
           "id": "auto_original_1",
           "label": "기관 원문 링크 · 내용 미확인",
           "url": "https://stepi.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=265535"
+        },
+        {
+          "id": "auto_alio",
+          "label": "JOB-ALIO 상세 · 자동 수신",
+          "url": "https://job.alio.go.kr/recruitview.do?idx=304654",
+          "sha256": "c91c92731e6a8961c7247d7d471de0f744add0c84af80b99db0ed6986a883b29",
+          "receivedAt": "2026-09-15T11:42:53.589+00:00"
         }
       ],
       "attachments": [
@@ -5713,17 +5713,15 @@
         "semanticHash": "bb15c9772ae19632263f7ef32cee05846ac372c72a5999f92a355ae99ec6e701",
         "conditionsHash": "c83ae6c5332aa9a197b84fbd8b54a6f5336375ec91e2e6ac37263ec505e5fee7",
         "rawSha256": "c91c92731e6a8961c7247d7d471de0f744add0c84af80b99db0ed6986a883b29",
-        "lastFetchedAt": "2026-09-13T02:11:59.884+00:00",
+        "lastFetchedAt": "2026-09-15T11:42:53.589+00:00",
         "contentChangedAt": "2026-09-13T02:11:59.884+00:00",
-        "baselineStatus": "first_capture",
+        "baselineStatus": "compared",
         "needsReview": true,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-09-13T02:11:59.884+00:00",
+          "checkedAt": "2026-09-15T11:42:53.589+00:00",
           "status": "checked",
-          "changedUnitIds": [
-            "auto-f5e7cb4522818dcc"
-          ],
+          "changedUnitIds": [],
           "preservedUnitIds": [],
           "unmatchedUnitIds": [],
           "issues": []
@@ -9097,19 +9095,1845 @@
         "evaluatedDate": "2026-09-15",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
+    },
+    {
+      "id": "job-alio-304996",
+      "idx": 304996,
+      "organization": "한국어촌어항공단",
+      "title": "2026년 하반기 한국어촌어항공단 직원 공개채용 공고(일반직, 공무직, 기간제계약직, 체험형청년인턴)",
+      "posted": "2026-09-15",
+      "deadline": "2026-09-30",
+      "deadlineTime": null,
+      "announcementPeriod": {
+        "start": "2026-09-15",
+        "end": "2026-09-30",
+        "scope": "announcement"
+      },
+      "applicationPeriod": {
+        "start": null,
+        "end": null,
+        "endTime": null,
+        "status": "unverified",
+        "scope": "announcement",
+        "sources": [
+          "auto_alio"
+        ],
+        "raw": null,
+        "note": "명시된 접수기간을 단일 기간으로 해석하지 못했습니다. 공고기간으로 대체하지 않습니다."
+      },
+      "applicationStart": null,
+      "regions": [
+        "서울",
+        "인천",
+        "부산",
+        "강원",
+        "충남",
+        "경남",
+        "제주",
+        "전남광주"
+      ],
+      "totalVacancies": 50,
+      "employment": "기간제",
+      "units": [
+        {
+          "id": "auto-962a2e74d07fb2f6",
+          "title": "기간제계약직 신입 5급 일반행정/서울",
+          "sourceUnitName": "기간제계약직 신입 5급 일반행정/서울",
+          "employment": "기간제",
+          "regions": [
+            "서울",
+            "인천",
+            "부산",
+            "강원",
+            "충남",
+            "경남",
+            "제주",
+            "전남광주"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "[공통 응시자격 요건] *단 분야별 응시자격요건 상이함\r\nㅇ 학력 및 전공 : 제한 없음\r\nㅇ 연령 : 제한 없음(단, 공단 인사규정 제46조에 따른 정년(만 60세) 미만인 자(일반직 및 공무직에 한함))\r\nㅇ 병역 : 병역법 제76조에서 정한 병역의무 불이행 사실이 없는 자\r\nㅇ 어학점수 : 제한 없음\r\nㅇ 기타 : 공단 인사규정 제13조에 의한 결격사유에 해당하지 아니한 자\r\n\r\n<일반직>\r\nㅇ일반직 경력 5급 토목: 해당분야 경력3년이상인 자,「건설기술진흥법」에 따른 토목분야 초급기술자 이상 자격보유자 또는 토목기사 자격증 소지자\r\nㅇ일반직 경력 5급 수산: 해당분야 경력3년이상인 자\r\nㅇ일반직 경력 5급 일반행정: 해당분야 경력3년이상인 자\r\nㅇ일반직 신입 5급 정보화: 해당분야 정보통신(전산, 통신, 정보보안 등) 관련 학사학위 이상 소지자\r\nㅇ일반직 신입 5급 선박(기관): 5급 이상 기관사 면허 보유한 자, 상급안전교육을 접수마감일('26.9.30.) 기준 이수 완료한 자로 임용예정일('26.11.30.) 기준 유효하여야 함, 선원법에 따른 건강검진 등 임용즉시 승선가능한 자\r\nㅇ일반직 신입 5급 토목: 「건설기술진흥법」에 따른 토목분야 초급기술자 이상 자격보유자 또는 토목기사 자격증 소지자\r\nㅇ일반직 신입 5급 수산: 해당 업무 수행 가능한 자 \r\nㅇ일반직 신입 5급 일반행정: 해당 업무 수행 가능한 자 \r\nㅇ일반직 신입 5급 선박(항해): 5급 이상 항해사 면허 보유한 자, 상급안전교육 및 레이더시뮬레이션교육을 접수마감일('26.9.30.) 기준 이수 완료한 자로 임용예정일('26.12.31.) 기준 유효하여야 함, 선원법에 따른 건강검진 등 임용즉시 승선가능한 자\r\n\r\n<공무직>\r\nㅇ일반직 신입 5급 토목: 「건설기술진흥법」에 따른 토목분야 초급기술자 이상 자격보유자 또는 토목기사 자격증 소지자\r\nㅇ일반직 신입 5급 일반행정(사무지원): 해당업무 수행가능한 자 \r\nㅇ일반직 신입 5급 일반행정(차량 운전·관리): 1종 대형 이상 운전면허 취득 후 대형차량 운전경력 2년 이상인자 \r\n\r\n<기간제계약직>\r\nㅇ기간제계약직 신입 5급 일반행정: 해당업무 수행 가능한 자 \r\nㅇ기간제계약직 신입 5급 수산: 해당업무 수행 가능한 자 \r\nㅇ기간제계약직 신입 5급 토목(자격제한): 고등학교 졸업이상 인자 중 해당 분야(토목 또는 건축) 관련 학과 졸업한 자 \r\nㅇ기간제계약직 신입 5급 토목: 해당업무 수행가능한 자 \r\nㅇ기간제계약직 신입 5급 선박(항해): 6급 이상 항해사 면허 보유한 자, 상급안전교육 및 레이더시뮬레이션교육을 접수마감일('26.9.30.) 기준 이수 완료한 자로 임용예정일('26.12.1.) 기준 유효하여야 함, 선원법에 따른 건강검진 등 임용즉시 승선가능한 자\r\n\r\n<체험형청년인턴>\r\nㅇ체험형청년인턴 청년인턴(사무지원): 공고일 기준(26.9.15) 만 15세 이상 만34세 이하 미취업자(우리공단 인턴 유경험자 제외)\r\n제대군인지원에 관한 법률에 따라 같은법 제2조에 의한 제대군인 및 병역법 제26조 제1항 제1호의 업무에 복무하고 소집 해제된 공익근무요원이 응시할 경우 상한 연령을 다음과 같이 연장함\r\n- 군복무기간 1년미만(1세연장), 1년이상~2년미만(2세연장), 2년이상(3세연장)",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "서울,인천,부산,강원,충남,경남,제주,전남광주",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "ㅇ 서류전형(일반직 및 공무직 20배수, 기간제계약직 5배수, 체험형청년인턴 5배수)\r\n- (신입) 교육사항, 자격증, 한국사능력, 공공기관 청년인턴, 자기소개서, 우대가점 등\r\n- (경력) 경력사항, 자격증, 한국사능력, 자기소개서, 직무수행계획서, 우대가점 등\r\n- (공무직 일반행정(차량 운전·관리)): 교육사항, 무사고, 교통법규준수, 자격증, 한국사능력, 공공기관 청년인턴, 자기소개서, 우대가점 등\r\n- (체험형청년인턴) 자기소개서, 우대가점 등\r\n\r\nㅇ 필기전형\r\n- 일반직 및 공무직(5배수) : NCS기반 직업기초능력검사(의사소통능력, 수리능력, 문제해결능력) 및 인성검사\r\n- 기간제계약직(적/부) : 온라인 인성검사\r\n- 체험형청년인턴: 미실시\r\n\r\nㅇ 면접전형(1배수)\r\n- 일반직(경력): 개별면접(PT발표 및 인성면접)\r\n- 일반직 및 공무직(신입): 집단면접(토의면접 및 인성면접) 또는 개별면접\r\n- 기간제계약직 및 체험형청년인턴: 집단면접 또는 개별면접\r\n\r\nㅇ 신규임용 : 신체검사 및 결격사유 조회 후 신규임용\r\n※ 일반직 및 공무직의 경우 채용 후 3개월간 수습기간(업무수행능력 평가기간) 적용",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "2차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=304996",
+              "sha256": "451d4a0761c77c895471f4d9cc2e61bf4f406664f5ad9f5cd4936241a7c2d5be",
+              "receivedAt": "2026-09-15T11:42:57.415+00:00",
+              "rawUnitName": "기간제계약직 신입 5급 일반행정/서울",
+              "rows": [
+                [
+                  "기간제계약직 신입 5급 일반행정/서울"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "2차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "recruitment_unit",
+            "method": "unit_name",
+            "value": "기간제",
+            "quote": "기간제계약직 신입 5급 일반행정/서울",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "한국어촌어항공단",
+            "job": "기간제계약직 신입 5급 일반행정/서울",
+            "rawUnitName": "기간제계약직 신입 5급 일반행정/서울",
+            "regions": [
+              "서울",
+              "인천",
+              "부산",
+              "강원",
+              "충남",
+              "경남",
+              "제주",
+              "전남광주"
+            ],
+            "regionsScope": "announcement",
+            "employment": "기간제",
+            "recruitmentCategory": {
+              "value": "신입+경력",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=304996",
+              "sha256": "451d4a0761c77c895471f4d9cc2e61bf4f406664f5ad9f5cd4936241a7c2d5be",
+              "receivedAt": "2026-09-15T11:42:57.415+00:00"
+            }
+          }
+        },
+        {
+          "id": "auto-57247747b1fbfb2f",
+          "title": "기간제계약직 신입 5급 일반행정/홍성",
+          "sourceUnitName": "기간제계약직 신입 5급 일반행정/홍성",
+          "employment": "기간제",
+          "regions": [
+            "서울",
+            "인천",
+            "부산",
+            "강원",
+            "충남",
+            "경남",
+            "제주",
+            "전남광주"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "[공통 응시자격 요건] *단 분야별 응시자격요건 상이함\r\nㅇ 학력 및 전공 : 제한 없음\r\nㅇ 연령 : 제한 없음(단, 공단 인사규정 제46조에 따른 정년(만 60세) 미만인 자(일반직 및 공무직에 한함))\r\nㅇ 병역 : 병역법 제76조에서 정한 병역의무 불이행 사실이 없는 자\r\nㅇ 어학점수 : 제한 없음\r\nㅇ 기타 : 공단 인사규정 제13조에 의한 결격사유에 해당하지 아니한 자\r\n\r\n<일반직>\r\nㅇ일반직 경력 5급 토목: 해당분야 경력3년이상인 자,「건설기술진흥법」에 따른 토목분야 초급기술자 이상 자격보유자 또는 토목기사 자격증 소지자\r\nㅇ일반직 경력 5급 수산: 해당분야 경력3년이상인 자\r\nㅇ일반직 경력 5급 일반행정: 해당분야 경력3년이상인 자\r\nㅇ일반직 신입 5급 정보화: 해당분야 정보통신(전산, 통신, 정보보안 등) 관련 학사학위 이상 소지자\r\nㅇ일반직 신입 5급 선박(기관): 5급 이상 기관사 면허 보유한 자, 상급안전교육을 접수마감일('26.9.30.) 기준 이수 완료한 자로 임용예정일('26.11.30.) 기준 유효하여야 함, 선원법에 따른 건강검진 등 임용즉시 승선가능한 자\r\nㅇ일반직 신입 5급 토목: 「건설기술진흥법」에 따른 토목분야 초급기술자 이상 자격보유자 또는 토목기사 자격증 소지자\r\nㅇ일반직 신입 5급 수산: 해당 업무 수행 가능한 자 \r\nㅇ일반직 신입 5급 일반행정: 해당 업무 수행 가능한 자 \r\nㅇ일반직 신입 5급 선박(항해): 5급 이상 항해사 면허 보유한 자, 상급안전교육 및 레이더시뮬레이션교육을 접수마감일('26.9.30.) 기준 이수 완료한 자로 임용예정일('26.12.31.) 기준 유효하여야 함, 선원법에 따른 건강검진 등 임용즉시 승선가능한 자\r\n\r\n<공무직>\r\nㅇ일반직 신입 5급 토목: 「건설기술진흥법」에 따른 토목분야 초급기술자 이상 자격보유자 또는 토목기사 자격증 소지자\r\nㅇ일반직 신입 5급 일반행정(사무지원): 해당업무 수행가능한 자 \r\nㅇ일반직 신입 5급 일반행정(차량 운전·관리): 1종 대형 이상 운전면허 취득 후 대형차량 운전경력 2년 이상인자 \r\n\r\n<기간제계약직>\r\nㅇ기간제계약직 신입 5급 일반행정: 해당업무 수행 가능한 자 \r\nㅇ기간제계약직 신입 5급 수산: 해당업무 수행 가능한 자 \r\nㅇ기간제계약직 신입 5급 토목(자격제한): 고등학교 졸업이상 인자 중 해당 분야(토목 또는 건축) 관련 학과 졸업한 자 \r\nㅇ기간제계약직 신입 5급 토목: 해당업무 수행가능한 자 \r\nㅇ기간제계약직 신입 5급 선박(항해): 6급 이상 항해사 면허 보유한 자, 상급안전교육 및 레이더시뮬레이션교육을 접수마감일('26.9.30.) 기준 이수 완료한 자로 임용예정일('26.12.1.) 기준 유효하여야 함, 선원법에 따른 건강검진 등 임용즉시 승선가능한 자\r\n\r\n<체험형청년인턴>\r\nㅇ체험형청년인턴 청년인턴(사무지원): 공고일 기준(26.9.15) 만 15세 이상 만34세 이하 미취업자(우리공단 인턴 유경험자 제외)\r\n제대군인지원에 관한 법률에 따라 같은법 제2조에 의한 제대군인 및 병역법 제26조 제1항 제1호의 업무에 복무하고 소집 해제된 공익근무요원이 응시할 경우 상한 연령을 다음과 같이 연장함\r\n- 군복무기간 1년미만(1세연장), 1년이상~2년미만(2세연장), 2년이상(3세연장)",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "서울,인천,부산,강원,충남,경남,제주,전남광주",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "ㅇ 서류전형(일반직 및 공무직 20배수, 기간제계약직 5배수, 체험형청년인턴 5배수)\r\n- (신입) 교육사항, 자격증, 한국사능력, 공공기관 청년인턴, 자기소개서, 우대가점 등\r\n- (경력) 경력사항, 자격증, 한국사능력, 자기소개서, 직무수행계획서, 우대가점 등\r\n- (공무직 일반행정(차량 운전·관리)): 교육사항, 무사고, 교통법규준수, 자격증, 한국사능력, 공공기관 청년인턴, 자기소개서, 우대가점 등\r\n- (체험형청년인턴) 자기소개서, 우대가점 등\r\n\r\nㅇ 필기전형\r\n- 일반직 및 공무직(5배수) : NCS기반 직업기초능력검사(의사소통능력, 수리능력, 문제해결능력) 및 인성검사\r\n- 기간제계약직(적/부) : 온라인 인성검사\r\n- 체험형청년인턴: 미실시\r\n\r\nㅇ 면접전형(1배수)\r\n- 일반직(경력): 개별면접(PT발표 및 인성면접)\r\n- 일반직 및 공무직(신입): 집단면접(토의면접 및 인성면접) 또는 개별면접\r\n- 기간제계약직 및 체험형청년인턴: 집단면접 또는 개별면접\r\n\r\nㅇ 신규임용 : 신체검사 및 결격사유 조회 후 신규임용\r\n※ 일반직 및 공무직의 경우 채용 후 3개월간 수습기간(업무수행능력 평가기간) 적용",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "2차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=304996",
+              "sha256": "451d4a0761c77c895471f4d9cc2e61bf4f406664f5ad9f5cd4936241a7c2d5be",
+              "receivedAt": "2026-09-15T11:42:57.415+00:00",
+              "rawUnitName": "기간제계약직 신입 5급 일반행정/홍성",
+              "rows": [
+                [
+                  "기간제계약직 신입 5급 일반행정/홍성"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "2차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "recruitment_unit",
+            "method": "unit_name",
+            "value": "기간제",
+            "quote": "기간제계약직 신입 5급 일반행정/홍성",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "한국어촌어항공단",
+            "job": "기간제계약직 신입 5급 일반행정/홍성",
+            "rawUnitName": "기간제계약직 신입 5급 일반행정/홍성",
+            "regions": [
+              "서울",
+              "인천",
+              "부산",
+              "강원",
+              "충남",
+              "경남",
+              "제주",
+              "전남광주"
+            ],
+            "regionsScope": "announcement",
+            "employment": "기간제",
+            "recruitmentCategory": {
+              "value": "신입+경력",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=304996",
+              "sha256": "451d4a0761c77c895471f4d9cc2e61bf4f406664f5ad9f5cd4936241a7c2d5be",
+              "receivedAt": "2026-09-15T11:42:57.415+00:00"
+            }
+          }
+        },
+        {
+          "id": "auto-f98e4fa35c84672f",
+          "title": "기간제계약직 신입 5급 일반행정/목포",
+          "sourceUnitName": "기간제계약직 신입 5급 일반행정/목포",
+          "employment": "기간제",
+          "regions": [
+            "서울",
+            "인천",
+            "부산",
+            "강원",
+            "충남",
+            "경남",
+            "제주",
+            "전남광주"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "[공통 응시자격 요건] *단 분야별 응시자격요건 상이함\r\nㅇ 학력 및 전공 : 제한 없음\r\nㅇ 연령 : 제한 없음(단, 공단 인사규정 제46조에 따른 정년(만 60세) 미만인 자(일반직 및 공무직에 한함))\r\nㅇ 병역 : 병역법 제76조에서 정한 병역의무 불이행 사실이 없는 자\r\nㅇ 어학점수 : 제한 없음\r\nㅇ 기타 : 공단 인사규정 제13조에 의한 결격사유에 해당하지 아니한 자\r\n\r\n<일반직>\r\nㅇ일반직 경력 5급 토목: 해당분야 경력3년이상인 자,「건설기술진흥법」에 따른 토목분야 초급기술자 이상 자격보유자 또는 토목기사 자격증 소지자\r\nㅇ일반직 경력 5급 수산: 해당분야 경력3년이상인 자\r\nㅇ일반직 경력 5급 일반행정: 해당분야 경력3년이상인 자\r\nㅇ일반직 신입 5급 정보화: 해당분야 정보통신(전산, 통신, 정보보안 등) 관련 학사학위 이상 소지자\r\nㅇ일반직 신입 5급 선박(기관): 5급 이상 기관사 면허 보유한 자, 상급안전교육을 접수마감일('26.9.30.) 기준 이수 완료한 자로 임용예정일('26.11.30.) 기준 유효하여야 함, 선원법에 따른 건강검진 등 임용즉시 승선가능한 자\r\nㅇ일반직 신입 5급 토목: 「건설기술진흥법」에 따른 토목분야 초급기술자 이상 자격보유자 또는 토목기사 자격증 소지자\r\nㅇ일반직 신입 5급 수산: 해당 업무 수행 가능한 자 \r\nㅇ일반직 신입 5급 일반행정: 해당 업무 수행 가능한 자 \r\nㅇ일반직 신입 5급 선박(항해): 5급 이상 항해사 면허 보유한 자, 상급안전교육 및 레이더시뮬레이션교육을 접수마감일('26.9.30.) 기준 이수 완료한 자로 임용예정일('26.12.31.) 기준 유효하여야 함, 선원법에 따른 건강검진 등 임용즉시 승선가능한 자\r\n\r\n<공무직>\r\nㅇ일반직 신입 5급 토목: 「건설기술진흥법」에 따른 토목분야 초급기술자 이상 자격보유자 또는 토목기사 자격증 소지자\r\nㅇ일반직 신입 5급 일반행정(사무지원): 해당업무 수행가능한 자 \r\nㅇ일반직 신입 5급 일반행정(차량 운전·관리): 1종 대형 이상 운전면허 취득 후 대형차량 운전경력 2년 이상인자 \r\n\r\n<기간제계약직>\r\nㅇ기간제계약직 신입 5급 일반행정: 해당업무 수행 가능한 자 \r\nㅇ기간제계약직 신입 5급 수산: 해당업무 수행 가능한 자 \r\nㅇ기간제계약직 신입 5급 토목(자격제한): 고등학교 졸업이상 인자 중 해당 분야(토목 또는 건축) 관련 학과 졸업한 자 \r\nㅇ기간제계약직 신입 5급 토목: 해당업무 수행가능한 자 \r\nㅇ기간제계약직 신입 5급 선박(항해): 6급 이상 항해사 면허 보유한 자, 상급안전교육 및 레이더시뮬레이션교육을 접수마감일('26.9.30.) 기준 이수 완료한 자로 임용예정일('26.12.1.) 기준 유효하여야 함, 선원법에 따른 건강검진 등 임용즉시 승선가능한 자\r\n\r\n<체험형청년인턴>\r\nㅇ체험형청년인턴 청년인턴(사무지원): 공고일 기준(26.9.15) 만 15세 이상 만34세 이하 미취업자(우리공단 인턴 유경험자 제외)\r\n제대군인지원에 관한 법률에 따라 같은법 제2조에 의한 제대군인 및 병역법 제26조 제1항 제1호의 업무에 복무하고 소집 해제된 공익근무요원이 응시할 경우 상한 연령을 다음과 같이 연장함\r\n- 군복무기간 1년미만(1세연장), 1년이상~2년미만(2세연장), 2년이상(3세연장)",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "서울,인천,부산,강원,충남,경남,제주,전남광주",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "ㅇ 서류전형(일반직 및 공무직 20배수, 기간제계약직 5배수, 체험형청년인턴 5배수)\r\n- (신입) 교육사항, 자격증, 한국사능력, 공공기관 청년인턴, 자기소개서, 우대가점 등\r\n- (경력) 경력사항, 자격증, 한국사능력, 자기소개서, 직무수행계획서, 우대가점 등\r\n- (공무직 일반행정(차량 운전·관리)): 교육사항, 무사고, 교통법규준수, 자격증, 한국사능력, 공공기관 청년인턴, 자기소개서, 우대가점 등\r\n- (체험형청년인턴) 자기소개서, 우대가점 등\r\n\r\nㅇ 필기전형\r\n- 일반직 및 공무직(5배수) : NCS기반 직업기초능력검사(의사소통능력, 수리능력, 문제해결능력) 및 인성검사\r\n- 기간제계약직(적/부) : 온라인 인성검사\r\n- 체험형청년인턴: 미실시\r\n\r\nㅇ 면접전형(1배수)\r\n- 일반직(경력): 개별면접(PT발표 및 인성면접)\r\n- 일반직 및 공무직(신입): 집단면접(토의면접 및 인성면접) 또는 개별면접\r\n- 기간제계약직 및 체험형청년인턴: 집단면접 또는 개별면접\r\n\r\nㅇ 신규임용 : 신체검사 및 결격사유 조회 후 신규임용\r\n※ 일반직 및 공무직의 경우 채용 후 3개월간 수습기간(업무수행능력 평가기간) 적용",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "2차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=304996",
+              "sha256": "451d4a0761c77c895471f4d9cc2e61bf4f406664f5ad9f5cd4936241a7c2d5be",
+              "receivedAt": "2026-09-15T11:42:57.415+00:00",
+              "rawUnitName": "기간제계약직 신입 5급 일반행정/목포",
+              "rows": [
+                [
+                  "기간제계약직 신입 5급 일반행정/목포"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "2차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "recruitment_unit",
+            "method": "unit_name",
+            "value": "기간제",
+            "quote": "기간제계약직 신입 5급 일반행정/목포",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "한국어촌어항공단",
+            "job": "기간제계약직 신입 5급 일반행정/목포",
+            "rawUnitName": "기간제계약직 신입 5급 일반행정/목포",
+            "regions": [
+              "서울",
+              "인천",
+              "부산",
+              "강원",
+              "충남",
+              "경남",
+              "제주",
+              "전남광주"
+            ],
+            "regionsScope": "announcement",
+            "employment": "기간제",
+            "recruitmentCategory": {
+              "value": "신입+경력",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=304996",
+              "sha256": "451d4a0761c77c895471f4d9cc2e61bf4f406664f5ad9f5cd4936241a7c2d5be",
+              "receivedAt": "2026-09-15T11:42:57.415+00:00"
+            }
+          }
+        },
+        {
+          "id": "auto-eb7396376493f364",
+          "title": "기간제계약직 신입 5급 일반행정/창원",
+          "sourceUnitName": "기간제계약직 신입 5급 일반행정/창원",
+          "employment": "기간제",
+          "regions": [
+            "서울",
+            "인천",
+            "부산",
+            "강원",
+            "충남",
+            "경남",
+            "제주",
+            "전남광주"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "[공통 응시자격 요건] *단 분야별 응시자격요건 상이함\r\nㅇ 학력 및 전공 : 제한 없음\r\nㅇ 연령 : 제한 없음(단, 공단 인사규정 제46조에 따른 정년(만 60세) 미만인 자(일반직 및 공무직에 한함))\r\nㅇ 병역 : 병역법 제76조에서 정한 병역의무 불이행 사실이 없는 자\r\nㅇ 어학점수 : 제한 없음\r\nㅇ 기타 : 공단 인사규정 제13조에 의한 결격사유에 해당하지 아니한 자\r\n\r\n<일반직>\r\nㅇ일반직 경력 5급 토목: 해당분야 경력3년이상인 자,「건설기술진흥법」에 따른 토목분야 초급기술자 이상 자격보유자 또는 토목기사 자격증 소지자\r\nㅇ일반직 경력 5급 수산: 해당분야 경력3년이상인 자\r\nㅇ일반직 경력 5급 일반행정: 해당분야 경력3년이상인 자\r\nㅇ일반직 신입 5급 정보화: 해당분야 정보통신(전산, 통신, 정보보안 등) 관련 학사학위 이상 소지자\r\nㅇ일반직 신입 5급 선박(기관): 5급 이상 기관사 면허 보유한 자, 상급안전교육을 접수마감일('26.9.30.) 기준 이수 완료한 자로 임용예정일('26.11.30.) 기준 유효하여야 함, 선원법에 따른 건강검진 등 임용즉시 승선가능한 자\r\nㅇ일반직 신입 5급 토목: 「건설기술진흥법」에 따른 토목분야 초급기술자 이상 자격보유자 또는 토목기사 자격증 소지자\r\nㅇ일반직 신입 5급 수산: 해당 업무 수행 가능한 자 \r\nㅇ일반직 신입 5급 일반행정: 해당 업무 수행 가능한 자 \r\nㅇ일반직 신입 5급 선박(항해): 5급 이상 항해사 면허 보유한 자, 상급안전교육 및 레이더시뮬레이션교육을 접수마감일('26.9.30.) 기준 이수 완료한 자로 임용예정일('26.12.31.) 기준 유효하여야 함, 선원법에 따른 건강검진 등 임용즉시 승선가능한 자\r\n\r\n<공무직>\r\nㅇ일반직 신입 5급 토목: 「건설기술진흥법」에 따른 토목분야 초급기술자 이상 자격보유자 또는 토목기사 자격증 소지자\r\nㅇ일반직 신입 5급 일반행정(사무지원): 해당업무 수행가능한 자 \r\nㅇ일반직 신입 5급 일반행정(차량 운전·관리): 1종 대형 이상 운전면허 취득 후 대형차량 운전경력 2년 이상인자 \r\n\r\n<기간제계약직>\r\nㅇ기간제계약직 신입 5급 일반행정: 해당업무 수행 가능한 자 \r\nㅇ기간제계약직 신입 5급 수산: 해당업무 수행 가능한 자 \r\nㅇ기간제계약직 신입 5급 토목(자격제한): 고등학교 졸업이상 인자 중 해당 분야(토목 또는 건축) 관련 학과 졸업한 자 \r\nㅇ기간제계약직 신입 5급 토목: 해당업무 수행가능한 자 \r\nㅇ기간제계약직 신입 5급 선박(항해): 6급 이상 항해사 면허 보유한 자, 상급안전교육 및 레이더시뮬레이션교육을 접수마감일('26.9.30.) 기준 이수 완료한 자로 임용예정일('26.12.1.) 기준 유효하여야 함, 선원법에 따른 건강검진 등 임용즉시 승선가능한 자\r\n\r\n<체험형청년인턴>\r\nㅇ체험형청년인턴 청년인턴(사무지원): 공고일 기준(26.9.15) 만 15세 이상 만34세 이하 미취업자(우리공단 인턴 유경험자 제외)\r\n제대군인지원에 관한 법률에 따라 같은법 제2조에 의한 제대군인 및 병역법 제26조 제1항 제1호의 업무에 복무하고 소집 해제된 공익근무요원이 응시할 경우 상한 연령을 다음과 같이 연장함\r\n- 군복무기간 1년미만(1세연장), 1년이상~2년미만(2세연장), 2년이상(3세연장)",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "서울,인천,부산,강원,충남,경남,제주,전남광주",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "ㅇ 서류전형(일반직 및 공무직 20배수, 기간제계약직 5배수, 체험형청년인턴 5배수)\r\n- (신입) 교육사항, 자격증, 한국사능력, 공공기관 청년인턴, 자기소개서, 우대가점 등\r\n- (경력) 경력사항, 자격증, 한국사능력, 자기소개서, 직무수행계획서, 우대가점 등\r\n- (공무직 일반행정(차량 운전·관리)): 교육사항, 무사고, 교통법규준수, 자격증, 한국사능력, 공공기관 청년인턴, 자기소개서, 우대가점 등\r\n- (체험형청년인턴) 자기소개서, 우대가점 등\r\n\r\nㅇ 필기전형\r\n- 일반직 및 공무직(5배수) : NCS기반 직업기초능력검사(의사소통능력, 수리능력, 문제해결능력) 및 인성검사\r\n- 기간제계약직(적/부) : 온라인 인성검사\r\n- 체험형청년인턴: 미실시\r\n\r\nㅇ 면접전형(1배수)\r\n- 일반직(경력): 개별면접(PT발표 및 인성면접)\r\n- 일반직 및 공무직(신입): 집단면접(토의면접 및 인성면접) 또는 개별면접\r\n- 기간제계약직 및 체험형청년인턴: 집단면접 또는 개별면접\r\n\r\nㅇ 신규임용 : 신체검사 및 결격사유 조회 후 신규임용\r\n※ 일반직 및 공무직의 경우 채용 후 3개월간 수습기간(업무수행능력 평가기간) 적용",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "2차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=304996",
+              "sha256": "451d4a0761c77c895471f4d9cc2e61bf4f406664f5ad9f5cd4936241a7c2d5be",
+              "receivedAt": "2026-09-15T11:42:57.415+00:00",
+              "rawUnitName": "기간제계약직 신입 5급 일반행정/창원",
+              "rows": [
+                [
+                  "기간제계약직 신입 5급 일반행정/창원"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "2차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "recruitment_unit",
+            "method": "unit_name",
+            "value": "기간제",
+            "quote": "기간제계약직 신입 5급 일반행정/창원",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "한국어촌어항공단",
+            "job": "기간제계약직 신입 5급 일반행정/창원",
+            "rawUnitName": "기간제계약직 신입 5급 일반행정/창원",
+            "regions": [
+              "서울",
+              "인천",
+              "부산",
+              "강원",
+              "충남",
+              "경남",
+              "제주",
+              "전남광주"
+            ],
+            "regionsScope": "announcement",
+            "employment": "기간제",
+            "recruitmentCategory": {
+              "value": "신입+경력",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=304996",
+              "sha256": "451d4a0761c77c895471f4d9cc2e61bf4f406664f5ad9f5cd4936241a7c2d5be",
+              "receivedAt": "2026-09-15T11:42:57.415+00:00"
+            }
+          }
+        },
+        {
+          "id": "auto-d7ae5bbc93a67336",
+          "title": "기간제계약직 신입 5급 일반행정/제주",
+          "sourceUnitName": "기간제계약직 신입 5급 일반행정/제주",
+          "employment": "기간제",
+          "regions": [
+            "서울",
+            "인천",
+            "부산",
+            "강원",
+            "충남",
+            "경남",
+            "제주",
+            "전남광주"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "[공통 응시자격 요건] *단 분야별 응시자격요건 상이함\r\nㅇ 학력 및 전공 : 제한 없음\r\nㅇ 연령 : 제한 없음(단, 공단 인사규정 제46조에 따른 정년(만 60세) 미만인 자(일반직 및 공무직에 한함))\r\nㅇ 병역 : 병역법 제76조에서 정한 병역의무 불이행 사실이 없는 자\r\nㅇ 어학점수 : 제한 없음\r\nㅇ 기타 : 공단 인사규정 제13조에 의한 결격사유에 해당하지 아니한 자\r\n\r\n<일반직>\r\nㅇ일반직 경력 5급 토목: 해당분야 경력3년이상인 자,「건설기술진흥법」에 따른 토목분야 초급기술자 이상 자격보유자 또는 토목기사 자격증 소지자\r\nㅇ일반직 경력 5급 수산: 해당분야 경력3년이상인 자\r\nㅇ일반직 경력 5급 일반행정: 해당분야 경력3년이상인 자\r\nㅇ일반직 신입 5급 정보화: 해당분야 정보통신(전산, 통신, 정보보안 등) 관련 학사학위 이상 소지자\r\nㅇ일반직 신입 5급 선박(기관): 5급 이상 기관사 면허 보유한 자, 상급안전교육을 접수마감일('26.9.30.) 기준 이수 완료한 자로 임용예정일('26.11.30.) 기준 유효하여야 함, 선원법에 따른 건강검진 등 임용즉시 승선가능한 자\r\nㅇ일반직 신입 5급 토목: 「건설기술진흥법」에 따른 토목분야 초급기술자 이상 자격보유자 또는 토목기사 자격증 소지자\r\nㅇ일반직 신입 5급 수산: 해당 업무 수행 가능한 자 \r\nㅇ일반직 신입 5급 일반행정: 해당 업무 수행 가능한 자 \r\nㅇ일반직 신입 5급 선박(항해): 5급 이상 항해사 면허 보유한 자, 상급안전교육 및 레이더시뮬레이션교육을 접수마감일('26.9.30.) 기준 이수 완료한 자로 임용예정일('26.12.31.) 기준 유효하여야 함, 선원법에 따른 건강검진 등 임용즉시 승선가능한 자\r\n\r\n<공무직>\r\nㅇ일반직 신입 5급 토목: 「건설기술진흥법」에 따른 토목분야 초급기술자 이상 자격보유자 또는 토목기사 자격증 소지자\r\nㅇ일반직 신입 5급 일반행정(사무지원): 해당업무 수행가능한 자 \r\nㅇ일반직 신입 5급 일반행정(차량 운전·관리): 1종 대형 이상 운전면허 취득 후 대형차량 운전경력 2년 이상인자 \r\n\r\n<기간제계약직>\r\nㅇ기간제계약직 신입 5급 일반행정: 해당업무 수행 가능한 자 \r\nㅇ기간제계약직 신입 5급 수산: 해당업무 수행 가능한 자 \r\nㅇ기간제계약직 신입 5급 토목(자격제한): 고등학교 졸업이상 인자 중 해당 분야(토목 또는 건축) 관련 학과 졸업한 자 \r\nㅇ기간제계약직 신입 5급 토목: 해당업무 수행가능한 자 \r\nㅇ기간제계약직 신입 5급 선박(항해): 6급 이상 항해사 면허 보유한 자, 상급안전교육 및 레이더시뮬레이션교육을 접수마감일('26.9.30.) 기준 이수 완료한 자로 임용예정일('26.12.1.) 기준 유효하여야 함, 선원법에 따른 건강검진 등 임용즉시 승선가능한 자\r\n\r\n<체험형청년인턴>\r\nㅇ체험형청년인턴 청년인턴(사무지원): 공고일 기준(26.9.15) 만 15세 이상 만34세 이하 미취업자(우리공단 인턴 유경험자 제외)\r\n제대군인지원에 관한 법률에 따라 같은법 제2조에 의한 제대군인 및 병역법 제26조 제1항 제1호의 업무에 복무하고 소집 해제된 공익근무요원이 응시할 경우 상한 연령을 다음과 같이 연장함\r\n- 군복무기간 1년미만(1세연장), 1년이상~2년미만(2세연장), 2년이상(3세연장)",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "서울,인천,부산,강원,충남,경남,제주,전남광주",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "ㅇ 서류전형(일반직 및 공무직 20배수, 기간제계약직 5배수, 체험형청년인턴 5배수)\r\n- (신입) 교육사항, 자격증, 한국사능력, 공공기관 청년인턴, 자기소개서, 우대가점 등\r\n- (경력) 경력사항, 자격증, 한국사능력, 자기소개서, 직무수행계획서, 우대가점 등\r\n- (공무직 일반행정(차량 운전·관리)): 교육사항, 무사고, 교통법규준수, 자격증, 한국사능력, 공공기관 청년인턴, 자기소개서, 우대가점 등\r\n- (체험형청년인턴) 자기소개서, 우대가점 등\r\n\r\nㅇ 필기전형\r\n- 일반직 및 공무직(5배수) : NCS기반 직업기초능력검사(의사소통능력, 수리능력, 문제해결능력) 및 인성검사\r\n- 기간제계약직(적/부) : 온라인 인성검사\r\n- 체험형청년인턴: 미실시\r\n\r\nㅇ 면접전형(1배수)\r\n- 일반직(경력): 개별면접(PT발표 및 인성면접)\r\n- 일반직 및 공무직(신입): 집단면접(토의면접 및 인성면접) 또는 개별면접\r\n- 기간제계약직 및 체험형청년인턴: 집단면접 또는 개별면접\r\n\r\nㅇ 신규임용 : 신체검사 및 결격사유 조회 후 신규임용\r\n※ 일반직 및 공무직의 경우 채용 후 3개월간 수습기간(업무수행능력 평가기간) 적용",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "2차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=304996",
+              "sha256": "451d4a0761c77c895471f4d9cc2e61bf4f406664f5ad9f5cd4936241a7c2d5be",
+              "receivedAt": "2026-09-15T11:42:57.415+00:00",
+              "rawUnitName": "기간제계약직 신입 5급 일반행정/제주",
+              "rows": [
+                [
+                  "기간제계약직 신입 5급 일반행정/제주"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "2차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "recruitment_unit",
+            "method": "unit_name",
+            "value": "기간제",
+            "quote": "기간제계약직 신입 5급 일반행정/제주",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "한국어촌어항공단",
+            "job": "기간제계약직 신입 5급 일반행정/제주",
+            "rawUnitName": "기간제계약직 신입 5급 일반행정/제주",
+            "regions": [
+              "서울",
+              "인천",
+              "부산",
+              "강원",
+              "충남",
+              "경남",
+              "제주",
+              "전남광주"
+            ],
+            "regionsScope": "announcement",
+            "employment": "기간제",
+            "recruitmentCategory": {
+              "value": "신입+경력",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=304996",
+              "sha256": "451d4a0761c77c895471f4d9cc2e61bf4f406664f5ad9f5cd4936241a7c2d5be",
+              "receivedAt": "2026-09-15T11:42:57.415+00:00"
+            }
+          }
+        }
+      ],
+      "sources": [
+        {
+          "id": "auto_alio",
+          "label": "JOB-ALIO 상세 · 코드 수신·자동 정리",
+          "url": "https://job.alio.go.kr/recruitview.do?idx=304996",
+          "sha256": "451d4a0761c77c895471f4d9cc2e61bf4f406664f5ad9f5cd4936241a7c2d5be",
+          "receivedAt": "2026-09-15T11:42:57.415+00:00"
+        },
+        {
+          "id": "auto_original_1",
+          "label": "기관 원문 링크 · 내용 미확인",
+          "url": "https://fipa.careeron.co.kr/"
+        }
+      ],
+      "attachments": [
+        {
+          "name": "공식 첨부 1",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3075232",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        },
+        {
+          "name": "공식 첨부 2",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3075154",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        }
+      ],
+      "checkedAt": "2026-09-15T11:42:57.415+00:00",
+      "collectionMethod": "automatic_public_html",
+      "collectionLabel": "코드 원격 수신 → 규칙 기반 모집단위 정리 → 저장·화면 생성 · GPT 미사용",
+      "sourceNote": "자동으로 확인 가능한 본문·결과 표만 정리했습니다. 첨부·모집단위별 상세 조건은 미확인이며, 공고 전체 원문은 별도로 표시합니다.",
+      "announcementMetadata": {
+        "raw": {
+          "표준직무(NCS)": "사업관리,경영.회계.사무,교육.자연.사회과학,운전.운송,건설,정보통신,농림어업",
+          "학력정보": "학력무관,고졸,대졸(2~3년),대졸(4년),석사,박사",
+          "근무분야": "일반직,행정직,사무직,기술직,공무직,계약직",
+          "채용구분": "신입+경력",
+          "고용형태": "무기계약직,비정규직,청년인턴(체험형),정규직",
+          "대체인력여부": "예",
+          "근무지": "서울,인천,부산,강원,충남,경남,제주,전남광주",
+          "급여정보": "신입 / 평균",
+          "채용인원": "50명",
+          "우대조건": "취업지원대상자, 장애인, 저소득층, 북한이탈주민, 다문화가족, 자립준비청년, 비수도권 지역인재, 우리공단 근무경력자(일반직 및 공무직 지원자에 한함), 해당지역거주자(기간제계약직 지원자에 한함, 수도권지역 제외), 사회형평적인력채용목표제, 양성평등채용목표제",
+          "채용기간": "26.09.15 ~ 26.09.30",
+          "등록일": "2026.09.15"
+        },
+        "rawApplicationPeriod": {
+          "raw": null,
+          "status": "미확인",
+          "source_section": "전형절차/방법",
+          "note": "명시된 접수기간 원문만 추출; 날짜 정규화·모집단위별 상이한 기간 검토는 별도"
+        },
+        "sourceSha256": "451d4a0761c77c895471f4d9cc2e61bf4f406664f5ad9f5cd4936241a7c2d5be",
+        "sourceReceivedAt": "2026-09-15T11:42:57.415+00:00",
+        "method": "auto-normalize-0.1"
+      },
+      "autoNormalization": {
+        "version": "auto-normalize-0.1",
+        "semanticHash": "2f65668f939a286d451548bcf1b4dcbde78a7e5b337961a1bc5750a491c1d03a",
+        "generatedFrom": {
+          "url": "https://job.alio.go.kr/recruitview.do?idx=304996",
+          "sha256": "451d4a0761c77c895471f4d9cc2e61bf4f406664f5ad9f5cd4936241a7c2d5be",
+          "receivedAt": "2026-09-15T11:42:57.415+00:00"
+        },
+        "aiUsed": false,
+        "heldUnitCount": 21
+      },
+      "autoSync": {
+        "semanticHash": "2f65668f939a286d451548bcf1b4dcbde78a7e5b337961a1bc5750a491c1d03a",
+        "conditionsHash": "96a62cd0abb7dcb69f7a65c98a0ee641e433c51f81a82f6bebd17ccb89f90289",
+        "rawSha256": "451d4a0761c77c895471f4d9cc2e61bf4f406664f5ad9f5cd4936241a7c2d5be",
+        "lastFetchedAt": "2026-09-15T11:42:57.415+00:00",
+        "contentChangedAt": "2026-09-15T11:42:57.415+00:00",
+        "baselineStatus": "first_capture",
+        "needsReview": true,
+        "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
+        "resultCheck": {
+          "checkedAt": "2026-09-15T11:42:57.415+00:00",
+          "status": "checked",
+          "changedUnitIds": [
+            "auto-962a2e74d07fb2f6",
+            "auto-57247747b1fbfb2f",
+            "auto-f98e4fa35c84672f",
+            "auto-eb7396376493f364",
+            "auto-d7ae5bbc93a67336"
+          ],
+          "preservedUnitIds": [],
+          "unmatchedUnitIds": [],
+          "issues": []
+        }
+      },
+      "lifecycle": {
+        "status": "open",
+        "evaluatedDate": "2026-09-15",
+        "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
+      }
+    },
+    {
+      "id": "job-alio-304990",
+      "idx": 304990,
+      "organization": "해양환경공단",
+      "title": "2026년 하반기 해양환경공단 업무지원직(기간제 근로자) 채용 공고",
+      "posted": "2026-09-15",
+      "deadline": "2026-09-29",
+      "deadlineTime": null,
+      "announcementPeriod": {
+        "start": "2026-09-15",
+        "end": "2026-09-29",
+        "scope": "announcement"
+      },
+      "applicationPeriod": {
+        "start": null,
+        "end": null,
+        "endTime": null,
+        "status": "unverified",
+        "scope": "announcement",
+        "sources": [
+          "auto_alio"
+        ],
+        "raw": null,
+        "note": "명시된 접수기간을 단일 기간으로 해석하지 못했습니다. 공고기간으로 대체하지 않습니다."
+      },
+      "applicationStart": null,
+      "regions": [
+        "서울",
+        "충남"
+      ],
+      "totalVacancies": 2,
+      "employment": "육아휴직 대체",
+      "units": [
+        {
+          "id": "auto-b21118ff6c29ac75",
+          "title": "일반행정(육아휴직 대체)",
+          "sourceUnitName": "일반행정(육아휴직 대체)",
+          "employment": "육아휴직 대체",
+          "regions": [
+            "서울",
+            "충남"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "1. 공통 자격요건\r\n- 성별: 무관\r\n- 병역: 무관, 단 병역법 제76조에서 정한 병역의무 불이행 사실이 없는 자\r\n- 연령: 임용예정일(2026. 10. 22.) 기준 60세 미만인 자\r\n- 기타: 공단 인사규정 제28조 결격사유에 대항하지 않는 자\r\n2. 채용분야별 응시자격\r\n- 해양환경교육: 학사 학위(학과, 전공 무관) 이상 취득자. 입사지원서 접수 마감일 기준 졸업예정자(학사) 포함\r\n- 일반행정(육아휴직 대체자): 학사 학위(학과, 전공 무관) 이상 취득자. 입사지원서 접수 마감일 기준 졸업예정자(학사) 포함\r\n※ 입사지원서 접수마감일(2026. 9. 29.)을 기준으로 4학년 2학기에 재학 중인 자로 졸업예정증명서 또는 학위수여예정증명서 제출이 가능하여야 함\r\n※ 최종 합격 후 정해진 임용예정일에 즉시 임용이 가능한 자로, 계약기간 동안 근무가 가능하여야 함\r\n※ 공단 인사규정 제28조 결격사유에 대항하지 않는 자",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "서울,충남",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "1. 전형절차: 채용공고 및 지원서 접수, 서류전형(1차전형), 면접전형(2차전형), 최종합격자 임용\r\n2. 전형단계별 선발예정 배수\r\n- 서류전형: 채용 예정 인원의 5배수를 면접전형 대상자로 선발\r\n- 면접전형: 채용 예정 인원의 3배수를 예비합격자로 선발\r\n- 최종합격자 선발\r\n3. 평가방법\r\n- 서류전형: 적격심사(블라인드 작성 방식 위배 여부, 불성실 여부 등 적격심사) 및 정성평가(적격자를 대상으로 입사지원서 상 자기소개서 평가)\r\n- 면접전형: 대면면접(多 대 一), 채용분야별 직무수행에 필요한 전문성 및 적격성, 태도 등 검정",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=304990",
+              "sha256": "06431e9bb594fd556d7287a3b355a8a0405caf304931d43fb22c6a31a1f59db5",
+              "receivedAt": "2026-09-15T11:43:00.368+00:00",
+              "rawUnitName": "일반행정(육아휴직 대체)",
+              "rows": [
+                [
+                  "일반행정(육아휴직 대체)"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "recruitment_unit",
+            "method": "unit_name",
+            "value": "육아휴직 대체",
+            "quote": "일반행정(육아휴직 대체)",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "해양환경공단",
+            "job": "일반행정(육아휴직 대체)",
+            "rawUnitName": "일반행정(육아휴직 대체)",
+            "regions": [
+              "서울",
+              "충남"
+            ],
+            "regionsScope": "announcement",
+            "employment": "육아휴직 대체",
+            "recruitmentCategory": {
+              "value": "신입+경력",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=304990",
+              "sha256": "06431e9bb594fd556d7287a3b355a8a0405caf304931d43fb22c6a31a1f59db5",
+              "receivedAt": "2026-09-15T11:43:00.368+00:00"
+            }
+          }
+        }
+      ],
+      "sources": [
+        {
+          "id": "auto_alio",
+          "label": "JOB-ALIO 상세 · 코드 수신·자동 정리",
+          "url": "https://job.alio.go.kr/recruitview.do?idx=304990",
+          "sha256": "06431e9bb594fd556d7287a3b355a8a0405caf304931d43fb22c6a31a1f59db5",
+          "receivedAt": "2026-09-15T11:43:00.368+00:00"
+        },
+        {
+          "id": "auto_original_1",
+          "label": "기관 원문 링크 · 내용 미확인",
+          "url": "https://www.koem.or.kr/site/insa/ex/board/View.do?cbIdx=478&bcIdx=36390"
+        }
+      ],
+      "attachments": [
+        {
+          "name": "공식 첨부 1",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3075107",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        },
+        {
+          "name": "공식 첨부 2",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3075108",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        },
+        {
+          "name": "공식 첨부 3",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3075109",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        },
+        {
+          "name": "공식 첨부 4",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3075110",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        },
+        {
+          "name": "공식 첨부 5",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3075111",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        }
+      ],
+      "checkedAt": "2026-09-15T11:43:00.368+00:00",
+      "collectionMethod": "automatic_public_html",
+      "collectionLabel": "코드 원격 수신 → 규칙 기반 모집단위 정리 → 저장·화면 생성 · GPT 미사용",
+      "sourceNote": "자동으로 확인 가능한 본문·결과 표만 정리했습니다. 첨부·모집단위별 상세 조건은 미확인이며, 공고 전체 원문은 별도로 표시합니다.",
+      "announcementMetadata": {
+        "raw": {
+          "표준직무(NCS)": "사업관리,경영.회계.사무,교육.자연.사회과학,환경.에너지.안전",
+          "학력정보": "대졸(2~3년),대졸(4년),석사,박사",
+          "근무분야": "일반직,행정직,사무직,계약직",
+          "채용구분": "신입+경력",
+          "고용형태": "비정규직",
+          "대체인력여부": "예",
+          "근무지": "서울,충남",
+          "급여정보": "신입 / 평균",
+          "채용인원": "2명",
+          "우대조건": "취업지원대상자, 장애인, 저소득층, 북한이탈주민, 다문화가족, 자립준비청년, 공단 근무경력자",
+          "채용기간": "26.09.15 ~ 26.09.29",
+          "등록일": "2026.09.15"
+        },
+        "rawApplicationPeriod": {
+          "raw": null,
+          "status": "미확인",
+          "source_section": "전형절차/방법",
+          "note": "명시된 접수기간 원문만 추출; 날짜 정규화·모집단위별 상이한 기간 검토는 별도"
+        },
+        "sourceSha256": "06431e9bb594fd556d7287a3b355a8a0405caf304931d43fb22c6a31a1f59db5",
+        "sourceReceivedAt": "2026-09-15T11:43:00.368+00:00",
+        "method": "auto-normalize-0.1"
+      },
+      "autoNormalization": {
+        "version": "auto-normalize-0.1",
+        "semanticHash": "79e91291ac101be553193d5bb24a0b64829662fcc5314e0a1f397a5256a624e1",
+        "generatedFrom": {
+          "url": "https://job.alio.go.kr/recruitview.do?idx=304990",
+          "sha256": "06431e9bb594fd556d7287a3b355a8a0405caf304931d43fb22c6a31a1f59db5",
+          "receivedAt": "2026-09-15T11:43:00.368+00:00"
+        },
+        "aiUsed": false,
+        "heldUnitCount": 1
+      },
+      "autoSync": {
+        "semanticHash": "79e91291ac101be553193d5bb24a0b64829662fcc5314e0a1f397a5256a624e1",
+        "conditionsHash": "8b443024b480b1f23f0b86e6cd4830ac706e8d45e03952e11caa76b822f919da",
+        "rawSha256": "06431e9bb594fd556d7287a3b355a8a0405caf304931d43fb22c6a31a1f59db5",
+        "lastFetchedAt": "2026-09-15T11:43:00.368+00:00",
+        "contentChangedAt": "2026-09-15T11:43:00.368+00:00",
+        "baselineStatus": "first_capture",
+        "needsReview": true,
+        "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
+        "resultCheck": {
+          "checkedAt": "2026-09-15T11:43:00.368+00:00",
+          "status": "checked",
+          "changedUnitIds": [
+            "auto-b21118ff6c29ac75"
+          ],
+          "preservedUnitIds": [],
+          "unmatchedUnitIds": [],
+          "issues": []
+        }
+      },
+      "lifecycle": {
+        "status": "open",
+        "evaluatedDate": "2026-09-15",
+        "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
+      }
     }
   ],
   "refresh": {
-    "status": "partial_success",
+    "status": "success",
     "mode": "live",
-    "lastAttemptAt": "2026-09-15T04:52:40+00:00",
-    "lastSuccessAt": "2026-09-14T21:48:36+00:00",
-    "candidatesCount": 88,
+    "lastAttemptAt": "2026-09-15T11:42:41+00:00",
+    "lastSuccessAt": "2026-09-15T11:42:41+00:00",
+    "candidatesCount": 110,
     "coverage": {
       "description": "JOB-ALIO 최근60일 이내 진행중·비정규직·경영회계사무 목록, 목록최대2페이지·상세최대4건/회. 저장된 마감공고도 결과를 순환 재확인합니다. 전체공고 수집 아님.",
-      "queuedNoticeCount": 52,
-      "heldUnitCount": 36,
-      "nextPage": 4,
+      "queuedNoticeCount": 51,
+      "heldUnitCount": 59,
+      "nextPage": 5,
       "closedRecheck": {
         "recentDays": 30,
         "recentOrUnknownIntervalDays": 1,
@@ -9119,8 +10943,20 @@
       },
       "requestLimit": 6,
       "automaticRetries": 0,
-      "heldNotices": [],
-      "heldNoticesTotal": 0,
+      "heldNotices": [
+        {
+          "id": "job-alio-304999",
+          "organization": "한국식품안전관리인증원",
+          "title": "2026년 제12차 계약직직원 채용",
+          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=304999",
+          "lastFetchedAt": "2026-09-15T11:42:50.596+00:00",
+          "reasons": [
+            "모집단위명만으로 사무직 여부 미확인"
+          ],
+          "status": "unverified"
+        }
+      ],
+      "heldNoticesTotal": 1,
       "heldNoticesShownLimit": 20
     }
   }
