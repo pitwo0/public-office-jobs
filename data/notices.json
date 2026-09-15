@@ -1437,7 +1437,7 @@
           "label": "JOB-ALIO 상세 · 자동 수신",
           "url": "https://job.alio.go.kr/recruitview.do?idx=304890",
           "sha256": "c7b4d8cd2fdb474b2d06e774efe27ae4b6387e97fb149c3f4d303ca659a4725c",
-          "receivedAt": "2026-09-13T08:12:36.194+00:00"
+          "receivedAt": "2026-09-15T21:19:44.098+00:00"
         }
       ],
       "attachments": [
@@ -1493,13 +1493,13 @@
         "semanticHash": "b010857370f9aac0f16fdc776c8b84b722979f7dc3cc8162288a21d6b58fd882",
         "conditionsHash": "00f6d2298cb73b5bbcc170b671cd8dd7495d49e952d5cd14614850b5dd62dae1",
         "rawSha256": "c7b4d8cd2fdb474b2d06e774efe27ae4b6387e97fb149c3f4d303ca659a4725c",
-        "lastFetchedAt": "2026-09-13T08:12:36.194+00:00",
+        "lastFetchedAt": "2026-09-15T21:19:44.098+00:00",
         "contentChangedAt": null,
-        "baselineStatus": "first_capture",
+        "baselineStatus": "compared",
         "needsReview": true,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-09-13T08:12:36.194+00:00",
+          "checkedAt": "2026-09-15T21:19:44.098+00:00",
           "status": "partial",
           "changedUnitIds": [],
           "preservedUnitIds": [],
@@ -3247,7 +3247,7 @@
           "label": "JOB-ALIO 상세 · 자동 수신",
           "url": "https://job.alio.go.kr/recruitview.do?idx=300568",
           "sha256": "c32965f46ff71feb75fa1daa2e636385c007682aabcf91e3aa08c03fb2c45ddb",
-          "receivedAt": "2026-09-15T04:52:56.953+00:00"
+          "receivedAt": "2026-09-15T21:19:47.098+00:00"
         }
       ],
       "attachments": [
@@ -3414,13 +3414,13 @@
         "semanticHash": "2c0c11f70cba062b527c1bd6a2462f7977547f550dd35423b6202382b4578d13",
         "conditionsHash": "0e3b2c55587435c95cb03af49200ed50f67e2c5658b893e8dd6df789066daf23",
         "rawSha256": "c32965f46ff71feb75fa1daa2e636385c007682aabcf91e3aa08c03fb2c45ddb",
-        "lastFetchedAt": "2026-09-15T04:52:56.953+00:00",
+        "lastFetchedAt": "2026-09-15T21:19:47.098+00:00",
         "contentChangedAt": null,
         "baselineStatus": "compared",
         "needsReview": false,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-09-15T04:52:56.953+00:00",
+          "checkedAt": "2026-09-15T21:19:47.098+00:00",
           "status": "partial",
           "changedUnitIds": [],
           "preservedUnitIds": [
@@ -11408,19 +11408,668 @@
         "evaluatedDate": "2026-09-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
+    },
+    {
+      "id": "job-alio-304985",
+      "idx": 304985,
+      "organization": "건설근로자공제회",
+      "title": "2026년 건설근로자공제회 제2차 채용공고[일반직(6급, 7급), 무기직(기능직, 상담직), 휴직대체(기간제), 체험형 청년인턴]",
+      "posted": "2026-09-15",
+      "deadline": "2026-10-01",
+      "deadlineTime": null,
+      "announcementPeriod": {
+        "start": "2026-09-15",
+        "end": "2026-10-01",
+        "scope": "announcement"
+      },
+      "applicationPeriod": {
+        "start": null,
+        "end": null,
+        "endTime": null,
+        "status": "unverified",
+        "scope": "announcement",
+        "sources": [
+          "auto_alio"
+        ],
+        "raw": null,
+        "note": "명시된 접수기간을 단일 기간으로 해석하지 못했습니다. 공고기간으로 대체하지 않습니다."
+      },
+      "applicationStart": null,
+      "regions": [
+        "서울",
+        "인천",
+        "대전",
+        "대구",
+        "부산",
+        "경기",
+        "강원",
+        "전북",
+        "제주",
+        "전남광주"
+      ],
+      "totalVacancies": 30,
+      "employment": "휴직대체 · 기간제",
+      "units": [
+        {
+          "id": "auto-9bbbac5b2febc0cd",
+          "title": "휴직대체(기간제)_사무지원직_사무보조원(일반)_대구지사",
+          "sourceUnitName": "휴직대체(기간제)_사무지원직_사무보조원(일반)_대구지사",
+          "employment": "휴직대체",
+          "regions": [
+            "서울",
+            "인천",
+            "대전",
+            "대구",
+            "부산",
+            "경기",
+            "강원",
+            "전북",
+            "제주",
+            "전남광주"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "1. 공통자격\r\nㅇ 성별·어학성적 : 제한 없음\r\nㅇ 연령 : 당사의 정년(만 60세)에 도달하지 않는 자(입사지원서 접수 마감일 기준)\r\nㅇ 공제회 인사규정 제22조(결격사유)에 해당하지 않는 자\r\nㅇ 「병역법」 제76조에서 정한 병역의무 불이행 사실이 없는 자\r\nㅇ 해당분야 직무 수행이 가능한 자\r\nㅇ 전 분야별(직군?채용분야 및 근무지) 중복지원 불가(중복지원 확인 시 서류전형 불합격 처리)\r\n\r\n2. 세부자격\r\nㅇ (일반직 6급) 일반행정(일반)\r\n  - 공통 자격 요건 이외 제한 없음\r\n\r\nㅇ (일반직 6급) 일반행정(보훈)\r\n  - ?국가유공자 등 예우 및 지원에 관한 법률? 등 보훈관계법률에 따른 취업지원대상자\r\n\r\nㅇ (일반직 7급) 일반행정(일반)\r\n  - 고등학교 졸업자(입사지원서 접수 마감일 기준)\r\n   주1) 고등학교 검정고시 합격자 및 대학 중퇴자는 지원 가능\r\n   주2) 고등학교 졸업예정자, 대학(전문대 포함) 졸업(예정)자·재학생·휴학생 등 지원 불가\r\n\r\nㅇ (무기계약직_기능직(L5)) 차량운전원\r\n  -제1종 대형 운전면허 소지자\r\n  - 해당분야에서 6년 이상 근무한 경력*이 있는 자로 해당분야 직무 수행이 가능한 자\r\n    * 국가, 지자체, 공공기관, 법인 등에 소속되어 차량운전 업무를 주 업무로 한 경력을 의미\r\n  - 입사지원서 접수 마감일 기준 최근 3년 간 무사고*인 자\r\n    * 경찰청 교통민원24 또는 정부24에서 공고일 이후 발급받은 운전경력증명서로 검증하며, 운전면허 경력, 법규위반, 교통사고 ‘전체경력’으로 발급분만 인정\r\n\r\nㅇ (무기계약직_상담직(L7)) 고객상담사\r\n  - 해당분야(고객상담(전화)) 직무 수행이 가능한 자(공통 자격 요건 이외 제한 없음)\r\n\r\nㅇ (기간제_휴직대체) 사무보조원 및 고객상담사(일반)\r\n - 해당분야 직무 수행이 가능한 자(공통 자격 요건 이외 제한 없음)\r\n\r\n\r\nㅇ 체험형 청년인턴 공통사항\r\n  - 「청년고용촉진 특별법」에 따른 청년인＊ 자\r\n    ＊만 15세 이상 ~ 34세 이하(입사지원서 접수 마감일 기준)\r\n    ※ 「제대군인지원에 관한 법률」 제16조에 의거 제대군인(사회복무요원 포함) 및 「병역법」 제74조의2에 의거 승선근무예비역, 보충역(사회복무요원 제외) 또는 대체복무요원 복무를 마친 사람은 응시연령 상한을 다음과 같이 연장\r\n    · (군 복무기간) 1년 미만: 1세 연장(만 35세 이하), 1년 이상 2년 미만(2세 연장), 만 36세 이하, 2년 이상: 3세 연장(만 37세 이하)\r\n\r\nㅇ 체험형 청년인턴(일반행정)\r\n  - 공통 자격요건(모든 분야 및 체험형 청년인턴) 이외 제한 없음\r\n\r\nㅇ 체험형 청년인턴(장애)\r\n  - 「장애인 고용촉진 및 직업재활법」시행령 제3조에 해당하는 장애인\r\n  ※ 세부내용 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "서울,인천,대전,대구,부산,경기,강원,전북,제주,전남광주",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "ㅇ 일반직(6급, 7급)\r\n - 1차 : 서류심사(6급: 50배수, 7급: 40배수)\r\n - 2차 : 서류심사(6배수)\r\n - 3차 : 면접시험(1배수)\r\nㅇ 무기계약직(차량운전원, 고객상담사)\r\n - 1차 : 서류심사(7배수)\r\n - 2차 : 면접시험(1배수)\r\nㅇ 휴직대체(기간제)(사무보조원, 고객상담사)\r\n - 1차 : 서류심사(5배수)\r\n - 2차 : 면접시험(1배수)\r\nㅇ 체험형 청년인턴\r\n - 1차 : 서류심사(5배수)\r\n - 2차 : 면접시험(1배수)\r\n※ 세부내용 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=304985",
+              "sha256": "a86ab6049978ab12dc6ce0a09e0335ea54a751e2c3b0e0da043e7344e188961e",
+              "receivedAt": "2026-09-15T21:19:40.733+00:00",
+              "rawUnitName": "휴직대체(기간제)_사무지원직_사무보조원(일반)_대구지사",
+              "rows": [
+                [
+                  "휴직대체(기간제)_사무지원직_사무보조원(일반)_대구지사"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "recruitment_unit",
+            "method": "unit_name",
+            "value": "휴직대체",
+            "quote": "휴직대체(기간제)_사무지원직_사무보조원(일반)_대구지사",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "건설근로자공제회",
+            "job": "휴직대체(기간제)_사무지원직_사무보조원(일반)_대구지사",
+            "rawUnitName": "휴직대체(기간제)_사무지원직_사무보조원(일반)_대구지사",
+            "regions": [
+              "서울",
+              "인천",
+              "대전",
+              "대구",
+              "부산",
+              "경기",
+              "강원",
+              "전북",
+              "제주",
+              "전남광주"
+            ],
+            "regionsScope": "announcement",
+            "employment": "휴직대체",
+            "recruitmentCategory": {
+              "value": "신입+경력",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=304985",
+              "sha256": "a86ab6049978ab12dc6ce0a09e0335ea54a751e2c3b0e0da043e7344e188961e",
+              "receivedAt": "2026-09-15T21:19:40.733+00:00"
+            }
+          }
+        },
+        {
+          "id": "auto-4178bae2535f09d7",
+          "title": "기간제(휴직대체)_사무지원직_사무보조원(일반)_본회(정보시스템부)",
+          "sourceUnitName": "기간제(휴직대체)_사무지원직_사무보조원(일반)_본회(정보시스템부)",
+          "employment": "기간제",
+          "regions": [
+            "서울",
+            "인천",
+            "대전",
+            "대구",
+            "부산",
+            "경기",
+            "강원",
+            "전북",
+            "제주",
+            "전남광주"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "1. 공통자격\r\nㅇ 성별·어학성적 : 제한 없음\r\nㅇ 연령 : 당사의 정년(만 60세)에 도달하지 않는 자(입사지원서 접수 마감일 기준)\r\nㅇ 공제회 인사규정 제22조(결격사유)에 해당하지 않는 자\r\nㅇ 「병역법」 제76조에서 정한 병역의무 불이행 사실이 없는 자\r\nㅇ 해당분야 직무 수행이 가능한 자\r\nㅇ 전 분야별(직군?채용분야 및 근무지) 중복지원 불가(중복지원 확인 시 서류전형 불합격 처리)\r\n\r\n2. 세부자격\r\nㅇ (일반직 6급) 일반행정(일반)\r\n  - 공통 자격 요건 이외 제한 없음\r\n\r\nㅇ (일반직 6급) 일반행정(보훈)\r\n  - ?국가유공자 등 예우 및 지원에 관한 법률? 등 보훈관계법률에 따른 취업지원대상자\r\n\r\nㅇ (일반직 7급) 일반행정(일반)\r\n  - 고등학교 졸업자(입사지원서 접수 마감일 기준)\r\n   주1) 고등학교 검정고시 합격자 및 대학 중퇴자는 지원 가능\r\n   주2) 고등학교 졸업예정자, 대학(전문대 포함) 졸업(예정)자·재학생·휴학생 등 지원 불가\r\n\r\nㅇ (무기계약직_기능직(L5)) 차량운전원\r\n  -제1종 대형 운전면허 소지자\r\n  - 해당분야에서 6년 이상 근무한 경력*이 있는 자로 해당분야 직무 수행이 가능한 자\r\n    * 국가, 지자체, 공공기관, 법인 등에 소속되어 차량운전 업무를 주 업무로 한 경력을 의미\r\n  - 입사지원서 접수 마감일 기준 최근 3년 간 무사고*인 자\r\n    * 경찰청 교통민원24 또는 정부24에서 공고일 이후 발급받은 운전경력증명서로 검증하며, 운전면허 경력, 법규위반, 교통사고 ‘전체경력’으로 발급분만 인정\r\n\r\nㅇ (무기계약직_상담직(L7)) 고객상담사\r\n  - 해당분야(고객상담(전화)) 직무 수행이 가능한 자(공통 자격 요건 이외 제한 없음)\r\n\r\nㅇ (기간제_휴직대체) 사무보조원 및 고객상담사(일반)\r\n - 해당분야 직무 수행이 가능한 자(공통 자격 요건 이외 제한 없음)\r\n\r\n\r\nㅇ 체험형 청년인턴 공통사항\r\n  - 「청년고용촉진 특별법」에 따른 청년인＊ 자\r\n    ＊만 15세 이상 ~ 34세 이하(입사지원서 접수 마감일 기준)\r\n    ※ 「제대군인지원에 관한 법률」 제16조에 의거 제대군인(사회복무요원 포함) 및 「병역법」 제74조의2에 의거 승선근무예비역, 보충역(사회복무요원 제외) 또는 대체복무요원 복무를 마친 사람은 응시연령 상한을 다음과 같이 연장\r\n    · (군 복무기간) 1년 미만: 1세 연장(만 35세 이하), 1년 이상 2년 미만(2세 연장), 만 36세 이하, 2년 이상: 3세 연장(만 37세 이하)\r\n\r\nㅇ 체험형 청년인턴(일반행정)\r\n  - 공통 자격요건(모든 분야 및 체험형 청년인턴) 이외 제한 없음\r\n\r\nㅇ 체험형 청년인턴(장애)\r\n  - 「장애인 고용촉진 및 직업재활법」시행령 제3조에 해당하는 장애인\r\n  ※ 세부내용 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "서울,인천,대전,대구,부산,경기,강원,전북,제주,전남광주",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "ㅇ 일반직(6급, 7급)\r\n - 1차 : 서류심사(6급: 50배수, 7급: 40배수)\r\n - 2차 : 서류심사(6배수)\r\n - 3차 : 면접시험(1배수)\r\nㅇ 무기계약직(차량운전원, 고객상담사)\r\n - 1차 : 서류심사(7배수)\r\n - 2차 : 면접시험(1배수)\r\nㅇ 휴직대체(기간제)(사무보조원, 고객상담사)\r\n - 1차 : 서류심사(5배수)\r\n - 2차 : 면접시험(1배수)\r\nㅇ 체험형 청년인턴\r\n - 1차 : 서류심사(5배수)\r\n - 2차 : 면접시험(1배수)\r\n※ 세부내용 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=304985",
+              "sha256": "a86ab6049978ab12dc6ce0a09e0335ea54a751e2c3b0e0da043e7344e188961e",
+              "receivedAt": "2026-09-15T21:19:40.733+00:00",
+              "rawUnitName": "기간제(휴직대체)_사무지원직_사무보조원(일반)_본회(정보시스템부)",
+              "rows": [
+                [
+                  "기간제(휴직대체)_사무지원직_사무보조원(일반)_본회(정보시스템부)"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "recruitment_unit",
+            "method": "unit_name",
+            "value": "기간제",
+            "quote": "기간제(휴직대체)_사무지원직_사무보조원(일반)_본회(정보시스템부)",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "건설근로자공제회",
+            "job": "기간제(휴직대체)_사무지원직_사무보조원(일반)_본회(정보시스템부)",
+            "rawUnitName": "기간제(휴직대체)_사무지원직_사무보조원(일반)_본회(정보시스템부)",
+            "regions": [
+              "서울",
+              "인천",
+              "대전",
+              "대구",
+              "부산",
+              "경기",
+              "강원",
+              "전북",
+              "제주",
+              "전남광주"
+            ],
+            "regionsScope": "announcement",
+            "employment": "기간제",
+            "recruitmentCategory": {
+              "value": "신입+경력",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=304985",
+              "sha256": "a86ab6049978ab12dc6ce0a09e0335ea54a751e2c3b0e0da043e7344e188961e",
+              "receivedAt": "2026-09-15T21:19:40.733+00:00"
+            }
+          }
+        }
+      ],
+      "sources": [
+        {
+          "id": "auto_alio",
+          "label": "JOB-ALIO 상세 · 코드 수신·자동 정리",
+          "url": "https://job.alio.go.kr/recruitview.do?idx=304985",
+          "sha256": "a86ab6049978ab12dc6ce0a09e0335ea54a751e2c3b0e0da043e7344e188961e",
+          "receivedAt": "2026-09-15T21:19:40.733+00:00"
+        },
+        {
+          "id": "auto_original_1",
+          "label": "기관 원문 링크 · 내용 미확인",
+          "url": "https://cw.careerlink.kr"
+        }
+      ],
+      "attachments": [
+        {
+          "name": "공식 첨부 1",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3075209",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        },
+        {
+          "name": "공식 첨부 2",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3075210",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        },
+        {
+          "name": "공식 첨부 3",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3075211",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        }
+      ],
+      "checkedAt": "2026-09-15T21:19:40.733+00:00",
+      "collectionMethod": "automatic_public_html",
+      "collectionLabel": "코드 원격 수신 → 규칙 기반 모집단위 정리 → 저장·화면 생성 · GPT 미사용",
+      "sourceNote": "자동으로 확인 가능한 본문·결과 표만 정리했습니다. 첨부·모집단위별 상세 조건은 미확인이며, 공고 전체 원문은 별도로 표시합니다.",
+      "announcementMetadata": {
+        "raw": {
+          "표준직무(NCS)": "경영.회계.사무,운전.운송",
+          "학력정보": "학력무관,고졸",
+          "근무분야": "일반직,사무직,기능직,계약직,상담직",
+          "채용구분": "신입+경력",
+          "고용형태": "무기계약직,비정규직,청년인턴(체험형),정규직",
+          "대체인력여부": "예",
+          "근무지": "서울,인천,대전,대구,부산,경기,강원,전북,제주,전남광주",
+          "급여정보": "신입 / 평균",
+          "채용인원": "30명",
+          "우대조건": "국가보훈 관계법령에 따른 보훈 대상자, 관계법령에 따른 장애인, 공제회 인턴 수료자 또는 6개월 이상 비정규직에 근무한 자, 관계법령에 따른 국민 기초생활 수급자, 자립준비청년, 관계법령에 따른 북한이탈주민, 다문화 가족",
+          "채용기간": "26.09.15 ~ 26.10.01",
+          "등록일": "2026.09.15"
+        },
+        "rawApplicationPeriod": {
+          "raw": null,
+          "status": "미확인",
+          "source_section": "전형절차/방법",
+          "note": "명시된 접수기간 원문만 추출; 날짜 정규화·모집단위별 상이한 기간 검토는 별도"
+        },
+        "sourceSha256": "a86ab6049978ab12dc6ce0a09e0335ea54a751e2c3b0e0da043e7344e188961e",
+        "sourceReceivedAt": "2026-09-15T21:19:40.733+00:00",
+        "method": "auto-normalize-0.1"
+      },
+      "autoNormalization": {
+        "version": "auto-normalize-0.1",
+        "semanticHash": "4555349cda993cdca5442f0f6345f66a16767b33935cc69a17159843ee0cb15b",
+        "generatedFrom": {
+          "url": "https://job.alio.go.kr/recruitview.do?idx=304985",
+          "sha256": "a86ab6049978ab12dc6ce0a09e0335ea54a751e2c3b0e0da043e7344e188961e",
+          "receivedAt": "2026-09-15T21:19:40.733+00:00"
+        },
+        "aiUsed": false,
+        "heldUnitCount": 20
+      },
+      "autoSync": {
+        "semanticHash": "4555349cda993cdca5442f0f6345f66a16767b33935cc69a17159843ee0cb15b",
+        "conditionsHash": "3962aaa0d17d67471c8a21b374f84226c5a932f3978302c1cf9832c82e049f1a",
+        "rawSha256": "a86ab6049978ab12dc6ce0a09e0335ea54a751e2c3b0e0da043e7344e188961e",
+        "lastFetchedAt": "2026-09-15T21:19:40.733+00:00",
+        "contentChangedAt": "2026-09-15T21:19:40.733+00:00",
+        "baselineStatus": "first_capture",
+        "needsReview": true,
+        "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
+        "resultCheck": {
+          "checkedAt": "2026-09-15T21:19:40.733+00:00",
+          "status": "checked",
+          "changedUnitIds": [
+            "auto-9bbbac5b2febc0cd",
+            "auto-4178bae2535f09d7"
+          ],
+          "preservedUnitIds": [],
+          "unmatchedUnitIds": [],
+          "issues": []
+        }
+      },
+      "lifecycle": {
+        "status": "open",
+        "evaluatedDate": "2026-09-16",
+        "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
+      }
     }
   ],
   "refresh": {
     "status": "partial_success",
     "mode": "live",
-    "lastAttemptAt": "2026-09-15T16:57:58+00:00",
+    "lastAttemptAt": "2026-09-15T21:19:32+00:00",
     "lastSuccessAt": "2026-09-15T11:42:41+00:00",
-    "candidatesCount": 128,
+    "candidatesCount": 147,
     "coverage": {
       "description": "JOB-ALIO 최근60일 이내 진행중·비정규직·경영회계사무 목록, 목록최대2페이지·상세최대4건/회. 저장된 마감공고도 결과를 순환 재확인합니다. 전체공고 수집 아님.",
-      "queuedNoticeCount": 51,
-      "heldUnitCount": 77,
-      "nextPage": 6,
+      "queuedNoticeCount": 49,
+      "heldUnitCount": 98,
+      "nextPage": 2,
       "closedRecheck": {
         "recentDays": 30,
         "recentOrUnknownIntervalDays": 1,
@@ -11431,6 +12080,17 @@
       "requestLimit": 6,
       "automaticRetries": 0,
       "heldNotices": [
+        {
+          "id": "job-alio-304974",
+          "organization": "(재)우체국물류지원단",
+          "title": "우체국물류지원단 광주지사 기간제(소포직, 육아휴직대체) 채용 공고",
+          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=304974",
+          "lastFetchedAt": "2026-09-15T21:19:50.179+00:00",
+          "reasons": [
+            "모집단위명만으로 사무직 여부 미확인"
+          ],
+          "status": "unverified"
+        },
         {
           "id": "job-alio-305018",
           "organization": "한국생명존중희망재단",
@@ -11454,7 +12114,7 @@
           "status": "unverified"
         }
       ],
-      "heldNoticesTotal": 2,
+      "heldNoticesTotal": 3,
       "heldNoticesShownLimit": 20
     }
   }
