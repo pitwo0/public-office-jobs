@@ -1,68 +1,36 @@
 {
-  "startedAt": "2026-09-15T21:19:32+00:00",
+  "startedAt": "2026-09-16T04:47:32+00:00",
   "mode": "live",
   "records": [
     {
-      "id": "job-alio-304985",
+      "id": "job-alio-305037",
       "status": "added",
       "unitCount": 2
     },
     {
-      "id": "job-alio-304890",
-      "status": "unchanged",
-      "unitCount": 2
-    },
-    {
-      "id": "job-alio-300568",
+      "id": "job-alio-304511",
       "status": "unchanged",
       "unitCount": 1
     },
     {
-      "id": "job-alio-304974",
+      "id": "job-alio-304220",
+      "status": "unchanged",
+      "unitCount": 1
+    },
+    {
+      "id": "job-alio-305026",
       "status": "held",
       "unitCount": 0
     }
   ],
-  "errors": [
-    {
-      "id": "job-alio-304890",
-      "phase": "result_fields",
-      "issues": [
-        {
-          "unitId": "arts",
-          "status": "unverified",
-          "note": "현재 공식 표와 모집단위명이 정확히 대응하지 않아 결과를 연결하지 않았습니다."
-        },
-        {
-          "unitId": "pr",
-          "status": "unverified",
-          "note": "현재 공식 표와 모집단위명이 정확히 대응하지 않아 결과를 연결하지 않았습니다."
-        }
-      ],
-      "error": "결과 표 일부 미확인·추출 실패. 기존 정상 결과를 보존했습니다.",
-      "existingNoticePreserved": true
-    },
-    {
-      "id": "job-alio-300568",
-      "phase": "result_fields",
-      "issues": [
-        {
-          "unitId": "office",
-          "status": "unverified",
-          "note": "현재 공식 표와 모집단위명이 정확히 대응하지 않아 결과를 연결하지 않았습니다."
-        }
-      ],
-      "error": "결과 표 일부 미확인·추출 실패. 기존 정상 결과를 보존했습니다.",
-      "existingNoticePreserved": true
-    }
-  ],
+  "errors": [],
   "newRemoteRequests": 6,
-  "status": "partial_success",
-  "noticeCount": 27,
+  "status": "success",
+  "noticeCount": 28,
   "added": 1,
   "changedIds": [],
   "deadlineEvents": [],
   "actualListPages": 2,
   "preservedFailedIds": [],
-  "finishedAt": "2026-09-15T21:19:50+00:00"
+  "finishedAt": "2026-09-16T04:47:54+00:00"
 }
