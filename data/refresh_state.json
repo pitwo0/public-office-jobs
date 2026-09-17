@@ -1044,8 +1044,9 @@
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
       "lastSeenAt": "2026-09-15T21:19:37.848+00:00",
-      "lastAttemptAt": "2026-09-16T11:30:33.860+00:00",
-      "lastSuccessAt": "2026-09-16T11:30:33.860+00:00"
+      "lastAttemptAt": "2026-09-17T21:22:17.078+00:00",
+      "lastSuccessAt": "2026-09-16T11:30:33.860+00:00",
+      "lastError": "원문 수신 실패·불완전·접근제한: transport_error"
     },
     "job-alio-304880": {
       "state": "queued",
@@ -1418,8 +1419,9 @@
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
       "lastSeenAt": "2026-09-16T11:30:27.519+00:00",
-      "lastAttemptAt": "2026-09-14T12:43:59.723+00:00",
-      "lastSuccessAt": "2026-09-14T12:43:59.723+00:00"
+      "lastAttemptAt": "2026-09-17T21:21:55.490+00:00",
+      "lastSuccessAt": "2026-09-14T12:43:59.723+00:00",
+      "lastError": "원문 수신 실패·불완전·접근제한: transport_error"
     },
     "job-alio-304909": {
       "state": "queued",
@@ -2084,7 +2086,9 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-17T16:59:07.614+00:00"
+      "lastSeenAt": "2026-09-17T16:59:07.614+00:00",
+      "lastAttemptAt": "2026-09-17T21:22:38.495+00:00",
+      "lastError": "원문 수신 실패·불완전·접근제한: transport_error"
     },
     "job-alio-305116": {
       "state": "queued",
@@ -2182,7 +2186,9 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-17T16:59:07.614+00:00"
+      "lastSeenAt": "2026-09-17T16:59:07.614+00:00",
+      "lastAttemptAt": "2026-09-17T21:21:34.443+00:00",
+      "lastError": "원문 수신 실패·불완전·접근제한: transport_error"
     },
     "job-alio-305106": {
       "state": "published",
