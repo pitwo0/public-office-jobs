@@ -209,8 +209,8 @@
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
       "lastSeenAt": "2026-09-15T04:52:46.624+00:00",
-      "lastAttemptAt": "2026-09-16T16:54:52.449+00:00",
-      "lastSuccessAt": "2026-09-14T21:48:49.408+00:00",
+      "lastAttemptAt": "2026-09-18T04:41:48.894+00:00",
+      "lastSuccessAt": "2026-09-18T04:41:48.894+00:00",
       "lastError": "원문 수신 실패·불완전·접근제한: transport_error"
     },
     "job-alio-304804": {
@@ -701,18 +701,18 @@
         "region_raw": "경기",
         "employment_raw": "비정규직",
         "registered_raw": "2026.09.07",
-        "closing_raw": "26.09.22 D-4",
+        "closing_raw": "26.09.22 D-3",
         "application_period": {
           "raw": null,
           "status": "미확인",
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=304583",
-        "list_page": 6,
+        "list_page": 7,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-17T16:59:10.492+00:00"
+      "lastSeenAt": "2026-09-18T04:41:38.950+00:00"
     },
     "job-alio-304556": {
       "state": "queued",
@@ -724,18 +724,18 @@
         "region_raw": "서울",
         "employment_raw": "비정규직 외 1",
         "registered_raw": "2026.09.07",
-        "closing_raw": "26.09.22 D-4",
+        "closing_raw": "26.09.22 D-3",
         "application_period": {
           "raw": null,
           "status": "미확인",
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=304556",
-        "list_page": 6,
+        "list_page": 7,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-17T16:59:10.492+00:00"
+      "lastSeenAt": "2026-09-18T04:41:38.950+00:00"
     },
     "job-alio-304547": {
       "state": "queued",
@@ -747,18 +747,18 @@
         "region_raw": "경기",
         "employment_raw": "비정규직 외 1",
         "registered_raw": "2026.09.07",
-        "closing_raw": "26.09.22 D-6",
+        "closing_raw": "26.09.22 D-3",
         "application_period": {
           "raw": null,
           "status": "미확인",
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=304547",
-        "list_page": 5,
+        "list_page": 7,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-15T16:58:03.780+00:00"
+      "lastSeenAt": "2026-09-18T04:41:38.950+00:00"
     },
     "job-alio-304654": {
       "state": "published",
@@ -770,18 +770,18 @@
         "region_raw": "세종",
         "employment_raw": "비정규직",
         "registered_raw": "2026.09.04",
-        "closing_raw": "26.09.21 D-5",
+        "closing_raw": "26.09.21 D-2",
         "application_period": {
           "raw": null,
           "status": "미확인",
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=304654",
-        "list_page": 5,
+        "list_page": 7,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-15T16:58:03.780+00:00",
+      "lastSeenAt": "2026-09-18T04:41:38.950+00:00",
       "lastAttemptAt": "2026-09-15T11:42:53.589+00:00",
       "lastSuccessAt": "2026-09-15T11:42:53.589+00:00"
     },
@@ -795,18 +795,18 @@
         "region_raw": "강원",
         "employment_raw": "비정규직",
         "registered_raw": "2026.09.04",
-        "closing_raw": "26.09.20 D-4",
+        "closing_raw": "26.09.20 D-1",
         "application_period": {
           "raw": null,
           "status": "미확인",
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=304649",
-        "list_page": 5,
+        "list_page": 7,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-15T16:58:03.780+00:00"
+      "lastSeenAt": "2026-09-18T04:41:38.950+00:00"
     },
     "job-alio-304636": {
       "state": "published",
@@ -844,18 +844,18 @@
         "region_raw": "서울",
         "employment_raw": "비정규직",
         "registered_raw": "2026.09.04",
-        "closing_raw": "26.09.21 D-5",
+        "closing_raw": "26.09.21 D-2",
         "application_period": {
           "raw": null,
           "status": "미확인",
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=304341",
-        "list_page": 5,
+        "list_page": 7,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-15T16:58:03.780+00:00",
+      "lastSeenAt": "2026-09-18T04:41:38.950+00:00",
       "lastAttemptAt": "2026-09-13T20:49:55.107+00:00",
       "lastError": "원문 수신 실패·불완전·접근제한: transport_error"
     },
@@ -869,18 +869,18 @@
         "region_raw": "서울",
         "employment_raw": "비정규직",
         "registered_raw": "2026.09.03",
-        "closing_raw": "26.09.18 D-2",
+        "closing_raw": "26.09.18 D-Day",
         "application_period": {
           "raw": null,
           "status": "미확인",
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=304624",
-        "list_page": 5,
+        "list_page": 7,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-15T16:58:03.780+00:00"
+      "lastSeenAt": "2026-09-18T04:41:38.950+00:00"
     },
     "job-alio-304622": {
       "state": "queued",
@@ -892,18 +892,18 @@
         "region_raw": "서울",
         "employment_raw": "비정규직 외 2",
         "registered_raw": "2026.09.03",
-        "closing_raw": "26.09.18 D-2",
+        "closing_raw": "26.09.18 D-Day",
         "application_period": {
           "raw": null,
           "status": "미확인",
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=304622",
-        "list_page": 5,
+        "list_page": 7,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-15T16:58:03.780+00:00"
+      "lastSeenAt": "2026-09-18T04:41:38.950+00:00"
     },
     "job-alio-304621": {
       "state": "queued",
@@ -915,18 +915,18 @@
         "region_raw": "서울",
         "employment_raw": "비정규직 외 1",
         "registered_raw": "2026.09.03",
-        "closing_raw": "26.09.18 D-2",
+        "closing_raw": "26.09.18 D-Day",
         "application_period": {
           "raw": null,
           "status": "미확인",
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=304621",
-        "list_page": 6,
+        "list_page": 7,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-15T21:19:37.848+00:00"
+      "lastSeenAt": "2026-09-18T04:41:38.950+00:00"
     },
     "job-alio-304602": {
       "state": "queued",
@@ -1540,8 +1540,8 @@
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
       "lastSeenAt": "2026-09-16T04:47:39.141+00:00",
-      "lastAttemptAt": "2026-09-14T21:48:46.290+00:00",
-      "lastSuccessAt": "2026-09-14T21:48:46.290+00:00"
+      "lastAttemptAt": "2026-09-18T04:41:45.848+00:00",
+      "lastSuccessAt": "2026-09-18T04:41:45.848+00:00"
     },
     "job-alio-304922": {
       "state": "queued",
@@ -2025,7 +2025,7 @@
         "region_raw": "충남",
         "employment_raw": "비정규직",
         "registered_raw": "2026.09.17",
-        "closing_raw": "26.10.02 D-14",
+        "closing_raw": "26.10.02 D-13",
         "application_period": {
           "raw": null,
           "status": "미확인",
@@ -2036,7 +2036,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-17T16:59:07.614+00:00",
+      "lastSeenAt": "2026-09-18T04:41:36.403+00:00",
       "lastAttemptAt": "2026-09-17T04:51:07.796+00:00",
       "lastSuccessAt": "2026-09-17T04:51:07.796+00:00"
     },
@@ -2050,7 +2050,7 @@
         "region_raw": "부산",
         "employment_raw": "무기계약직 외 2",
         "registered_raw": "2026.09.17",
-        "closing_raw": "26.09.30 D-12",
+        "closing_raw": "26.09.30 D-11",
         "application_period": {
           "raw": null,
           "status": "미확인",
@@ -2061,7 +2061,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-17T16:59:07.614+00:00",
+      "lastSeenAt": "2026-09-18T04:41:36.403+00:00",
       "lastAttemptAt": "2026-09-17T04:51:17.859+00:00",
       "lastSuccessAt": "2026-09-17T04:51:17.859+00:00"
     },
@@ -2100,7 +2100,7 @@
         "region_raw": "대전 외 2",
         "employment_raw": "비정규직",
         "registered_raw": "2026.09.17",
-        "closing_raw": "26.10.01 D-13",
+        "closing_raw": "26.10.01 D-12",
         "application_period": {
           "raw": null,
           "status": "미확인",
@@ -2111,7 +2111,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-17T16:59:07.614+00:00",
+      "lastSeenAt": "2026-09-18T04:41:36.403+00:00",
       "lastAttemptAt": "2026-09-17T11:39:53.885+00:00",
       "lastError": "Unsafe source URL"
     },
@@ -2125,7 +2125,7 @@
         "region_raw": "충북",
         "employment_raw": "비정규직",
         "registered_raw": "2026.09.17",
-        "closing_raw": "26.10.01 D-13",
+        "closing_raw": "26.10.01 D-12",
         "application_period": {
           "raw": null,
           "status": "미확인",
@@ -2136,7 +2136,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-17T16:59:07.614+00:00",
+      "lastSeenAt": "2026-09-18T04:41:36.403+00:00",
       "lastAttemptAt": "2026-09-17T11:40:02.987+00:00",
       "lastSuccessAt": "2026-09-17T11:40:02.987+00:00"
     },
@@ -2150,7 +2150,7 @@
         "region_raw": "전남광주",
         "employment_raw": "비정규직 외 1",
         "registered_raw": "2026.09.17",
-        "closing_raw": "26.09.25 D-7",
+        "closing_raw": "26.09.25 D-6",
         "application_period": {
           "raw": null,
           "status": "미확인",
@@ -2161,7 +2161,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-17T16:59:07.614+00:00",
+      "lastSeenAt": "2026-09-18T04:41:36.403+00:00",
       "lastAttemptAt": "2026-09-17T16:59:24.499+00:00",
       "lastSuccessAt": "2026-09-17T16:59:24.499+00:00"
     },
@@ -2175,7 +2175,7 @@
         "region_raw": "부산",
         "employment_raw": "비정규직",
         "registered_raw": "2026.09.17",
-        "closing_raw": "26.09.21 D-3",
+        "closing_raw": "26.09.21 D-2",
         "application_period": {
           "raw": null,
           "status": "미확인",
@@ -2186,7 +2186,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-17T16:59:07.614+00:00",
+      "lastSeenAt": "2026-09-18T04:41:36.403+00:00",
       "lastAttemptAt": "2026-09-17T21:21:34.443+00:00",
       "lastError": "원문 수신 실패·불완전·접근제한: transport_error"
     },
@@ -2200,7 +2200,7 @@
         "region_raw": "경남",
         "employment_raw": "비정규직",
         "registered_raw": "2026.09.18",
-        "closing_raw": "26.09.27 D-9",
+        "closing_raw": "26.09.27 D-8",
         "application_period": {
           "raw": null,
           "status": "미확인",
@@ -2211,7 +2211,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-17T16:59:07.614+00:00",
+      "lastSeenAt": "2026-09-18T04:41:36.403+00:00",
       "lastAttemptAt": "2026-09-17T16:59:13.197+00:00",
       "lastSuccessAt": "2026-09-17T16:59:13.197+00:00"
     },
@@ -2225,7 +2225,7 @@
         "region_raw": "경북",
         "employment_raw": "비정규직",
         "registered_raw": "2026.09.18",
-        "closing_raw": "26.10.05 D-17",
+        "closing_raw": "26.10.05 D-16",
         "application_period": {
           "raw": null,
           "status": "미확인",
@@ -2236,7 +2236,57 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-17T16:59:07.614+00:00"
+      "lastSeenAt": "2026-09-18T04:41:36.403+00:00"
+    },
+    "job-alio-305142": {
+      "state": "published",
+      "row": {
+        "id": "job-alio-305142",
+        "idx": "305142",
+        "title": "한국식품산업클러스터진흥원 2026년 제4차 직원(정규직, 계약직) 채용 공고",
+        "org": "한국식품산업클러스터진흥원",
+        "region_raw": "전북",
+        "employment_raw": "무기계약직 외 2",
+        "registered_raw": "2026.09.18",
+        "closing_raw": "26.10.02 D-13",
+        "application_period": {
+          "raw": null,
+          "status": "미확인",
+          "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
+        },
+        "source_url": "https://job.alio.go.kr/recruitview.do?idx=305142",
+        "list_page": 1,
+        "collection_method": "python_public_html",
+        "review_status": "transport_sample_not_office_unit_reviewed"
+      },
+      "lastSeenAt": "2026-09-18T04:41:36.403+00:00",
+      "lastAttemptAt": "2026-09-18T04:41:42.642+00:00",
+      "lastSuccessAt": "2026-09-18T04:41:42.642+00:00"
+    },
+    "job-alio-305123": {
+      "state": "held",
+      "row": {
+        "id": "job-alio-305123",
+        "idx": "305123",
+        "title": "국립호남권생물자원관 기간제ㆍ단시간 근로자(급식종사자) 채용 재공고",
+        "org": "국립호남권생물자원관",
+        "region_raw": "전남광주",
+        "employment_raw": "비정규직",
+        "registered_raw": "2026.09.18",
+        "closing_raw": "26.09.29 D-10",
+        "application_period": {
+          "raw": null,
+          "status": "미확인",
+          "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
+        },
+        "source_url": "https://job.alio.go.kr/recruitview.do?idx=305123",
+        "list_page": 1,
+        "collection_method": "python_public_html",
+        "review_status": "transport_sample_not_office_unit_reviewed"
+      },
+      "lastSeenAt": "2026-09-18T04:41:36.403+00:00",
+      "lastAttemptAt": "2026-09-18T04:41:52.146+00:00",
+      "lastSuccessAt": "2026-09-18T04:41:52.146+00:00"
     }
   },
   "candidates": {
@@ -4072,8 +4122,255 @@
         "receivedAt": "2026-09-17T16:59:24.499+00:00"
       },
       "employmentEvidence": "비정규직,청년인턴(체험형)"
+    },
+    "job-alio-305142:auto-9a295b3e3feb5f13": {
+      "id": "job-alio-305142:auto-9a295b3e3feb5f13",
+      "noticeId": "job-alio-305142",
+      "rawUnitName": "5급_예산·회계",
+      "status": "held",
+      "reason": "mixed_or_unverified_unit_employment",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305142",
+        "sha256": "8bdbfedb1eb8158469b2ddc1cab67b189c43a3a626009079b176e947c6a93367",
+        "receivedAt": "2026-09-18T04:41:42.642+00:00"
+      },
+      "employmentEvidence": "무기계약직,비정규직,정규직"
+    },
+    "job-alio-305142:auto-ae74325fa371dd5e": {
+      "id": "job-alio-305142:auto-ae74325fa371dd5e",
+      "noticeId": "job-alio-305142",
+      "rawUnitName": "5급_시설(기계·안전 등)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305142",
+        "sha256": "8bdbfedb1eb8158469b2ddc1cab67b189c43a3a626009079b176e947c6a93367",
+        "receivedAt": "2026-09-18T04:41:42.642+00:00"
+      },
+      "employmentEvidence": "무기계약직,비정규직,정규직"
+    },
+    "job-alio-305142:auto-4794aff257f4060d": {
+      "id": "job-alio-305142:auto-4794aff257f4060d",
+      "noticeId": "job-alio-305142",
+      "rawUnitName": "5급_식품 패키징",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305142",
+        "sha256": "8bdbfedb1eb8158469b2ddc1cab67b189c43a3a626009079b176e947c6a93367",
+        "receivedAt": "2026-09-18T04:41:42.642+00:00"
+      },
+      "employmentEvidence": "무기계약직,비정규직,정규직"
+    },
+    "job-alio-305142:auto-64d48c61afd14bf7": {
+      "id": "job-alio-305142:auto-64d48c61afd14bf7",
+      "noticeId": "job-alio-305142",
+      "rawUnitName": "5급_식품 생산",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305142",
+        "sha256": "8bdbfedb1eb8158469b2ddc1cab67b189c43a3a626009079b176e947c6a93367",
+        "receivedAt": "2026-09-18T04:41:42.642+00:00"
+      },
+      "employmentEvidence": "무기계약직,비정규직,정규직"
+    },
+    "job-alio-305142:auto-d5e893e94da2b552": {
+      "id": "job-alio-305142:auto-d5e893e94da2b552",
+      "noticeId": "job-alio-305142",
+      "rawUnitName": "공무직_운전직",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305142",
+        "sha256": "8bdbfedb1eb8158469b2ddc1cab67b189c43a3a626009079b176e947c6a93367",
+        "receivedAt": "2026-09-18T04:41:42.642+00:00"
+      },
+      "employmentEvidence": "무기계약직,비정규직,정규직"
+    },
+    "job-alio-305142:auto-51e887a2f9533981": {
+      "id": "job-alio-305142:auto-51e887a2f9533981",
+      "noticeId": "job-alio-305142",
+      "rawUnitName": "일반계약직_다급_비서(기관장 수행)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305142",
+        "sha256": "8bdbfedb1eb8158469b2ddc1cab67b189c43a3a626009079b176e947c6a93367",
+        "receivedAt": "2026-09-18T04:41:42.642+00:00"
+      },
+      "employmentEvidence": "일반계약직_다급_비서(기관장 수행)"
+    },
+    "job-alio-305142:auto-9874dfd438cc8dbf": {
+      "id": "job-alio-305142:auto-9874dfd438cc8dbf",
+      "noticeId": "job-alio-305142",
+      "rawUnitName": "일반계약직_다급_식품 벤처·창업기업 지원",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305142",
+        "sha256": "8bdbfedb1eb8158469b2ddc1cab67b189c43a3a626009079b176e947c6a93367",
+        "receivedAt": "2026-09-18T04:41:42.642+00:00"
+      },
+      "employmentEvidence": "일반계약직_다급_식품 벤처·창업기업 지원"
+    },
+    "job-alio-305142:auto-ae30e032a368a151": {
+      "id": "job-alio-305142:auto-ae30e032a368a151",
+      "noticeId": "job-alio-305142",
+      "rawUnitName": "사업계약직_나급_건강기능식품 교육 운영(스마트제품화)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305142",
+        "sha256": "8bdbfedb1eb8158469b2ddc1cab67b189c43a3a626009079b176e947c6a93367",
+        "receivedAt": "2026-09-18T04:41:42.642+00:00"
+      },
+      "employmentEvidence": "사업계약직_나급_건강기능식품 교육 운영(스마트제품화)"
+    },
+    "job-alio-305142:auto-c9b40253889c8062": {
+      "id": "job-alio-305142:auto-c9b40253889c8062",
+      "noticeId": "job-alio-305142",
+      "rawUnitName": "사업계약직_나급_기능성원료 표준화(원료은행 운영)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305142",
+        "sha256": "8bdbfedb1eb8158469b2ddc1cab67b189c43a3a626009079b176e947c6a93367",
+        "receivedAt": "2026-09-18T04:41:42.642+00:00"
+      },
+      "employmentEvidence": "사업계약직_나급_기능성원료 표준화(원료은행 운영)"
+    },
+    "job-alio-305142:auto-8738159d2961ba0c": {
+      "id": "job-alio-305142:auto-8738159d2961ba0c",
+      "noticeId": "job-alio-305142",
+      "rawUnitName": "사업계약직_다급_기능성원료 표준화(원료은행 운영)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305142",
+        "sha256": "8bdbfedb1eb8158469b2ddc1cab67b189c43a3a626009079b176e947c6a93367",
+        "receivedAt": "2026-09-18T04:41:42.642+00:00"
+      },
+      "employmentEvidence": "사업계약직_다급_기능성원료 표준화(원료은행 운영)"
+    },
+    "job-alio-305142:auto-c3699feaa6d37fd3": {
+      "id": "job-alio-305142:auto-c3699feaa6d37fd3",
+      "noticeId": "job-alio-305142",
+      "rawUnitName": "사업계약직_나급_기능성원료 표준화 실증(규제자유특구)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305142",
+        "sha256": "8bdbfedb1eb8158469b2ddc1cab67b189c43a3a626009079b176e947c6a93367",
+        "receivedAt": "2026-09-18T04:41:42.642+00:00"
+      },
+      "employmentEvidence": "사업계약직_나급_기능성원료 표준화 실증(규제자유특구)"
+    },
+    "job-alio-305142:auto-539fba7a4f38c288": {
+      "id": "job-alio-305142:auto-539fba7a4f38c288",
+      "noticeId": "job-alio-305142",
+      "rawUnitName": "사업계약직_나급_사업수행 및 관리(규제자유특구)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305142",
+        "sha256": "8bdbfedb1eb8158469b2ddc1cab67b189c43a3a626009079b176e947c6a93367",
+        "receivedAt": "2026-09-18T04:41:42.642+00:00"
+      },
+      "employmentEvidence": "사업계약직_나급_사업수행 및 관리(규제자유특구)"
+    },
+    "job-alio-305142:auto-faff8f14b4c9cf90": {
+      "id": "job-alio-305142:auto-faff8f14b4c9cf90",
+      "noticeId": "job-alio-305142",
+      "rawUnitName": "사업계약직_다급_사업수행 및 관리(규제자유특구)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305142",
+        "sha256": "8bdbfedb1eb8158469b2ddc1cab67b189c43a3a626009079b176e947c6a93367",
+        "receivedAt": "2026-09-18T04:41:42.642+00:00"
+      },
+      "employmentEvidence": "사업계약직_다급_사업수행 및 관리(규제자유특구)"
+    },
+    "job-alio-305142:auto-a7372a3a34b7e908": {
+      "id": "job-alio-305142:auto-a7372a3a34b7e908",
+      "noticeId": "job-alio-305142",
+      "rawUnitName": "사업계약직_다급_식품생산 및 관리(규제자유특구)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305142",
+        "sha256": "8bdbfedb1eb8158469b2ddc1cab67b189c43a3a626009079b176e947c6a93367",
+        "receivedAt": "2026-09-18T04:41:42.642+00:00"
+      },
+      "employmentEvidence": "사업계약직_다급_식품생산 및 관리(규제자유특구)"
+    },
+    "job-alio-305142:auto-2e2575427a2da463": {
+      "id": "job-alio-305142:auto-2e2575427a2da463",
+      "noticeId": "job-alio-305142",
+      "rawUnitName": "사업계약직_다급_기능성원료 생산 운영(기능성소재활용)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305142",
+        "sha256": "8bdbfedb1eb8158469b2ddc1cab67b189c43a3a626009079b176e947c6a93367",
+        "receivedAt": "2026-09-18T04:41:42.642+00:00"
+      },
+      "employmentEvidence": "사업계약직_다급_기능성원료 생산 운영(기능성소재활용)"
+    },
+    "job-alio-305142:auto-f44bf70238d4f0b4": {
+      "id": "job-alio-305142:auto-f44bf70238d4f0b4",
+      "noticeId": "job-alio-305142",
+      "rawUnitName": "사업계약직_다급_사업수행 및 관리(고부가가치식품기술개발)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305142",
+        "sha256": "8bdbfedb1eb8158469b2ddc1cab67b189c43a3a626009079b176e947c6a93367",
+        "receivedAt": "2026-09-18T04:41:42.642+00:00"
+      },
+      "employmentEvidence": "사업계약직_다급_사업수행 및 관리(고부가가치식품기술개발)"
+    },
+    "job-alio-305142:auto-75565891cfdd7be1": {
+      "id": "job-alio-305142:auto-75565891cfdd7be1",
+      "noticeId": "job-alio-305142",
+      "rawUnitName": "사업계약직_다급_대체지방 DB구축(고부가가치식품기술개발)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305142",
+        "sha256": "8bdbfedb1eb8158469b2ddc1cab67b189c43a3a626009079b176e947c6a93367",
+        "receivedAt": "2026-09-18T04:41:42.642+00:00"
+      },
+      "employmentEvidence": "사업계약직_다급_대체지방 DB구축(고부가가치식품기술개발)"
+    },
+    "job-alio-305123:auto-16e873c9122b3ac3": {
+      "id": "job-alio-305123:auto-16e873c9122b3ac3",
+      "noticeId": "job-alio-305123",
+      "rawUnitName": "기간제근로자(영양사)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305123",
+        "sha256": "9a9cf0bd078800844273b18ce0b154a0ced79188d2ad6a8cc98284acec0a9c7a",
+        "receivedAt": "2026-09-18T04:41:52.146+00:00"
+      },
+      "employmentEvidence": "기간제근로자(영양사)"
+    },
+    "job-alio-305123:auto-ceb5307febed0c89": {
+      "id": "job-alio-305123:auto-ceb5307febed0c89",
+      "noticeId": "job-alio-305123",
+      "rawUnitName": "단시간근로자(조리원)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305123",
+        "sha256": "9a9cf0bd078800844273b18ce0b154a0ced79188d2ad6a8cc98284acec0a9c7a",
+        "receivedAt": "2026-09-18T04:41:52.146+00:00"
+      },
+      "employmentEvidence": "비정규직"
     }
   },
-  "nextPage": 7,
+  "nextPage": 2,
   "schemaVersion": "automatic-refresh-state-0.2"
 }
