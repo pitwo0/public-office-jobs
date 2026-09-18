@@ -236,8 +236,9 @@
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
       "lastSeenAt": "2026-09-17T11:39:50.257+00:00",
-      "lastAttemptAt": "2026-09-15T04:52:53.588+00:00",
-      "lastSuccessAt": "2026-09-15T04:52:53.588+00:00"
+      "lastAttemptAt": "2026-09-18T20:54:23.083+00:00",
+      "lastSuccessAt": "2026-09-15T04:52:53.588+00:00",
+      "lastError": "원문 수신 실패·불완전·접근제한: transport_error"
     },
     "job-alio-304793": {
       "state": "queued",
@@ -550,8 +551,9 @@
         "title": "계약직 행정-휴직대체(감사팀) 채용공고",
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=300568"
       },
-      "lastAttemptAt": "2026-09-17T04:51:14.627+00:00",
-      "lastSuccessAt": "2026-09-17T04:51:14.627+00:00"
+      "lastAttemptAt": "2026-09-18T20:54:44.674+00:00",
+      "lastSuccessAt": "2026-09-17T04:51:14.627+00:00",
+      "lastError": "원문 수신 실패·불완전·접근제한: transport_error"
     },
     "job-alio-301306": {
       "state": "published",
@@ -1377,7 +1379,9 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-16T11:30:27.519+00:00"
+      "lastSeenAt": "2026-09-16T11:30:27.519+00:00",
+      "lastAttemptAt": "2026-09-18T20:54:01.497+00:00",
+      "lastError": "원문 수신 실패·불완전·접근제한: transport_error"
     },
     "job-alio-304943": {
       "state": "published",
@@ -1523,7 +1527,9 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-16T04:47:39.141+00:00"
+      "lastSeenAt": "2026-09-16T04:47:39.141+00:00",
+      "lastAttemptAt": "2026-09-18T20:55:06.265+00:00",
+      "lastError": "원문 수신 실패·불완전·접근제한: transport_error"
     },
     "job-alio-304924": {
       "state": "published",
