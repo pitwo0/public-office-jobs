@@ -1187,7 +1187,7 @@
           "label": "JOB-ALIO 상세 · 자동 수신",
           "url": "https://job.alio.go.kr/recruitview.do?idx=304846",
           "sha256": "bbd0263ab41e39c03b90e744187d03333ff40513fc515077a922a2728d6a5eb0",
-          "receivedAt": "2026-09-18T11:12:24.494+00:00"
+          "receivedAt": "2026-09-20T04:52:48.504+00:00"
         }
       ],
       "attachments": [
@@ -1236,17 +1236,15 @@
         "semanticHash": "dbfa05c581a2775afd52d615d663a4a388edd31311757eab74e86f2a8cba15fa",
         "conditionsHash": "a2ae4a6f8c4905a220bba2225bfcaf3d94210d8a454c08a8cedb0ef3ebe1ad56",
         "rawSha256": "bbd0263ab41e39c03b90e744187d03333ff40513fc515077a922a2728d6a5eb0",
-        "lastFetchedAt": "2026-09-18T11:12:24.494+00:00",
+        "lastFetchedAt": "2026-09-20T04:52:48.504+00:00",
         "contentChangedAt": null,
-        "baselineStatus": "first_capture",
-        "needsReview": true,
+        "baselineStatus": "compared",
+        "needsReview": false,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-09-18T11:12:24.494+00:00",
+          "checkedAt": "2026-09-20T04:52:48.504+00:00",
           "status": "checked",
-          "changedUnitIds": [
-            "office"
-          ],
+          "changedUnitIds": [],
           "preservedUnitIds": [],
           "unmatchedUnitIds": [],
           "issues": []
@@ -11460,16 +11458,16 @@
       ],
       "sources": [
         {
-          "id": "auto_alio",
-          "label": "JOB-ALIO 상세 · 코드 수신·자동 정리",
-          "url": "https://job.alio.go.kr/recruitview.do?idx=304995",
-          "sha256": "4221501b0c81b78933a82b23a6cf83f935c342d6844a55f88afd2f0810ac9847",
-          "receivedAt": "2026-09-15T16:58:15.102+00:00"
-        },
-        {
           "id": "auto_original_1",
           "label": "기관 원문 링크 · 내용 미확인",
           "url": "https://www.kcesi.or.kr/user/bbs/BD_selectBbs.do?q_bbsCode=1023&q_bbscttSn=20260915141515970&q_estnColumn1=&q_estnColumn2=&q_estnColumn5=&q_searchVal=&q_currPage=1&q_sortName=&q_sortOrder=&"
+        },
+        {
+          "id": "auto_alio",
+          "label": "JOB-ALIO 상세 · 자동 수신",
+          "url": "https://job.alio.go.kr/recruitview.do?idx=304995",
+          "sha256": "4221501b0c81b78933a82b23a6cf83f935c342d6844a55f88afd2f0810ac9847",
+          "receivedAt": "2026-09-20T04:52:45.609+00:00"
         }
       ],
       "attachments": [
@@ -11548,17 +11546,15 @@
         "semanticHash": "26efbffe13377c6433d492ba401837caa3e4c8e9a2c470a3718ee95272d62000",
         "conditionsHash": "39981df9e2bfa351b603bcd4feb8bc5f6db5566f61cae6457baf65b405fbc6b3",
         "rawSha256": "4221501b0c81b78933a82b23a6cf83f935c342d6844a55f88afd2f0810ac9847",
-        "lastFetchedAt": "2026-09-15T16:58:15.102+00:00",
+        "lastFetchedAt": "2026-09-20T04:52:45.609+00:00",
         "contentChangedAt": "2026-09-15T16:58:15.102+00:00",
-        "baselineStatus": "first_capture",
+        "baselineStatus": "compared",
         "needsReview": true,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-09-15T16:58:15.102+00:00",
+          "checkedAt": "2026-09-20T04:52:45.609+00:00",
           "status": "checked",
-          "changedUnitIds": [
-            "auto-d0eac28871d13da1"
-          ],
+          "changedUnitIds": [],
           "preservedUnitIds": [],
           "unmatchedUnitIds": [],
           "issues": []
@@ -16908,16 +16904,16 @@
     }
   ],
   "refresh": {
-    "status": "failed",
+    "status": "success",
     "mode": "live",
-    "lastAttemptAt": "2026-09-19T20:38:26+00:00",
-    "lastSuccessAt": "2026-09-19T15:52:59+00:00",
-    "candidatesCount": 227,
+    "lastAttemptAt": "2026-09-20T04:52:34+00:00",
+    "lastSuccessAt": "2026-09-20T04:52:34+00:00",
+    "candidatesCount": 228,
     "coverage": {
       "description": "JOB-ALIO 최근60일 이내 진행중·비정규직·경영회계사무 목록, 목록최대2페이지·상세최대4건/회. 저장된 마감공고도 결과를 순환 재확인합니다. 전체공고 수집 아님.",
-      "queuedNoticeCount": 52,
-      "heldUnitCount": 175,
-      "nextPage": 6,
+      "queuedNoticeCount": 50,
+      "heldUnitCount": 178,
+      "nextPage": 7,
       "closedRecheck": {
         "recentDays": 30,
         "recentOrUnknownIntervalDays": 1,
@@ -16928,6 +16924,28 @@
       "requestLimit": 6,
       "automaticRetries": 0,
       "heldNotices": [
+        {
+          "id": "job-alio-304729",
+          "organization": "국민연금공단",
+          "title": "2차 베테랑 시니어지원단(기간제근로자) 공개채용 공고",
+          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=304729",
+          "lastFetchedAt": "2026-09-20T04:52:51.586+00:00",
+          "reasons": [
+            "모집단위명만으로 사무직 여부 미확인"
+          ],
+          "status": "unverified"
+        },
+        {
+          "id": "job-alio-304747",
+          "organization": "근로복지공단",
+          "title": "[서울남부지사] 기간제(근로자정보입력원 및 시설미화원) 채용 공고",
+          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=304747",
+          "lastFetchedAt": "2026-09-20T04:52:41.853+00:00",
+          "reasons": [
+            "모집단위명만으로 사무직 여부 미확인"
+          ],
+          "status": "unverified"
+        },
         {
           "id": "job-alio-304771",
           "organization": "국립호남권생물자원관",
@@ -17062,7 +17080,7 @@
           "status": "unverified"
         }
       ],
-      "heldNoticesTotal": 12,
+      "heldNoticesTotal": 14,
       "heldNoticesShownLimit": 20
     }
   }
