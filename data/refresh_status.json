@@ -1,76 +1,36 @@
 {
-  "startedAt": "2026-09-21T04:53:38+00:00",
+  "startedAt": "2026-09-21T12:45:54+00:00",
   "mode": "live",
-  "records": [],
-  "errors": [
+  "records": [
     {
-      "id": null,
-      "phase": "list",
-      "error": "원문 수신 실패·불완전·접근제한: transport_error",
-      "existingNoticePreserved": false
+      "id": "job-alio-305159",
+      "status": "held",
+      "unitCount": 0
     },
     {
-      "id": "job-alio-304695",
-      "phase": "detail",
-      "error": "원문 수신 실패·불완전·접근제한: transport_error",
-      "existingNoticePreserved": false
+      "id": "job-alio-305069",
+      "status": "unchanged",
+      "unitCount": 1
     },
     {
-      "id": "job-alio-305073",
-      "phase": "detail",
-      "error": "원문 수신 실패·불완전·접근제한: transport_error",
-      "existingNoticePreserved": true
+      "id": "job-alio-304510",
+      "status": "unchanged",
+      "unitCount": 1
     },
     {
-      "id": "job-alio-304511",
-      "phase": "detail",
-      "error": "원문 수신 실패·불완전·접근제한: transport_error",
-      "existingNoticePreserved": true
-    },
-    {
-      "id": "job-alio-304672",
-      "phase": "detail",
-      "error": "원문 수신 실패·불완전·접근제한: transport_error",
-      "existingNoticePreserved": false
-    },
-    {
-      "phase": "list",
-      "page": 1,
-      "error": "원문 수신 실패·불완전·접근제한: transport_error"
-    },
-    {
-      "phase": "detail",
-      "id": "job-alio-304695",
-      "error": "원문 수신 실패·불완전·접근제한: transport_error"
-    },
-    {
-      "phase": "detail",
-      "id": "job-alio-305073",
-      "error": "원문 수신 실패·불완전·접근제한: transport_error"
-    },
-    {
-      "phase": "detail",
-      "id": "job-alio-304511",
-      "error": "원문 수신 실패·불완전·접근제한: transport_error"
-    },
-    {
-      "phase": "detail",
-      "id": "job-alio-304672",
-      "error": "원문 수신 실패·불완전·접근제한: transport_error"
+      "id": "job-alio-305211",
+      "status": "held",
+      "unitCount": 0
     }
   ],
-  "newRemoteRequests": 5,
-  "status": "failed",
+  "errors": [],
+  "newRemoteRequests": 6,
+  "status": "success",
   "noticeCount": 38,
   "added": 0,
   "changedIds": [],
   "deadlineEvents": [],
-  "actualListPages": 0,
-  "preservedFailedIds": [
-    "job-alio-304511",
-    "job-alio-304672",
-    "job-alio-304695",
-    "job-alio-305073"
-  ],
-  "finishedAt": "2026-09-21T04:55:23+00:00"
+  "actualListPages": 2,
+  "preservedFailedIds": [],
+  "finishedAt": "2026-09-21T12:46:12+00:00"
 }
