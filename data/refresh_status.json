@@ -1,50 +1,45 @@
 {
-  "startedAt": "2026-09-23T04:43:34+00:00",
+  "startedAt": "2026-09-23T11:33:46+00:00",
   "mode": "live",
   "records": [
     {
-      "id": "job-alio-305291",
-      "status": "held",
-      "unitCount": 0
-    },
-    {
-      "id": "job-alio-304929",
-      "status": "unchanged",
-      "unitCount": 1
-    },
-    {
-      "id": "job-alio-300568",
-      "status": "unchanged",
-      "unitCount": 1
-    },
-    {
-      "id": "job-alio-305286",
+      "id": "job-alio-305342",
       "status": "added",
       "unitCount": 1
-    }
-  ],
-  "errors": [
+    },
     {
-      "id": "job-alio-300568",
-      "phase": "result_fields",
-      "issues": [
-        {
-          "unitId": "office",
-          "status": "unverified",
-          "note": "현재 공식 표와 모집단위명이 정확히 대응하지 않아 결과를 연결하지 않았습니다."
-        }
-      ],
-      "error": "결과 표 일부 미확인·추출 실패. 기존 정상 결과를 보존했습니다.",
-      "existingNoticePreserved": true
+      "id": "job-alio-305142",
+      "status": "unchanged",
+      "unitCount": 1
+    },
+    {
+      "id": "job-alio-304220",
+      "status": "results_changed",
+      "unitCount": 1
+    },
+    {
+      "id": "job-alio-305340",
+      "status": "held",
+      "unitCount": 0
     }
   ],
+  "errors": [],
   "newRemoteRequests": 6,
-  "status": "partial_success",
-  "noticeCount": 43,
+  "status": "success",
+  "noticeCount": 44,
   "added": 1,
-  "changedIds": [],
-  "deadlineEvents": [],
+  "changedIds": [
+    "job-alio-304220"
+  ],
+  "deadlineEvents": [
+    {
+      "id": "job-alio-304776",
+      "from": "open",
+      "to": "deadline_elapsed",
+      "basis": "저장된 마감일·시각(KST) 경과; 원문 정정 여부와 별개"
+    }
+  ],
   "actualListPages": 2,
   "preservedFailedIds": [],
-  "finishedAt": "2026-09-23T04:43:53+00:00"
+  "finishedAt": "2026-09-23T11:34:02+00:00"
 }
