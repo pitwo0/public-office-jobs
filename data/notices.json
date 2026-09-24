@@ -8437,7 +8437,7 @@
           "label": "JOB-ALIO 상세 · 자동 수신",
           "url": "https://job.alio.go.kr/recruitview.do?idx=304778",
           "sha256": "28a2b13e2591fe78ff3887e1ee7e3bad63c57947de45b3fa0ded62fb4f46ef6f",
-          "receivedAt": "2026-09-18T11:12:21.477+00:00"
+          "receivedAt": "2026-09-24T04:48:15.893+00:00"
         }
       ],
       "attachments": [
@@ -8504,13 +8504,13 @@
         "semanticHash": "c04fd74eacacf86f6b71f81e0790e5a3ecf81521aa35a18fcc853fba4e393278",
         "conditionsHash": "b59e1516ad8d41e43fd5f7ad23ae08cc2a4336667e75d09a908e19abdf0427c5",
         "rawSha256": "28a2b13e2591fe78ff3887e1ee7e3bad63c57947de45b3fa0ded62fb4f46ef6f",
-        "lastFetchedAt": "2026-09-18T11:12:21.477+00:00",
+        "lastFetchedAt": "2026-09-24T04:48:15.893+00:00",
         "contentChangedAt": "2026-09-14T21:48:55.753+00:00",
         "baselineStatus": "compared",
         "needsReview": false,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-09-18T11:12:21.477+00:00",
+          "checkedAt": "2026-09-24T04:48:15.893+00:00",
           "status": "checked",
           "changedUnitIds": [],
           "preservedUnitIds": [],
@@ -13566,8 +13566,8 @@
           "id": "auto_alio",
           "label": "JOB-ALIO 상세 · 자동 수신",
           "url": "https://job.alio.go.kr/recruitview.do?idx=305069",
-          "sha256": "7b2ee24989076a5b06a0195f36b821b7a75d42ad80abfdaba276e61b3b7bebde",
-          "receivedAt": "2026-09-21T12:46:05.748+00:00"
+          "sha256": "8ac3c70f337f46caf4e87d5e0e4074cf7109868206c414abc7599db41342e387",
+          "receivedAt": "2026-09-24T04:48:20.336+00:00"
         }
       ],
       "attachments": [
@@ -13645,14 +13645,14 @@
       "autoSync": {
         "semanticHash": "af93ccf3a158d74c8e5605306e97b9332850075e15649f7c6f2ea8532fb13aff",
         "conditionsHash": "e29732f645b70f0424d712df7e3148667137b17b4c8a99a5d28ce7fc2af788fb",
-        "rawSha256": "7b2ee24989076a5b06a0195f36b821b7a75d42ad80abfdaba276e61b3b7bebde",
-        "lastFetchedAt": "2026-09-21T12:46:05.748+00:00",
+        "rawSha256": "8ac3c70f337f46caf4e87d5e0e4074cf7109868206c414abc7599db41342e387",
+        "lastFetchedAt": "2026-09-24T04:48:20.336+00:00",
         "contentChangedAt": "2026-09-16T11:30:36.460+00:00",
         "baselineStatus": "compared",
         "needsReview": false,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-09-21T12:46:05.748+00:00",
+          "checkedAt": "2026-09-24T04:48:20.336+00:00",
           "status": "checked",
           "changedUnitIds": [],
           "preservedUnitIds": [],
@@ -19617,19 +19617,877 @@
         "evaluatedDate": "2026-09-24",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
+    },
+    {
+      "id": "job-alio-305333",
+      "idx": 305333,
+      "organization": "한국전력공사",
+      "title": "2026년 제4차 기간제 근로자 채용 공고[경북본부]",
+      "posted": "2026-09-23",
+      "deadline": "2026-10-07",
+      "deadlineTime": null,
+      "announcementPeriod": {
+        "start": "2026-09-23",
+        "end": "2026-10-07",
+        "scope": "announcement"
+      },
+      "applicationPeriod": {
+        "start": null,
+        "end": null,
+        "endTime": null,
+        "status": "unverified",
+        "scope": "announcement",
+        "sources": [
+          "auto_alio"
+        ],
+        "raw": null,
+        "note": "명시된 접수기간을 단일 기간으로 해석하지 못했습니다. 공고기간으로 대체하지 않습니다."
+      },
+      "applicationStart": null,
+      "regions": [
+        "경북"
+      ],
+      "totalVacancies": 5,
+      "employment": "비정규직",
+      "units": [
+        {
+          "id": "auto-d3e6053132e0bf6e",
+          "title": "전력사업처 사무",
+          "sourceUnitName": "전력사업처 사무",
+          "employment": "비정규직",
+          "regions": [
+            "경북"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "□ 학력 : 제한없음\r\n □ 연령 : 제한없음\r\n □ 병역 : 병역법 제76조에서 정한 병역의무 불이행 사실이 없는 자\r\n □ 신체조건\r\n  ○ 사무, 전기 : 제한없음\r\n  ○ 배전담당(가) : 색맹이 아닌 자\r\n □ 자격\r\n  ○ 사무 : 제한없음(단, 서류심사시 관련 자격을 평가요소로 활용)\r\n  ○ 배전담당(가) : 필수 1, 2, 3, 4 모두 보유\r\n   - 필수 1 : 가공배전전공 이상 또는 지중배전전공 이상\r\n   - 필수 2 : 전기기능사 이상 또는 전기공사산업기사 이상\r\n   - 필수 3 : 자동차 운전면허 1종 대형 \r\n   - 필수 4 : 기중기운전기능사 또는 이동식크레인 및 고소작업대 조종자 교육 이수*\r\n   * 고용노동부 「유해·위험기관의 취업 제한에 관한 규칙」에서 인정한 교육 인정기관\r\n  ○ 전기 : 전기기능사 이상 또는 전기공사산업기사 이상\r\n □ 기타\r\n   - 근무시작일부터 근무 가능한 자\r\n   - 지원서 접수 마감일 기준 한전 경북본부에서 비정규직으로 재직중이지 않은 자\r\n\r\n※ 기타 자세한 사항은 붙임 채용 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "경북",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "□ 1차 서류전형\r\n  ○ 평가기준 : 자격증 가점 (붙임 참조)\r\n  ○ 배점\r\n   - 사무 : 30점\r\n   - 배전담당(가) : 40점\r\n   - 전기 : 70점\r\n  ○ 선발배수 : 7배수\r\n  ○ 동점자 처리기준 : 동점자 전원 합격\r\n □ 2차 면접전형\r\n  ○ 평가기준 : 면접점수\r\n  ○ 배점 : 100점\r\n  ○ 선발배수 : 1배수\r\n  ○ 동점자 처리기준 : ① 취업지원대상자 ② 자격증 가점\r\n※ 지원자가 1차전형 선발배수 인원을 초과하지 않을 경우 1차 서류전형 생략 가능\r\n※ 서류전형 평가 자격증은 접수마감일 기준 유효한 경우에만 인정\r\n※ 2차전형 이후 서류검증 시 지원자격에 미달하는 경우 면접평가점수 제외 처리 및 합격자 탈락 조치\r\n\r\n※ 기타 자세한 사항은 붙임 채용 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305333",
+              "sha256": "0af77b5df182cf61093a772a06fab20597a90cbe89a41bf12bc8a9e14a5655cf",
+              "receivedAt": "2026-09-24T04:48:13.126+00:00",
+              "rawUnitName": "전력사업처 사무",
+              "rows": [
+                [
+                  "전력사업처 사무"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "announcement",
+            "method": "announcement_single_employment",
+            "value": "비정규직",
+            "quote": "비정규직",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "한국전력공사",
+            "job": "전력사업처 사무",
+            "rawUnitName": "전력사업처 사무",
+            "regions": [
+              "경북"
+            ],
+            "regionsScope": "announcement",
+            "employment": "비정규직",
+            "recruitmentCategory": {
+              "value": "신입",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=305333",
+              "sha256": "0af77b5df182cf61093a772a06fab20597a90cbe89a41bf12bc8a9e14a5655cf",
+              "receivedAt": "2026-09-24T04:48:13.126+00:00"
+            }
+          }
+        },
+        {
+          "id": "auto-47c878982996481f",
+          "title": "구미지사 사무-1",
+          "sourceUnitName": "구미지사 사무-1",
+          "employment": "비정규직",
+          "regions": [
+            "경북"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "□ 학력 : 제한없음\r\n □ 연령 : 제한없음\r\n □ 병역 : 병역법 제76조에서 정한 병역의무 불이행 사실이 없는 자\r\n □ 신체조건\r\n  ○ 사무, 전기 : 제한없음\r\n  ○ 배전담당(가) : 색맹이 아닌 자\r\n □ 자격\r\n  ○ 사무 : 제한없음(단, 서류심사시 관련 자격을 평가요소로 활용)\r\n  ○ 배전담당(가) : 필수 1, 2, 3, 4 모두 보유\r\n   - 필수 1 : 가공배전전공 이상 또는 지중배전전공 이상\r\n   - 필수 2 : 전기기능사 이상 또는 전기공사산업기사 이상\r\n   - 필수 3 : 자동차 운전면허 1종 대형 \r\n   - 필수 4 : 기중기운전기능사 또는 이동식크레인 및 고소작업대 조종자 교육 이수*\r\n   * 고용노동부 「유해·위험기관의 취업 제한에 관한 규칙」에서 인정한 교육 인정기관\r\n  ○ 전기 : 전기기능사 이상 또는 전기공사산업기사 이상\r\n □ 기타\r\n   - 근무시작일부터 근무 가능한 자\r\n   - 지원서 접수 마감일 기준 한전 경북본부에서 비정규직으로 재직중이지 않은 자\r\n\r\n※ 기타 자세한 사항은 붙임 채용 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "경북",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "□ 1차 서류전형\r\n  ○ 평가기준 : 자격증 가점 (붙임 참조)\r\n  ○ 배점\r\n   - 사무 : 30점\r\n   - 배전담당(가) : 40점\r\n   - 전기 : 70점\r\n  ○ 선발배수 : 7배수\r\n  ○ 동점자 처리기준 : 동점자 전원 합격\r\n □ 2차 면접전형\r\n  ○ 평가기준 : 면접점수\r\n  ○ 배점 : 100점\r\n  ○ 선발배수 : 1배수\r\n  ○ 동점자 처리기준 : ① 취업지원대상자 ② 자격증 가점\r\n※ 지원자가 1차전형 선발배수 인원을 초과하지 않을 경우 1차 서류전형 생략 가능\r\n※ 서류전형 평가 자격증은 접수마감일 기준 유효한 경우에만 인정\r\n※ 2차전형 이후 서류검증 시 지원자격에 미달하는 경우 면접평가점수 제외 처리 및 합격자 탈락 조치\r\n\r\n※ 기타 자세한 사항은 붙임 채용 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305333",
+              "sha256": "0af77b5df182cf61093a772a06fab20597a90cbe89a41bf12bc8a9e14a5655cf",
+              "receivedAt": "2026-09-24T04:48:13.126+00:00",
+              "rawUnitName": "구미지사 사무-1",
+              "rows": [
+                [
+                  "구미지사 사무-1"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "announcement",
+            "method": "announcement_single_employment",
+            "value": "비정규직",
+            "quote": "비정규직",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "한국전력공사",
+            "job": "구미지사 사무-1",
+            "rawUnitName": "구미지사 사무-1",
+            "regions": [
+              "경북"
+            ],
+            "regionsScope": "announcement",
+            "employment": "비정규직",
+            "recruitmentCategory": {
+              "value": "신입",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=305333",
+              "sha256": "0af77b5df182cf61093a772a06fab20597a90cbe89a41bf12bc8a9e14a5655cf",
+              "receivedAt": "2026-09-24T04:48:13.126+00:00"
+            }
+          }
+        },
+        {
+          "id": "auto-6750dd9b7a7d3ba3",
+          "title": "구미지사 사무-2",
+          "sourceUnitName": "구미지사 사무-2",
+          "employment": "비정규직",
+          "regions": [
+            "경북"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "□ 학력 : 제한없음\r\n □ 연령 : 제한없음\r\n □ 병역 : 병역법 제76조에서 정한 병역의무 불이행 사실이 없는 자\r\n □ 신체조건\r\n  ○ 사무, 전기 : 제한없음\r\n  ○ 배전담당(가) : 색맹이 아닌 자\r\n □ 자격\r\n  ○ 사무 : 제한없음(단, 서류심사시 관련 자격을 평가요소로 활용)\r\n  ○ 배전담당(가) : 필수 1, 2, 3, 4 모두 보유\r\n   - 필수 1 : 가공배전전공 이상 또는 지중배전전공 이상\r\n   - 필수 2 : 전기기능사 이상 또는 전기공사산업기사 이상\r\n   - 필수 3 : 자동차 운전면허 1종 대형 \r\n   - 필수 4 : 기중기운전기능사 또는 이동식크레인 및 고소작업대 조종자 교육 이수*\r\n   * 고용노동부 「유해·위험기관의 취업 제한에 관한 규칙」에서 인정한 교육 인정기관\r\n  ○ 전기 : 전기기능사 이상 또는 전기공사산업기사 이상\r\n □ 기타\r\n   - 근무시작일부터 근무 가능한 자\r\n   - 지원서 접수 마감일 기준 한전 경북본부에서 비정규직으로 재직중이지 않은 자\r\n\r\n※ 기타 자세한 사항은 붙임 채용 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "경북",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "□ 1차 서류전형\r\n  ○ 평가기준 : 자격증 가점 (붙임 참조)\r\n  ○ 배점\r\n   - 사무 : 30점\r\n   - 배전담당(가) : 40점\r\n   - 전기 : 70점\r\n  ○ 선발배수 : 7배수\r\n  ○ 동점자 처리기준 : 동점자 전원 합격\r\n □ 2차 면접전형\r\n  ○ 평가기준 : 면접점수\r\n  ○ 배점 : 100점\r\n  ○ 선발배수 : 1배수\r\n  ○ 동점자 처리기준 : ① 취업지원대상자 ② 자격증 가점\r\n※ 지원자가 1차전형 선발배수 인원을 초과하지 않을 경우 1차 서류전형 생략 가능\r\n※ 서류전형 평가 자격증은 접수마감일 기준 유효한 경우에만 인정\r\n※ 2차전형 이후 서류검증 시 지원자격에 미달하는 경우 면접평가점수 제외 처리 및 합격자 탈락 조치\r\n\r\n※ 기타 자세한 사항은 붙임 채용 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305333",
+              "sha256": "0af77b5df182cf61093a772a06fab20597a90cbe89a41bf12bc8a9e14a5655cf",
+              "receivedAt": "2026-09-24T04:48:13.126+00:00",
+              "rawUnitName": "구미지사 사무-2",
+              "rows": [
+                [
+                  "구미지사 사무-2"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "announcement",
+            "method": "announcement_single_employment",
+            "value": "비정규직",
+            "quote": "비정규직",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "한국전력공사",
+            "job": "구미지사 사무-2",
+            "rawUnitName": "구미지사 사무-2",
+            "regions": [
+              "경북"
+            ],
+            "regionsScope": "announcement",
+            "employment": "비정규직",
+            "recruitmentCategory": {
+              "value": "신입",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=305333",
+              "sha256": "0af77b5df182cf61093a772a06fab20597a90cbe89a41bf12bc8a9e14a5655cf",
+              "receivedAt": "2026-09-24T04:48:13.126+00:00"
+            }
+          }
+        }
+      ],
+      "sources": [
+        {
+          "id": "auto_alio",
+          "label": "JOB-ALIO 상세 · 코드 수신·자동 정리",
+          "url": "https://job.alio.go.kr/recruitview.do?idx=305333",
+          "sha256": "0af77b5df182cf61093a772a06fab20597a90cbe89a41bf12bc8a9e14a5655cf",
+          "receivedAt": "2026-09-24T04:48:13.126+00:00"
+        },
+        {
+          "id": "auto_original_1",
+          "label": "기관 원문 링크 · 내용 미확인",
+          "url": "http://recruit.kepco.co.kr/sangsi"
+        }
+      ],
+      "attachments": [
+        {
+          "name": "공식 첨부 1",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3077152",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        },
+        {
+          "name": "공식 첨부 2",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3077179",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        },
+        {
+          "name": "공식 첨부 3",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3077180",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        },
+        {
+          "name": "공식 첨부 4",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3077155",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        },
+        {
+          "name": "공식 첨부 5",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3077156",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        },
+        {
+          "name": "공식 첨부 6",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3077157",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        }
+      ],
+      "checkedAt": "2026-09-24T04:48:13.126+00:00",
+      "collectionMethod": "automatic_public_html",
+      "collectionLabel": "코드 원격 수신 → 규칙 기반 모집단위 정리 → 저장·화면 생성 · GPT 미사용",
+      "sourceNote": "자동으로 확인 가능한 본문·결과 표만 정리했습니다. 첨부·모집단위별 상세 조건은 미확인이며, 공고 전체 원문은 별도로 표시합니다.",
+      "announcementMetadata": {
+        "raw": {
+          "표준직무(NCS)": "경영.회계.사무,전기.전자",
+          "학력정보": "학력무관",
+          "근무분야": "사무직,기술직",
+          "채용구분": "신입",
+          "고용형태": "비정규직",
+          "대체인력여부": "예",
+          "근무지": "경북",
+          "급여정보": "신입 / 평균",
+          "채용인원": "5명",
+          "우대조건": "취업지원대상자(국가보훈 등) : 동점자 처리 시 우선순위 적용 ※ 자세한 사항은 붙임 채용공고문 참조",
+          "채용기간": "26.09.23 ~ 26.10.07",
+          "등록일": "2026.09.23"
+        },
+        "rawApplicationPeriod": {
+          "raw": null,
+          "status": "미확인",
+          "source_section": "전형절차/방법",
+          "note": "명시된 접수기간 원문만 추출; 날짜 정규화·모집단위별 상이한 기간 검토는 별도"
+        },
+        "sourceSha256": "0af77b5df182cf61093a772a06fab20597a90cbe89a41bf12bc8a9e14a5655cf",
+        "sourceReceivedAt": "2026-09-24T04:48:13.126+00:00",
+        "method": "auto-normalize-0.1"
+      },
+      "autoNormalization": {
+        "version": "auto-normalize-0.1",
+        "semanticHash": "0abbae85fa7a1626bd66cc0691d4f61624a7281ca63715ad14c53a1c0fa9f814",
+        "generatedFrom": {
+          "url": "https://job.alio.go.kr/recruitview.do?idx=305333",
+          "sha256": "0af77b5df182cf61093a772a06fab20597a90cbe89a41bf12bc8a9e14a5655cf",
+          "receivedAt": "2026-09-24T04:48:13.126+00:00"
+        },
+        "aiUsed": false,
+        "heldUnitCount": 2
+      },
+      "autoSync": {
+        "semanticHash": "0abbae85fa7a1626bd66cc0691d4f61624a7281ca63715ad14c53a1c0fa9f814",
+        "conditionsHash": "e8d1f8bea014a3a559a0cb883f00874c1fa22f053b6ad8dae555bf03fb2921cb",
+        "rawSha256": "0af77b5df182cf61093a772a06fab20597a90cbe89a41bf12bc8a9e14a5655cf",
+        "lastFetchedAt": "2026-09-24T04:48:13.126+00:00",
+        "contentChangedAt": "2026-09-24T04:48:13.126+00:00",
+        "baselineStatus": "first_capture",
+        "needsReview": true,
+        "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
+        "resultCheck": {
+          "checkedAt": "2026-09-24T04:48:13.126+00:00",
+          "status": "checked",
+          "changedUnitIds": [
+            "auto-d3e6053132e0bf6e",
+            "auto-47c878982996481f",
+            "auto-6750dd9b7a7d3ba3"
+          ],
+          "preservedUnitIds": [],
+          "unmatchedUnitIds": [],
+          "issues": []
+        }
+      },
+      "lifecycle": {
+        "status": "open",
+        "evaluatedDate": "2026-09-24",
+        "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
+      }
     }
   ],
   "refresh": {
-    "status": "failed",
+    "status": "success",
     "mode": "live",
-    "lastAttemptAt": "2026-09-23T21:29:14+00:00",
-    "lastSuccessAt": "2026-09-23T16:56:28+00:00",
-    "candidatesCount": 279,
+    "lastAttemptAt": "2026-09-24T04:48:04+00:00",
+    "lastSuccessAt": "2026-09-24T04:48:04+00:00",
+    "candidatesCount": 329,
     "coverage": {
       "description": "JOB-ALIO 최근60일 이내 진행중·비정규직·경영회계사무 목록, 목록최대2페이지·상세최대4건/회. 저장된 마감공고도 결과를 순환 재확인합니다. 전체공고 수집 아님.",
-      "queuedNoticeCount": 66,
-      "heldUnitCount": 213,
-      "nextPage": 4,
+      "queuedNoticeCount": 64,
+      "heldUnitCount": 265,
+      "nextPage": 5,
       "closedRecheck": {
         "recentDays": 30,
         "recentOrUnknownIntervalDays": 1,
@@ -19640,6 +20498,18 @@
       "requestLimit": 6,
       "automaticRetries": 0,
       "heldNotices": [
+        {
+          "id": "job-alio-305321",
+          "organization": "국가철도공단",
+          "title": "2026년도 제2차 국가철도공단 신입직원 및 체험형 청년인턴 채용공고",
+          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305321",
+          "lastFetchedAt": "2026-09-24T04:48:24.206+00:00",
+          "reasons": [
+            "해당 모집단위의 기간제·계약직 여부 미확인",
+            "모집단위명만으로 사무직 여부 미확인"
+          ],
+          "status": "unverified"
+        },
         {
           "id": "job-alio-305338",
           "organization": "한국서부발전(주)",
@@ -19850,21 +20720,9 @@
             "모집단위명만으로 사무직 여부 미확인"
           ],
           "status": "unverified"
-        },
-        {
-          "id": "job-alio-305068",
-          "organization": "동남권원자력의학원",
-          "title": "2026년 제2차 동남권원자력의학원 직원채용 공고",
-          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305068",
-          "lastFetchedAt": "2026-09-17T04:51:17.859+00:00",
-          "reasons": [
-            "모집단위명만으로 사무직 여부 미확인",
-            "해당 모집단위의 기간제·계약직 여부 미확인"
-          ],
-          "status": "unverified"
         }
       ],
-      "heldNoticesTotal": 25,
+      "heldNoticesTotal": 26,
       "heldNoticesShownLimit": 20
     }
   }
