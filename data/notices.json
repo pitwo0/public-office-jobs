@@ -5752,8 +5752,8 @@
           "id": "auto_alio",
           "label": "JOB-ALIO 상세 · 자동 수신",
           "url": "https://job.alio.go.kr/recruitview.do?idx=304654",
-          "sha256": "c91c92731e6a8961c7247d7d471de0f744add0c84af80b99db0ed6986a883b29",
-          "receivedAt": "2026-09-19T04:36:05.967+00:00"
+          "sha256": "25a102221a2fede8abb3c1a153ff12ea5a63535acc8f04e40a2d65de0f88d459",
+          "receivedAt": "2026-09-24T21:30:05.332+00:00"
         }
       ],
       "attachments": [
@@ -5831,14 +5831,14 @@
       "autoSync": {
         "semanticHash": "bb15c9772ae19632263f7ef32cee05846ac372c72a5999f92a355ae99ec6e701",
         "conditionsHash": "c83ae6c5332aa9a197b84fbd8b54a6f5336375ec91e2e6ac37263ec505e5fee7",
-        "rawSha256": "c91c92731e6a8961c7247d7d471de0f744add0c84af80b99db0ed6986a883b29",
-        "lastFetchedAt": "2026-09-19T04:36:05.967+00:00",
+        "rawSha256": "25a102221a2fede8abb3c1a153ff12ea5a63535acc8f04e40a2d65de0f88d459",
+        "lastFetchedAt": "2026-09-24T21:30:05.332+00:00",
         "contentChangedAt": "2026-09-13T02:11:59.884+00:00",
         "baselineStatus": "compared",
         "needsReview": true,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-09-19T04:36:05.967+00:00",
+          "checkedAt": "2026-09-24T21:30:05.332+00:00",
           "status": "checked",
           "changedUnitIds": [],
           "preservedUnitIds": [],
@@ -15671,16 +15671,16 @@
       ],
       "sources": [
         {
-          "id": "auto_alio",
-          "label": "JOB-ALIO 상세 · 코드 수신·자동 정리",
-          "url": "https://job.alio.go.kr/recruitview.do?idx=304927",
-          "sha256": "805f0a0c4d70e528f6aad4093f5e104ddcb6d842bb1f049da8fd8fb4889fa33a",
-          "receivedAt": "2026-09-19T04:36:12.574+00:00"
-        },
-        {
           "id": "auto_original_1",
           "label": "기관 원문 링크 · 내용 미확인",
           "url": "https://nnibr.ai-recruit.kr/"
+        },
+        {
+          "id": "auto_alio",
+          "label": "JOB-ALIO 상세 · 자동 수신",
+          "url": "https://job.alio.go.kr/recruitview.do?idx=304927",
+          "sha256": "805f0a0c4d70e528f6aad4093f5e104ddcb6d842bb1f049da8fd8fb4889fa33a",
+          "receivedAt": "2026-09-24T21:30:02.354+00:00"
         }
       ],
       "attachments": [
@@ -15753,18 +15753,15 @@
         "semanticHash": "fd6ecee3725997c4dc4dff43101e8d9fbe447982c1ad7b0c14194acfd075dbec",
         "conditionsHash": "6290b4af329249a90efd549351753ecc8bb1e60f4855995eef72410f2ab5678e",
         "rawSha256": "805f0a0c4d70e528f6aad4093f5e104ddcb6d842bb1f049da8fd8fb4889fa33a",
-        "lastFetchedAt": "2026-09-19T04:36:12.574+00:00",
+        "lastFetchedAt": "2026-09-24T21:30:02.354+00:00",
         "contentChangedAt": "2026-09-19T04:36:12.574+00:00",
-        "baselineStatus": "first_capture",
+        "baselineStatus": "compared",
         "needsReview": true,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-09-19T04:36:12.574+00:00",
+          "checkedAt": "2026-09-24T21:30:02.354+00:00",
           "status": "checked",
-          "changedUnitIds": [
-            "auto-9b10a56f0383284e",
-            "auto-6b1339848830fc6e"
-          ],
+          "changedUnitIds": [],
           "preservedUnitIds": [],
           "unmatchedUnitIds": [],
           "issues": []
@@ -20847,19 +20844,633 @@
         "evaluatedDate": "2026-09-25",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
+    },
+    {
+      "id": "job-alio-305238",
+      "idx": 305238,
+      "organization": "북한이탈주민지원재단",
+      "title": "2026년도 북한이탈주민지원재단 블라인드 NCS 기반 3차 신규채용 공고",
+      "posted": "2026-09-22",
+      "deadline": "2026-10-07",
+      "deadlineTime": null,
+      "announcementPeriod": {
+        "start": "2026-09-22",
+        "end": "2026-10-07",
+        "scope": "announcement"
+      },
+      "applicationPeriod": {
+        "start": null,
+        "end": null,
+        "endTime": null,
+        "status": "unverified",
+        "scope": "announcement",
+        "sources": [
+          "auto_alio"
+        ],
+        "raw": null,
+        "note": "명시된 접수기간을 단일 기간으로 해석하지 못했습니다. 공고기간으로 대체하지 않습니다."
+      },
+      "applicationStart": null,
+      "regions": [
+        "서울",
+        "대전",
+        "경기"
+      ],
+      "totalVacancies": 10,
+      "employment": "계약직",
+      "units": [
+        {
+          "id": "auto-a1c8408e379dea63",
+          "title": "일반직_일반계약직_휴직대체인력_22개월(일반행정)",
+          "sourceUnitName": "일반직_일반계약직_휴직대체인력_22개월(일반행정)",
+          "employment": "계약직",
+          "regions": [
+            "서울",
+            "대전",
+            "경기"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "<공통>\r\nㅇ 채용예정일 기준 입사가 가능한 자\r\nㅇ 재단 인사규정 제18조의 결격사유 미해당자\r\nㅇ 재단 인사규정 제40조의 정년(60세)에 도달하지 아니한 자\r\n\r\n<일반직_휴직대체인력, 한시사업인력>\r\nㅇ 자격제한 없음\r\n\r\n<일반직_청년인턴>\r\nㅇ 「청년고용촉진특별법」에 의거 만34세 이하인 자\r\n - 군필자의 경우 다음의 연령 상한 적용\r\n   ※ 복무기간 1년 미만 : 만 35세 이하\r\n   ※ 복무기간 1년 이상 2년 미만 : 만 36세 이하\r\n   ※ 복무기간 2년 이상 : 만 37세 이하\r\nㅇ 경력·학력·성별 : 무관\r\nㅇ 기타 : 재단 인턴 경험이 없는 자, 전일근무 가능자(근무기간 중 학업 및 대외활동 등 병행 불가)\r\n\r\n<일반직_청년인턴(북향민)>\r\nㅇ 「북한이탈주민 보호 및 정착지원에 관한 법률」상 북한이탈주민(북한이탈주민등록확인서 발급가능자) 및 「청년고용촉진특별법」에 의거 만34세 이하인 자\r\n - 군필자의 경우 다음의 연령 상한 적용\r\n   ※ 복무기간 1년 미만 : 만 35세 이하\r\n   ※ 복무기간 1년 이상 2년 미만 : 만 36세 이하\r\n   ※ 복무기간 2년 이상 : 만 37세 이하\r\nㅇ 경력·학력·성별 : 무관\r\nㅇ 기타 : 재단 인턴 경험이 없는 자, 전일근무 가능자(근무기간 중 학업 및 대외활동 등 병행 불가)\r\n\r\n<상담직_취업전문상담사>\r\nㅇ 직업상담 관련 국가 자격증 소지자\r\n\r\n※ 상기 자격 요건은 무기계약직 및 일반계약직 모두 적용되며, 공고일을 기준으로 자격 취득 유효한 상태여야 함\r\n※ 북한이탈주민 응시자(제한경쟁 포함)의 경우, 공고일 기준 가족관계 등록 창설 후 3년 이상 경과한 자여야 함\r\n※ 학사 전공인정 기준 대학알리미(www.arcademyinfo.go.kr) 학과정보 표준분류 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "서울,대전,경기",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "<일반계약직 : 일반직(휴직대체인력, 한시사업인력, 청년인턴), 상담직(휴직대체인력_취업전문상담사)>\r\nㅇ 1차 서류전형 : NCS 기반 입사지원서 등 평가, 5배수 선발\r\nㅇ 2차 면접전형 : 사전 인성검사(온라인), 경험면접(재단 핵심가치 기반 경험, 직무역량, 인성 심층 평가)\r\n\r\n<무기계약직 : 상담직(취업전문상담사)>\r\nㅇ 1차 서류전형 : NCS 기반 입사지원서 등 평가, 10배수 선발\r\nㅇ 2차 필기전형 : 직무수행능력평가(서술형), 5배수 선발 \r\nㅇ 3차 면접전형 : 사전 인성검사(온라인), 그룹토의 및 경험면접(재단 핵심가치 기반 경험, 직무역량, 인성 심층 평가)",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305238",
+              "sha256": "0ac5ee5e500c6905386327c0bc2cade216cfdc160e6e9239795db1ae02beb516",
+              "receivedAt": "2026-09-24T21:30:08.040+00:00",
+              "rawUnitName": "일반직_일반계약직_휴직대체인력_22개월(일반행정)",
+              "rows": [
+                [
+                  "일반직_일반계약직_휴직대체인력_22개월(일반행정)"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "recruitment_unit",
+            "method": "unit_name",
+            "value": "계약직",
+            "quote": "일반직_일반계약직_휴직대체인력_22개월(일반행정)",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "북한이탈주민지원재단",
+            "job": "일반직_일반계약직_휴직대체인력_22개월(일반행정)",
+            "rawUnitName": "일반직_일반계약직_휴직대체인력_22개월(일반행정)",
+            "regions": [
+              "서울",
+              "대전",
+              "경기"
+            ],
+            "regionsScope": "announcement",
+            "employment": "계약직",
+            "recruitmentCategory": {
+              "value": "신입+경력",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=305238",
+              "sha256": "0ac5ee5e500c6905386327c0bc2cade216cfdc160e6e9239795db1ae02beb516",
+              "receivedAt": "2026-09-24T21:30:08.040+00:00"
+            }
+          }
+        },
+        {
+          "id": "auto-51ef06320a4f07a4",
+          "title": "일반직_일반계약직_한시사업인력_13개월(일반행정)",
+          "sourceUnitName": "일반직_일반계약직_한시사업인력_13개월(일반행정)",
+          "employment": "계약직",
+          "regions": [
+            "서울",
+            "대전",
+            "경기"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "<공통>\r\nㅇ 채용예정일 기준 입사가 가능한 자\r\nㅇ 재단 인사규정 제18조의 결격사유 미해당자\r\nㅇ 재단 인사규정 제40조의 정년(60세)에 도달하지 아니한 자\r\n\r\n<일반직_휴직대체인력, 한시사업인력>\r\nㅇ 자격제한 없음\r\n\r\n<일반직_청년인턴>\r\nㅇ 「청년고용촉진특별법」에 의거 만34세 이하인 자\r\n - 군필자의 경우 다음의 연령 상한 적용\r\n   ※ 복무기간 1년 미만 : 만 35세 이하\r\n   ※ 복무기간 1년 이상 2년 미만 : 만 36세 이하\r\n   ※ 복무기간 2년 이상 : 만 37세 이하\r\nㅇ 경력·학력·성별 : 무관\r\nㅇ 기타 : 재단 인턴 경험이 없는 자, 전일근무 가능자(근무기간 중 학업 및 대외활동 등 병행 불가)\r\n\r\n<일반직_청년인턴(북향민)>\r\nㅇ 「북한이탈주민 보호 및 정착지원에 관한 법률」상 북한이탈주민(북한이탈주민등록확인서 발급가능자) 및 「청년고용촉진특별법」에 의거 만34세 이하인 자\r\n - 군필자의 경우 다음의 연령 상한 적용\r\n   ※ 복무기간 1년 미만 : 만 35세 이하\r\n   ※ 복무기간 1년 이상 2년 미만 : 만 36세 이하\r\n   ※ 복무기간 2년 이상 : 만 37세 이하\r\nㅇ 경력·학력·성별 : 무관\r\nㅇ 기타 : 재단 인턴 경험이 없는 자, 전일근무 가능자(근무기간 중 학업 및 대외활동 등 병행 불가)\r\n\r\n<상담직_취업전문상담사>\r\nㅇ 직업상담 관련 국가 자격증 소지자\r\n\r\n※ 상기 자격 요건은 무기계약직 및 일반계약직 모두 적용되며, 공고일을 기준으로 자격 취득 유효한 상태여야 함\r\n※ 북한이탈주민 응시자(제한경쟁 포함)의 경우, 공고일 기준 가족관계 등록 창설 후 3년 이상 경과한 자여야 함\r\n※ 학사 전공인정 기준 대학알리미(www.arcademyinfo.go.kr) 학과정보 표준분류 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "서울,대전,경기",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "<일반계약직 : 일반직(휴직대체인력, 한시사업인력, 청년인턴), 상담직(휴직대체인력_취업전문상담사)>\r\nㅇ 1차 서류전형 : NCS 기반 입사지원서 등 평가, 5배수 선발\r\nㅇ 2차 면접전형 : 사전 인성검사(온라인), 경험면접(재단 핵심가치 기반 경험, 직무역량, 인성 심층 평가)\r\n\r\n<무기계약직 : 상담직(취업전문상담사)>\r\nㅇ 1차 서류전형 : NCS 기반 입사지원서 등 평가, 10배수 선발\r\nㅇ 2차 필기전형 : 직무수행능력평가(서술형), 5배수 선발 \r\nㅇ 3차 면접전형 : 사전 인성검사(온라인), 그룹토의 및 경험면접(재단 핵심가치 기반 경험, 직무역량, 인성 심층 평가)",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305238",
+              "sha256": "0ac5ee5e500c6905386327c0bc2cade216cfdc160e6e9239795db1ae02beb516",
+              "receivedAt": "2026-09-24T21:30:08.040+00:00",
+              "rawUnitName": "일반직_일반계약직_한시사업인력_13개월(일반행정)",
+              "rows": [
+                [
+                  "일반직_일반계약직_한시사업인력_13개월(일반행정)"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "recruitment_unit",
+            "method": "unit_name",
+            "value": "계약직",
+            "quote": "일반직_일반계약직_한시사업인력_13개월(일반행정)",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "북한이탈주민지원재단",
+            "job": "일반직_일반계약직_한시사업인력_13개월(일반행정)",
+            "rawUnitName": "일반직_일반계약직_한시사업인력_13개월(일반행정)",
+            "regions": [
+              "서울",
+              "대전",
+              "경기"
+            ],
+            "regionsScope": "announcement",
+            "employment": "계약직",
+            "recruitmentCategory": {
+              "value": "신입+경력",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=305238",
+              "sha256": "0ac5ee5e500c6905386327c0bc2cade216cfdc160e6e9239795db1ae02beb516",
+              "receivedAt": "2026-09-24T21:30:08.040+00:00"
+            }
+          }
+        }
+      ],
+      "sources": [
+        {
+          "id": "auto_alio",
+          "label": "JOB-ALIO 상세 · 코드 수신·자동 정리",
+          "url": "https://job.alio.go.kr/recruitview.do?idx=305238",
+          "sha256": "0ac5ee5e500c6905386327c0bc2cade216cfdc160e6e9239795db1ae02beb516",
+          "receivedAt": "2026-09-24T21:30:08.040+00:00"
+        },
+        {
+          "id": "auto_original_1",
+          "label": "기관 원문 링크 · 내용 미확인",
+          "url": "https://recruit.incruit.com/koreahana"
+        }
+      ],
+      "attachments": [
+        {
+          "name": "공식 첨부 1",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3076625",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        },
+        {
+          "name": "공식 첨부 2",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3076626",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        },
+        {
+          "name": "공식 첨부 3",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3076627",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        }
+      ],
+      "checkedAt": "2026-09-24T21:30:08.040+00:00",
+      "collectionMethod": "automatic_public_html",
+      "collectionLabel": "코드 원격 수신 → 규칙 기반 모집단위 정리 → 저장·화면 생성 · GPT 미사용",
+      "sourceNote": "자동으로 확인 가능한 본문·결과 표만 정리했습니다. 첨부·모집단위별 상세 조건은 미확인이며, 공고 전체 원문은 별도로 표시합니다.",
+      "announcementMetadata": {
+        "raw": {
+          "표준직무(NCS)": "사업관리,경영.회계.사무,사회복지.종교",
+          "학력정보": "학력무관",
+          "근무분야": "일반직,행정직,사무직,관리직,계약직,상담직",
+          "채용구분": "신입+경력",
+          "고용형태": "무기계약직,비정규직,청년인턴(체험형)",
+          "대체인력여부": "예",
+          "근무지": "서울,대전,경기",
+          "급여정보": "신입 / 평균",
+          "채용인원": "10명",
+          "우대조건": "보훈대상자, 장애인, 북한이탈주민, 당사 청년인턴 5개월 이상 수료자, 비수도권 지역인재",
+          "채용기간": "26.09.22 ~ 26.10.07",
+          "등록일": "2026.09.22"
+        },
+        "rawApplicationPeriod": {
+          "raw": null,
+          "status": "미확인",
+          "source_section": "전형절차/방법",
+          "note": "명시된 접수기간 원문만 추출; 날짜 정규화·모집단위별 상이한 기간 검토는 별도"
+        },
+        "sourceSha256": "0ac5ee5e500c6905386327c0bc2cade216cfdc160e6e9239795db1ae02beb516",
+        "sourceReceivedAt": "2026-09-24T21:30:08.040+00:00",
+        "method": "auto-normalize-0.1"
+      },
+      "autoNormalization": {
+        "version": "auto-normalize-0.1",
+        "semanticHash": "2563175c52e6753b327357a9d1e3b78dcea8cf04b11fbbe8b1f7c7dc8441d953",
+        "generatedFrom": {
+          "url": "https://job.alio.go.kr/recruitview.do?idx=305238",
+          "sha256": "0ac5ee5e500c6905386327c0bc2cade216cfdc160e6e9239795db1ae02beb516",
+          "receivedAt": "2026-09-24T21:30:08.040+00:00"
+        },
+        "aiUsed": false,
+        "heldUnitCount": 4
+      },
+      "autoSync": {
+        "semanticHash": "2563175c52e6753b327357a9d1e3b78dcea8cf04b11fbbe8b1f7c7dc8441d953",
+        "conditionsHash": "0640da66d239cd6e6acce70433ba37119a8ad26b49d02dbd5b90ac7f44c1c8c5",
+        "rawSha256": "0ac5ee5e500c6905386327c0bc2cade216cfdc160e6e9239795db1ae02beb516",
+        "lastFetchedAt": "2026-09-24T21:30:08.040+00:00",
+        "contentChangedAt": "2026-09-24T21:30:08.040+00:00",
+        "baselineStatus": "first_capture",
+        "needsReview": true,
+        "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
+        "resultCheck": {
+          "checkedAt": "2026-09-24T21:30:08.040+00:00",
+          "status": "checked",
+          "changedUnitIds": [
+            "auto-a1c8408e379dea63",
+            "auto-51ef06320a4f07a4"
+          ],
+          "preservedUnitIds": [],
+          "unmatchedUnitIds": [],
+          "issues": []
+        }
+      },
+      "lifecycle": {
+        "status": "open",
+        "evaluatedDate": "2026-09-25",
+        "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
+      }
     }
   ],
   "refresh": {
     "status": "success",
     "mode": "live",
-    "lastAttemptAt": "2026-09-24T17:09:13+00:00",
-    "lastSuccessAt": "2026-09-24T17:09:13+00:00",
-    "candidatesCount": 365,
+    "lastAttemptAt": "2026-09-24T21:29:52+00:00",
+    "lastSuccessAt": "2026-09-24T21:29:52+00:00",
+    "candidatesCount": 374,
     "coverage": {
       "description": "JOB-ALIO 최근60일 이내 진행중·비정규직·경영회계사무 목록, 목록최대2페이지·상세최대4건/회. 저장된 마감공고도 결과를 순환 재확인합니다. 전체공고 수집 아님.",
-      "queuedNoticeCount": 60,
-      "heldUnitCount": 305,
-      "nextPage": 7,
+      "queuedNoticeCount": 58,
+      "heldUnitCount": 316,
+      "nextPage": 8,
       "closedRecheck": {
         "recentDays": 30,
         "recentOrUnknownIntervalDays": 1,
@@ -20870,6 +21481,17 @@
       "requestLimit": 6,
       "automaticRetries": 0,
       "heldNotices": [
+        {
+          "id": "job-alio-305274",
+          "organization": "코레일테크(주)",
+          "title": "2026년 제4차 현장 기간제사원 채용 공고",
+          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305274",
+          "lastFetchedAt": "2026-09-24T21:29:59.679+00:00",
+          "reasons": [
+            "모집단위명만으로 사무직 여부 미확인"
+          ],
+          "status": "unverified"
+        },
         {
           "id": "job-alio-305305",
           "organization": "한국철도공사",
@@ -21082,20 +21704,9 @@
             "모집단위명만으로 사무직 여부 미확인"
           ],
           "status": "unverified"
-        },
-        {
-          "id": "job-alio-304969",
-          "organization": "축산물품질평가원",
-          "title": "2026년 하반기 신규직원 기간제 근로자(장애) 채용공고",
-          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=304969",
-          "lastFetchedAt": "2026-09-18T11:12:27.189+00:00",
-          "reasons": [
-            "모집단위명만으로 사무직 여부 미확인"
-          ],
-          "status": "unverified"
         }
       ],
-      "heldNoticesTotal": 29,
+      "heldNoticesTotal": 30,
       "heldNoticesShownLimit": 20
     }
   }
