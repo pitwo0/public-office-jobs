@@ -5387,7 +5387,7 @@
           "label": "JOB-ALIO 상세 · 자동 수신",
           "url": "https://job.alio.go.kr/recruitview.do?idx=304804",
           "sha256": "e396ccaa87e198fdd470d84491f55f324fe9bdd19d1e74959209b7bb73963b7b",
-          "receivedAt": "2026-09-15T04:52:53.588+00:00"
+          "receivedAt": "2026-09-24T11:43:59.284+00:00"
         }
       ],
       "attachments": [
@@ -5454,13 +5454,13 @@
         "semanticHash": "38b2bf8b02d8d4d554eedfab036ab972b2b452cd7725b3c6516a4f7d527c0a9b",
         "conditionsHash": "fc7c34af40b259bdb157d6bd58f00f1a3d87e9cc42730fd283948493398b4be5",
         "rawSha256": "e396ccaa87e198fdd470d84491f55f324fe9bdd19d1e74959209b7bb73963b7b",
-        "lastFetchedAt": "2026-09-15T04:52:53.588+00:00",
+        "lastFetchedAt": "2026-09-24T11:43:59.284+00:00",
         "contentChangedAt": "2026-09-13T01:28:33.610+00:00",
         "baselineStatus": "compared",
         "needsReview": false,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-09-15T04:52:53.588+00:00",
+          "checkedAt": "2026-09-24T11:43:59.284+00:00",
           "status": "checked",
           "changedUnitIds": [],
           "preservedUnitIds": [],
@@ -6935,7 +6935,7 @@
           "label": "JOB-ALIO 상세 · 자동 수신",
           "url": "https://job.alio.go.kr/recruitview.do?idx=304510",
           "sha256": "8c20f61ec32c8b929861b312ecc9857a00338718bd9c6b107ba20a47fb62ccc8",
-          "receivedAt": "2026-09-21T12:46:09.363+00:00"
+          "receivedAt": "2026-09-24T11:44:01.965+00:00"
         }
       ],
       "attachments": [
@@ -7008,13 +7008,13 @@
         "semanticHash": "beabadcb690a54c1e9a53d6a94feb87645e29e3a35d0a7bdeb98531cabfd13b4",
         "conditionsHash": "0fc61c33c250914aa9988a9b67b4ef03817263f5a71176d345ac07ece15c727d",
         "rawSha256": "8c20f61ec32c8b929861b312ecc9857a00338718bd9c6b107ba20a47fb62ccc8",
-        "lastFetchedAt": "2026-09-21T12:46:09.363+00:00",
+        "lastFetchedAt": "2026-09-24T11:44:01.965+00:00",
         "contentChangedAt": "2026-09-13T16:15:16.974+00:00",
         "baselineStatus": "compared",
         "needsReview": false,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-09-21T12:46:09.363+00:00",
+          "checkedAt": "2026-09-24T11:44:01.965+00:00",
           "status": "checked",
           "changedUnitIds": [],
           "preservedUnitIds": [],
@@ -20480,14 +20480,14 @@
   "refresh": {
     "status": "success",
     "mode": "live",
-    "lastAttemptAt": "2026-09-24T04:48:04+00:00",
-    "lastSuccessAt": "2026-09-24T04:48:04+00:00",
-    "candidatesCount": 329,
+    "lastAttemptAt": "2026-09-24T11:43:48+00:00",
+    "lastSuccessAt": "2026-09-24T11:43:48+00:00",
+    "candidatesCount": 342,
     "coverage": {
       "description": "JOB-ALIO 최근60일 이내 진행중·비정규직·경영회계사무 목록, 목록최대2페이지·상세최대4건/회. 저장된 마감공고도 결과를 순환 재확인합니다. 전체공고 수집 아님.",
-      "queuedNoticeCount": 64,
-      "heldUnitCount": 265,
-      "nextPage": 5,
+      "queuedNoticeCount": 62,
+      "heldUnitCount": 280,
+      "nextPage": 6,
       "closedRecheck": {
         "recentDays": 30,
         "recentOrUnknownIntervalDays": 1,
@@ -20498,6 +20498,28 @@
       "requestLimit": 6,
       "automaticRetries": 0,
       "heldNotices": [
+        {
+          "id": "job-alio-305317",
+          "organization": "시청자미디어재단",
+          "title": "시청자미디어재단 2026년 제5차 채용 공고(채용형인턴, 무기계약직, 기간제계약직)",
+          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305317",
+          "lastFetchedAt": "2026-09-24T11:44:05.122+00:00",
+          "reasons": [
+            "모집단위명만으로 사무직 여부 미확인"
+          ],
+          "status": "unverified"
+        },
+        {
+          "id": "job-alio-305320",
+          "organization": "한국원자력안전기술원",
+          "title": "한국원자력안전기술원 공모직전문위원 채용",
+          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305320",
+          "lastFetchedAt": "2026-09-24T11:43:56.442+00:00",
+          "reasons": [
+            "모집단위명만으로 사무직 여부 미확인"
+          ],
+          "status": "unverified"
+        },
         {
           "id": "job-alio-305321",
           "organization": "국가철도공단",
@@ -20698,31 +20720,9 @@
             "모집단위명만으로 사무직 여부 미확인"
           ],
           "status": "unverified"
-        },
-        {
-          "id": "job-alio-305095",
-          "organization": "한국장애인고용공단",
-          "title": "[한국장애인고용공단 전남지사]2026년 체험형 청년인턴(대체근로자) 채용",
-          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305095",
-          "lastFetchedAt": "2026-09-17T16:59:24.499+00:00",
-          "reasons": [
-            "모집단위명만으로 사무직 여부 미확인"
-          ],
-          "status": "unverified"
-        },
-        {
-          "id": "job-alio-305114",
-          "organization": "한국식품안전관리인증원",
-          "title": "2026년 제13차 계약직직원 채용",
-          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305114",
-          "lastFetchedAt": "2026-09-17T11:40:02.987+00:00",
-          "reasons": [
-            "모집단위명만으로 사무직 여부 미확인"
-          ],
-          "status": "unverified"
         }
       ],
-      "heldNoticesTotal": 26,
+      "heldNoticesTotal": 28,
       "heldNoticesShownLimit": 20
     }
   }

@@ -238,8 +238,8 @@
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
       "lastSeenAt": "2026-09-23T04:43:40.398+00:00",
-      "lastAttemptAt": "2026-09-18T20:54:23.083+00:00",
-      "lastSuccessAt": "2026-09-15T04:52:53.588+00:00",
+      "lastAttemptAt": "2026-09-24T11:43:59.284+00:00",
+      "lastSuccessAt": "2026-09-24T11:43:59.284+00:00",
       "lastError": "원문 수신 실패·불완전·접근제한: transport_error"
     },
     "job-alio-304793": {
@@ -1075,8 +1075,8 @@
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
       "lastSeenAt": "2026-09-15T21:19:37.848+00:00",
-      "lastAttemptAt": "2026-09-21T12:46:09.363+00:00",
-      "lastSuccessAt": "2026-09-21T12:46:09.363+00:00",
+      "lastAttemptAt": "2026-09-24T11:44:01.965+00:00",
+      "lastSuccessAt": "2026-09-24T11:44:01.965+00:00",
       "lastError": "원문 수신 실패·불완전·접근제한: transport_error"
     },
     "job-alio-304880": {
@@ -1923,18 +1923,18 @@
         "region_raw": "세종",
         "employment_raw": "비정규직",
         "registered_raw": "2026.09.16",
-        "closing_raw": "26.10.01 D-9",
+        "closing_raw": "26.10.01 D-6",
         "application_period": {
           "raw": null,
           "status": "미확인",
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=305073",
-        "list_page": 3,
+        "list_page": 5,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-21T21:57:50.879+00:00",
+      "lastSeenAt": "2026-09-24T11:43:53.469+00:00",
       "lastAttemptAt": "2026-09-21T04:54:41.000+00:00",
       "lastSuccessAt": "2026-09-16T11:30:30.804+00:00",
       "lastError": "원문 수신 실패·불완전·접근제한: transport_error"
@@ -1949,18 +1949,18 @@
         "region_raw": "충북",
         "employment_raw": "비정규직",
         "registered_raw": "2026.09.16",
-        "closing_raw": "26.10.01 D-9",
+        "closing_raw": "26.10.01 D-6",
         "application_period": {
           "raw": null,
           "status": "미확인",
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=305071",
-        "list_page": 3,
+        "list_page": 5,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-21T21:57:50.879+00:00",
+      "lastSeenAt": "2026-09-24T11:43:53.469+00:00",
       "lastAttemptAt": "2026-09-16T16:55:14.060+00:00",
       "lastError": "원문 수신 실패·불완전·접근제한: transport_error"
     },
@@ -1999,18 +1999,18 @@
         "region_raw": "세종",
         "employment_raw": "비정규직",
         "registered_raw": "2026.09.16",
-        "closing_raw": "26.09.30 D-7",
+        "closing_raw": "26.09.30 D-5",
         "application_period": {
           "raw": null,
           "status": "미확인",
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=305061",
-        "list_page": 4,
+        "list_page": 5,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-22T11:36:11.672+00:00",
+      "lastSeenAt": "2026-09-24T11:43:53.469+00:00",
       "lastAttemptAt": "2026-09-16T11:30:39.047+00:00"
     },
     "job-alio-305057": {
@@ -2023,18 +2023,18 @@
         "region_raw": "서울",
         "employment_raw": "비정규직 외 1",
         "registered_raw": "2026.09.16",
-        "closing_raw": "26.10.01 D-8",
+        "closing_raw": "26.10.01 D-6",
         "application_period": {
           "raw": null,
           "status": "미확인",
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=305057",
-        "list_page": 4,
+        "list_page": 5,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-22T11:36:11.672+00:00",
+      "lastSeenAt": "2026-09-24T11:43:53.469+00:00",
       "lastAttemptAt": "2026-09-16T21:17:31.890+00:00",
       "lastError": "원문 수신 실패·불완전·접근제한: transport_error"
     },
@@ -2048,18 +2048,18 @@
         "region_raw": "대전",
         "employment_raw": "비정규직",
         "registered_raw": "2026.09.16",
-        "closing_raw": "26.09.30 D-7",
+        "closing_raw": "26.09.30 D-5",
         "application_period": {
           "raw": null,
           "status": "미확인",
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=305053",
-        "list_page": 4,
+        "list_page": 5,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-22T11:36:11.672+00:00",
+      "lastSeenAt": "2026-09-24T11:43:53.469+00:00",
       "lastAttemptAt": "2026-09-16T16:54:10.356+00:00",
       "lastError": "원문 수신 실패·불완전·접근제한: transport_error"
     },
@@ -2073,18 +2073,18 @@
         "region_raw": "충남",
         "employment_raw": "비정규직",
         "registered_raw": "2026.09.17",
-        "closing_raw": "26.10.02 D-10",
+        "closing_raw": "26.10.02 D-7",
         "application_period": {
           "raw": null,
           "status": "미확인",
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=305080",
-        "list_page": 2,
+        "list_page": 5,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-21T12:45:59.931+00:00",
+      "lastSeenAt": "2026-09-24T11:43:53.469+00:00",
       "lastAttemptAt": "2026-09-17T04:51:07.796+00:00",
       "lastSuccessAt": "2026-09-17T04:51:07.796+00:00"
     },
@@ -2098,18 +2098,18 @@
         "region_raw": "부산",
         "employment_raw": "무기계약직 외 2",
         "registered_raw": "2026.09.17",
-        "closing_raw": "26.09.30 D-8",
+        "closing_raw": "26.09.30 D-5",
         "application_period": {
           "raw": null,
           "status": "미확인",
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=305068",
-        "list_page": 2,
+        "list_page": 5,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-21T12:45:59.931+00:00",
+      "lastSeenAt": "2026-09-24T11:43:53.469+00:00",
       "lastAttemptAt": "2026-09-17T04:51:17.859+00:00",
       "lastSuccessAt": "2026-09-17T04:51:17.859+00:00"
     },
@@ -2123,18 +2123,18 @@
         "region_raw": "부산",
         "employment_raw": "비정규직",
         "registered_raw": "2026.09.17",
-        "closing_raw": "26.10.01 D-9",
+        "closing_raw": "26.10.01 D-6",
         "application_period": {
           "raw": null,
           "status": "미확인",
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=305002",
-        "list_page": 3,
+        "list_page": 5,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-21T21:57:50.879+00:00",
+      "lastSeenAt": "2026-09-24T11:43:53.469+00:00",
       "lastAttemptAt": "2026-09-17T21:22:38.495+00:00",
       "lastError": "원문 수신 실패·불완전·접근제한: transport_error"
     },
@@ -2173,18 +2173,18 @@
         "region_raw": "충북",
         "employment_raw": "비정규직",
         "registered_raw": "2026.09.17",
-        "closing_raw": "26.10.01 D-9",
+        "closing_raw": "26.10.01 D-6",
         "application_period": {
           "raw": null,
           "status": "미확인",
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=305114",
-        "list_page": 2,
+        "list_page": 5,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-21T12:45:59.931+00:00",
+      "lastSeenAt": "2026-09-24T11:43:53.469+00:00",
       "lastAttemptAt": "2026-09-17T11:40:02.987+00:00",
       "lastSuccessAt": "2026-09-17T11:40:02.987+00:00"
     },
@@ -2198,18 +2198,18 @@
         "region_raw": "전남광주",
         "employment_raw": "비정규직 외 1",
         "registered_raw": "2026.09.17",
-        "closing_raw": "26.09.25 D-3",
+        "closing_raw": "26.09.25 D+0",
         "application_period": {
           "raw": null,
           "status": "미확인",
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=305095",
-        "list_page": 2,
+        "list_page": 5,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-21T12:45:59.931+00:00",
+      "lastSeenAt": "2026-09-24T11:43:53.469+00:00",
       "lastAttemptAt": "2026-09-17T16:59:24.499+00:00",
       "lastSuccessAt": "2026-09-17T16:59:24.499+00:00"
     },
@@ -2948,7 +2948,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-24T04:48:06.782+00:00",
+      "lastSeenAt": "2026-09-24T11:43:50.440+00:00",
       "lastAttemptAt": "2026-09-23T11:33:54.054+00:00",
       "lastSuccessAt": "2026-09-23T11:33:54.054+00:00"
     },
@@ -2973,7 +2973,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-24T04:48:06.782+00:00",
+      "lastSeenAt": "2026-09-24T11:43:50.440+00:00",
       "lastAttemptAt": "2026-09-23T11:34:02.465+00:00",
       "lastSuccessAt": "2026-09-23T11:34:02.465+00:00"
     },
@@ -2998,7 +2998,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-24T04:48:06.782+00:00",
+      "lastSeenAt": "2026-09-24T11:43:50.440+00:00",
       "lastAttemptAt": "2026-09-23T16:56:37.399+00:00",
       "lastSuccessAt": "2026-09-23T16:56:37.399+00:00"
     },
@@ -3023,7 +3023,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-24T04:48:06.782+00:00",
+      "lastSeenAt": "2026-09-24T11:43:50.440+00:00",
       "lastAttemptAt": "2026-09-23T16:56:46.171+00:00",
       "lastSuccessAt": "2026-09-23T16:56:46.171+00:00"
     },
@@ -3048,7 +3048,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-24T04:48:06.782+00:00",
+      "lastSeenAt": "2026-09-24T11:43:50.440+00:00",
       "lastAttemptAt": "2026-09-23T21:29:57.407+00:00",
       "lastError": "원문 수신 실패·불완전·접근제한: transport_error"
     },
@@ -3073,7 +3073,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-24T04:48:06.782+00:00",
+      "lastSeenAt": "2026-09-24T11:43:50.440+00:00",
       "lastAttemptAt": "2026-09-23T21:31:01.179+00:00",
       "lastError": "원문 수신 실패·불완전·접근제한: transport_error"
     },
@@ -3098,7 +3098,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-24T04:48:06.782+00:00",
+      "lastSeenAt": "2026-09-24T11:43:50.440+00:00",
       "lastAttemptAt": "2026-09-24T04:48:13.126+00:00",
       "lastSuccessAt": "2026-09-24T04:48:13.126+00:00"
     },
@@ -3123,12 +3123,12 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-24T04:48:06.782+00:00",
+      "lastSeenAt": "2026-09-24T11:43:50.440+00:00",
       "lastAttemptAt": "2026-09-24T04:48:24.206+00:00",
       "lastSuccessAt": "2026-09-24T04:48:24.206+00:00"
     },
     "job-alio-305320": {
-      "state": "queued",
+      "state": "held",
       "row": {
         "id": "job-alio-305320",
         "idx": "305320",
@@ -3148,10 +3148,12 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-24T04:48:06.782+00:00"
+      "lastSeenAt": "2026-09-24T11:43:50.440+00:00",
+      "lastAttemptAt": "2026-09-24T11:43:56.442+00:00",
+      "lastSuccessAt": "2026-09-24T11:43:56.442+00:00"
     },
     "job-alio-305317": {
-      "state": "queued",
+      "state": "held",
       "row": {
         "id": "job-alio-305317",
         "idx": "305317",
@@ -3171,7 +3173,9 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-24T04:48:06.782+00:00"
+      "lastSeenAt": "2026-09-24T11:43:50.440+00:00",
+      "lastAttemptAt": "2026-09-24T11:44:05.122+00:00",
+      "lastSuccessAt": "2026-09-24T11:44:05.122+00:00"
     },
     "job-alio-305310": {
       "state": "queued",
@@ -6665,8 +6669,203 @@
         "receivedAt": "2026-09-24T04:48:24.206+00:00"
       },
       "employmentEvidence": "청년인턴-강원본부(일반)"
+    },
+    "job-alio-305320:auto-6158b0d3cb7614d7": {
+      "id": "job-alio-305320:auto-6158b0d3cb7614d7",
+      "noticeId": "job-alio-305320",
+      "rawUnitName": "공모직 전문위원",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305320",
+        "sha256": "752dd4a09884bc38a2122ca216822091a05b420a140d16fe2b902c81b7cb540b",
+        "receivedAt": "2026-09-24T11:43:56.442+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-305317:auto-83d4d5245b232884": {
+      "id": "job-alio-305317:auto-83d4d5245b232884",
+      "noticeId": "job-alio-305317",
+      "rawUnitName": "신입직(채용형인턴), 시청자권익증진-안전정보화부",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305317",
+        "sha256": "72802bad128f1c1c3351a9ac6317ff91fed6cdac5d14500cdb35779bb151f00d",
+        "receivedAt": "2026-09-24T11:44:05.122+00:00"
+      },
+      "employmentEvidence": "신입직(채용형인턴), 시청자권익증진-안전정보화부"
+    },
+    "job-alio-305317:auto-6c52c09338e885a7": {
+      "id": "job-alio-305317:auto-6c52c09338e885a7",
+      "noticeId": "job-alio-305317",
+      "rawUnitName": "신입직(채용형인턴), 시청자권익증진-미디어진흥부",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305317",
+        "sha256": "72802bad128f1c1c3351a9ac6317ff91fed6cdac5d14500cdb35779bb151f00d",
+        "receivedAt": "2026-09-24T11:44:05.122+00:00"
+      },
+      "employmentEvidence": "신입직(채용형인턴), 시청자권익증진-미디어진흥부"
+    },
+    "job-alio-305317:auto-a907d26031e9aca2": {
+      "id": "job-alio-305317:auto-a907d26031e9aca2",
+      "noticeId": "job-alio-305317",
+      "rawUnitName": "신입직(채용형인턴), 시청자권익증진-강원센터",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305317",
+        "sha256": "72802bad128f1c1c3351a9ac6317ff91fed6cdac5d14500cdb35779bb151f00d",
+        "receivedAt": "2026-09-24T11:44:05.122+00:00"
+      },
+      "employmentEvidence": "신입직(채용형인턴), 시청자권익증진-강원센터"
+    },
+    "job-alio-305317:auto-81e61b6b6f443553": {
+      "id": "job-alio-305317:auto-81e61b6b6f443553",
+      "noticeId": "job-alio-305317",
+      "rawUnitName": "신입직(채용형인턴), 시청자권익증진-인천센터",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305317",
+        "sha256": "72802bad128f1c1c3351a9ac6317ff91fed6cdac5d14500cdb35779bb151f00d",
+        "receivedAt": "2026-09-24T11:44:05.122+00:00"
+      },
+      "employmentEvidence": "신입직(채용형인턴), 시청자권익증진-인천센터"
+    },
+    "job-alio-305317:auto-84653cad4d84adb9": {
+      "id": "job-alio-305317:auto-84653cad4d84adb9",
+      "noticeId": "job-alio-305317",
+      "rawUnitName": "신입직(채용형인턴), 시청자권익증진-울산센터",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305317",
+        "sha256": "72802bad128f1c1c3351a9ac6317ff91fed6cdac5d14500cdb35779bb151f00d",
+        "receivedAt": "2026-09-24T11:44:05.122+00:00"
+      },
+      "employmentEvidence": "신입직(채용형인턴), 시청자권익증진-울산센터"
+    },
+    "job-alio-305317:auto-01482411d265c921": {
+      "id": "job-alio-305317:auto-01482411d265c921",
+      "noticeId": "job-alio-305317",
+      "rawUnitName": "신입직(채용형인턴), 시청자권익증진-충북센터",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305317",
+        "sha256": "72802bad128f1c1c3351a9ac6317ff91fed6cdac5d14500cdb35779bb151f00d",
+        "receivedAt": "2026-09-24T11:44:05.122+00:00"
+      },
+      "employmentEvidence": "신입직(채용형인턴), 시청자권익증진-충북센터"
+    },
+    "job-alio-305317:auto-e283cfc0d023354a": {
+      "id": "job-alio-305317:auto-e283cfc0d023354a",
+      "noticeId": "job-alio-305317",
+      "rawUnitName": "신입직(채용형인턴), 시청자권익증진-투명성센터",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305317",
+        "sha256": "72802bad128f1c1c3351a9ac6317ff91fed6cdac5d14500cdb35779bb151f00d",
+        "receivedAt": "2026-09-24T11:44:05.122+00:00"
+      },
+      "employmentEvidence": "신입직(채용형인턴), 시청자권익증진-투명성센터"
+    },
+    "job-alio-305317:auto-cca990fced08c288": {
+      "id": "job-alio-305317:auto-cca990fced08c288",
+      "noticeId": "job-alio-305317",
+      "rawUnitName": "신입직(채용형인턴), 시청자권익증진-대구센터",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305317",
+        "sha256": "72802bad128f1c1c3351a9ac6317ff91fed6cdac5d14500cdb35779bb151f00d",
+        "receivedAt": "2026-09-24T11:44:05.122+00:00"
+      },
+      "employmentEvidence": "신입직(채용형인턴), 시청자권익증진-대구센터"
+    },
+    "job-alio-305317:auto-73086fcc3a2b1729": {
+      "id": "job-alio-305317:auto-73086fcc3a2b1729",
+      "noticeId": "job-alio-305317",
+      "rawUnitName": "신입직(채용형인턴), 시청자권익증진-경기센터",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305317",
+        "sha256": "72802bad128f1c1c3351a9ac6317ff91fed6cdac5d14500cdb35779bb151f00d",
+        "receivedAt": "2026-09-24T11:44:05.122+00:00"
+      },
+      "employmentEvidence": "신입직(채용형인턴), 시청자권익증진-경기센터"
+    },
+    "job-alio-305317:auto-0a65f24fdc46927f": {
+      "id": "job-alio-305317:auto-0a65f24fdc46927f",
+      "noticeId": "job-alio-305317",
+      "rawUnitName": "신입직(특정업무직), 시청자권익증진-미디어접근부",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305317",
+        "sha256": "72802bad128f1c1c3351a9ac6317ff91fed6cdac5d14500cdb35779bb151f00d",
+        "receivedAt": "2026-09-24T11:44:05.122+00:00"
+      },
+      "employmentEvidence": "무기계약직,비정규직,청년인턴(채용형),정규직"
+    },
+    "job-alio-305317:auto-0521090d3eb9b565": {
+      "id": "job-alio-305317:auto-0521090d3eb9b565",
+      "noticeId": "job-alio-305317",
+      "rawUnitName": "경력직(기간제계약직(사업계약직)), 시청자권익증진-미디어교육정책부",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305317",
+        "sha256": "72802bad128f1c1c3351a9ac6317ff91fed6cdac5d14500cdb35779bb151f00d",
+        "receivedAt": "2026-09-24T11:44:05.122+00:00"
+      },
+      "employmentEvidence": "경력직(기간제계약직(사업계약직)), 시청자권익증진-미디어교육정책부"
+    },
+    "job-alio-305317:auto-85757472b1dfb560": {
+      "id": "job-alio-305317:auto-85757472b1dfb560",
+      "noticeId": "job-alio-305317",
+      "rawUnitName": "신입직(기간제계약직(육아휴직대체)), 시청자권익증진-미디어교육정책부(5개월)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305317",
+        "sha256": "72802bad128f1c1c3351a9ac6317ff91fed6cdac5d14500cdb35779bb151f00d",
+        "receivedAt": "2026-09-24T11:44:05.122+00:00"
+      },
+      "employmentEvidence": "신입직(기간제계약직(육아휴직대체)), 시청자권익증진-미디어교육정책부(5개월)"
+    },
+    "job-alio-305317:auto-deafb3ee2459e5fd": {
+      "id": "job-alio-305317:auto-deafb3ee2459e5fd",
+      "noticeId": "job-alio-305317",
+      "rawUnitName": "신입직(기간제계약직(육아휴직대체)), 시청자권익증진-미디어교육정책부(1년 3개월)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305317",
+        "sha256": "72802bad128f1c1c3351a9ac6317ff91fed6cdac5d14500cdb35779bb151f00d",
+        "receivedAt": "2026-09-24T11:44:05.122+00:00"
+      },
+      "employmentEvidence": "신입직(기간제계약직(육아휴직대체)), 시청자권익증진-미디어교육정책부(1년 3개월)"
+    },
+    "job-alio-305317:auto-1561afd240e183fd": {
+      "id": "job-alio-305317:auto-1561afd240e183fd",
+      "noticeId": "job-alio-305317",
+      "rawUnitName": "신입직(기간제계약직(육아휴직대체)), 시청자권익증진-센터지원권익부",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305317",
+        "sha256": "72802bad128f1c1c3351a9ac6317ff91fed6cdac5d14500cdb35779bb151f00d",
+        "receivedAt": "2026-09-24T11:44:05.122+00:00"
+      },
+      "employmentEvidence": "신입직(기간제계약직(육아휴직대체)), 시청자권익증진-센터지원권익부"
     }
   },
-  "nextPage": 5,
+  "nextPage": 6,
   "schemaVersion": "automatic-refresh-state-0.2"
 }
