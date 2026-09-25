@@ -1,5 +1,5 @@
 {
-  "startedAt": "2026-09-25T17:09:31+00:00",
+  "startedAt": "2026-09-25T21:33:47+00:00",
   "mode": "live",
   "records": [],
   "errors": [
@@ -10,25 +10,25 @@
       "existingNoticePreserved": false
     },
     {
-      "id": "job-alio-304649",
+      "id": "job-alio-304624",
       "phase": "detail",
       "error": "원문 수신 실패·불완전·접근제한: transport_error",
       "existingNoticePreserved": false
     },
     {
-      "id": "job-alio-304990",
+      "id": "job-alio-304899",
       "phase": "detail",
       "error": "원문 수신 실패·불완전·접근제한: transport_error",
       "existingNoticePreserved": true
     },
     {
-      "id": "job-alio-304890",
+      "id": "job-alio-304636",
       "phase": "detail",
       "error": "원문 수신 실패·불완전·접근제한: transport_error",
       "existingNoticePreserved": true
     },
     {
-      "id": "job-alio-304632",
+      "id": "job-alio-304622",
       "phase": "detail",
       "error": "원문 수신 실패·불완전·접근제한: transport_error",
       "existingNoticePreserved": false
@@ -40,22 +40,22 @@
     },
     {
       "phase": "detail",
-      "id": "job-alio-304649",
+      "id": "job-alio-304624",
       "error": "원문 수신 실패·불완전·접근제한: transport_error"
     },
     {
       "phase": "detail",
-      "id": "job-alio-304990",
+      "id": "job-alio-304899",
       "error": "원문 수신 실패·불완전·접근제한: transport_error"
     },
     {
       "phase": "detail",
-      "id": "job-alio-304890",
+      "id": "job-alio-304636",
       "error": "원문 수신 실패·불완전·접근제한: transport_error"
     },
     {
       "phase": "detail",
-      "id": "job-alio-304632",
+      "id": "job-alio-304622",
       "error": "원문 수신 실패·불완전·접근제한: transport_error"
     }
   ],
@@ -67,10 +67,10 @@
   "deadlineEvents": [],
   "actualListPages": 0,
   "preservedFailedIds": [
-    "job-alio-304632",
-    "job-alio-304649",
-    "job-alio-304890",
-    "job-alio-304990"
+    "job-alio-304622",
+    "job-alio-304624",
+    "job-alio-304636",
+    "job-alio-304899"
   ],
-  "finishedAt": "2026-09-25T17:11:17+00:00"
+  "finishedAt": "2026-09-25T21:35:33+00:00"
 }
