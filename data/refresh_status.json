@@ -1,43 +1,76 @@
 {
-  "startedAt": "2026-09-25T11:49:14+00:00",
+  "startedAt": "2026-09-25T17:09:31+00:00",
   "mode": "live",
-  "records": [
+  "records": [],
+  "errors": [
     {
-      "id": "job-alio-305162",
-      "status": "added",
-      "unitCount": 16
+      "id": null,
+      "phase": "list",
+      "error": "원문 수신 실패·불완전·접근제한: transport_error",
+      "existingNoticePreserved": false
     },
     {
-      "id": "job-alio-304996",
-      "status": "unchanged",
-      "unitCount": 5
+      "id": "job-alio-304649",
+      "phase": "detail",
+      "error": "원문 수신 실패·불완전·접근제한: transport_error",
+      "existingNoticePreserved": false
     },
     {
-      "id": "job-alio-304846",
-      "status": "unchanged",
-      "unitCount": 1
+      "id": "job-alio-304990",
+      "phase": "detail",
+      "error": "원문 수신 실패·불완전·접근제한: transport_error",
+      "existingNoticePreserved": true
     },
-    {
-      "id": "job-alio-305128",
-      "status": "held",
-      "unitCount": 0
-    }
-  ],
-  "errors": [],
-  "newRemoteRequests": 6,
-  "status": "success",
-  "noticeCount": 50,
-  "added": 1,
-  "changedIds": [],
-  "deadlineEvents": [
     {
       "id": "job-alio-304890",
-      "from": "open",
-      "to": "deadline_elapsed",
-      "basis": "저장된 마감일·시각(KST) 경과; 원문 정정 여부와 별개"
+      "phase": "detail",
+      "error": "원문 수신 실패·불완전·접근제한: transport_error",
+      "existingNoticePreserved": true
+    },
+    {
+      "id": "job-alio-304632",
+      "phase": "detail",
+      "error": "원문 수신 실패·불완전·접근제한: transport_error",
+      "existingNoticePreserved": false
+    },
+    {
+      "phase": "list",
+      "page": 1,
+      "error": "원문 수신 실패·불완전·접근제한: transport_error"
+    },
+    {
+      "phase": "detail",
+      "id": "job-alio-304649",
+      "error": "원문 수신 실패·불완전·접근제한: transport_error"
+    },
+    {
+      "phase": "detail",
+      "id": "job-alio-304990",
+      "error": "원문 수신 실패·불완전·접근제한: transport_error"
+    },
+    {
+      "phase": "detail",
+      "id": "job-alio-304890",
+      "error": "원문 수신 실패·불완전·접근제한: transport_error"
+    },
+    {
+      "phase": "detail",
+      "id": "job-alio-304632",
+      "error": "원문 수신 실패·불완전·접근제한: transport_error"
     }
   ],
-  "actualListPages": 2,
-  "preservedFailedIds": [],
-  "finishedAt": "2026-09-25T11:49:32+00:00"
+  "newRemoteRequests": 5,
+  "status": "failed",
+  "noticeCount": 50,
+  "added": 0,
+  "changedIds": [],
+  "deadlineEvents": [],
+  "actualListPages": 0,
+  "preservedFailedIds": [
+    "job-alio-304632",
+    "job-alio-304649",
+    "job-alio-304890",
+    "job-alio-304990"
+  ],
+  "finishedAt": "2026-09-25T17:11:17+00:00"
 }
