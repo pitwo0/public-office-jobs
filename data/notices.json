@@ -1187,7 +1187,7 @@
           "label": "JOB-ALIO 상세 · 자동 수신",
           "url": "https://job.alio.go.kr/recruitview.do?idx=304846",
           "sha256": "bbd0263ab41e39c03b90e744187d03333ff40513fc515077a922a2728d6a5eb0",
-          "receivedAt": "2026-09-22T16:56:41.071+00:00"
+          "receivedAt": "2026-09-25T11:49:29.188+00:00"
         }
       ],
       "attachments": [
@@ -1236,13 +1236,13 @@
         "semanticHash": "dbfa05c581a2775afd52d615d663a4a388edd31311757eab74e86f2a8cba15fa",
         "conditionsHash": "a2ae4a6f8c4905a220bba2225bfcaf3d94210d8a454c08a8cedb0ef3ebe1ad56",
         "rawSha256": "bbd0263ab41e39c03b90e744187d03333ff40513fc515077a922a2728d6a5eb0",
-        "lastFetchedAt": "2026-09-22T16:56:41.071+00:00",
+        "lastFetchedAt": "2026-09-25T11:49:29.188+00:00",
         "contentChangedAt": null,
         "baselineStatus": "compared",
         "needsReview": false,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-09-22T16:56:41.071+00:00",
+          "checkedAt": "2026-09-25T11:49:29.188+00:00",
           "status": "checked",
           "changedUnitIds": [],
           "preservedUnitIds": [],
@@ -1574,7 +1574,7 @@
       "applicationStartTime": null,
       "applicationStatusAtCheck": "공고 게시 중·입사지원 접수 시작 전",
       "lifecycle": {
-        "status": "open",
+        "status": "deadline_elapsed",
         "evaluatedDate": "2026-09-25",
         "basis": "저장된 마감일·시각(KST) 경과; 원문 정정 여부와 별개"
       },
@@ -10858,7 +10858,7 @@
           "label": "JOB-ALIO 상세 · 자동 수신",
           "url": "https://job.alio.go.kr/recruitview.do?idx=304996",
           "sha256": "451d4a0761c77c895471f4d9cc2e61bf4f406664f5ad9f5cd4936241a7c2d5be",
-          "receivedAt": "2026-09-19T10:57:18.093+00:00"
+          "receivedAt": "2026-09-25T11:49:26.180+00:00"
         }
       ],
       "attachments": [
@@ -10919,13 +10919,13 @@
         "semanticHash": "2f65668f939a286d451548bcf1b4dcbde78a7e5b337961a1bc5750a491c1d03a",
         "conditionsHash": "96a62cd0abb7dcb69f7a65c98a0ee641e433c51f81a82f6bebd17ccb89f90289",
         "rawSha256": "451d4a0761c77c895471f4d9cc2e61bf4f406664f5ad9f5cd4936241a7c2d5be",
-        "lastFetchedAt": "2026-09-19T10:57:18.093+00:00",
+        "lastFetchedAt": "2026-09-25T11:49:26.180+00:00",
         "contentChangedAt": "2026-09-15T11:42:57.415+00:00",
         "baselineStatus": "compared",
         "needsReview": true,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-09-19T10:57:18.093+00:00",
+          "checkedAt": "2026-09-25T11:49:26.180+00:00",
           "status": "checked",
           "changedUnitIds": [],
           "preservedUnitIds": [],
@@ -22259,19 +22259,4383 @@
         "evaluatedDate": "2026-09-25",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
+    },
+    {
+      "id": "job-alio-305162",
+      "idx": 305162,
+      "organization": "가축위생방역지원본부",
+      "title": "[가축위생방역지원본부 제2026-42호] 2026년 제2차 기간제근로자 채용 공고",
+      "posted": "2026-09-21",
+      "deadline": "2026-10-05",
+      "deadlineTime": null,
+      "announcementPeriod": {
+        "start": "2026-09-21",
+        "end": "2026-10-05",
+        "scope": "announcement"
+      },
+      "applicationPeriod": {
+        "start": null,
+        "end": null,
+        "endTime": null,
+        "status": "unverified",
+        "scope": "announcement",
+        "sources": [
+          "auto_alio"
+        ],
+        "raw": null,
+        "note": "명시된 접수기간을 단일 기간으로 해석하지 못했습니다. 공고기간으로 대체하지 않습니다."
+      },
+      "applicationStart": null,
+      "regions": [
+        "인천",
+        "대전",
+        "대구",
+        "부산",
+        "울산",
+        "경기",
+        "강원",
+        "충남",
+        "충북",
+        "경북",
+        "경남",
+        "전북",
+        "제주",
+        "세종",
+        "전남광주"
+      ],
+      "totalVacancies": 22,
+      "employment": "기간제",
+      "units": [
+        {
+          "id": "auto-7fbdddc59b7c24ec",
+          "title": "기간제근로자(대체인력, 방역직) 경남북부사무소",
+          "sourceUnitName": "기간제근로자(대체인력, 방역직) 경남북부사무소",
+          "employment": "기간제",
+          "regions": [
+            "인천",
+            "대전",
+            "대구",
+            "부산",
+            "울산",
+            "경기",
+            "강원",
+            "충남",
+            "충북",
+            "경북",
+            "경남",
+            "전북",
+            "제주",
+            "세종",
+            "전남광주"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "· 공통자격\r\n1. 가축위생방역지원본부 인사규정 제57조(정년)에 달하지 않는 자\r\n ※ 임용예정일 기준 만 60세를 초과하는 자는 지원이 제한됨\r\n2. 가축위생방역지원본부 인사규정 제23조(결격사유)에 의한 결격사유가 없는 자\r\n3. 최종합격자 발표 후 임용예정일부터 즉시 근무가 가능한 자\r\n\r\n· 방역직(7급)\r\n1. 「국가기술자격법」에 의한 축산산업기사 이상의 자격이 있는 자\r\n2. 「고등교육법」에 의한 전문대학 이상의 대학에서 수의학·축산학·생물학 또는 보건학 분야를 전공하고 졸업한 자(졸업예정자를 포함한다) 또는 이와 동등 이상의 학력을 가진 자\r\n3. 국가·지방자치단체 행정기관에서 가축방역업무(예방접종, 임상검사, 검사시료 채취 및 소독 등)를 1년 이상 수행한 경험이 있는 자\r\n4. 축산관련단체에서 가축방역업무(예방접종, 임상검사, 검사시료 채취 및 소독 등)를 2년 이상 종사한 경험이 있는 자\r\n\r\n· 위생직(7급)\r\n1. 고등교육법 제2조에 따른 학교에서 수의학·축산학, 식품학, 생물학 분야의 학과 또는 학부를 이수하여 졸업한 자 또는, 이와 동등이상의 자격이 있는 자\r\n2. 「국가기술자격법」에 따른 축산기능사 이상 또는 식육처리기능사의 자격이 있는 사람\r\n3. 축산물 시험·검사기관에서 축산물 위생 관련 업무에 1년 이상 종사한 경험이 있는 사람\r\n\r\n· 사무운영직(7급)\r\n1. 고졸 이상의 학력소지자로서 가축방역?위생분야 업무수행이 가능하다고 판단되는 자\r\n2. 경력 및 기타자격으로 상기요건에 상응하는 자격이 있다고 본부장이 인정하는 자\r\n\r\n· 기록물 관리 전문요원\r\n1. 「공공기록물 관리에 관한 법률 시행령」 제78조제1항에 따라 기록물 관리 전문요원 요건을 충족하는 자\r\n\r\n· 청년인턴(체험형)\r\n1. 임용예정일(’26. 11. 4.) 기준 「청년고용촉진 특별법 시행령」 제2조에 따른 청년\r\n ※ 15세 이상 34세 이하인 자, 「제대군인에 관한 법률」에 따라 응시연령 상한 조정\r\n2. 가축위생방역지원본부 청년인턴으로 근무한 경력이 없고, 현재 근무하지 않는 자\r\n ※ 업무 시 학업과 병행 불가\r\n\r\n※ 세부사항 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "인천,대전,대구,부산,울산,경기,강원,충남,충북,경북,경남,전북,제주,세종,전남광주",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "· 1차(서류전형)\r\n- 전 분야 공통, 관련 법령 및 정책에 따른 우대사항 및 자체 전형 기준에 따라 고득점순으로 선발\r\n- 응시자가 제출한 지원 서류를 근거로 심사하여 면접 대상자 선정\r\n- 서류심사 합격자 배수는 모집단위별 채용예정 인원의 3배수\r\n- 서류심사 동점자 발생 시 선발예정인원을 초과하는 경우 동점자 전원 합격처리(인사업무처리준칙 제15조)\r\n\r\n· 2차(면접전형)\r\n- 서류전형 합격자를 대상으로 면접심사 기준에 따라 지원자의 역량을 종합평가\r\n- 면접방식: 다대다 면접(대면 면접)\r\n※ 상세 전형절차 및 방법은 첨부파일의 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
+              "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
+              "receivedAt": "2026-09-25T11:49:22.876+00:00",
+              "rawUnitName": "기간제근로자(대체인력, 방역직) 경남북부사무소",
+              "rows": [
+                [
+                  "기간제근로자(대체인력, 방역직) 경남북부사무소"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "recruitment_unit",
+            "method": "unit_name",
+            "value": "기간제",
+            "quote": "기간제근로자(대체인력, 방역직) 경남북부사무소",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "가축위생방역지원본부",
+            "job": "기간제근로자(대체인력, 방역직) 경남북부사무소",
+            "rawUnitName": "기간제근로자(대체인력, 방역직) 경남북부사무소",
+            "regions": [
+              "인천",
+              "대전",
+              "대구",
+              "부산",
+              "울산",
+              "경기",
+              "강원",
+              "충남",
+              "충북",
+              "경북",
+              "경남",
+              "전북",
+              "제주",
+              "세종",
+              "전남광주"
+            ],
+            "regionsScope": "announcement",
+            "employment": "기간제",
+            "recruitmentCategory": {
+              "value": "신입+경력",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=305162",
+              "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
+              "receivedAt": "2026-09-25T11:49:22.876+00:00"
+            }
+          }
+        },
+        {
+          "id": "auto-50721c2ee540ed40",
+          "title": "기간제근로자(대체인력, 위생직) 경기중부사무소",
+          "sourceUnitName": "기간제근로자(대체인력, 위생직) 경기중부사무소",
+          "employment": "기간제",
+          "regions": [
+            "인천",
+            "대전",
+            "대구",
+            "부산",
+            "울산",
+            "경기",
+            "강원",
+            "충남",
+            "충북",
+            "경북",
+            "경남",
+            "전북",
+            "제주",
+            "세종",
+            "전남광주"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "· 공통자격\r\n1. 가축위생방역지원본부 인사규정 제57조(정년)에 달하지 않는 자\r\n ※ 임용예정일 기준 만 60세를 초과하는 자는 지원이 제한됨\r\n2. 가축위생방역지원본부 인사규정 제23조(결격사유)에 의한 결격사유가 없는 자\r\n3. 최종합격자 발표 후 임용예정일부터 즉시 근무가 가능한 자\r\n\r\n· 방역직(7급)\r\n1. 「국가기술자격법」에 의한 축산산업기사 이상의 자격이 있는 자\r\n2. 「고등교육법」에 의한 전문대학 이상의 대학에서 수의학·축산학·생물학 또는 보건학 분야를 전공하고 졸업한 자(졸업예정자를 포함한다) 또는 이와 동등 이상의 학력을 가진 자\r\n3. 국가·지방자치단체 행정기관에서 가축방역업무(예방접종, 임상검사, 검사시료 채취 및 소독 등)를 1년 이상 수행한 경험이 있는 자\r\n4. 축산관련단체에서 가축방역업무(예방접종, 임상검사, 검사시료 채취 및 소독 등)를 2년 이상 종사한 경험이 있는 자\r\n\r\n· 위생직(7급)\r\n1. 고등교육법 제2조에 따른 학교에서 수의학·축산학, 식품학, 생물학 분야의 학과 또는 학부를 이수하여 졸업한 자 또는, 이와 동등이상의 자격이 있는 자\r\n2. 「국가기술자격법」에 따른 축산기능사 이상 또는 식육처리기능사의 자격이 있는 사람\r\n3. 축산물 시험·검사기관에서 축산물 위생 관련 업무에 1년 이상 종사한 경험이 있는 사람\r\n\r\n· 사무운영직(7급)\r\n1. 고졸 이상의 학력소지자로서 가축방역?위생분야 업무수행이 가능하다고 판단되는 자\r\n2. 경력 및 기타자격으로 상기요건에 상응하는 자격이 있다고 본부장이 인정하는 자\r\n\r\n· 기록물 관리 전문요원\r\n1. 「공공기록물 관리에 관한 법률 시행령」 제78조제1항에 따라 기록물 관리 전문요원 요건을 충족하는 자\r\n\r\n· 청년인턴(체험형)\r\n1. 임용예정일(’26. 11. 4.) 기준 「청년고용촉진 특별법 시행령」 제2조에 따른 청년\r\n ※ 15세 이상 34세 이하인 자, 「제대군인에 관한 법률」에 따라 응시연령 상한 조정\r\n2. 가축위생방역지원본부 청년인턴으로 근무한 경력이 없고, 현재 근무하지 않는 자\r\n ※ 업무 시 학업과 병행 불가\r\n\r\n※ 세부사항 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "인천,대전,대구,부산,울산,경기,강원,충남,충북,경북,경남,전북,제주,세종,전남광주",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "· 1차(서류전형)\r\n- 전 분야 공통, 관련 법령 및 정책에 따른 우대사항 및 자체 전형 기준에 따라 고득점순으로 선발\r\n- 응시자가 제출한 지원 서류를 근거로 심사하여 면접 대상자 선정\r\n- 서류심사 합격자 배수는 모집단위별 채용예정 인원의 3배수\r\n- 서류심사 동점자 발생 시 선발예정인원을 초과하는 경우 동점자 전원 합격처리(인사업무처리준칙 제15조)\r\n\r\n· 2차(면접전형)\r\n- 서류전형 합격자를 대상으로 면접심사 기준에 따라 지원자의 역량을 종합평가\r\n- 면접방식: 다대다 면접(대면 면접)\r\n※ 상세 전형절차 및 방법은 첨부파일의 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
+              "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
+              "receivedAt": "2026-09-25T11:49:22.876+00:00",
+              "rawUnitName": "기간제근로자(대체인력, 위생직) 경기중부사무소",
+              "rows": [
+                [
+                  "기간제근로자(대체인력, 위생직) 경기중부사무소"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "recruitment_unit",
+            "method": "unit_name",
+            "value": "기간제",
+            "quote": "기간제근로자(대체인력, 위생직) 경기중부사무소",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "가축위생방역지원본부",
+            "job": "기간제근로자(대체인력, 위생직) 경기중부사무소",
+            "rawUnitName": "기간제근로자(대체인력, 위생직) 경기중부사무소",
+            "regions": [
+              "인천",
+              "대전",
+              "대구",
+              "부산",
+              "울산",
+              "경기",
+              "강원",
+              "충남",
+              "충북",
+              "경북",
+              "경남",
+              "전북",
+              "제주",
+              "세종",
+              "전남광주"
+            ],
+            "regionsScope": "announcement",
+            "employment": "기간제",
+            "recruitmentCategory": {
+              "value": "신입+경력",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=305162",
+              "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
+              "receivedAt": "2026-09-25T11:49:22.876+00:00"
+            }
+          }
+        },
+        {
+          "id": "auto-63e446993f55f672",
+          "title": "기간제근로자(대체인력, 위생직) 경기서부사무소",
+          "sourceUnitName": "기간제근로자(대체인력, 위생직) 경기서부사무소",
+          "employment": "기간제",
+          "regions": [
+            "인천",
+            "대전",
+            "대구",
+            "부산",
+            "울산",
+            "경기",
+            "강원",
+            "충남",
+            "충북",
+            "경북",
+            "경남",
+            "전북",
+            "제주",
+            "세종",
+            "전남광주"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "· 공통자격\r\n1. 가축위생방역지원본부 인사규정 제57조(정년)에 달하지 않는 자\r\n ※ 임용예정일 기준 만 60세를 초과하는 자는 지원이 제한됨\r\n2. 가축위생방역지원본부 인사규정 제23조(결격사유)에 의한 결격사유가 없는 자\r\n3. 최종합격자 발표 후 임용예정일부터 즉시 근무가 가능한 자\r\n\r\n· 방역직(7급)\r\n1. 「국가기술자격법」에 의한 축산산업기사 이상의 자격이 있는 자\r\n2. 「고등교육법」에 의한 전문대학 이상의 대학에서 수의학·축산학·생물학 또는 보건학 분야를 전공하고 졸업한 자(졸업예정자를 포함한다) 또는 이와 동등 이상의 학력을 가진 자\r\n3. 국가·지방자치단체 행정기관에서 가축방역업무(예방접종, 임상검사, 검사시료 채취 및 소독 등)를 1년 이상 수행한 경험이 있는 자\r\n4. 축산관련단체에서 가축방역업무(예방접종, 임상검사, 검사시료 채취 및 소독 등)를 2년 이상 종사한 경험이 있는 자\r\n\r\n· 위생직(7급)\r\n1. 고등교육법 제2조에 따른 학교에서 수의학·축산학, 식품학, 생물학 분야의 학과 또는 학부를 이수하여 졸업한 자 또는, 이와 동등이상의 자격이 있는 자\r\n2. 「국가기술자격법」에 따른 축산기능사 이상 또는 식육처리기능사의 자격이 있는 사람\r\n3. 축산물 시험·검사기관에서 축산물 위생 관련 업무에 1년 이상 종사한 경험이 있는 사람\r\n\r\n· 사무운영직(7급)\r\n1. 고졸 이상의 학력소지자로서 가축방역?위생분야 업무수행이 가능하다고 판단되는 자\r\n2. 경력 및 기타자격으로 상기요건에 상응하는 자격이 있다고 본부장이 인정하는 자\r\n\r\n· 기록물 관리 전문요원\r\n1. 「공공기록물 관리에 관한 법률 시행령」 제78조제1항에 따라 기록물 관리 전문요원 요건을 충족하는 자\r\n\r\n· 청년인턴(체험형)\r\n1. 임용예정일(’26. 11. 4.) 기준 「청년고용촉진 특별법 시행령」 제2조에 따른 청년\r\n ※ 15세 이상 34세 이하인 자, 「제대군인에 관한 법률」에 따라 응시연령 상한 조정\r\n2. 가축위생방역지원본부 청년인턴으로 근무한 경력이 없고, 현재 근무하지 않는 자\r\n ※ 업무 시 학업과 병행 불가\r\n\r\n※ 세부사항 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "인천,대전,대구,부산,울산,경기,강원,충남,충북,경북,경남,전북,제주,세종,전남광주",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "· 1차(서류전형)\r\n- 전 분야 공통, 관련 법령 및 정책에 따른 우대사항 및 자체 전형 기준에 따라 고득점순으로 선발\r\n- 응시자가 제출한 지원 서류를 근거로 심사하여 면접 대상자 선정\r\n- 서류심사 합격자 배수는 모집단위별 채용예정 인원의 3배수\r\n- 서류심사 동점자 발생 시 선발예정인원을 초과하는 경우 동점자 전원 합격처리(인사업무처리준칙 제15조)\r\n\r\n· 2차(면접전형)\r\n- 서류전형 합격자를 대상으로 면접심사 기준에 따라 지원자의 역량을 종합평가\r\n- 면접방식: 다대다 면접(대면 면접)\r\n※ 상세 전형절차 및 방법은 첨부파일의 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
+              "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
+              "receivedAt": "2026-09-25T11:49:22.876+00:00",
+              "rawUnitName": "기간제근로자(대체인력, 위생직) 경기서부사무소",
+              "rows": [
+                [
+                  "기간제근로자(대체인력, 위생직) 경기서부사무소"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "recruitment_unit",
+            "method": "unit_name",
+            "value": "기간제",
+            "quote": "기간제근로자(대체인력, 위생직) 경기서부사무소",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "가축위생방역지원본부",
+            "job": "기간제근로자(대체인력, 위생직) 경기서부사무소",
+            "rawUnitName": "기간제근로자(대체인력, 위생직) 경기서부사무소",
+            "regions": [
+              "인천",
+              "대전",
+              "대구",
+              "부산",
+              "울산",
+              "경기",
+              "강원",
+              "충남",
+              "충북",
+              "경북",
+              "경남",
+              "전북",
+              "제주",
+              "세종",
+              "전남광주"
+            ],
+            "regionsScope": "announcement",
+            "employment": "기간제",
+            "recruitmentCategory": {
+              "value": "신입+경력",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=305162",
+              "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
+              "receivedAt": "2026-09-25T11:49:22.876+00:00"
+            }
+          }
+        },
+        {
+          "id": "auto-6c38a176e296ef42",
+          "title": "기간제근로자(대체인력, 위생직) 경기남부사무소",
+          "sourceUnitName": "기간제근로자(대체인력, 위생직) 경기남부사무소",
+          "employment": "기간제",
+          "regions": [
+            "인천",
+            "대전",
+            "대구",
+            "부산",
+            "울산",
+            "경기",
+            "강원",
+            "충남",
+            "충북",
+            "경북",
+            "경남",
+            "전북",
+            "제주",
+            "세종",
+            "전남광주"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "· 공통자격\r\n1. 가축위생방역지원본부 인사규정 제57조(정년)에 달하지 않는 자\r\n ※ 임용예정일 기준 만 60세를 초과하는 자는 지원이 제한됨\r\n2. 가축위생방역지원본부 인사규정 제23조(결격사유)에 의한 결격사유가 없는 자\r\n3. 최종합격자 발표 후 임용예정일부터 즉시 근무가 가능한 자\r\n\r\n· 방역직(7급)\r\n1. 「국가기술자격법」에 의한 축산산업기사 이상의 자격이 있는 자\r\n2. 「고등교육법」에 의한 전문대학 이상의 대학에서 수의학·축산학·생물학 또는 보건학 분야를 전공하고 졸업한 자(졸업예정자를 포함한다) 또는 이와 동등 이상의 학력을 가진 자\r\n3. 국가·지방자치단체 행정기관에서 가축방역업무(예방접종, 임상검사, 검사시료 채취 및 소독 등)를 1년 이상 수행한 경험이 있는 자\r\n4. 축산관련단체에서 가축방역업무(예방접종, 임상검사, 검사시료 채취 및 소독 등)를 2년 이상 종사한 경험이 있는 자\r\n\r\n· 위생직(7급)\r\n1. 고등교육법 제2조에 따른 학교에서 수의학·축산학, 식품학, 생물학 분야의 학과 또는 학부를 이수하여 졸업한 자 또는, 이와 동등이상의 자격이 있는 자\r\n2. 「국가기술자격법」에 따른 축산기능사 이상 또는 식육처리기능사의 자격이 있는 사람\r\n3. 축산물 시험·검사기관에서 축산물 위생 관련 업무에 1년 이상 종사한 경험이 있는 사람\r\n\r\n· 사무운영직(7급)\r\n1. 고졸 이상의 학력소지자로서 가축방역?위생분야 업무수행이 가능하다고 판단되는 자\r\n2. 경력 및 기타자격으로 상기요건에 상응하는 자격이 있다고 본부장이 인정하는 자\r\n\r\n· 기록물 관리 전문요원\r\n1. 「공공기록물 관리에 관한 법률 시행령」 제78조제1항에 따라 기록물 관리 전문요원 요건을 충족하는 자\r\n\r\n· 청년인턴(체험형)\r\n1. 임용예정일(’26. 11. 4.) 기준 「청년고용촉진 특별법 시행령」 제2조에 따른 청년\r\n ※ 15세 이상 34세 이하인 자, 「제대군인에 관한 법률」에 따라 응시연령 상한 조정\r\n2. 가축위생방역지원본부 청년인턴으로 근무한 경력이 없고, 현재 근무하지 않는 자\r\n ※ 업무 시 학업과 병행 불가\r\n\r\n※ 세부사항 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "인천,대전,대구,부산,울산,경기,강원,충남,충북,경북,경남,전북,제주,세종,전남광주",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "· 1차(서류전형)\r\n- 전 분야 공통, 관련 법령 및 정책에 따른 우대사항 및 자체 전형 기준에 따라 고득점순으로 선발\r\n- 응시자가 제출한 지원 서류를 근거로 심사하여 면접 대상자 선정\r\n- 서류심사 합격자 배수는 모집단위별 채용예정 인원의 3배수\r\n- 서류심사 동점자 발생 시 선발예정인원을 초과하는 경우 동점자 전원 합격처리(인사업무처리준칙 제15조)\r\n\r\n· 2차(면접전형)\r\n- 서류전형 합격자를 대상으로 면접심사 기준에 따라 지원자의 역량을 종합평가\r\n- 면접방식: 다대다 면접(대면 면접)\r\n※ 상세 전형절차 및 방법은 첨부파일의 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
+              "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
+              "receivedAt": "2026-09-25T11:49:22.876+00:00",
+              "rawUnitName": "기간제근로자(대체인력, 위생직) 경기남부사무소",
+              "rows": [
+                [
+                  "기간제근로자(대체인력, 위생직) 경기남부사무소"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "recruitment_unit",
+            "method": "unit_name",
+            "value": "기간제",
+            "quote": "기간제근로자(대체인력, 위생직) 경기남부사무소",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "가축위생방역지원본부",
+            "job": "기간제근로자(대체인력, 위생직) 경기남부사무소",
+            "rawUnitName": "기간제근로자(대체인력, 위생직) 경기남부사무소",
+            "regions": [
+              "인천",
+              "대전",
+              "대구",
+              "부산",
+              "울산",
+              "경기",
+              "강원",
+              "충남",
+              "충북",
+              "경북",
+              "경남",
+              "전북",
+              "제주",
+              "세종",
+              "전남광주"
+            ],
+            "regionsScope": "announcement",
+            "employment": "기간제",
+            "recruitmentCategory": {
+              "value": "신입+경력",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=305162",
+              "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
+              "receivedAt": "2026-09-25T11:49:22.876+00:00"
+            }
+          }
+        },
+        {
+          "id": "auto-1f4e38a1691be68b",
+          "title": "기간제근로자(대체인력, 위생직) 강원남부사무소",
+          "sourceUnitName": "기간제근로자(대체인력, 위생직) 강원남부사무소",
+          "employment": "기간제",
+          "regions": [
+            "인천",
+            "대전",
+            "대구",
+            "부산",
+            "울산",
+            "경기",
+            "강원",
+            "충남",
+            "충북",
+            "경북",
+            "경남",
+            "전북",
+            "제주",
+            "세종",
+            "전남광주"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "· 공통자격\r\n1. 가축위생방역지원본부 인사규정 제57조(정년)에 달하지 않는 자\r\n ※ 임용예정일 기준 만 60세를 초과하는 자는 지원이 제한됨\r\n2. 가축위생방역지원본부 인사규정 제23조(결격사유)에 의한 결격사유가 없는 자\r\n3. 최종합격자 발표 후 임용예정일부터 즉시 근무가 가능한 자\r\n\r\n· 방역직(7급)\r\n1. 「국가기술자격법」에 의한 축산산업기사 이상의 자격이 있는 자\r\n2. 「고등교육법」에 의한 전문대학 이상의 대학에서 수의학·축산학·생물학 또는 보건학 분야를 전공하고 졸업한 자(졸업예정자를 포함한다) 또는 이와 동등 이상의 학력을 가진 자\r\n3. 국가·지방자치단체 행정기관에서 가축방역업무(예방접종, 임상검사, 검사시료 채취 및 소독 등)를 1년 이상 수행한 경험이 있는 자\r\n4. 축산관련단체에서 가축방역업무(예방접종, 임상검사, 검사시료 채취 및 소독 등)를 2년 이상 종사한 경험이 있는 자\r\n\r\n· 위생직(7급)\r\n1. 고등교육법 제2조에 따른 학교에서 수의학·축산학, 식품학, 생물학 분야의 학과 또는 학부를 이수하여 졸업한 자 또는, 이와 동등이상의 자격이 있는 자\r\n2. 「국가기술자격법」에 따른 축산기능사 이상 또는 식육처리기능사의 자격이 있는 사람\r\n3. 축산물 시험·검사기관에서 축산물 위생 관련 업무에 1년 이상 종사한 경험이 있는 사람\r\n\r\n· 사무운영직(7급)\r\n1. 고졸 이상의 학력소지자로서 가축방역?위생분야 업무수행이 가능하다고 판단되는 자\r\n2. 경력 및 기타자격으로 상기요건에 상응하는 자격이 있다고 본부장이 인정하는 자\r\n\r\n· 기록물 관리 전문요원\r\n1. 「공공기록물 관리에 관한 법률 시행령」 제78조제1항에 따라 기록물 관리 전문요원 요건을 충족하는 자\r\n\r\n· 청년인턴(체험형)\r\n1. 임용예정일(’26. 11. 4.) 기준 「청년고용촉진 특별법 시행령」 제2조에 따른 청년\r\n ※ 15세 이상 34세 이하인 자, 「제대군인에 관한 법률」에 따라 응시연령 상한 조정\r\n2. 가축위생방역지원본부 청년인턴으로 근무한 경력이 없고, 현재 근무하지 않는 자\r\n ※ 업무 시 학업과 병행 불가\r\n\r\n※ 세부사항 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "인천,대전,대구,부산,울산,경기,강원,충남,충북,경북,경남,전북,제주,세종,전남광주",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "· 1차(서류전형)\r\n- 전 분야 공통, 관련 법령 및 정책에 따른 우대사항 및 자체 전형 기준에 따라 고득점순으로 선발\r\n- 응시자가 제출한 지원 서류를 근거로 심사하여 면접 대상자 선정\r\n- 서류심사 합격자 배수는 모집단위별 채용예정 인원의 3배수\r\n- 서류심사 동점자 발생 시 선발예정인원을 초과하는 경우 동점자 전원 합격처리(인사업무처리준칙 제15조)\r\n\r\n· 2차(면접전형)\r\n- 서류전형 합격자를 대상으로 면접심사 기준에 따라 지원자의 역량을 종합평가\r\n- 면접방식: 다대다 면접(대면 면접)\r\n※ 상세 전형절차 및 방법은 첨부파일의 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
+              "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
+              "receivedAt": "2026-09-25T11:49:22.876+00:00",
+              "rawUnitName": "기간제근로자(대체인력, 위생직) 강원남부사무소",
+              "rows": [
+                [
+                  "기간제근로자(대체인력, 위생직) 강원남부사무소"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "recruitment_unit",
+            "method": "unit_name",
+            "value": "기간제",
+            "quote": "기간제근로자(대체인력, 위생직) 강원남부사무소",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "가축위생방역지원본부",
+            "job": "기간제근로자(대체인력, 위생직) 강원남부사무소",
+            "rawUnitName": "기간제근로자(대체인력, 위생직) 강원남부사무소",
+            "regions": [
+              "인천",
+              "대전",
+              "대구",
+              "부산",
+              "울산",
+              "경기",
+              "강원",
+              "충남",
+              "충북",
+              "경북",
+              "경남",
+              "전북",
+              "제주",
+              "세종",
+              "전남광주"
+            ],
+            "regionsScope": "announcement",
+            "employment": "기간제",
+            "recruitmentCategory": {
+              "value": "신입+경력",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=305162",
+              "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
+              "receivedAt": "2026-09-25T11:49:22.876+00:00"
+            }
+          }
+        },
+        {
+          "id": "auto-8fe98e00eb0b166e",
+          "title": "기간제근로자(대체인력, 위생직) 충북북부사무소",
+          "sourceUnitName": "기간제근로자(대체인력, 위생직) 충북북부사무소",
+          "employment": "기간제",
+          "regions": [
+            "인천",
+            "대전",
+            "대구",
+            "부산",
+            "울산",
+            "경기",
+            "강원",
+            "충남",
+            "충북",
+            "경북",
+            "경남",
+            "전북",
+            "제주",
+            "세종",
+            "전남광주"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "· 공통자격\r\n1. 가축위생방역지원본부 인사규정 제57조(정년)에 달하지 않는 자\r\n ※ 임용예정일 기준 만 60세를 초과하는 자는 지원이 제한됨\r\n2. 가축위생방역지원본부 인사규정 제23조(결격사유)에 의한 결격사유가 없는 자\r\n3. 최종합격자 발표 후 임용예정일부터 즉시 근무가 가능한 자\r\n\r\n· 방역직(7급)\r\n1. 「국가기술자격법」에 의한 축산산업기사 이상의 자격이 있는 자\r\n2. 「고등교육법」에 의한 전문대학 이상의 대학에서 수의학·축산학·생물학 또는 보건학 분야를 전공하고 졸업한 자(졸업예정자를 포함한다) 또는 이와 동등 이상의 학력을 가진 자\r\n3. 국가·지방자치단체 행정기관에서 가축방역업무(예방접종, 임상검사, 검사시료 채취 및 소독 등)를 1년 이상 수행한 경험이 있는 자\r\n4. 축산관련단체에서 가축방역업무(예방접종, 임상검사, 검사시료 채취 및 소독 등)를 2년 이상 종사한 경험이 있는 자\r\n\r\n· 위생직(7급)\r\n1. 고등교육법 제2조에 따른 학교에서 수의학·축산학, 식품학, 생물학 분야의 학과 또는 학부를 이수하여 졸업한 자 또는, 이와 동등이상의 자격이 있는 자\r\n2. 「국가기술자격법」에 따른 축산기능사 이상 또는 식육처리기능사의 자격이 있는 사람\r\n3. 축산물 시험·검사기관에서 축산물 위생 관련 업무에 1년 이상 종사한 경험이 있는 사람\r\n\r\n· 사무운영직(7급)\r\n1. 고졸 이상의 학력소지자로서 가축방역?위생분야 업무수행이 가능하다고 판단되는 자\r\n2. 경력 및 기타자격으로 상기요건에 상응하는 자격이 있다고 본부장이 인정하는 자\r\n\r\n· 기록물 관리 전문요원\r\n1. 「공공기록물 관리에 관한 법률 시행령」 제78조제1항에 따라 기록물 관리 전문요원 요건을 충족하는 자\r\n\r\n· 청년인턴(체험형)\r\n1. 임용예정일(’26. 11. 4.) 기준 「청년고용촉진 특별법 시행령」 제2조에 따른 청년\r\n ※ 15세 이상 34세 이하인 자, 「제대군인에 관한 법률」에 따라 응시연령 상한 조정\r\n2. 가축위생방역지원본부 청년인턴으로 근무한 경력이 없고, 현재 근무하지 않는 자\r\n ※ 업무 시 학업과 병행 불가\r\n\r\n※ 세부사항 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "인천,대전,대구,부산,울산,경기,강원,충남,충북,경북,경남,전북,제주,세종,전남광주",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "· 1차(서류전형)\r\n- 전 분야 공통, 관련 법령 및 정책에 따른 우대사항 및 자체 전형 기준에 따라 고득점순으로 선발\r\n- 응시자가 제출한 지원 서류를 근거로 심사하여 면접 대상자 선정\r\n- 서류심사 합격자 배수는 모집단위별 채용예정 인원의 3배수\r\n- 서류심사 동점자 발생 시 선발예정인원을 초과하는 경우 동점자 전원 합격처리(인사업무처리준칙 제15조)\r\n\r\n· 2차(면접전형)\r\n- 서류전형 합격자를 대상으로 면접심사 기준에 따라 지원자의 역량을 종합평가\r\n- 면접방식: 다대다 면접(대면 면접)\r\n※ 상세 전형절차 및 방법은 첨부파일의 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
+              "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
+              "receivedAt": "2026-09-25T11:49:22.876+00:00",
+              "rawUnitName": "기간제근로자(대체인력, 위생직) 충북북부사무소",
+              "rows": [
+                [
+                  "기간제근로자(대체인력, 위생직) 충북북부사무소"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "recruitment_unit",
+            "method": "unit_name",
+            "value": "기간제",
+            "quote": "기간제근로자(대체인력, 위생직) 충북북부사무소",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "가축위생방역지원본부",
+            "job": "기간제근로자(대체인력, 위생직) 충북북부사무소",
+            "rawUnitName": "기간제근로자(대체인력, 위생직) 충북북부사무소",
+            "regions": [
+              "인천",
+              "대전",
+              "대구",
+              "부산",
+              "울산",
+              "경기",
+              "강원",
+              "충남",
+              "충북",
+              "경북",
+              "경남",
+              "전북",
+              "제주",
+              "세종",
+              "전남광주"
+            ],
+            "regionsScope": "announcement",
+            "employment": "기간제",
+            "recruitmentCategory": {
+              "value": "신입+경력",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=305162",
+              "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
+              "receivedAt": "2026-09-25T11:49:22.876+00:00"
+            }
+          }
+        },
+        {
+          "id": "auto-c887894d855d5f0f",
+          "title": "기간제근로자(대체인력, 위생직) 충남중부사무소",
+          "sourceUnitName": "기간제근로자(대체인력, 위생직) 충남중부사무소",
+          "employment": "기간제",
+          "regions": [
+            "인천",
+            "대전",
+            "대구",
+            "부산",
+            "울산",
+            "경기",
+            "강원",
+            "충남",
+            "충북",
+            "경북",
+            "경남",
+            "전북",
+            "제주",
+            "세종",
+            "전남광주"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "· 공통자격\r\n1. 가축위생방역지원본부 인사규정 제57조(정년)에 달하지 않는 자\r\n ※ 임용예정일 기준 만 60세를 초과하는 자는 지원이 제한됨\r\n2. 가축위생방역지원본부 인사규정 제23조(결격사유)에 의한 결격사유가 없는 자\r\n3. 최종합격자 발표 후 임용예정일부터 즉시 근무가 가능한 자\r\n\r\n· 방역직(7급)\r\n1. 「국가기술자격법」에 의한 축산산업기사 이상의 자격이 있는 자\r\n2. 「고등교육법」에 의한 전문대학 이상의 대학에서 수의학·축산학·생물학 또는 보건학 분야를 전공하고 졸업한 자(졸업예정자를 포함한다) 또는 이와 동등 이상의 학력을 가진 자\r\n3. 국가·지방자치단체 행정기관에서 가축방역업무(예방접종, 임상검사, 검사시료 채취 및 소독 등)를 1년 이상 수행한 경험이 있는 자\r\n4. 축산관련단체에서 가축방역업무(예방접종, 임상검사, 검사시료 채취 및 소독 등)를 2년 이상 종사한 경험이 있는 자\r\n\r\n· 위생직(7급)\r\n1. 고등교육법 제2조에 따른 학교에서 수의학·축산학, 식품학, 생물학 분야의 학과 또는 학부를 이수하여 졸업한 자 또는, 이와 동등이상의 자격이 있는 자\r\n2. 「국가기술자격법」에 따른 축산기능사 이상 또는 식육처리기능사의 자격이 있는 사람\r\n3. 축산물 시험·검사기관에서 축산물 위생 관련 업무에 1년 이상 종사한 경험이 있는 사람\r\n\r\n· 사무운영직(7급)\r\n1. 고졸 이상의 학력소지자로서 가축방역?위생분야 업무수행이 가능하다고 판단되는 자\r\n2. 경력 및 기타자격으로 상기요건에 상응하는 자격이 있다고 본부장이 인정하는 자\r\n\r\n· 기록물 관리 전문요원\r\n1. 「공공기록물 관리에 관한 법률 시행령」 제78조제1항에 따라 기록물 관리 전문요원 요건을 충족하는 자\r\n\r\n· 청년인턴(체험형)\r\n1. 임용예정일(’26. 11. 4.) 기준 「청년고용촉진 특별법 시행령」 제2조에 따른 청년\r\n ※ 15세 이상 34세 이하인 자, 「제대군인에 관한 법률」에 따라 응시연령 상한 조정\r\n2. 가축위생방역지원본부 청년인턴으로 근무한 경력이 없고, 현재 근무하지 않는 자\r\n ※ 업무 시 학업과 병행 불가\r\n\r\n※ 세부사항 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "인천,대전,대구,부산,울산,경기,강원,충남,충북,경북,경남,전북,제주,세종,전남광주",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "· 1차(서류전형)\r\n- 전 분야 공통, 관련 법령 및 정책에 따른 우대사항 및 자체 전형 기준에 따라 고득점순으로 선발\r\n- 응시자가 제출한 지원 서류를 근거로 심사하여 면접 대상자 선정\r\n- 서류심사 합격자 배수는 모집단위별 채용예정 인원의 3배수\r\n- 서류심사 동점자 발생 시 선발예정인원을 초과하는 경우 동점자 전원 합격처리(인사업무처리준칙 제15조)\r\n\r\n· 2차(면접전형)\r\n- 서류전형 합격자를 대상으로 면접심사 기준에 따라 지원자의 역량을 종합평가\r\n- 면접방식: 다대다 면접(대면 면접)\r\n※ 상세 전형절차 및 방법은 첨부파일의 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
+              "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
+              "receivedAt": "2026-09-25T11:49:22.876+00:00",
+              "rawUnitName": "기간제근로자(대체인력, 위생직) 충남중부사무소",
+              "rows": [
+                [
+                  "기간제근로자(대체인력, 위생직) 충남중부사무소"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "recruitment_unit",
+            "method": "unit_name",
+            "value": "기간제",
+            "quote": "기간제근로자(대체인력, 위생직) 충남중부사무소",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "가축위생방역지원본부",
+            "job": "기간제근로자(대체인력, 위생직) 충남중부사무소",
+            "rawUnitName": "기간제근로자(대체인력, 위생직) 충남중부사무소",
+            "regions": [
+              "인천",
+              "대전",
+              "대구",
+              "부산",
+              "울산",
+              "경기",
+              "강원",
+              "충남",
+              "충북",
+              "경북",
+              "경남",
+              "전북",
+              "제주",
+              "세종",
+              "전남광주"
+            ],
+            "regionsScope": "announcement",
+            "employment": "기간제",
+            "recruitmentCategory": {
+              "value": "신입+경력",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=305162",
+              "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
+              "receivedAt": "2026-09-25T11:49:22.876+00:00"
+            }
+          }
+        },
+        {
+          "id": "auto-726b9c1eee4f160d",
+          "title": "기간제근로자(대체인력, 위생직) 충남북부사무소",
+          "sourceUnitName": "기간제근로자(대체인력, 위생직) 충남북부사무소",
+          "employment": "기간제",
+          "regions": [
+            "인천",
+            "대전",
+            "대구",
+            "부산",
+            "울산",
+            "경기",
+            "강원",
+            "충남",
+            "충북",
+            "경북",
+            "경남",
+            "전북",
+            "제주",
+            "세종",
+            "전남광주"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "· 공통자격\r\n1. 가축위생방역지원본부 인사규정 제57조(정년)에 달하지 않는 자\r\n ※ 임용예정일 기준 만 60세를 초과하는 자는 지원이 제한됨\r\n2. 가축위생방역지원본부 인사규정 제23조(결격사유)에 의한 결격사유가 없는 자\r\n3. 최종합격자 발표 후 임용예정일부터 즉시 근무가 가능한 자\r\n\r\n· 방역직(7급)\r\n1. 「국가기술자격법」에 의한 축산산업기사 이상의 자격이 있는 자\r\n2. 「고등교육법」에 의한 전문대학 이상의 대학에서 수의학·축산학·생물학 또는 보건학 분야를 전공하고 졸업한 자(졸업예정자를 포함한다) 또는 이와 동등 이상의 학력을 가진 자\r\n3. 국가·지방자치단체 행정기관에서 가축방역업무(예방접종, 임상검사, 검사시료 채취 및 소독 등)를 1년 이상 수행한 경험이 있는 자\r\n4. 축산관련단체에서 가축방역업무(예방접종, 임상검사, 검사시료 채취 및 소독 등)를 2년 이상 종사한 경험이 있는 자\r\n\r\n· 위생직(7급)\r\n1. 고등교육법 제2조에 따른 학교에서 수의학·축산학, 식품학, 생물학 분야의 학과 또는 학부를 이수하여 졸업한 자 또는, 이와 동등이상의 자격이 있는 자\r\n2. 「국가기술자격법」에 따른 축산기능사 이상 또는 식육처리기능사의 자격이 있는 사람\r\n3. 축산물 시험·검사기관에서 축산물 위생 관련 업무에 1년 이상 종사한 경험이 있는 사람\r\n\r\n· 사무운영직(7급)\r\n1. 고졸 이상의 학력소지자로서 가축방역?위생분야 업무수행이 가능하다고 판단되는 자\r\n2. 경력 및 기타자격으로 상기요건에 상응하는 자격이 있다고 본부장이 인정하는 자\r\n\r\n· 기록물 관리 전문요원\r\n1. 「공공기록물 관리에 관한 법률 시행령」 제78조제1항에 따라 기록물 관리 전문요원 요건을 충족하는 자\r\n\r\n· 청년인턴(체험형)\r\n1. 임용예정일(’26. 11. 4.) 기준 「청년고용촉진 특별법 시행령」 제2조에 따른 청년\r\n ※ 15세 이상 34세 이하인 자, 「제대군인에 관한 법률」에 따라 응시연령 상한 조정\r\n2. 가축위생방역지원본부 청년인턴으로 근무한 경력이 없고, 현재 근무하지 않는 자\r\n ※ 업무 시 학업과 병행 불가\r\n\r\n※ 세부사항 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "인천,대전,대구,부산,울산,경기,강원,충남,충북,경북,경남,전북,제주,세종,전남광주",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "· 1차(서류전형)\r\n- 전 분야 공통, 관련 법령 및 정책에 따른 우대사항 및 자체 전형 기준에 따라 고득점순으로 선발\r\n- 응시자가 제출한 지원 서류를 근거로 심사하여 면접 대상자 선정\r\n- 서류심사 합격자 배수는 모집단위별 채용예정 인원의 3배수\r\n- 서류심사 동점자 발생 시 선발예정인원을 초과하는 경우 동점자 전원 합격처리(인사업무처리준칙 제15조)\r\n\r\n· 2차(면접전형)\r\n- 서류전형 합격자를 대상으로 면접심사 기준에 따라 지원자의 역량을 종합평가\r\n- 면접방식: 다대다 면접(대면 면접)\r\n※ 상세 전형절차 및 방법은 첨부파일의 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
+              "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
+              "receivedAt": "2026-09-25T11:49:22.876+00:00",
+              "rawUnitName": "기간제근로자(대체인력, 위생직) 충남북부사무소",
+              "rows": [
+                [
+                  "기간제근로자(대체인력, 위생직) 충남북부사무소"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "recruitment_unit",
+            "method": "unit_name",
+            "value": "기간제",
+            "quote": "기간제근로자(대체인력, 위생직) 충남북부사무소",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "가축위생방역지원본부",
+            "job": "기간제근로자(대체인력, 위생직) 충남북부사무소",
+            "rawUnitName": "기간제근로자(대체인력, 위생직) 충남북부사무소",
+            "regions": [
+              "인천",
+              "대전",
+              "대구",
+              "부산",
+              "울산",
+              "경기",
+              "강원",
+              "충남",
+              "충북",
+              "경북",
+              "경남",
+              "전북",
+              "제주",
+              "세종",
+              "전남광주"
+            ],
+            "regionsScope": "announcement",
+            "employment": "기간제",
+            "recruitmentCategory": {
+              "value": "신입+경력",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=305162",
+              "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
+              "receivedAt": "2026-09-25T11:49:22.876+00:00"
+            }
+          }
+        },
+        {
+          "id": "auto-d9af673937d3ee2f",
+          "title": "기간제근로자(대체인력, 위생직) 전북서부사무소('26.11.4.~'28.9.29.)",
+          "sourceUnitName": "기간제근로자(대체인력, 위생직) 전북서부사무소('26.11.4.~'28.9.29.)",
+          "employment": "기간제",
+          "regions": [
+            "인천",
+            "대전",
+            "대구",
+            "부산",
+            "울산",
+            "경기",
+            "강원",
+            "충남",
+            "충북",
+            "경북",
+            "경남",
+            "전북",
+            "제주",
+            "세종",
+            "전남광주"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "· 공통자격\r\n1. 가축위생방역지원본부 인사규정 제57조(정년)에 달하지 않는 자\r\n ※ 임용예정일 기준 만 60세를 초과하는 자는 지원이 제한됨\r\n2. 가축위생방역지원본부 인사규정 제23조(결격사유)에 의한 결격사유가 없는 자\r\n3. 최종합격자 발표 후 임용예정일부터 즉시 근무가 가능한 자\r\n\r\n· 방역직(7급)\r\n1. 「국가기술자격법」에 의한 축산산업기사 이상의 자격이 있는 자\r\n2. 「고등교육법」에 의한 전문대학 이상의 대학에서 수의학·축산학·생물학 또는 보건학 분야를 전공하고 졸업한 자(졸업예정자를 포함한다) 또는 이와 동등 이상의 학력을 가진 자\r\n3. 국가·지방자치단체 행정기관에서 가축방역업무(예방접종, 임상검사, 검사시료 채취 및 소독 등)를 1년 이상 수행한 경험이 있는 자\r\n4. 축산관련단체에서 가축방역업무(예방접종, 임상검사, 검사시료 채취 및 소독 등)를 2년 이상 종사한 경험이 있는 자\r\n\r\n· 위생직(7급)\r\n1. 고등교육법 제2조에 따른 학교에서 수의학·축산학, 식품학, 생물학 분야의 학과 또는 학부를 이수하여 졸업한 자 또는, 이와 동등이상의 자격이 있는 자\r\n2. 「국가기술자격법」에 따른 축산기능사 이상 또는 식육처리기능사의 자격이 있는 사람\r\n3. 축산물 시험·검사기관에서 축산물 위생 관련 업무에 1년 이상 종사한 경험이 있는 사람\r\n\r\n· 사무운영직(7급)\r\n1. 고졸 이상의 학력소지자로서 가축방역?위생분야 업무수행이 가능하다고 판단되는 자\r\n2. 경력 및 기타자격으로 상기요건에 상응하는 자격이 있다고 본부장이 인정하는 자\r\n\r\n· 기록물 관리 전문요원\r\n1. 「공공기록물 관리에 관한 법률 시행령」 제78조제1항에 따라 기록물 관리 전문요원 요건을 충족하는 자\r\n\r\n· 청년인턴(체험형)\r\n1. 임용예정일(’26. 11. 4.) 기준 「청년고용촉진 특별법 시행령」 제2조에 따른 청년\r\n ※ 15세 이상 34세 이하인 자, 「제대군인에 관한 법률」에 따라 응시연령 상한 조정\r\n2. 가축위생방역지원본부 청년인턴으로 근무한 경력이 없고, 현재 근무하지 않는 자\r\n ※ 업무 시 학업과 병행 불가\r\n\r\n※ 세부사항 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "인천,대전,대구,부산,울산,경기,강원,충남,충북,경북,경남,전북,제주,세종,전남광주",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "· 1차(서류전형)\r\n- 전 분야 공통, 관련 법령 및 정책에 따른 우대사항 및 자체 전형 기준에 따라 고득점순으로 선발\r\n- 응시자가 제출한 지원 서류를 근거로 심사하여 면접 대상자 선정\r\n- 서류심사 합격자 배수는 모집단위별 채용예정 인원의 3배수\r\n- 서류심사 동점자 발생 시 선발예정인원을 초과하는 경우 동점자 전원 합격처리(인사업무처리준칙 제15조)\r\n\r\n· 2차(면접전형)\r\n- 서류전형 합격자를 대상으로 면접심사 기준에 따라 지원자의 역량을 종합평가\r\n- 면접방식: 다대다 면접(대면 면접)\r\n※ 상세 전형절차 및 방법은 첨부파일의 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
+              "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
+              "receivedAt": "2026-09-25T11:49:22.876+00:00",
+              "rawUnitName": "기간제근로자(대체인력, 위생직) 전북서부사무소('26.11.4.~'28.9.29.)",
+              "rows": [
+                [
+                  "기간제근로자(대체인력, 위생직) 전북서부사무소('26.11.4.~'28.9.29.)"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "recruitment_unit",
+            "method": "unit_name",
+            "value": "기간제",
+            "quote": "기간제근로자(대체인력, 위생직) 전북서부사무소('26.11.4.~'28.9.29.)",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "가축위생방역지원본부",
+            "job": "기간제근로자(대체인력, 위생직) 전북서부사무소('26.11.4.~'28.9.29.)",
+            "rawUnitName": "기간제근로자(대체인력, 위생직) 전북서부사무소('26.11.4.~'28.9.29.)",
+            "regions": [
+              "인천",
+              "대전",
+              "대구",
+              "부산",
+              "울산",
+              "경기",
+              "강원",
+              "충남",
+              "충북",
+              "경북",
+              "경남",
+              "전북",
+              "제주",
+              "세종",
+              "전남광주"
+            ],
+            "regionsScope": "announcement",
+            "employment": "기간제",
+            "recruitmentCategory": {
+              "value": "신입+경력",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=305162",
+              "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
+              "receivedAt": "2026-09-25T11:49:22.876+00:00"
+            }
+          }
+        },
+        {
+          "id": "auto-b66a490891d01dad",
+          "title": "기간제근로자(대체인력, 위생직) 전북서부사무소('26.11.4.~'28.1.28.)",
+          "sourceUnitName": "기간제근로자(대체인력, 위생직) 전북서부사무소('26.11.4.~'28.1.28.)",
+          "employment": "기간제",
+          "regions": [
+            "인천",
+            "대전",
+            "대구",
+            "부산",
+            "울산",
+            "경기",
+            "강원",
+            "충남",
+            "충북",
+            "경북",
+            "경남",
+            "전북",
+            "제주",
+            "세종",
+            "전남광주"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "· 공통자격\r\n1. 가축위생방역지원본부 인사규정 제57조(정년)에 달하지 않는 자\r\n ※ 임용예정일 기준 만 60세를 초과하는 자는 지원이 제한됨\r\n2. 가축위생방역지원본부 인사규정 제23조(결격사유)에 의한 결격사유가 없는 자\r\n3. 최종합격자 발표 후 임용예정일부터 즉시 근무가 가능한 자\r\n\r\n· 방역직(7급)\r\n1. 「국가기술자격법」에 의한 축산산업기사 이상의 자격이 있는 자\r\n2. 「고등교육법」에 의한 전문대학 이상의 대학에서 수의학·축산학·생물학 또는 보건학 분야를 전공하고 졸업한 자(졸업예정자를 포함한다) 또는 이와 동등 이상의 학력을 가진 자\r\n3. 국가·지방자치단체 행정기관에서 가축방역업무(예방접종, 임상검사, 검사시료 채취 및 소독 등)를 1년 이상 수행한 경험이 있는 자\r\n4. 축산관련단체에서 가축방역업무(예방접종, 임상검사, 검사시료 채취 및 소독 등)를 2년 이상 종사한 경험이 있는 자\r\n\r\n· 위생직(7급)\r\n1. 고등교육법 제2조에 따른 학교에서 수의학·축산학, 식품학, 생물학 분야의 학과 또는 학부를 이수하여 졸업한 자 또는, 이와 동등이상의 자격이 있는 자\r\n2. 「국가기술자격법」에 따른 축산기능사 이상 또는 식육처리기능사의 자격이 있는 사람\r\n3. 축산물 시험·검사기관에서 축산물 위생 관련 업무에 1년 이상 종사한 경험이 있는 사람\r\n\r\n· 사무운영직(7급)\r\n1. 고졸 이상의 학력소지자로서 가축방역?위생분야 업무수행이 가능하다고 판단되는 자\r\n2. 경력 및 기타자격으로 상기요건에 상응하는 자격이 있다고 본부장이 인정하는 자\r\n\r\n· 기록물 관리 전문요원\r\n1. 「공공기록물 관리에 관한 법률 시행령」 제78조제1항에 따라 기록물 관리 전문요원 요건을 충족하는 자\r\n\r\n· 청년인턴(체험형)\r\n1. 임용예정일(’26. 11. 4.) 기준 「청년고용촉진 특별법 시행령」 제2조에 따른 청년\r\n ※ 15세 이상 34세 이하인 자, 「제대군인에 관한 법률」에 따라 응시연령 상한 조정\r\n2. 가축위생방역지원본부 청년인턴으로 근무한 경력이 없고, 현재 근무하지 않는 자\r\n ※ 업무 시 학업과 병행 불가\r\n\r\n※ 세부사항 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "인천,대전,대구,부산,울산,경기,강원,충남,충북,경북,경남,전북,제주,세종,전남광주",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "· 1차(서류전형)\r\n- 전 분야 공통, 관련 법령 및 정책에 따른 우대사항 및 자체 전형 기준에 따라 고득점순으로 선발\r\n- 응시자가 제출한 지원 서류를 근거로 심사하여 면접 대상자 선정\r\n- 서류심사 합격자 배수는 모집단위별 채용예정 인원의 3배수\r\n- 서류심사 동점자 발생 시 선발예정인원을 초과하는 경우 동점자 전원 합격처리(인사업무처리준칙 제15조)\r\n\r\n· 2차(면접전형)\r\n- 서류전형 합격자를 대상으로 면접심사 기준에 따라 지원자의 역량을 종합평가\r\n- 면접방식: 다대다 면접(대면 면접)\r\n※ 상세 전형절차 및 방법은 첨부파일의 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
+              "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
+              "receivedAt": "2026-09-25T11:49:22.876+00:00",
+              "rawUnitName": "기간제근로자(대체인력, 위생직) 전북서부사무소('26.11.4.~'28.1.28.)",
+              "rows": [
+                [
+                  "기간제근로자(대체인력, 위생직) 전북서부사무소('26.11.4.~'28.1.28.)"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "recruitment_unit",
+            "method": "unit_name",
+            "value": "기간제",
+            "quote": "기간제근로자(대체인력, 위생직) 전북서부사무소('26.11.4.~'28.1.28.)",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "가축위생방역지원본부",
+            "job": "기간제근로자(대체인력, 위생직) 전북서부사무소('26.11.4.~'28.1.28.)",
+            "rawUnitName": "기간제근로자(대체인력, 위생직) 전북서부사무소('26.11.4.~'28.1.28.)",
+            "regions": [
+              "인천",
+              "대전",
+              "대구",
+              "부산",
+              "울산",
+              "경기",
+              "강원",
+              "충남",
+              "충북",
+              "경북",
+              "경남",
+              "전북",
+              "제주",
+              "세종",
+              "전남광주"
+            ],
+            "regionsScope": "announcement",
+            "employment": "기간제",
+            "recruitmentCategory": {
+              "value": "신입+경력",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=305162",
+              "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
+              "receivedAt": "2026-09-25T11:49:22.876+00:00"
+            }
+          }
+        },
+        {
+          "id": "auto-4b68dc6d03eb7ca7",
+          "title": "기간제근로자(대체인력, 위생직) 전북북부사무소",
+          "sourceUnitName": "기간제근로자(대체인력, 위생직) 전북북부사무소",
+          "employment": "기간제",
+          "regions": [
+            "인천",
+            "대전",
+            "대구",
+            "부산",
+            "울산",
+            "경기",
+            "강원",
+            "충남",
+            "충북",
+            "경북",
+            "경남",
+            "전북",
+            "제주",
+            "세종",
+            "전남광주"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "· 공통자격\r\n1. 가축위생방역지원본부 인사규정 제57조(정년)에 달하지 않는 자\r\n ※ 임용예정일 기준 만 60세를 초과하는 자는 지원이 제한됨\r\n2. 가축위생방역지원본부 인사규정 제23조(결격사유)에 의한 결격사유가 없는 자\r\n3. 최종합격자 발표 후 임용예정일부터 즉시 근무가 가능한 자\r\n\r\n· 방역직(7급)\r\n1. 「국가기술자격법」에 의한 축산산업기사 이상의 자격이 있는 자\r\n2. 「고등교육법」에 의한 전문대학 이상의 대학에서 수의학·축산학·생물학 또는 보건학 분야를 전공하고 졸업한 자(졸업예정자를 포함한다) 또는 이와 동등 이상의 학력을 가진 자\r\n3. 국가·지방자치단체 행정기관에서 가축방역업무(예방접종, 임상검사, 검사시료 채취 및 소독 등)를 1년 이상 수행한 경험이 있는 자\r\n4. 축산관련단체에서 가축방역업무(예방접종, 임상검사, 검사시료 채취 및 소독 등)를 2년 이상 종사한 경험이 있는 자\r\n\r\n· 위생직(7급)\r\n1. 고등교육법 제2조에 따른 학교에서 수의학·축산학, 식품학, 생물학 분야의 학과 또는 학부를 이수하여 졸업한 자 또는, 이와 동등이상의 자격이 있는 자\r\n2. 「국가기술자격법」에 따른 축산기능사 이상 또는 식육처리기능사의 자격이 있는 사람\r\n3. 축산물 시험·검사기관에서 축산물 위생 관련 업무에 1년 이상 종사한 경험이 있는 사람\r\n\r\n· 사무운영직(7급)\r\n1. 고졸 이상의 학력소지자로서 가축방역?위생분야 업무수행이 가능하다고 판단되는 자\r\n2. 경력 및 기타자격으로 상기요건에 상응하는 자격이 있다고 본부장이 인정하는 자\r\n\r\n· 기록물 관리 전문요원\r\n1. 「공공기록물 관리에 관한 법률 시행령」 제78조제1항에 따라 기록물 관리 전문요원 요건을 충족하는 자\r\n\r\n· 청년인턴(체험형)\r\n1. 임용예정일(’26. 11. 4.) 기준 「청년고용촉진 특별법 시행령」 제2조에 따른 청년\r\n ※ 15세 이상 34세 이하인 자, 「제대군인에 관한 법률」에 따라 응시연령 상한 조정\r\n2. 가축위생방역지원본부 청년인턴으로 근무한 경력이 없고, 현재 근무하지 않는 자\r\n ※ 업무 시 학업과 병행 불가\r\n\r\n※ 세부사항 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "인천,대전,대구,부산,울산,경기,강원,충남,충북,경북,경남,전북,제주,세종,전남광주",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "· 1차(서류전형)\r\n- 전 분야 공통, 관련 법령 및 정책에 따른 우대사항 및 자체 전형 기준에 따라 고득점순으로 선발\r\n- 응시자가 제출한 지원 서류를 근거로 심사하여 면접 대상자 선정\r\n- 서류심사 합격자 배수는 모집단위별 채용예정 인원의 3배수\r\n- 서류심사 동점자 발생 시 선발예정인원을 초과하는 경우 동점자 전원 합격처리(인사업무처리준칙 제15조)\r\n\r\n· 2차(면접전형)\r\n- 서류전형 합격자를 대상으로 면접심사 기준에 따라 지원자의 역량을 종합평가\r\n- 면접방식: 다대다 면접(대면 면접)\r\n※ 상세 전형절차 및 방법은 첨부파일의 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
+              "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
+              "receivedAt": "2026-09-25T11:49:22.876+00:00",
+              "rawUnitName": "기간제근로자(대체인력, 위생직) 전북북부사무소",
+              "rows": [
+                [
+                  "기간제근로자(대체인력, 위생직) 전북북부사무소"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "recruitment_unit",
+            "method": "unit_name",
+            "value": "기간제",
+            "quote": "기간제근로자(대체인력, 위생직) 전북북부사무소",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "가축위생방역지원본부",
+            "job": "기간제근로자(대체인력, 위생직) 전북북부사무소",
+            "rawUnitName": "기간제근로자(대체인력, 위생직) 전북북부사무소",
+            "regions": [
+              "인천",
+              "대전",
+              "대구",
+              "부산",
+              "울산",
+              "경기",
+              "강원",
+              "충남",
+              "충북",
+              "경북",
+              "경남",
+              "전북",
+              "제주",
+              "세종",
+              "전남광주"
+            ],
+            "regionsScope": "announcement",
+            "employment": "기간제",
+            "recruitmentCategory": {
+              "value": "신입+경력",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=305162",
+              "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
+              "receivedAt": "2026-09-25T11:49:22.876+00:00"
+            }
+          }
+        },
+        {
+          "id": "auto-c7f3276836d0edc5",
+          "title": "기간제근로자(대체인력, 위생직) 전남중부사무소('26.11.4.~'27.7.14.)",
+          "sourceUnitName": "기간제근로자(대체인력, 위생직) 전남중부사무소('26.11.4.~'27.7.14.)",
+          "employment": "기간제",
+          "regions": [
+            "인천",
+            "대전",
+            "대구",
+            "부산",
+            "울산",
+            "경기",
+            "강원",
+            "충남",
+            "충북",
+            "경북",
+            "경남",
+            "전북",
+            "제주",
+            "세종",
+            "전남광주"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "· 공통자격\r\n1. 가축위생방역지원본부 인사규정 제57조(정년)에 달하지 않는 자\r\n ※ 임용예정일 기준 만 60세를 초과하는 자는 지원이 제한됨\r\n2. 가축위생방역지원본부 인사규정 제23조(결격사유)에 의한 결격사유가 없는 자\r\n3. 최종합격자 발표 후 임용예정일부터 즉시 근무가 가능한 자\r\n\r\n· 방역직(7급)\r\n1. 「국가기술자격법」에 의한 축산산업기사 이상의 자격이 있는 자\r\n2. 「고등교육법」에 의한 전문대학 이상의 대학에서 수의학·축산학·생물학 또는 보건학 분야를 전공하고 졸업한 자(졸업예정자를 포함한다) 또는 이와 동등 이상의 학력을 가진 자\r\n3. 국가·지방자치단체 행정기관에서 가축방역업무(예방접종, 임상검사, 검사시료 채취 및 소독 등)를 1년 이상 수행한 경험이 있는 자\r\n4. 축산관련단체에서 가축방역업무(예방접종, 임상검사, 검사시료 채취 및 소독 등)를 2년 이상 종사한 경험이 있는 자\r\n\r\n· 위생직(7급)\r\n1. 고등교육법 제2조에 따른 학교에서 수의학·축산학, 식품학, 생물학 분야의 학과 또는 학부를 이수하여 졸업한 자 또는, 이와 동등이상의 자격이 있는 자\r\n2. 「국가기술자격법」에 따른 축산기능사 이상 또는 식육처리기능사의 자격이 있는 사람\r\n3. 축산물 시험·검사기관에서 축산물 위생 관련 업무에 1년 이상 종사한 경험이 있는 사람\r\n\r\n· 사무운영직(7급)\r\n1. 고졸 이상의 학력소지자로서 가축방역?위생분야 업무수행이 가능하다고 판단되는 자\r\n2. 경력 및 기타자격으로 상기요건에 상응하는 자격이 있다고 본부장이 인정하는 자\r\n\r\n· 기록물 관리 전문요원\r\n1. 「공공기록물 관리에 관한 법률 시행령」 제78조제1항에 따라 기록물 관리 전문요원 요건을 충족하는 자\r\n\r\n· 청년인턴(체험형)\r\n1. 임용예정일(’26. 11. 4.) 기준 「청년고용촉진 특별법 시행령」 제2조에 따른 청년\r\n ※ 15세 이상 34세 이하인 자, 「제대군인에 관한 법률」에 따라 응시연령 상한 조정\r\n2. 가축위생방역지원본부 청년인턴으로 근무한 경력이 없고, 현재 근무하지 않는 자\r\n ※ 업무 시 학업과 병행 불가\r\n\r\n※ 세부사항 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "인천,대전,대구,부산,울산,경기,강원,충남,충북,경북,경남,전북,제주,세종,전남광주",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "· 1차(서류전형)\r\n- 전 분야 공통, 관련 법령 및 정책에 따른 우대사항 및 자체 전형 기준에 따라 고득점순으로 선발\r\n- 응시자가 제출한 지원 서류를 근거로 심사하여 면접 대상자 선정\r\n- 서류심사 합격자 배수는 모집단위별 채용예정 인원의 3배수\r\n- 서류심사 동점자 발생 시 선발예정인원을 초과하는 경우 동점자 전원 합격처리(인사업무처리준칙 제15조)\r\n\r\n· 2차(면접전형)\r\n- 서류전형 합격자를 대상으로 면접심사 기준에 따라 지원자의 역량을 종합평가\r\n- 면접방식: 다대다 면접(대면 면접)\r\n※ 상세 전형절차 및 방법은 첨부파일의 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
+              "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
+              "receivedAt": "2026-09-25T11:49:22.876+00:00",
+              "rawUnitName": "기간제근로자(대체인력, 위생직) 전남중부사무소('26.11.4.~'27.7.14.)",
+              "rows": [
+                [
+                  "기간제근로자(대체인력, 위생직) 전남중부사무소('26.11.4.~'27.7.14.)"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "recruitment_unit",
+            "method": "unit_name",
+            "value": "기간제",
+            "quote": "기간제근로자(대체인력, 위생직) 전남중부사무소('26.11.4.~'27.7.14.)",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "가축위생방역지원본부",
+            "job": "기간제근로자(대체인력, 위생직) 전남중부사무소('26.11.4.~'27.7.14.)",
+            "rawUnitName": "기간제근로자(대체인력, 위생직) 전남중부사무소('26.11.4.~'27.7.14.)",
+            "regions": [
+              "인천",
+              "대전",
+              "대구",
+              "부산",
+              "울산",
+              "경기",
+              "강원",
+              "충남",
+              "충북",
+              "경북",
+              "경남",
+              "전북",
+              "제주",
+              "세종",
+              "전남광주"
+            ],
+            "regionsScope": "announcement",
+            "employment": "기간제",
+            "recruitmentCategory": {
+              "value": "신입+경력",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=305162",
+              "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
+              "receivedAt": "2026-09-25T11:49:22.876+00:00"
+            }
+          }
+        },
+        {
+          "id": "auto-c78c0c367e3bd8eb",
+          "title": "기간제근로자(대체인력, 위생직) 전남중부사무소('26.11.4.~'27.8.27.)",
+          "sourceUnitName": "기간제근로자(대체인력, 위생직) 전남중부사무소('26.11.4.~'27.8.27.)",
+          "employment": "기간제",
+          "regions": [
+            "인천",
+            "대전",
+            "대구",
+            "부산",
+            "울산",
+            "경기",
+            "강원",
+            "충남",
+            "충북",
+            "경북",
+            "경남",
+            "전북",
+            "제주",
+            "세종",
+            "전남광주"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "· 공통자격\r\n1. 가축위생방역지원본부 인사규정 제57조(정년)에 달하지 않는 자\r\n ※ 임용예정일 기준 만 60세를 초과하는 자는 지원이 제한됨\r\n2. 가축위생방역지원본부 인사규정 제23조(결격사유)에 의한 결격사유가 없는 자\r\n3. 최종합격자 발표 후 임용예정일부터 즉시 근무가 가능한 자\r\n\r\n· 방역직(7급)\r\n1. 「국가기술자격법」에 의한 축산산업기사 이상의 자격이 있는 자\r\n2. 「고등교육법」에 의한 전문대학 이상의 대학에서 수의학·축산학·생물학 또는 보건학 분야를 전공하고 졸업한 자(졸업예정자를 포함한다) 또는 이와 동등 이상의 학력을 가진 자\r\n3. 국가·지방자치단체 행정기관에서 가축방역업무(예방접종, 임상검사, 검사시료 채취 및 소독 등)를 1년 이상 수행한 경험이 있는 자\r\n4. 축산관련단체에서 가축방역업무(예방접종, 임상검사, 검사시료 채취 및 소독 등)를 2년 이상 종사한 경험이 있는 자\r\n\r\n· 위생직(7급)\r\n1. 고등교육법 제2조에 따른 학교에서 수의학·축산학, 식품학, 생물학 분야의 학과 또는 학부를 이수하여 졸업한 자 또는, 이와 동등이상의 자격이 있는 자\r\n2. 「국가기술자격법」에 따른 축산기능사 이상 또는 식육처리기능사의 자격이 있는 사람\r\n3. 축산물 시험·검사기관에서 축산물 위생 관련 업무에 1년 이상 종사한 경험이 있는 사람\r\n\r\n· 사무운영직(7급)\r\n1. 고졸 이상의 학력소지자로서 가축방역?위생분야 업무수행이 가능하다고 판단되는 자\r\n2. 경력 및 기타자격으로 상기요건에 상응하는 자격이 있다고 본부장이 인정하는 자\r\n\r\n· 기록물 관리 전문요원\r\n1. 「공공기록물 관리에 관한 법률 시행령」 제78조제1항에 따라 기록물 관리 전문요원 요건을 충족하는 자\r\n\r\n· 청년인턴(체험형)\r\n1. 임용예정일(’26. 11. 4.) 기준 「청년고용촉진 특별법 시행령」 제2조에 따른 청년\r\n ※ 15세 이상 34세 이하인 자, 「제대군인에 관한 법률」에 따라 응시연령 상한 조정\r\n2. 가축위생방역지원본부 청년인턴으로 근무한 경력이 없고, 현재 근무하지 않는 자\r\n ※ 업무 시 학업과 병행 불가\r\n\r\n※ 세부사항 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "인천,대전,대구,부산,울산,경기,강원,충남,충북,경북,경남,전북,제주,세종,전남광주",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "· 1차(서류전형)\r\n- 전 분야 공통, 관련 법령 및 정책에 따른 우대사항 및 자체 전형 기준에 따라 고득점순으로 선발\r\n- 응시자가 제출한 지원 서류를 근거로 심사하여 면접 대상자 선정\r\n- 서류심사 합격자 배수는 모집단위별 채용예정 인원의 3배수\r\n- 서류심사 동점자 발생 시 선발예정인원을 초과하는 경우 동점자 전원 합격처리(인사업무처리준칙 제15조)\r\n\r\n· 2차(면접전형)\r\n- 서류전형 합격자를 대상으로 면접심사 기준에 따라 지원자의 역량을 종합평가\r\n- 면접방식: 다대다 면접(대면 면접)\r\n※ 상세 전형절차 및 방법은 첨부파일의 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
+              "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
+              "receivedAt": "2026-09-25T11:49:22.876+00:00",
+              "rawUnitName": "기간제근로자(대체인력, 위생직) 전남중부사무소('26.11.4.~'27.8.27.)",
+              "rows": [
+                [
+                  "기간제근로자(대체인력, 위생직) 전남중부사무소('26.11.4.~'27.8.27.)"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "recruitment_unit",
+            "method": "unit_name",
+            "value": "기간제",
+            "quote": "기간제근로자(대체인력, 위생직) 전남중부사무소('26.11.4.~'27.8.27.)",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "가축위생방역지원본부",
+            "job": "기간제근로자(대체인력, 위생직) 전남중부사무소('26.11.4.~'27.8.27.)",
+            "rawUnitName": "기간제근로자(대체인력, 위생직) 전남중부사무소('26.11.4.~'27.8.27.)",
+            "regions": [
+              "인천",
+              "대전",
+              "대구",
+              "부산",
+              "울산",
+              "경기",
+              "강원",
+              "충남",
+              "충북",
+              "경북",
+              "경남",
+              "전북",
+              "제주",
+              "세종",
+              "전남광주"
+            ],
+            "regionsScope": "announcement",
+            "employment": "기간제",
+            "recruitmentCategory": {
+              "value": "신입+경력",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=305162",
+              "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
+              "receivedAt": "2026-09-25T11:49:22.876+00:00"
+            }
+          }
+        },
+        {
+          "id": "auto-98039ba7189c10b5",
+          "title": "기간제근로자(대체인력, 위생직) 전남서부사무소",
+          "sourceUnitName": "기간제근로자(대체인력, 위생직) 전남서부사무소",
+          "employment": "기간제",
+          "regions": [
+            "인천",
+            "대전",
+            "대구",
+            "부산",
+            "울산",
+            "경기",
+            "강원",
+            "충남",
+            "충북",
+            "경북",
+            "경남",
+            "전북",
+            "제주",
+            "세종",
+            "전남광주"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "· 공통자격\r\n1. 가축위생방역지원본부 인사규정 제57조(정년)에 달하지 않는 자\r\n ※ 임용예정일 기준 만 60세를 초과하는 자는 지원이 제한됨\r\n2. 가축위생방역지원본부 인사규정 제23조(결격사유)에 의한 결격사유가 없는 자\r\n3. 최종합격자 발표 후 임용예정일부터 즉시 근무가 가능한 자\r\n\r\n· 방역직(7급)\r\n1. 「국가기술자격법」에 의한 축산산업기사 이상의 자격이 있는 자\r\n2. 「고등교육법」에 의한 전문대학 이상의 대학에서 수의학·축산학·생물학 또는 보건학 분야를 전공하고 졸업한 자(졸업예정자를 포함한다) 또는 이와 동등 이상의 학력을 가진 자\r\n3. 국가·지방자치단체 행정기관에서 가축방역업무(예방접종, 임상검사, 검사시료 채취 및 소독 등)를 1년 이상 수행한 경험이 있는 자\r\n4. 축산관련단체에서 가축방역업무(예방접종, 임상검사, 검사시료 채취 및 소독 등)를 2년 이상 종사한 경험이 있는 자\r\n\r\n· 위생직(7급)\r\n1. 고등교육법 제2조에 따른 학교에서 수의학·축산학, 식품학, 생물학 분야의 학과 또는 학부를 이수하여 졸업한 자 또는, 이와 동등이상의 자격이 있는 자\r\n2. 「국가기술자격법」에 따른 축산기능사 이상 또는 식육처리기능사의 자격이 있는 사람\r\n3. 축산물 시험·검사기관에서 축산물 위생 관련 업무에 1년 이상 종사한 경험이 있는 사람\r\n\r\n· 사무운영직(7급)\r\n1. 고졸 이상의 학력소지자로서 가축방역?위생분야 업무수행이 가능하다고 판단되는 자\r\n2. 경력 및 기타자격으로 상기요건에 상응하는 자격이 있다고 본부장이 인정하는 자\r\n\r\n· 기록물 관리 전문요원\r\n1. 「공공기록물 관리에 관한 법률 시행령」 제78조제1항에 따라 기록물 관리 전문요원 요건을 충족하는 자\r\n\r\n· 청년인턴(체험형)\r\n1. 임용예정일(’26. 11. 4.) 기준 「청년고용촉진 특별법 시행령」 제2조에 따른 청년\r\n ※ 15세 이상 34세 이하인 자, 「제대군인에 관한 법률」에 따라 응시연령 상한 조정\r\n2. 가축위생방역지원본부 청년인턴으로 근무한 경력이 없고, 현재 근무하지 않는 자\r\n ※ 업무 시 학업과 병행 불가\r\n\r\n※ 세부사항 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "인천,대전,대구,부산,울산,경기,강원,충남,충북,경북,경남,전북,제주,세종,전남광주",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "· 1차(서류전형)\r\n- 전 분야 공통, 관련 법령 및 정책에 따른 우대사항 및 자체 전형 기준에 따라 고득점순으로 선발\r\n- 응시자가 제출한 지원 서류를 근거로 심사하여 면접 대상자 선정\r\n- 서류심사 합격자 배수는 모집단위별 채용예정 인원의 3배수\r\n- 서류심사 동점자 발생 시 선발예정인원을 초과하는 경우 동점자 전원 합격처리(인사업무처리준칙 제15조)\r\n\r\n· 2차(면접전형)\r\n- 서류전형 합격자를 대상으로 면접심사 기준에 따라 지원자의 역량을 종합평가\r\n- 면접방식: 다대다 면접(대면 면접)\r\n※ 상세 전형절차 및 방법은 첨부파일의 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
+              "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
+              "receivedAt": "2026-09-25T11:49:22.876+00:00",
+              "rawUnitName": "기간제근로자(대체인력, 위생직) 전남서부사무소",
+              "rows": [
+                [
+                  "기간제근로자(대체인력, 위생직) 전남서부사무소"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "recruitment_unit",
+            "method": "unit_name",
+            "value": "기간제",
+            "quote": "기간제근로자(대체인력, 위생직) 전남서부사무소",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "가축위생방역지원본부",
+            "job": "기간제근로자(대체인력, 위생직) 전남서부사무소",
+            "rawUnitName": "기간제근로자(대체인력, 위생직) 전남서부사무소",
+            "regions": [
+              "인천",
+              "대전",
+              "대구",
+              "부산",
+              "울산",
+              "경기",
+              "강원",
+              "충남",
+              "충북",
+              "경북",
+              "경남",
+              "전북",
+              "제주",
+              "세종",
+              "전남광주"
+            ],
+            "regionsScope": "announcement",
+            "employment": "기간제",
+            "recruitmentCategory": {
+              "value": "신입+경력",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=305162",
+              "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
+              "receivedAt": "2026-09-25T11:49:22.876+00:00"
+            }
+          }
+        },
+        {
+          "id": "auto-f48aff65f43118e7",
+          "title": "기간제근로자(대체인력, 위생직) 경남중부사무소",
+          "sourceUnitName": "기간제근로자(대체인력, 위생직) 경남중부사무소",
+          "employment": "기간제",
+          "regions": [
+            "인천",
+            "대전",
+            "대구",
+            "부산",
+            "울산",
+            "경기",
+            "강원",
+            "충남",
+            "충북",
+            "경북",
+            "경남",
+            "전북",
+            "제주",
+            "세종",
+            "전남광주"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "· 공통자격\r\n1. 가축위생방역지원본부 인사규정 제57조(정년)에 달하지 않는 자\r\n ※ 임용예정일 기준 만 60세를 초과하는 자는 지원이 제한됨\r\n2. 가축위생방역지원본부 인사규정 제23조(결격사유)에 의한 결격사유가 없는 자\r\n3. 최종합격자 발표 후 임용예정일부터 즉시 근무가 가능한 자\r\n\r\n· 방역직(7급)\r\n1. 「국가기술자격법」에 의한 축산산업기사 이상의 자격이 있는 자\r\n2. 「고등교육법」에 의한 전문대학 이상의 대학에서 수의학·축산학·생물학 또는 보건학 분야를 전공하고 졸업한 자(졸업예정자를 포함한다) 또는 이와 동등 이상의 학력을 가진 자\r\n3. 국가·지방자치단체 행정기관에서 가축방역업무(예방접종, 임상검사, 검사시료 채취 및 소독 등)를 1년 이상 수행한 경험이 있는 자\r\n4. 축산관련단체에서 가축방역업무(예방접종, 임상검사, 검사시료 채취 및 소독 등)를 2년 이상 종사한 경험이 있는 자\r\n\r\n· 위생직(7급)\r\n1. 고등교육법 제2조에 따른 학교에서 수의학·축산학, 식품학, 생물학 분야의 학과 또는 학부를 이수하여 졸업한 자 또는, 이와 동등이상의 자격이 있는 자\r\n2. 「국가기술자격법」에 따른 축산기능사 이상 또는 식육처리기능사의 자격이 있는 사람\r\n3. 축산물 시험·검사기관에서 축산물 위생 관련 업무에 1년 이상 종사한 경험이 있는 사람\r\n\r\n· 사무운영직(7급)\r\n1. 고졸 이상의 학력소지자로서 가축방역?위생분야 업무수행이 가능하다고 판단되는 자\r\n2. 경력 및 기타자격으로 상기요건에 상응하는 자격이 있다고 본부장이 인정하는 자\r\n\r\n· 기록물 관리 전문요원\r\n1. 「공공기록물 관리에 관한 법률 시행령」 제78조제1항에 따라 기록물 관리 전문요원 요건을 충족하는 자\r\n\r\n· 청년인턴(체험형)\r\n1. 임용예정일(’26. 11. 4.) 기준 「청년고용촉진 특별법 시행령」 제2조에 따른 청년\r\n ※ 15세 이상 34세 이하인 자, 「제대군인에 관한 법률」에 따라 응시연령 상한 조정\r\n2. 가축위생방역지원본부 청년인턴으로 근무한 경력이 없고, 현재 근무하지 않는 자\r\n ※ 업무 시 학업과 병행 불가\r\n\r\n※ 세부사항 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "인천,대전,대구,부산,울산,경기,강원,충남,충북,경북,경남,전북,제주,세종,전남광주",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "· 1차(서류전형)\r\n- 전 분야 공통, 관련 법령 및 정책에 따른 우대사항 및 자체 전형 기준에 따라 고득점순으로 선발\r\n- 응시자가 제출한 지원 서류를 근거로 심사하여 면접 대상자 선정\r\n- 서류심사 합격자 배수는 모집단위별 채용예정 인원의 3배수\r\n- 서류심사 동점자 발생 시 선발예정인원을 초과하는 경우 동점자 전원 합격처리(인사업무처리준칙 제15조)\r\n\r\n· 2차(면접전형)\r\n- 서류전형 합격자를 대상으로 면접심사 기준에 따라 지원자의 역량을 종합평가\r\n- 면접방식: 다대다 면접(대면 면접)\r\n※ 상세 전형절차 및 방법은 첨부파일의 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
+              "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
+              "receivedAt": "2026-09-25T11:49:22.876+00:00",
+              "rawUnitName": "기간제근로자(대체인력, 위생직) 경남중부사무소",
+              "rows": [
+                [
+                  "기간제근로자(대체인력, 위생직) 경남중부사무소"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "recruitment_unit",
+            "method": "unit_name",
+            "value": "기간제",
+            "quote": "기간제근로자(대체인력, 위생직) 경남중부사무소",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "가축위생방역지원본부",
+            "job": "기간제근로자(대체인력, 위생직) 경남중부사무소",
+            "rawUnitName": "기간제근로자(대체인력, 위생직) 경남중부사무소",
+            "regions": [
+              "인천",
+              "대전",
+              "대구",
+              "부산",
+              "울산",
+              "경기",
+              "강원",
+              "충남",
+              "충북",
+              "경북",
+              "경남",
+              "전북",
+              "제주",
+              "세종",
+              "전남광주"
+            ],
+            "regionsScope": "announcement",
+            "employment": "기간제",
+            "recruitmentCategory": {
+              "value": "신입+경력",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=305162",
+              "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
+              "receivedAt": "2026-09-25T11:49:22.876+00:00"
+            }
+          }
+        },
+        {
+          "id": "auto-1dd4bacbf1f1ead0",
+          "title": "기간제근로자(대체인력, 사무운영직) 충북도본부",
+          "sourceUnitName": "기간제근로자(대체인력, 사무운영직) 충북도본부",
+          "employment": "기간제",
+          "regions": [
+            "인천",
+            "대전",
+            "대구",
+            "부산",
+            "울산",
+            "경기",
+            "강원",
+            "충남",
+            "충북",
+            "경북",
+            "경남",
+            "전북",
+            "제주",
+            "세종",
+            "전남광주"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "· 공통자격\r\n1. 가축위생방역지원본부 인사규정 제57조(정년)에 달하지 않는 자\r\n ※ 임용예정일 기준 만 60세를 초과하는 자는 지원이 제한됨\r\n2. 가축위생방역지원본부 인사규정 제23조(결격사유)에 의한 결격사유가 없는 자\r\n3. 최종합격자 발표 후 임용예정일부터 즉시 근무가 가능한 자\r\n\r\n· 방역직(7급)\r\n1. 「국가기술자격법」에 의한 축산산업기사 이상의 자격이 있는 자\r\n2. 「고등교육법」에 의한 전문대학 이상의 대학에서 수의학·축산학·생물학 또는 보건학 분야를 전공하고 졸업한 자(졸업예정자를 포함한다) 또는 이와 동등 이상의 학력을 가진 자\r\n3. 국가·지방자치단체 행정기관에서 가축방역업무(예방접종, 임상검사, 검사시료 채취 및 소독 등)를 1년 이상 수행한 경험이 있는 자\r\n4. 축산관련단체에서 가축방역업무(예방접종, 임상검사, 검사시료 채취 및 소독 등)를 2년 이상 종사한 경험이 있는 자\r\n\r\n· 위생직(7급)\r\n1. 고등교육법 제2조에 따른 학교에서 수의학·축산학, 식품학, 생물학 분야의 학과 또는 학부를 이수하여 졸업한 자 또는, 이와 동등이상의 자격이 있는 자\r\n2. 「국가기술자격법」에 따른 축산기능사 이상 또는 식육처리기능사의 자격이 있는 사람\r\n3. 축산물 시험·검사기관에서 축산물 위생 관련 업무에 1년 이상 종사한 경험이 있는 사람\r\n\r\n· 사무운영직(7급)\r\n1. 고졸 이상의 학력소지자로서 가축방역?위생분야 업무수행이 가능하다고 판단되는 자\r\n2. 경력 및 기타자격으로 상기요건에 상응하는 자격이 있다고 본부장이 인정하는 자\r\n\r\n· 기록물 관리 전문요원\r\n1. 「공공기록물 관리에 관한 법률 시행령」 제78조제1항에 따라 기록물 관리 전문요원 요건을 충족하는 자\r\n\r\n· 청년인턴(체험형)\r\n1. 임용예정일(’26. 11. 4.) 기준 「청년고용촉진 특별법 시행령」 제2조에 따른 청년\r\n ※ 15세 이상 34세 이하인 자, 「제대군인에 관한 법률」에 따라 응시연령 상한 조정\r\n2. 가축위생방역지원본부 청년인턴으로 근무한 경력이 없고, 현재 근무하지 않는 자\r\n ※ 업무 시 학업과 병행 불가\r\n\r\n※ 세부사항 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "인천,대전,대구,부산,울산,경기,강원,충남,충북,경북,경남,전북,제주,세종,전남광주",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "· 1차(서류전형)\r\n- 전 분야 공통, 관련 법령 및 정책에 따른 우대사항 및 자체 전형 기준에 따라 고득점순으로 선발\r\n- 응시자가 제출한 지원 서류를 근거로 심사하여 면접 대상자 선정\r\n- 서류심사 합격자 배수는 모집단위별 채용예정 인원의 3배수\r\n- 서류심사 동점자 발생 시 선발예정인원을 초과하는 경우 동점자 전원 합격처리(인사업무처리준칙 제15조)\r\n\r\n· 2차(면접전형)\r\n- 서류전형 합격자를 대상으로 면접심사 기준에 따라 지원자의 역량을 종합평가\r\n- 면접방식: 다대다 면접(대면 면접)\r\n※ 상세 전형절차 및 방법은 첨부파일의 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
+              "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
+              "receivedAt": "2026-09-25T11:49:22.876+00:00",
+              "rawUnitName": "기간제근로자(대체인력, 사무운영직) 충북도본부",
+              "rows": [
+                [
+                  "기간제근로자(대체인력, 사무운영직) 충북도본부"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "recruitment_unit",
+            "method": "unit_name",
+            "value": "기간제",
+            "quote": "기간제근로자(대체인력, 사무운영직) 충북도본부",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "가축위생방역지원본부",
+            "job": "기간제근로자(대체인력, 사무운영직) 충북도본부",
+            "rawUnitName": "기간제근로자(대체인력, 사무운영직) 충북도본부",
+            "regions": [
+              "인천",
+              "대전",
+              "대구",
+              "부산",
+              "울산",
+              "경기",
+              "강원",
+              "충남",
+              "충북",
+              "경북",
+              "경남",
+              "전북",
+              "제주",
+              "세종",
+              "전남광주"
+            ],
+            "regionsScope": "announcement",
+            "employment": "기간제",
+            "recruitmentCategory": {
+              "value": "신입+경력",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=305162",
+              "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
+              "receivedAt": "2026-09-25T11:49:22.876+00:00"
+            }
+          }
+        }
+      ],
+      "sources": [
+        {
+          "id": "auto_alio",
+          "label": "JOB-ALIO 상세 · 코드 수신·자동 정리",
+          "url": "https://job.alio.go.kr/recruitview.do?idx=305162",
+          "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
+          "receivedAt": "2026-09-25T11:49:22.876+00:00"
+        },
+        {
+          "id": "auto_original_1",
+          "label": "기관 원문 링크 · 내용 미확인",
+          "url": "https://www.lhca.or.kr/business/front/recruit/recruitList.do?boardId=recruit"
+        }
+      ],
+      "attachments": [
+        {
+          "name": "공식 첨부 1",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3076155",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        },
+        {
+          "name": "공식 첨부 2",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3076156",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        }
+      ],
+      "checkedAt": "2026-09-25T11:49:22.876+00:00",
+      "collectionMethod": "automatic_public_html",
+      "collectionLabel": "코드 원격 수신 → 규칙 기반 모집단위 정리 → 저장·화면 생성 · GPT 미사용",
+      "sourceNote": "자동으로 확인 가능한 본문·결과 표만 정리했습니다. 첨부·모집단위별 상세 조건은 미확인이며, 공고 전체 원문은 별도로 표시합니다.",
+      "announcementMetadata": {
+        "raw": {
+          "표준직무(NCS)": "경영.회계.사무,보건.의료,농림어업",
+          "학력정보": "학력무관,고졸,대졸(2~3년),대졸(4년)",
+          "근무분야": "계약직",
+          "채용구분": "신입+경력",
+          "고용형태": "비정규직,청년인턴(체험형)",
+          "대체인력여부": "예",
+          "근무지": "인천,대전,대구,부산,울산,경기,강원,충남,충북,경북,경남,전북,제주,세종,전남광주",
+          "급여정보": "신입 / 평균",
+          "채용인원": "22명",
+          "우대조건": "사회형평 가점(취업지원 대상자, 장애인 등), 특별가점(자격증, 청년인턴 자사 수료자) 등 ※ 자세한 사항은 첨부파일의 채용 공고문 참조",
+          "채용기간": "26.09.21 ~ 26.10.05",
+          "등록일": "2026.09.21"
+        },
+        "rawApplicationPeriod": {
+          "raw": null,
+          "status": "미확인",
+          "source_section": "전형절차/방법",
+          "note": "명시된 접수기간 원문만 추출; 날짜 정규화·모집단위별 상이한 기간 검토는 별도"
+        },
+        "sourceSha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
+        "sourceReceivedAt": "2026-09-25T11:49:22.876+00:00",
+        "method": "auto-normalize-0.1"
+      },
+      "autoNormalization": {
+        "version": "auto-normalize-0.1",
+        "semanticHash": "df473cf5136d8bc506a554f5b9ea463fbbba0a99a6ccff1fbe2a7b427d3644f6",
+        "generatedFrom": {
+          "url": "https://job.alio.go.kr/recruitview.do?idx=305162",
+          "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
+          "receivedAt": "2026-09-25T11:49:22.876+00:00"
+        },
+        "aiUsed": false,
+        "heldUnitCount": 2
+      },
+      "autoSync": {
+        "semanticHash": "df473cf5136d8bc506a554f5b9ea463fbbba0a99a6ccff1fbe2a7b427d3644f6",
+        "conditionsHash": "af0e7a5e3b0ed59e7af2268dc08d4166426b3232ed240a3f58b917178b472998",
+        "rawSha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
+        "lastFetchedAt": "2026-09-25T11:49:22.876+00:00",
+        "contentChangedAt": "2026-09-25T11:49:22.876+00:00",
+        "baselineStatus": "first_capture",
+        "needsReview": true,
+        "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
+        "resultCheck": {
+          "checkedAt": "2026-09-25T11:49:22.876+00:00",
+          "status": "checked",
+          "changedUnitIds": [
+            "auto-7fbdddc59b7c24ec",
+            "auto-50721c2ee540ed40",
+            "auto-63e446993f55f672",
+            "auto-6c38a176e296ef42",
+            "auto-1f4e38a1691be68b",
+            "auto-8fe98e00eb0b166e",
+            "auto-c887894d855d5f0f",
+            "auto-726b9c1eee4f160d",
+            "auto-d9af673937d3ee2f",
+            "auto-b66a490891d01dad",
+            "auto-4b68dc6d03eb7ca7",
+            "auto-c7f3276836d0edc5",
+            "auto-c78c0c367e3bd8eb",
+            "auto-98039ba7189c10b5",
+            "auto-f48aff65f43118e7",
+            "auto-1dd4bacbf1f1ead0"
+          ],
+          "preservedUnitIds": [],
+          "unmatchedUnitIds": [],
+          "issues": []
+        }
+      },
+      "lifecycle": {
+        "status": "open",
+        "evaluatedDate": "2026-09-25",
+        "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
+      }
     }
   ],
   "refresh": {
     "status": "success",
     "mode": "live",
-    "lastAttemptAt": "2026-09-25T04:55:44+00:00",
-    "lastSuccessAt": "2026-09-25T04:55:44+00:00",
-    "candidatesCount": 372,
+    "lastAttemptAt": "2026-09-25T11:49:14+00:00",
+    "lastSuccessAt": "2026-09-25T11:49:14+00:00",
+    "candidatesCount": 374,
     "coverage": {
       "description": "JOB-ALIO 최근60일 이내 진행중·비정규직·경영회계사무 목록, 목록최대2페이지·상세최대4건/회. 저장된 마감공고도 결과를 순환 재확인합니다. 전체공고 수집 아님.",
-      "queuedNoticeCount": 56,
-      "heldUnitCount": 316,
-      "nextPage": 2,
+      "queuedNoticeCount": 54,
+      "heldUnitCount": 320,
+      "nextPage": 3,
       "closedRecheck": {
         "recentDays": 30,
         "recentOrUnknownIntervalDays": 1,
@@ -22282,6 +26646,17 @@
       "requestLimit": 6,
       "automaticRetries": 0,
       "heldNotices": [
+        {
+          "id": "job-alio-305128",
+          "organization": "한국부동산원",
+          "title": "한국부동산원 전문계약직(정규직 전환형) 채용 공고",
+          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305128",
+          "lastFetchedAt": "2026-09-25T11:49:32.429+00:00",
+          "reasons": [
+            "모집단위명만으로 사무직 여부 미확인"
+          ],
+          "status": "unverified"
+        },
         {
           "id": "job-alio-305274",
           "organization": "코레일테크(주)",
@@ -22494,20 +26869,9 @@
             "모집단위명만으로 사무직 여부 미확인"
           ],
           "status": "unverified"
-        },
-        {
-          "id": "job-alio-304909",
-          "organization": "한국출판문화산업진흥원",
-          "title": "2026년 하반기 제2차 직원 공개경쟁 및 제한경쟁 채용 공고",
-          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=304909",
-          "lastFetchedAt": "2026-09-19T10:57:23.640+00:00",
-          "reasons": [
-            "모집단위명만으로 사무직 여부 미확인"
-          ],
-          "status": "unverified"
         }
       ],
-      "heldNoticesTotal": 30,
+      "heldNoticesTotal": 31,
       "heldNoticesShownLimit": 20
     }
   }
