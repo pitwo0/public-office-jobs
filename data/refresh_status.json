@@ -1,36 +1,62 @@
 {
-  "startedAt": "2026-09-27T05:16:49+00:00",
+  "startedAt": "2026-09-27T11:59:56+00:00",
   "mode": "live",
   "records": [
     {
-      "id": "job-alio-304533",
-      "status": "held",
-      "unitCount": 0
-    },
-    {
-      "id": "job-alio-305073",
-      "status": "unchanged",
-      "unitCount": 1
-    },
-    {
-      "id": "job-alio-305069",
-      "status": "unchanged",
-      "unitCount": 1
-    },
-    {
-      "id": "job-alio-304504",
+      "id": "job-alio-304485",
       "status": "added",
       "unitCount": 1
+    },
+    {
+      "id": "job-alio-304853",
+      "status": "unchanged",
+      "unitCount": 2
+    },
+    {
+      "id": "job-alio-304804",
+      "status": "unchanged",
+      "unitCount": 1
+    },
+    {
+      "id": "job-alio-304476",
+      "status": "held",
+      "unitCount": 0
     }
   ],
-  "errors": [],
+  "errors": [
+    {
+      "id": "job-alio-304853",
+      "phase": "result_fields",
+      "issues": [
+        {
+          "unitId": "rating",
+          "status": "unverified",
+          "note": "현재 공식 표와 모집단위명이 정확히 대응하지 않아 결과를 연결하지 않았습니다."
+        },
+        {
+          "unitId": "education",
+          "status": "unverified",
+          "note": "현재 공식 표와 모집단위명이 정확히 대응하지 않아 결과를 연결하지 않았습니다."
+        }
+      ],
+      "error": "결과 표 일부 미확인·추출 실패. 기존 정상 결과를 보존했습니다.",
+      "existingNoticePreserved": true
+    }
+  ],
   "newRemoteRequests": 6,
-  "status": "success",
-  "noticeCount": 54,
+  "status": "partial_success",
+  "noticeCount": 55,
   "added": 1,
   "changedIds": [],
-  "deadlineEvents": [],
+  "deadlineEvents": [
+    {
+      "id": "job-alio-304781",
+      "from": "open",
+      "to": "deadline_elapsed",
+      "basis": "저장된 마감일·시각(KST) 경과; 원문 정정 여부와 별개"
+    }
+  ],
   "actualListPages": 2,
   "preservedFailedIds": [],
-  "finishedAt": "2026-09-27T05:17:09+00:00"
+  "finishedAt": "2026-09-27T12:00:14+00:00"
 }
