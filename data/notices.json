@@ -2560,7 +2560,7 @@
         "method": "code_parse_saved_official_html"
       },
       "lifecycle": {
-        "status": "open",
+        "status": "deadline_elapsed",
         "evaluatedDate": "2026-09-28",
         "basis": "저장된 마감일·시각(KST) 경과; 원문 정정 여부와 별개"
       },
@@ -8868,7 +8868,7 @@
           "label": "JOB-ALIO 상세 · 자동 수신",
           "url": "https://job.alio.go.kr/recruitview.do?idx=304973",
           "sha256": "128a234b2fb279b4f7a3fee599599d12c7421ef4a540358cd493f0a4977ea010",
-          "receivedAt": "2026-09-24T17:09:26.947+00:00"
+          "receivedAt": "2026-09-28T13:51:57.229+00:00"
         }
       ],
       "attachments": [
@@ -8935,13 +8935,13 @@
         "semanticHash": "632c7fa5b7f1de6bfb5f9c904ae25350b93a883bc8f63da296eb9e06bb737e47",
         "conditionsHash": "ab808da51cd85a45de24e24ca4fa5307ca1ef6f66a147796120ef62e08a92dfc",
         "rawSha256": "128a234b2fb279b4f7a3fee599599d12c7421ef4a540358cd493f0a4977ea010",
-        "lastFetchedAt": "2026-09-24T17:09:26.947+00:00",
+        "lastFetchedAt": "2026-09-28T13:51:57.229+00:00",
         "contentChangedAt": "2026-09-15T04:52:50.157+00:00",
         "baselineStatus": "compared",
         "needsReview": false,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-09-24T17:09:26.947+00:00",
+          "checkedAt": "2026-09-28T13:51:57.229+00:00",
           "status": "checked",
           "changedUnitIds": [],
           "preservedUnitIds": [],
@@ -18072,16 +18072,16 @@
       ],
       "sources": [
         {
-          "id": "auto_alio",
-          "label": "JOB-ALIO 상세 · 코드 수신·자동 정리",
-          "url": "https://job.alio.go.kr/recruitview.do?idx=305243",
-          "sha256": "7f6d565c7cecf97ede3bcf4da55305a5e9a6ba99715df63ece26dcb3737555a2",
-          "receivedAt": "2026-09-22T11:36:23.365+00:00"
-        },
-        {
           "id": "auto_original_1",
           "label": "기관 원문 링크 · 내용 미확인",
           "url": "https://kicce.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=267166"
+        },
+        {
+          "id": "auto_alio",
+          "label": "JOB-ALIO 상세 · 자동 수신",
+          "url": "https://job.alio.go.kr/recruitview.do?idx=305243",
+          "sha256": "7f6d565c7cecf97ede3bcf4da55305a5e9a6ba99715df63ece26dcb3737555a2",
+          "receivedAt": "2026-09-28T13:51:53.733+00:00"
         }
       ],
       "attachments": [
@@ -18148,17 +18148,15 @@
         "semanticHash": "0b93610355bf2f9b61079b582cef74e12fa7c403fef470d34d4fe156d7879789",
         "conditionsHash": "72b813c4cbe1e4e0705c167de2549fe4807dba80d4c427cadcd0f2a72244f097",
         "rawSha256": "7f6d565c7cecf97ede3bcf4da55305a5e9a6ba99715df63ece26dcb3737555a2",
-        "lastFetchedAt": "2026-09-22T11:36:23.365+00:00",
+        "lastFetchedAt": "2026-09-28T13:51:53.733+00:00",
         "contentChangedAt": "2026-09-22T11:36:23.365+00:00",
-        "baselineStatus": "first_capture",
+        "baselineStatus": "compared",
         "needsReview": false,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-09-22T11:36:23.365+00:00",
+          "checkedAt": "2026-09-28T13:51:53.733+00:00",
           "status": "checked",
-          "changedUnitIds": [
-            "auto-a1b0268deb544b16"
-          ],
+          "changedUnitIds": [],
           "preservedUnitIds": [],
           "unmatchedUnitIds": [],
           "issues": []
@@ -28526,19 +28524,632 @@
         "evaluatedDate": "2026-09-28",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
+    },
+    {
+      "id": "job-alio-305398",
+      "idx": 305398,
+      "organization": "스포츠윤리센터",
+      "title": "스포츠윤리센터 2026년 제2차 직원 신규채용 공고",
+      "posted": "2026-09-28",
+      "deadline": "2026-10-13",
+      "deadlineTime": null,
+      "announcementPeriod": {
+        "start": "2026-09-28",
+        "end": "2026-10-13",
+        "scope": "announcement"
+      },
+      "applicationPeriod": {
+        "start": null,
+        "end": null,
+        "endTime": null,
+        "status": "unverified",
+        "scope": "announcement",
+        "sources": [
+          "auto_alio"
+        ],
+        "raw": null,
+        "note": "명시된 접수기간을 단일 기간으로 해석하지 못했습니다. 공고기간으로 대체하지 않습니다."
+      },
+      "applicationStart": null,
+      "regions": [
+        "서울",
+        "대전",
+        "경기",
+        "전남광주"
+      ],
+      "totalVacancies": 9,
+      "employment": "기간제",
+      "units": [
+        {
+          "id": "auto-063d1bbe08083935",
+          "title": "기간제 계약직(휴직대체) 행정지원A",
+          "sourceUnitName": "기간제 계약직(휴직대체) 행정지원A",
+          "employment": "기간제",
+          "regions": [
+            "서울",
+            "대전",
+            "경기",
+            "전남광주"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "(공통)\r\nㅇ 응시연령: 만 18세 이상, 정년 만 60세 미만인 자 (단, 청년인턴은 만34세 이하인 청년)\r\nㅇ 성별, 학력, 거주지: 제한없음\r\nㅇ 남자의 경우 병역을 마쳤거나 병역 면제자(채용예정일 이전 전역 예정자 포함)\r\nㅇ 채용예정일로부터 즉시 근무 가능한 자\r\n* 채용분야별 세부 자격사항은 첨부된 채용공고문 참고",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "서울,대전,경기,전남광주",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "○ 지원서 접수\r\n- 기간 : '26. 09. 28.(월) ~ '26. 10. 13.(화) 16:59:59 까지\r\n- 방법 : 채용페이지(https://k-sec.career.co.kr)를 통해 입사지원서 작성 후 제출\r\n○ 1차(서류)전형\r\n- 전형기간 : ‘26. 10. 14.(수) ~’26. 10. 29.(목)\r\n- 전형기준 : 입사지원서, 자기소개서, 자격 및 경력사항 등 종합평가\r\n- 합격자 배수 : (정규직) 채용 예정인원의 20배수 / (기간제) 채용 예정인원의 5배수\r\n○ 2차(필기)전형\r\n- 검사일정 : '26. 11. 07. (토)\r\n- 정규직 : NCS 직업공통능력평가(의사소통능력, 수리능력, 문제해결능력, 자기관리능력, 대인관계능력, 디지털 능력, 직업윤리 분야 50문항, 50분), 인성검사(오프라인)\r\n- 기간제 : 온라인 인성검사(미응시자 면접 응시 불가. 면접전형 참고자료로 활용\r\n- 합격자 배수 : (정규직) 채용 예정인원의 5배수 / (기간제) 해당없음\r\n○ 최종(면접)전형\r\n- 전형기간 : ‘26. 11. 17.(화).~ '26. 11. 18.(수)\r\n- 면접방법 : 종합심층면접\r\n- (정규직) 직무발표, 구조화면접(경력 및 경험, 인성 관련 질의응답 등)\r\n- (기간제) 구조화면접(경력 및 경험, 인성 관련 질의응답 등)\r\n- 합격자 배수 : 1배수 이내\r\n○ 채용서류 진위여부 및 결격사유 확인 : ‘26. 11. 24.(화).~ '26. 11. 27.(금)\r\n○ 입사예정일 : '26. 11. 30.(월)\r\n※ 채용일정은 내부 사정에 따라 변경될 수 있음\r\n※ 보다 자세한 사항은 첨부된 채용공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305398",
+              "sha256": "e65a6015fa29f147bdbe39217fe3641f221e2dd49cebbba9ef08b2595320188e",
+              "receivedAt": "2026-09-28T13:51:50.404+00:00",
+              "rawUnitName": "기간제 계약직(휴직대체) 행정지원A",
+              "rows": [
+                [
+                  "기간제 계약직(휴직대체) 행정지원A"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "recruitment_unit",
+            "method": "unit_name",
+            "value": "기간제",
+            "quote": "기간제 계약직(휴직대체) 행정지원A",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "스포츠윤리센터",
+            "job": "기간제 계약직(휴직대체) 행정지원A",
+            "rawUnitName": "기간제 계약직(휴직대체) 행정지원A",
+            "regions": [
+              "서울",
+              "대전",
+              "경기",
+              "전남광주"
+            ],
+            "regionsScope": "announcement",
+            "employment": "기간제",
+            "recruitmentCategory": {
+              "value": "신입",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=305398",
+              "sha256": "e65a6015fa29f147bdbe39217fe3641f221e2dd49cebbba9ef08b2595320188e",
+              "receivedAt": "2026-09-28T13:51:50.404+00:00"
+            }
+          }
+        },
+        {
+          "id": "auto-b111ed952afcf7e5",
+          "title": "기간제 계약직(휴직대체) 행정지원B(보훈제한경쟁)",
+          "sourceUnitName": "기간제 계약직(휴직대체) 행정지원B(보훈제한경쟁)",
+          "employment": "기간제",
+          "regions": [
+            "서울",
+            "대전",
+            "경기",
+            "전남광주"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "(공통)\r\nㅇ 응시연령: 만 18세 이상, 정년 만 60세 미만인 자 (단, 청년인턴은 만34세 이하인 청년)\r\nㅇ 성별, 학력, 거주지: 제한없음\r\nㅇ 남자의 경우 병역을 마쳤거나 병역 면제자(채용예정일 이전 전역 예정자 포함)\r\nㅇ 채용예정일로부터 즉시 근무 가능한 자\r\n* 채용분야별 세부 자격사항은 첨부된 채용공고문 참고",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "서울,대전,경기,전남광주",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "○ 지원서 접수\r\n- 기간 : '26. 09. 28.(월) ~ '26. 10. 13.(화) 16:59:59 까지\r\n- 방법 : 채용페이지(https://k-sec.career.co.kr)를 통해 입사지원서 작성 후 제출\r\n○ 1차(서류)전형\r\n- 전형기간 : ‘26. 10. 14.(수) ~’26. 10. 29.(목)\r\n- 전형기준 : 입사지원서, 자기소개서, 자격 및 경력사항 등 종합평가\r\n- 합격자 배수 : (정규직) 채용 예정인원의 20배수 / (기간제) 채용 예정인원의 5배수\r\n○ 2차(필기)전형\r\n- 검사일정 : '26. 11. 07. (토)\r\n- 정규직 : NCS 직업공통능력평가(의사소통능력, 수리능력, 문제해결능력, 자기관리능력, 대인관계능력, 디지털 능력, 직업윤리 분야 50문항, 50분), 인성검사(오프라인)\r\n- 기간제 : 온라인 인성검사(미응시자 면접 응시 불가. 면접전형 참고자료로 활용\r\n- 합격자 배수 : (정규직) 채용 예정인원의 5배수 / (기간제) 해당없음\r\n○ 최종(면접)전형\r\n- 전형기간 : ‘26. 11. 17.(화).~ '26. 11. 18.(수)\r\n- 면접방법 : 종합심층면접\r\n- (정규직) 직무발표, 구조화면접(경력 및 경험, 인성 관련 질의응답 등)\r\n- (기간제) 구조화면접(경력 및 경험, 인성 관련 질의응답 등)\r\n- 합격자 배수 : 1배수 이내\r\n○ 채용서류 진위여부 및 결격사유 확인 : ‘26. 11. 24.(화).~ '26. 11. 27.(금)\r\n○ 입사예정일 : '26. 11. 30.(월)\r\n※ 채용일정은 내부 사정에 따라 변경될 수 있음\r\n※ 보다 자세한 사항은 첨부된 채용공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305398",
+              "sha256": "e65a6015fa29f147bdbe39217fe3641f221e2dd49cebbba9ef08b2595320188e",
+              "receivedAt": "2026-09-28T13:51:50.404+00:00",
+              "rawUnitName": "기간제 계약직(휴직대체) 행정지원B(보훈제한경쟁)",
+              "rows": [
+                [
+                  "기간제 계약직(휴직대체) 행정지원B(보훈제한경쟁)"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "recruitment_unit",
+            "method": "unit_name",
+            "value": "기간제",
+            "quote": "기간제 계약직(휴직대체) 행정지원B(보훈제한경쟁)",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "스포츠윤리센터",
+            "job": "기간제 계약직(휴직대체) 행정지원B(보훈제한경쟁)",
+            "rawUnitName": "기간제 계약직(휴직대체) 행정지원B(보훈제한경쟁)",
+            "regions": [
+              "서울",
+              "대전",
+              "경기",
+              "전남광주"
+            ],
+            "regionsScope": "announcement",
+            "employment": "기간제",
+            "recruitmentCategory": {
+              "value": "신입",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=305398",
+              "sha256": "e65a6015fa29f147bdbe39217fe3641f221e2dd49cebbba9ef08b2595320188e",
+              "receivedAt": "2026-09-28T13:51:50.404+00:00"
+            }
+          }
+        }
+      ],
+      "sources": [
+        {
+          "id": "auto_alio",
+          "label": "JOB-ALIO 상세 · 코드 수신·자동 정리",
+          "url": "https://job.alio.go.kr/recruitview.do?idx=305398",
+          "sha256": "e65a6015fa29f147bdbe39217fe3641f221e2dd49cebbba9ef08b2595320188e",
+          "receivedAt": "2026-09-28T13:51:50.404+00:00"
+        },
+        {
+          "id": "auto_original_1",
+          "label": "기관 원문 링크 · 내용 미확인",
+          "url": "https://k-sec.career.co.kr"
+        }
+      ],
+      "attachments": [
+        {
+          "name": "공식 첨부 1",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3077482",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        },
+        {
+          "name": "공식 첨부 2",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3077483",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        }
+      ],
+      "checkedAt": "2026-09-28T13:51:50.404+00:00",
+      "collectionMethod": "automatic_public_html",
+      "collectionLabel": "코드 원격 수신 → 규칙 기반 모집단위 정리 → 저장·화면 생성 · GPT 미사용",
+      "sourceNote": "자동으로 확인 가능한 본문·결과 표만 정리했습니다. 첨부·모집단위별 상세 조건은 미확인이며, 공고 전체 원문은 별도로 표시합니다.",
+      "announcementMetadata": {
+        "raw": {
+          "표준직무(NCS)": "사업관리,경영.회계.사무,교육.자연.사회과학,법률.경찰.소방.교도.국방,정보통신",
+          "학력정보": "학력무관",
+          "근무분야": "일반직,행정직,계약직",
+          "채용구분": "신입",
+          "고용형태": "비정규직,정규직",
+          "대체인력여부": "예",
+          "근무지": "서울,대전,경기,전남광주",
+          "급여정보": "신입 / 평균",
+          "채용인원": "9명",
+          "우대조건": "취업지원대상자(보훈), 장애인복지법 등에 의한 장애인, 경력단절여성, 다문화가족, 비수도권지역인재, 센터 근무경력자(최근 3년이내)",
+          "채용기간": "26.09.28 ~ 26.10.13",
+          "등록일": "2026.09.28"
+        },
+        "rawApplicationPeriod": {
+          "raw": null,
+          "status": "미확인",
+          "source_section": "전형절차/방법",
+          "note": "명시된 접수기간 원문만 추출; 날짜 정규화·모집단위별 상이한 기간 검토는 별도"
+        },
+        "sourceSha256": "e65a6015fa29f147bdbe39217fe3641f221e2dd49cebbba9ef08b2595320188e",
+        "sourceReceivedAt": "2026-09-28T13:51:50.404+00:00",
+        "method": "auto-normalize-0.1"
+      },
+      "autoNormalization": {
+        "version": "auto-normalize-0.1",
+        "semanticHash": "98bb2e2206c073b1469d8c13cc80ea7c0cc6ea625cbc67e4fe9a4f2564dfde2c",
+        "generatedFrom": {
+          "url": "https://job.alio.go.kr/recruitview.do?idx=305398",
+          "sha256": "e65a6015fa29f147bdbe39217fe3641f221e2dd49cebbba9ef08b2595320188e",
+          "receivedAt": "2026-09-28T13:51:50.404+00:00"
+        },
+        "aiUsed": false,
+        "heldUnitCount": 6
+      },
+      "autoSync": {
+        "semanticHash": "98bb2e2206c073b1469d8c13cc80ea7c0cc6ea625cbc67e4fe9a4f2564dfde2c",
+        "conditionsHash": "28e5d7307a40bb98bb28591a3245a126715eb27c97c0f837a23611a81d2dcaa3",
+        "rawSha256": "e65a6015fa29f147bdbe39217fe3641f221e2dd49cebbba9ef08b2595320188e",
+        "lastFetchedAt": "2026-09-28T13:51:50.404+00:00",
+        "contentChangedAt": "2026-09-28T13:51:50.404+00:00",
+        "baselineStatus": "first_capture",
+        "needsReview": true,
+        "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
+        "resultCheck": {
+          "checkedAt": "2026-09-28T13:51:50.404+00:00",
+          "status": "checked",
+          "changedUnitIds": [
+            "auto-063d1bbe08083935",
+            "auto-b111ed952afcf7e5"
+          ],
+          "preservedUnitIds": [],
+          "unmatchedUnitIds": [],
+          "issues": []
+        }
+      },
+      "lifecycle": {
+        "status": "open",
+        "evaluatedDate": "2026-09-28",
+        "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
+      }
     }
   ],
   "refresh": {
     "status": "success",
     "mode": "live",
-    "lastAttemptAt": "2026-09-28T05:21:41+00:00",
-    "lastSuccessAt": "2026-09-28T05:21:41+00:00",
-    "candidatesCount": 383,
+    "lastAttemptAt": "2026-09-28T13:51:41+00:00",
+    "lastSuccessAt": "2026-09-28T13:51:41+00:00",
+    "candidatesCount": 407,
     "coverage": {
       "description": "JOB-ALIO 최근60일 이내 진행중·비정규직·경영회계사무 목록, 목록최대2페이지·상세최대4건/회. 저장된 마감공고도 결과를 순환 재확인합니다. 전체공고 수집 아님.",
       "queuedNoticeCount": 43,
-      "heldUnitCount": 340,
-      "nextPage": 3,
+      "heldUnitCount": 364,
+      "nextPage": 4,
       "closedRecheck": {
         "recentDays": 30,
         "recentOrUnknownIntervalDays": 1,
@@ -28549,6 +29160,18 @@
       "requestLimit": 6,
       "automaticRetries": 0,
       "heldNotices": [
+        {
+          "id": "job-alio-305397",
+          "organization": "한국장애인개발원",
+          "title": "[제2026-112호] 한국장애인개발원 2026년도 제3차 직원 정기채용 공고",
+          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305397",
+          "lastFetchedAt": "2026-09-28T13:52:00.635+00:00",
+          "reasons": [
+            "모집단위명만으로 사무직 여부 미확인",
+            "해당 모집단위의 기간제·계약직 여부 미확인"
+          ],
+          "status": "unverified"
+        },
         {
           "id": "job-alio-305363",
           "organization": "한국산업안전보건공단",
@@ -28759,20 +29382,9 @@
             "모집단위명만으로 사무직 여부 미확인"
           ],
           "status": "unverified"
-        },
-        {
-          "id": "job-alio-305256",
-          "organization": "한국교육학술정보원",
-          "title": "2026년 제6차 직원(청년인턴(장애·보훈 제한경쟁)) 채용",
-          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305256",
-          "lastFetchedAt": "2026-09-22T21:17:26.777+00:00",
-          "reasons": [
-            "해당 모집단위의 기간제·계약직 여부 미확인"
-          ],
-          "status": "unverified"
         }
       ],
-      "heldNoticesTotal": 40,
+      "heldNoticesTotal": 41,
       "heldNoticesShownLimit": 20
     }
   }
