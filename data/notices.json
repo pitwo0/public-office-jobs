@@ -2785,7 +2785,7 @@
       "applicationStart": "2026-09-11",
       "applicationStartTime": "18:00",
       "lifecycle": {
-        "status": "open",
+        "status": "deadline_elapsed",
         "evaluatedDate": "2026-09-28",
         "basis": "저장된 마감일·시각(KST) 경과; 원문 정정 여부와 별개"
       },
@@ -6997,7 +6997,7 @@
           "label": "JOB-ALIO 상세 · 자동 수신",
           "url": "https://job.alio.go.kr/recruitview.do?idx=304510",
           "sha256": "8c20f61ec32c8b929861b312ecc9857a00338718bd9c6b107ba20a47fb62ccc8",
-          "receivedAt": "2026-09-24T11:44:01.965+00:00"
+          "receivedAt": "2026-09-28T05:21:57.763+00:00"
         }
       ],
       "attachments": [
@@ -7070,13 +7070,13 @@
         "semanticHash": "beabadcb690a54c1e9a53d6a94feb87645e29e3a35d0a7bdeb98531cabfd13b4",
         "conditionsHash": "0fc61c33c250914aa9988a9b67b4ef03817263f5a71176d345ac07ece15c727d",
         "rawSha256": "8c20f61ec32c8b929861b312ecc9857a00338718bd9c6b107ba20a47fb62ccc8",
-        "lastFetchedAt": "2026-09-24T11:44:01.965+00:00",
+        "lastFetchedAt": "2026-09-28T05:21:57.763+00:00",
         "contentChangedAt": "2026-09-13T16:15:16.974+00:00",
         "baselineStatus": "compared",
         "needsReview": false,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-09-24T11:44:01.965+00:00",
+          "checkedAt": "2026-09-28T05:21:57.763+00:00",
           "status": "checked",
           "changedUnitIds": [],
           "preservedUnitIds": [],
@@ -7369,7 +7369,7 @@
           "label": "JOB-ALIO 상세 · 자동 수신",
           "url": "https://job.alio.go.kr/recruitview.do?idx=304943",
           "sha256": "caaa0bacbac0603d2feab813b388a198e37ac49f0a5998ee0e1224dcdf7ef128",
-          "receivedAt": "2026-09-22T11:36:17.616+00:00"
+          "receivedAt": "2026-09-28T05:21:54.088+00:00"
         }
       ],
       "attachments": [
@@ -7442,13 +7442,13 @@
         "semanticHash": "57abd2d62193a52d65c65d6b5e5140a3ba3ba7d9199ec99d51bf1f6b0028b688",
         "conditionsHash": "98e18a0ef51ab6632b18aca73293424dc9b7555f4ecbdf356617f3358bfe0680",
         "rawSha256": "caaa0bacbac0603d2feab813b388a198e37ac49f0a5998ee0e1224dcdf7ef128",
-        "lastFetchedAt": "2026-09-22T11:36:17.616+00:00",
+        "lastFetchedAt": "2026-09-28T05:21:54.088+00:00",
         "contentChangedAt": "2026-09-14T12:43:53.478+00:00",
         "baselineStatus": "compared",
         "needsReview": false,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-09-22T11:36:17.616+00:00",
+          "checkedAt": "2026-09-28T05:21:54.088+00:00",
           "status": "checked",
           "changedUnitIds": [],
           "preservedUnitIds": [],
@@ -28531,14 +28531,14 @@
   "refresh": {
     "status": "success",
     "mode": "live",
-    "lastAttemptAt": "2026-09-27T21:19:42+00:00",
-    "lastSuccessAt": "2026-09-27T21:19:42+00:00",
-    "candidatesCount": 381,
+    "lastAttemptAt": "2026-09-28T05:21:41+00:00",
+    "lastSuccessAt": "2026-09-28T05:21:41+00:00",
+    "candidatesCount": 383,
     "coverage": {
       "description": "JOB-ALIO 최근60일 이내 진행중·비정규직·경영회계사무 목록, 목록최대2페이지·상세최대4건/회. 저장된 마감공고도 결과를 순환 재확인합니다. 전체공고 수집 아님.",
       "queuedNoticeCount": 43,
-      "heldUnitCount": 338,
-      "nextPage": 2,
+      "heldUnitCount": 340,
+      "nextPage": 3,
       "closedRecheck": {
         "recentDays": 30,
         "recentOrUnknownIntervalDays": 1,
@@ -28549,6 +28549,28 @@
       "requestLimit": 6,
       "automaticRetries": 0,
       "heldNotices": [
+        {
+          "id": "job-alio-305363",
+          "organization": "한국산업안전보건공단",
+          "title": "[안전보건공단] 본부(울산) 기간제 근로자 채용공고",
+          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305363",
+          "lastFetchedAt": "2026-09-28T05:22:00.757+00:00",
+          "reasons": [
+            "모집단위명만으로 사무직 여부 미확인"
+          ],
+          "status": "unverified"
+        },
+        {
+          "id": "job-alio-305378",
+          "organization": "한국수력원자력(주)",
+          "title": "2026년도 제9차 경력사원(고위직) 선발",
+          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305378",
+          "lastFetchedAt": "2026-09-28T05:21:51.112+00:00",
+          "reasons": [
+            "모집단위명만으로 사무직 여부 미확인"
+          ],
+          "status": "unverified"
+        },
         {
           "id": "job-alio-304416",
           "organization": "한국전력기술주식회사",
@@ -28748,33 +28770,9 @@
             "해당 모집단위의 기간제·계약직 여부 미확인"
           ],
           "status": "unverified"
-        },
-        {
-          "id": "job-alio-305270",
-          "organization": "한국화학연구원",
-          "title": "한국화학연구원 계약직 채용 공고",
-          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305270",
-          "lastFetchedAt": "2026-09-22T16:56:34.780+00:00",
-          "reasons": [
-            "모집단위명만으로 사무직 여부 미확인"
-          ],
-          "status": "unverified"
-        },
-        {
-          "id": "job-alio-305191",
-          "organization": "한국국방연구원",
-          "title": "한국국방연구원 2026년도 수시 2차 채용공고",
-          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305191",
-          "lastFetchedAt": "2026-09-21T21:58:01.670+00:00",
-          "reasons": [
-            "모집단위명만으로 사무직 여부 미확인",
-            "해당 모집단위의 기간제·계약직 여부 미확인",
-            "사무직과 다른 직무가 함께 표기되어 분리 미확인"
-          ],
-          "status": "unverified"
         }
       ],
-      "heldNoticesTotal": 38,
+      "heldNoticesTotal": 40,
       "heldNoticesShownLimit": 20
     }
   }
