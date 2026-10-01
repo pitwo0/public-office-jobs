@@ -2857,8 +2857,8 @@
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
       "lastSeenAt": "2026-09-29T05:42:22.953+00:00",
-      "lastAttemptAt": "2026-09-25T04:55:52.239+00:00",
-      "lastSuccessAt": "2026-09-25T04:55:52.239+00:00"
+      "lastAttemptAt": "2026-10-01T22:40:19.892+00:00",
+      "lastSuccessAt": "2026-10-01T22:40:19.892+00:00"
     },
     "job-alio-305270": {
       "state": "held",
@@ -2870,18 +2870,18 @@
         "region_raw": "대전",
         "employment_raw": "비정규직",
         "registered_raw": "2026.09.23",
-        "closing_raw": "26.10.07 D-8",
+        "closing_raw": "26.10.07 D-5",
         "application_period": {
           "raw": null,
           "status": "미확인",
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=305270",
-        "list_page": 3,
+        "list_page": 5,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-28T13:51:47.216+00:00",
+      "lastSeenAt": "2026-10-01T22:40:10.152+00:00",
       "lastAttemptAt": "2026-09-22T16:56:34.780+00:00",
       "lastSuccessAt": "2026-09-22T16:56:34.780+00:00"
     },
@@ -2895,18 +2895,18 @@
         "region_raw": "대구",
         "employment_raw": "비정규직",
         "registered_raw": "2026.09.23",
-        "closing_raw": "26.10.08 D-9",
+        "closing_raw": "26.10.08 D-6",
         "application_period": {
           "raw": null,
           "status": "미확인",
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=305128",
-        "list_page": 3,
+        "list_page": 5,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-28T13:51:47.216+00:00",
+      "lastSeenAt": "2026-10-01T22:40:10.152+00:00",
       "lastAttemptAt": "2026-09-25T11:49:32.429+00:00",
       "lastSuccessAt": "2026-09-25T11:49:32.429+00:00"
     },
@@ -2927,11 +2927,11 @@
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=305291",
-        "list_page": 4,
+        "list_page": 5,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-10-01T13:11:11.733+00:00",
+      "lastSeenAt": "2026-10-01T22:40:10.152+00:00",
       "lastAttemptAt": "2026-09-23T04:43:43.512+00:00",
       "lastSuccessAt": "2026-09-23T04:43:43.512+00:00"
     },
@@ -2945,18 +2945,18 @@
         "region_raw": "세종",
         "employment_raw": "비정규직",
         "registered_raw": "2026.09.23",
-        "closing_raw": "26.10.07 D-8",
+        "closing_raw": "26.10.07 D-5",
         "application_period": {
           "raw": null,
           "status": "미확인",
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=305286",
-        "list_page": 2,
+        "list_page": 5,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-28T05:21:47.435+00:00",
+      "lastSeenAt": "2026-10-01T22:40:10.152+00:00",
       "lastAttemptAt": "2026-09-29T22:13:53.341+00:00",
       "lastSuccessAt": "2026-09-29T22:13:53.341+00:00"
     },
@@ -2970,18 +2970,18 @@
         "region_raw": "서울 외 14",
         "employment_raw": "비정규직",
         "registered_raw": "2026.09.23",
-        "closing_raw": "26.10.07 D-8",
+        "closing_raw": "26.10.07 D-5",
         "application_period": {
           "raw": null,
           "status": "미확인",
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=305274",
-        "list_page": 2,
+        "list_page": 5,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-09-28T05:21:47.435+00:00",
+      "lastSeenAt": "2026-10-01T22:40:10.152+00:00",
       "lastAttemptAt": "2026-09-24T21:29:59.679+00:00",
       "lastSuccessAt": "2026-09-24T21:29:59.679+00:00"
     },
@@ -3177,11 +3177,11 @@
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=305321",
-        "list_page": 4,
+        "list_page": 5,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-10-01T13:11:11.733+00:00",
+      "lastSeenAt": "2026-10-01T22:40:10.152+00:00",
       "lastAttemptAt": "2026-09-24T04:48:24.206+00:00",
       "lastSuccessAt": "2026-09-24T04:48:24.206+00:00"
     },
@@ -3202,11 +3202,11 @@
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=305320",
-        "list_page": 4,
+        "list_page": 5,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-10-01T13:11:11.733+00:00",
+      "lastSeenAt": "2026-10-01T22:40:10.152+00:00",
       "lastAttemptAt": "2026-09-24T11:43:56.442+00:00",
       "lastSuccessAt": "2026-09-24T11:43:56.442+00:00"
     },
@@ -3227,11 +3227,11 @@
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=305317",
-        "list_page": 4,
+        "list_page": 5,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-10-01T13:11:11.733+00:00",
+      "lastSeenAt": "2026-10-01T22:40:10.152+00:00",
       "lastAttemptAt": "2026-09-24T11:44:05.122+00:00",
       "lastSuccessAt": "2026-09-24T11:44:05.122+00:00"
     },
@@ -3252,13 +3252,13 @@
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=305310",
-        "list_page": 4,
+        "list_page": 5,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-10-01T13:11:11.733+00:00",
-      "lastAttemptAt": "2026-09-24T17:09:20.962+00:00",
-      "lastSuccessAt": "2026-09-24T17:09:20.962+00:00"
+      "lastSeenAt": "2026-10-01T22:40:10.152+00:00",
+      "lastAttemptAt": "2026-10-01T22:40:16.808+00:00",
+      "lastSuccessAt": "2026-10-01T22:40:16.808+00:00"
     },
     "job-alio-305305": {
       "state": "held",
@@ -3277,11 +3277,11 @@
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=305305",
-        "list_page": 4,
+        "list_page": 5,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-10-01T13:11:11.733+00:00",
+      "lastSeenAt": "2026-10-01T22:40:10.152+00:00",
       "lastAttemptAt": "2026-09-24T17:09:30.483+00:00",
       "lastSuccessAt": "2026-09-24T17:09:30.483+00:00"
     },
@@ -3917,7 +3917,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-10-01T13:11:08.369+00:00",
+      "lastSeenAt": "2026-10-01T22:40:07.311+00:00",
       "lastAttemptAt": "2026-10-01T05:50:10.146+00:00",
       "lastSuccessAt": "2026-10-01T05:50:10.146+00:00"
     },
@@ -3942,7 +3942,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-10-01T13:11:08.369+00:00",
+      "lastSeenAt": "2026-10-01T22:40:07.311+00:00",
       "lastAttemptAt": "2026-10-01T13:11:23.166+00:00",
       "lastSuccessAt": "2026-10-01T13:11:23.166+00:00"
     },
@@ -3967,7 +3967,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-10-01T13:11:08.369+00:00",
+      "lastSeenAt": "2026-10-01T22:40:07.311+00:00",
       "lastAttemptAt": "2026-10-01T13:11:14.688+00:00",
       "lastSuccessAt": "2026-10-01T13:11:14.688+00:00"
     },
@@ -3992,7 +3992,149 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-10-01T13:11:08.369+00:00"
+      "lastSeenAt": "2026-10-01T22:40:07.311+00:00"
+    },
+    "job-alio-305660": {
+      "state": "published",
+      "row": {
+        "id": "job-alio-305660",
+        "idx": "305660",
+        "title": "한국토지주택공사 경기남부지역본부 기간제근로자(보상일반역, 보상전문역) 채용공고",
+        "org": "한국토지주택공사",
+        "region_raw": "경기",
+        "employment_raw": "비정규직",
+        "registered_raw": "2026.10.02",
+        "closing_raw": "26.10.16 D-14",
+        "application_period": {
+          "raw": null,
+          "status": "미확인",
+          "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
+        },
+        "source_url": "https://job.alio.go.kr/recruitview.do?idx=305660",
+        "list_page": 1,
+        "collection_method": "python_public_html",
+        "review_status": "transport_sample_not_office_unit_reviewed"
+      },
+      "lastSeenAt": "2026-10-01T22:40:07.311+00:00",
+      "lastAttemptAt": "2026-10-01T22:40:13.475+00:00",
+      "lastSuccessAt": "2026-10-01T22:40:13.475+00:00"
+    },
+    "job-alio-305653": {
+      "state": "held",
+      "row": {
+        "id": "job-alio-305653",
+        "idx": "305653",
+        "title": "한국토지주택공사 광주전남지역본부 기간제근로자(보상일반역, 보상전문역) 채용공고",
+        "org": "한국토지주택공사",
+        "region_raw": "전남광주",
+        "employment_raw": "비정규직",
+        "registered_raw": "2026.10.02",
+        "closing_raw": "26.10.16 D-14",
+        "application_period": {
+          "raw": null,
+          "status": "미확인",
+          "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
+        },
+        "source_url": "https://job.alio.go.kr/recruitview.do?idx=305653",
+        "list_page": 1,
+        "collection_method": "python_public_html",
+        "review_status": "transport_sample_not_office_unit_reviewed"
+      },
+      "lastSeenAt": "2026-10-01T22:40:07.311+00:00",
+      "lastAttemptAt": "2026-10-01T22:40:22.945+00:00",
+      "lastSuccessAt": "2026-10-01T22:40:22.945+00:00"
+    },
+    "job-alio-305652": {
+      "state": "queued",
+      "row": {
+        "id": "job-alio-305652",
+        "idx": "305652",
+        "title": "한국토지주택공사 세종특별본부 기간제근로자(보상일반역, 보상전문역) 채용공고",
+        "org": "한국토지주택공사",
+        "region_raw": "세종",
+        "employment_raw": "비정규직",
+        "registered_raw": "2026.10.02",
+        "closing_raw": "26.10.19 D-17",
+        "application_period": {
+          "raw": null,
+          "status": "미확인",
+          "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
+        },
+        "source_url": "https://job.alio.go.kr/recruitview.do?idx=305652",
+        "list_page": 1,
+        "collection_method": "python_public_html",
+        "review_status": "transport_sample_not_office_unit_reviewed"
+      },
+      "lastSeenAt": "2026-10-01T22:40:07.311+00:00"
+    },
+    "job-alio-305639": {
+      "state": "queued",
+      "row": {
+        "id": "job-alio-305639",
+        "idx": "305639",
+        "title": "한국토지주택공사 부산울산지역본부 기간제근로자(보상일반역, 보상전문역) 채용공고",
+        "org": "한국토지주택공사",
+        "region_raw": "부산",
+        "employment_raw": "비정규직",
+        "registered_raw": "2026.10.02",
+        "closing_raw": "26.10.16 D-14",
+        "application_period": {
+          "raw": null,
+          "status": "미확인",
+          "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
+        },
+        "source_url": "https://job.alio.go.kr/recruitview.do?idx=305639",
+        "list_page": 1,
+        "collection_method": "python_public_html",
+        "review_status": "transport_sample_not_office_unit_reviewed"
+      },
+      "lastSeenAt": "2026-10-01T22:40:07.311+00:00"
+    },
+    "job-alio-305636": {
+      "state": "queued",
+      "row": {
+        "id": "job-alio-305636",
+        "idx": "305636",
+        "title": "한국토지주택공사 대전충남지역본부 기간제근로자(보상일반역, 보상전문역) 채용공고",
+        "org": "한국토지주택공사",
+        "region_raw": "대전",
+        "employment_raw": "비정규직",
+        "registered_raw": "2026.10.02",
+        "closing_raw": "26.10.23 D-21",
+        "application_period": {
+          "raw": null,
+          "status": "미확인",
+          "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
+        },
+        "source_url": "https://job.alio.go.kr/recruitview.do?idx=305636",
+        "list_page": 1,
+        "collection_method": "python_public_html",
+        "review_status": "transport_sample_not_office_unit_reviewed"
+      },
+      "lastSeenAt": "2026-10-01T22:40:07.311+00:00"
+    },
+    "job-alio-305630": {
+      "state": "queued",
+      "row": {
+        "id": "job-alio-305630",
+        "idx": "305630",
+        "title": "한국토지주택공사 경기북부지역본부 기간제근로자(보상일반역, 보상전문역) 채용공고",
+        "org": "한국토지주택공사",
+        "region_raw": "경기",
+        "employment_raw": "비정규직",
+        "registered_raw": "2026.10.02",
+        "closing_raw": "26.10.16 D-14",
+        "application_period": {
+          "raw": null,
+          "status": "미확인",
+          "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
+        },
+        "source_url": "https://job.alio.go.kr/recruitview.do?idx=305630",
+        "list_page": 1,
+        "collection_method": "python_public_html",
+        "review_status": "transport_sample_not_office_unit_reviewed"
+      },
+      "lastSeenAt": "2026-10-01T22:40:07.311+00:00"
     }
   },
   "candidates": {
@@ -6335,45 +6477,6 @@
         "receivedAt": "2026-09-24T11:44:05.122+00:00"
       },
       "employmentEvidence": "신입직(기간제계약직(육아휴직대체)), 시청자권익증진-센터지원권익부"
-    },
-    "job-alio-305310:auto-f3e84f941f1d2794": {
-      "id": "job-alio-305310:auto-f3e84f941f1d2794",
-      "noticeId": "job-alio-305310",
-      "rawUnitName": "정규직(일반직5급)_계약·위기관리",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=305310",
-        "sha256": "90316edab48f30593a091400bcab1677c0e8099e5c315c27b4c8d6f60914545d",
-        "receivedAt": "2026-09-24T17:09:20.962+00:00"
-      },
-      "employmentEvidence": "정규직(일반직5급)_계약·위기관리"
-    },
-    "job-alio-305310:auto-050ae5235581c11f": {
-      "id": "job-alio-305310:auto-050ae5235581c11f",
-      "noticeId": "job-alio-305310",
-      "rawUnitName": "채용형청년인턴_영화관운영",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=305310",
-        "sha256": "90316edab48f30593a091400bcab1677c0e8099e5c315c27b4c8d6f60914545d",
-        "receivedAt": "2026-09-24T17:09:20.962+00:00"
-      },
-      "employmentEvidence": "채용형청년인턴_영화관운영"
-    },
-    "job-alio-305310:auto-a65bd616cea69ed3": {
-      "id": "job-alio-305310:auto-a65bd616cea69ed3",
-      "noticeId": "job-alio-305310",
-      "rawUnitName": "체험형청년인턴_영화·영화인 DB 구축",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=305310",
-        "sha256": "90316edab48f30593a091400bcab1677c0e8099e5c315c27b4c8d6f60914545d",
-        "receivedAt": "2026-09-24T17:09:20.962+00:00"
-      },
-      "employmentEvidence": "체험형청년인턴_영화·영화인 DB 구축"
     },
     "job-alio-305148:auto-d6e933148f32c47f": {
       "id": "job-alio-305148:auto-d6e933148f32c47f",
@@ -8961,8 +9064,242 @@
         "receivedAt": "2026-10-01T13:11:20.412+00:00"
       },
       "employmentEvidence": "무기계약직,비정규직"
+    },
+    "job-alio-305660:auto-d3568bba6efcb446": {
+      "id": "job-alio-305660:auto-d3568bba6efcb446",
+      "noticeId": "job-alio-305660",
+      "rawUnitName": "연번1. 보상일반역_광명시흥사업본부",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305660",
+        "sha256": "0f87fd3cc9aefa8b44f5029c8c3ba0c8d8f8957b01c9265f150f860b40e5291d",
+        "receivedAt": "2026-10-01T22:40:13.475+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-305660:auto-63eb32c676b5edff": {
+      "id": "job-alio-305660:auto-63eb32c676b5edff",
+      "noticeId": "job-alio-305660",
+      "rawUnitName": "연번2. 보상일반역_화성사업본부",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305660",
+        "sha256": "0f87fd3cc9aefa8b44f5029c8c3ba0c8d8f8957b01c9265f150f860b40e5291d",
+        "receivedAt": "2026-10-01T22:40:13.475+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-305660:auto-53074af9a0fd3923": {
+      "id": "job-alio-305660:auto-53074af9a0fd3923",
+      "noticeId": "job-alio-305660",
+      "rawUnitName": "연번3. 보상일반역_오산동탄사업본부",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305660",
+        "sha256": "0f87fd3cc9aefa8b44f5029c8c3ba0c8d8f8957b01c9265f150f860b40e5291d",
+        "receivedAt": "2026-10-01T22:40:13.475+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-305660:auto-c8be9bb4b025f47c": {
+      "id": "job-alio-305660:auto-c8be9bb4b025f47c",
+      "noticeId": "job-alio-305660",
+      "rawUnitName": "연번4. 보상일반역_의왕과천사업본부",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305660",
+        "sha256": "0f87fd3cc9aefa8b44f5029c8c3ba0c8d8f8957b01c9265f150f860b40e5291d",
+        "receivedAt": "2026-10-01T22:40:13.475+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-305660:auto-8c1f4edf00cba61e": {
+      "id": "job-alio-305660:auto-8c1f4edf00cba61e",
+      "noticeId": "job-alio-305660",
+      "rawUnitName": "연번5. 보상일반역_의왕과천사업본부",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305660",
+        "sha256": "0f87fd3cc9aefa8b44f5029c8c3ba0c8d8f8957b01c9265f150f860b40e5291d",
+        "receivedAt": "2026-10-01T22:40:13.475+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-305660:auto-3eab9019e48cc149": {
+      "id": "job-alio-305660:auto-3eab9019e48cc149",
+      "noticeId": "job-alio-305660",
+      "rawUnitName": "연번7. 보상전문역_광명시흥사업본부",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305660",
+        "sha256": "0f87fd3cc9aefa8b44f5029c8c3ba0c8d8f8957b01c9265f150f860b40e5291d",
+        "receivedAt": "2026-10-01T22:40:13.475+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-305660:auto-a252c491070e7ed7": {
+      "id": "job-alio-305660:auto-a252c491070e7ed7",
+      "noticeId": "job-alio-305660",
+      "rawUnitName": "연번8. 보상전문역_화성사업본부",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305660",
+        "sha256": "0f87fd3cc9aefa8b44f5029c8c3ba0c8d8f8957b01c9265f150f860b40e5291d",
+        "receivedAt": "2026-10-01T22:40:13.475+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-305660:auto-10332e35cde2d5b3": {
+      "id": "job-alio-305660:auto-10332e35cde2d5b3",
+      "noticeId": "job-alio-305660",
+      "rawUnitName": "연번9. 보상전문역_오산동탄사업본부",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305660",
+        "sha256": "0f87fd3cc9aefa8b44f5029c8c3ba0c8d8f8957b01c9265f150f860b40e5291d",
+        "receivedAt": "2026-10-01T22:40:13.475+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-305660:auto-6512c409e8bace9c": {
+      "id": "job-alio-305660:auto-6512c409e8bace9c",
+      "noticeId": "job-alio-305660",
+      "rawUnitName": "연번10. 보상전문역_의왕과천사업본부",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305660",
+        "sha256": "0f87fd3cc9aefa8b44f5029c8c3ba0c8d8f8957b01c9265f150f860b40e5291d",
+        "receivedAt": "2026-10-01T22:40:13.475+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-305660:auto-fd85e6457bc23c98": {
+      "id": "job-alio-305660:auto-fd85e6457bc23c98",
+      "noticeId": "job-alio-305660",
+      "rawUnitName": "연번11. 보상전문역_의왕과천사업본부",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305660",
+        "sha256": "0f87fd3cc9aefa8b44f5029c8c3ba0c8d8f8957b01c9265f150f860b40e5291d",
+        "receivedAt": "2026-10-01T22:40:13.475+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-305310:auto-f3e84f941f1d2794": {
+      "id": "job-alio-305310:auto-f3e84f941f1d2794",
+      "noticeId": "job-alio-305310",
+      "rawUnitName": "정규직(일반직5급)_계약·위기관리",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305310",
+        "sha256": "90316edab48f30593a091400bcab1677c0e8099e5c315c27b4c8d6f60914545d",
+        "receivedAt": "2026-10-01T22:40:16.808+00:00"
+      },
+      "employmentEvidence": "정규직(일반직5급)_계약·위기관리"
+    },
+    "job-alio-305310:auto-050ae5235581c11f": {
+      "id": "job-alio-305310:auto-050ae5235581c11f",
+      "noticeId": "job-alio-305310",
+      "rawUnitName": "채용형청년인턴_영화관운영",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305310",
+        "sha256": "90316edab48f30593a091400bcab1677c0e8099e5c315c27b4c8d6f60914545d",
+        "receivedAt": "2026-10-01T22:40:16.808+00:00"
+      },
+      "employmentEvidence": "채용형청년인턴_영화관운영"
+    },
+    "job-alio-305310:auto-a65bd616cea69ed3": {
+      "id": "job-alio-305310:auto-a65bd616cea69ed3",
+      "noticeId": "job-alio-305310",
+      "rawUnitName": "체험형청년인턴_영화·영화인 DB 구축",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305310",
+        "sha256": "90316edab48f30593a091400bcab1677c0e8099e5c315c27b4c8d6f60914545d",
+        "receivedAt": "2026-10-01T22:40:16.808+00:00"
+      },
+      "employmentEvidence": "체험형청년인턴_영화·영화인 DB 구축"
+    },
+    "job-alio-305653:auto-2280aa35884d9a89": {
+      "id": "job-alio-305653:auto-2280aa35884d9a89",
+      "noticeId": "job-alio-305653",
+      "rawUnitName": "(연번1) 보상팀 - 보상일반역",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305653",
+        "sha256": "7bc929e249fb71ce18d3da1a3409c6f8b3626f9d30aeaad9730d4413d420e522",
+        "receivedAt": "2026-10-01T22:40:22.945+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-305653:auto-d8976b19e922fd91": {
+      "id": "job-alio-305653:auto-d8976b19e922fd91",
+      "noticeId": "job-alio-305653",
+      "rawUnitName": "(연번2) 보상팀 - 보상일반역(목포임성 보상사업소)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305653",
+        "sha256": "7bc929e249fb71ce18d3da1a3409c6f8b3626f9d30aeaad9730d4413d420e522",
+        "receivedAt": "2026-10-01T22:40:22.945+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-305653:auto-4de2d3a773ec542d": {
+      "id": "job-alio-305653:auto-4de2d3a773ec542d",
+      "noticeId": "job-alio-305653",
+      "rawUnitName": "(연번3) 보상팀 - 보상전문역",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305653",
+        "sha256": "7bc929e249fb71ce18d3da1a3409c6f8b3626f9d30aeaad9730d4413d420e522",
+        "receivedAt": "2026-10-01T22:40:22.945+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-305653:auto-244850c1a30b0e17": {
+      "id": "job-alio-305653:auto-244850c1a30b0e17",
+      "noticeId": "job-alio-305653",
+      "rawUnitName": "(연번4) 보상팀 - 보상전문역(목포임성 보상사업소)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305653",
+        "sha256": "7bc929e249fb71ce18d3da1a3409c6f8b3626f9d30aeaad9730d4413d420e522",
+        "receivedAt": "2026-10-01T22:40:22.945+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-305653:auto-c3f4f36fc2d46ea7": {
+      "id": "job-alio-305653:auto-c3f4f36fc2d46ea7",
+      "noticeId": "job-alio-305653",
+      "rawUnitName": "(연번5) 보상팀 - 보상전문역(나주에너지국가산단 보상사업소)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305653",
+        "sha256": "7bc929e249fb71ce18d3da1a3409c6f8b3626f9d30aeaad9730d4413d420e522",
+        "receivedAt": "2026-10-01T22:40:22.945+00:00"
+      },
+      "employmentEvidence": "비정규직"
     }
   },
-  "nextPage": 5,
+  "nextPage": 6,
   "schemaVersion": "automatic-refresh-state-0.2"
 }
