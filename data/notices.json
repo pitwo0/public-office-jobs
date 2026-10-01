@@ -10853,8 +10853,8 @@
           "id": "auto_alio",
           "label": "JOB-ALIO 상세 · 자동 수신",
           "url": "https://job.alio.go.kr/recruitview.do?idx=304996",
-          "sha256": "451d4a0761c77c895471f4d9cc2e61bf4f406664f5ad9f5cd4936241a7c2d5be",
-          "receivedAt": "2026-09-25T11:49:26.180+00:00"
+          "sha256": "1cbbf951c7f714c162094fd86492309b305f4276dc35ebb5b0d1b2635a24d221",
+          "receivedAt": "2026-10-01T05:50:18.491+00:00"
         }
       ],
       "attachments": [
@@ -10914,14 +10914,14 @@
       "autoSync": {
         "semanticHash": "2f65668f939a286d451548bcf1b4dcbde78a7e5b337961a1bc5750a491c1d03a",
         "conditionsHash": "96a62cd0abb7dcb69f7a65c98a0ee641e433c51f81a82f6bebd17ccb89f90289",
-        "rawSha256": "451d4a0761c77c895471f4d9cc2e61bf4f406664f5ad9f5cd4936241a7c2d5be",
-        "lastFetchedAt": "2026-09-25T11:49:26.180+00:00",
+        "rawSha256": "1cbbf951c7f714c162094fd86492309b305f4276dc35ebb5b0d1b2635a24d221",
+        "lastFetchedAt": "2026-10-01T05:50:18.491+00:00",
         "contentChangedAt": "2026-09-15T11:42:57.415+00:00",
         "baselineStatus": "compared",
         "needsReview": true,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-09-25T11:49:26.180+00:00",
+          "checkedAt": "2026-10-01T05:50:18.491+00:00",
           "status": "checked",
           "changedUnitIds": [],
           "preservedUnitIds": [],
@@ -20389,16 +20389,16 @@
       ],
       "sources": [
         {
-          "id": "auto_alio",
-          "label": "JOB-ALIO 상세 · 코드 수신·자동 정리",
-          "url": "https://job.alio.go.kr/recruitview.do?idx=305333",
-          "sha256": "0af77b5df182cf61093a772a06fab20597a90cbe89a41bf12bc8a9e14a5655cf",
-          "receivedAt": "2026-09-24T04:48:13.126+00:00"
-        },
-        {
           "id": "auto_original_1",
           "label": "기관 원문 링크 · 내용 미확인",
           "url": "http://recruit.kepco.co.kr/sangsi"
+        },
+        {
+          "id": "auto_alio",
+          "label": "JOB-ALIO 상세 · 자동 수신",
+          "url": "https://job.alio.go.kr/recruitview.do?idx=305333",
+          "sha256": "0af77b5df182cf61093a772a06fab20597a90cbe89a41bf12bc8a9e14a5655cf",
+          "receivedAt": "2026-10-01T05:50:14.087+00:00"
         }
       ],
       "attachments": [
@@ -20483,19 +20483,15 @@
         "semanticHash": "0abbae85fa7a1626bd66cc0691d4f61624a7281ca63715ad14c53a1c0fa9f814",
         "conditionsHash": "e8d1f8bea014a3a559a0cb883f00874c1fa22f053b6ad8dae555bf03fb2921cb",
         "rawSha256": "0af77b5df182cf61093a772a06fab20597a90cbe89a41bf12bc8a9e14a5655cf",
-        "lastFetchedAt": "2026-09-24T04:48:13.126+00:00",
+        "lastFetchedAt": "2026-10-01T05:50:14.087+00:00",
         "contentChangedAt": "2026-09-24T04:48:13.126+00:00",
-        "baselineStatus": "first_capture",
+        "baselineStatus": "compared",
         "needsReview": true,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-09-24T04:48:13.126+00:00",
+          "checkedAt": "2026-10-01T05:50:14.087+00:00",
           "status": "checked",
-          "changedUnitIds": [
-            "auto-d3e6053132e0bf6e",
-            "auto-47c878982996481f",
-            "auto-6750dd9b7a7d3ba3"
-          ],
+          "changedUnitIds": [],
           "preservedUnitIds": [],
           "unmatchedUnitIds": [],
           "issues": []
@@ -31987,19 +31983,611 @@
         "evaluatedDate": "2026-10-01",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
+    },
+    {
+      "id": "job-alio-305584",
+      "idx": 305584,
+      "organization": "동북아역사재단",
+      "title": "동북아역사재단 직원(행정직(일반,전산), 공무직(일반), 기간제, 청년인턴) 공개채용 공고(장애인 구분 모집 포함)",
+      "posted": "2026-10-01",
+      "deadline": "2026-10-15",
+      "deadlineTime": null,
+      "announcementPeriod": {
+        "start": "2026-10-01",
+        "end": "2026-10-15",
+        "scope": "announcement"
+      },
+      "applicationPeriod": {
+        "start": null,
+        "end": null,
+        "endTime": null,
+        "status": "unverified",
+        "scope": "announcement",
+        "sources": [
+          "auto_alio"
+        ],
+        "raw": null,
+        "note": "명시된 접수기간을 단일 기간으로 해석하지 못했습니다. 공고기간으로 대체하지 않습니다."
+      },
+      "applicationStart": null,
+      "regions": [
+        "서울"
+      ],
+      "totalVacancies": 9,
+      "employment": "기간제",
+      "units": [
+        {
+          "id": "auto-07fd239b130672b1",
+          "title": "기간제근로자(라)_일반행정(경영기획)",
+          "sourceUnitName": "기간제근로자(라)_일반행정(경영기획)",
+          "employment": "기간제",
+          "regions": [
+            "서울"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "(직종 공통)\r\no 재단 인사규정 제18조(채용결격사유), 국가공무원법 제33조(결격사유)에 해당되지 아니하는 자\r\no 임용예정일 기준 만 60세 미만인 자\r\n\r\n(청년인턴(바)_장애인)\r\no 「장애인고용촉진 및 직업재활법 시행령」 제2조에 따라 임용예정일 기준 만 15세 이상 만 34세 이하인 자\r\no 「장애인고용촉진 및 직업재활법 시행령」 제3조에 따른 장애인",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "서울",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "o 전형방법 : (1차)서류전형, (2차)면접전형\r\n- 전형최종결과는 서류 40%, 면접 60%로 산정하여 합산\r\n- 동북아역사재단 직원채용 시행규칙에 의거, 각 전형별 최종점수가 70점 미만일 경우, 해당전형 합격 여부 판단대상에서 제외\r\n- 서류전형 : 해당 전형 최종점수 70점 이상인 자를 합격자로 함. 다만, 응모자 수가 채용예정인원의 5배수를 초과할 경우, 서류전형 최종점수 70점 이상인 자 중 성적 상위순으로 채용예정인원의 5배수까지를 합격자로 하며, 5배수 미만일 경우에는 최종점수 70점 이상자 전원을 합격자로 함. 또한 해당 인원수에서 동점자가 발생할 경우 해당자 전원을 합격자로 함.\r\n- 면접전형 : 해당 전형 최종점수 70점 이상인 자를 합격자로 함.\r\n- 최종후보자 추천은 서류전형과 면접전형의 점수를 합산하여 80점 이상인 자 중에서 고득점자 순으로 최종합격자와 예비합격자를 3배까지 추천",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305584",
+              "sha256": "30397c16d49b5e5e220e76f7f7338509bc49a20691de14ad5579f40123ce864a",
+              "receivedAt": "2026-10-01T05:50:10.146+00:00",
+              "rawUnitName": "기간제근로자(라)_일반행정(경영기획)",
+              "rows": [
+                [
+                  "기간제근로자(라)_일반행정(경영기획)"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "recruitment_unit",
+            "method": "unit_name",
+            "value": "기간제",
+            "quote": "기간제근로자(라)_일반행정(경영기획)",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "동북아역사재단",
+            "job": "기간제근로자(라)_일반행정(경영기획)",
+            "rawUnitName": "기간제근로자(라)_일반행정(경영기획)",
+            "regions": [
+              "서울"
+            ],
+            "regionsScope": "announcement",
+            "employment": "기간제",
+            "recruitmentCategory": {
+              "value": "신입+경력",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=305584",
+              "sha256": "30397c16d49b5e5e220e76f7f7338509bc49a20691de14ad5579f40123ce864a",
+              "receivedAt": "2026-10-01T05:50:10.146+00:00"
+            }
+          }
+        },
+        {
+          "id": "auto-b638f98fa66c5c80",
+          "title": "기간제근로자(마)_일반행정(독도체험관 관련 업무)",
+          "sourceUnitName": "기간제근로자(마)_일반행정(독도체험관 관련 업무)",
+          "employment": "기간제",
+          "regions": [
+            "서울"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "(직종 공통)\r\no 재단 인사규정 제18조(채용결격사유), 국가공무원법 제33조(결격사유)에 해당되지 아니하는 자\r\no 임용예정일 기준 만 60세 미만인 자\r\n\r\n(청년인턴(바)_장애인)\r\no 「장애인고용촉진 및 직업재활법 시행령」 제2조에 따라 임용예정일 기준 만 15세 이상 만 34세 이하인 자\r\no 「장애인고용촉진 및 직업재활법 시행령」 제3조에 따른 장애인",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "서울",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "o 전형방법 : (1차)서류전형, (2차)면접전형\r\n- 전형최종결과는 서류 40%, 면접 60%로 산정하여 합산\r\n- 동북아역사재단 직원채용 시행규칙에 의거, 각 전형별 최종점수가 70점 미만일 경우, 해당전형 합격 여부 판단대상에서 제외\r\n- 서류전형 : 해당 전형 최종점수 70점 이상인 자를 합격자로 함. 다만, 응모자 수가 채용예정인원의 5배수를 초과할 경우, 서류전형 최종점수 70점 이상인 자 중 성적 상위순으로 채용예정인원의 5배수까지를 합격자로 하며, 5배수 미만일 경우에는 최종점수 70점 이상자 전원을 합격자로 함. 또한 해당 인원수에서 동점자가 발생할 경우 해당자 전원을 합격자로 함.\r\n- 면접전형 : 해당 전형 최종점수 70점 이상인 자를 합격자로 함.\r\n- 최종후보자 추천은 서류전형과 면접전형의 점수를 합산하여 80점 이상인 자 중에서 고득점자 순으로 최종합격자와 예비합격자를 3배까지 추천",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305584",
+              "sha256": "30397c16d49b5e5e220e76f7f7338509bc49a20691de14ad5579f40123ce864a",
+              "receivedAt": "2026-10-01T05:50:10.146+00:00",
+              "rawUnitName": "기간제근로자(마)_일반행정(독도체험관 관련 업무)",
+              "rows": [
+                [
+                  "기간제근로자(마)_일반행정(독도체험관 관련 업무)"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "recruitment_unit",
+            "method": "unit_name",
+            "value": "기간제",
+            "quote": "기간제근로자(마)_일반행정(독도체험관 관련 업무)",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "동북아역사재단",
+            "job": "기간제근로자(마)_일반행정(독도체험관 관련 업무)",
+            "rawUnitName": "기간제근로자(마)_일반행정(독도체험관 관련 업무)",
+            "regions": [
+              "서울"
+            ],
+            "regionsScope": "announcement",
+            "employment": "기간제",
+            "recruitmentCategory": {
+              "value": "신입+경력",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=305584",
+              "sha256": "30397c16d49b5e5e220e76f7f7338509bc49a20691de14ad5579f40123ce864a",
+              "receivedAt": "2026-10-01T05:50:10.146+00:00"
+            }
+          }
+        }
+      ],
+      "sources": [
+        {
+          "id": "auto_alio",
+          "label": "JOB-ALIO 상세 · 코드 수신·자동 정리",
+          "url": "https://job.alio.go.kr/recruitview.do?idx=305584",
+          "sha256": "30397c16d49b5e5e220e76f7f7338509bc49a20691de14ad5579f40123ce864a",
+          "receivedAt": "2026-10-01T05:50:10.146+00:00"
+        },
+        {
+          "id": "auto_original_1",
+          "label": "기관 원문 링크 · 내용 미확인",
+          "url": "https://nahf.or.kr/web/portal/bbs/1978/102617?cp=1&pageSize=10&bcId=1978&baNotice=false&baCommSelec=false&baOpenDay=true&baUse=true"
+        }
+      ],
+      "attachments": [
+        {
+          "name": "공식 첨부 1",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3078367",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        }
+      ],
+      "checkedAt": "2026-10-01T05:50:10.146+00:00",
+      "collectionMethod": "automatic_public_html",
+      "collectionLabel": "코드 원격 수신 → 규칙 기반 모집단위 정리 → 저장·화면 생성 · GPT 미사용",
+      "sourceNote": "자동으로 확인 가능한 본문·결과 표만 정리했습니다. 첨부·모집단위별 상세 조건은 미확인이며, 공고 전체 원문은 별도로 표시합니다.",
+      "announcementMetadata": {
+        "raw": {
+          "표준직무(NCS)": "경영.회계.사무,정보통신",
+          "학력정보": "학력무관",
+          "근무분야": "행정직,전산직,공무직,계약직",
+          "채용구분": "신입+경력",
+          "고용형태": "무기계약직,비정규직,청년인턴(체험형),정규직",
+          "대체인력여부": "예",
+          "근무지": "서울",
+          "급여정보": "신입 / 평균",
+          "채용인원": "9명",
+          "우대조건": "(가산점) 취업지원대상자, 장애인, 비수도권지역인재, 동북아역사재단 청년인턴 우수자, 한국사능력검정시험 / 기타 우대조건은 '우대내용' 란 참조",
+          "채용기간": "26.10.01 ~ 26.10.15",
+          "등록일": "2026.10.01"
+        },
+        "rawApplicationPeriod": {
+          "raw": null,
+          "status": "미확인",
+          "source_section": "전형절차/방법",
+          "note": "명시된 접수기간 원문만 추출; 날짜 정규화·모집단위별 상이한 기간 검토는 별도"
+        },
+        "sourceSha256": "30397c16d49b5e5e220e76f7f7338509bc49a20691de14ad5579f40123ce864a",
+        "sourceReceivedAt": "2026-10-01T05:50:10.146+00:00",
+        "method": "auto-normalize-0.1"
+      },
+      "autoNormalization": {
+        "version": "auto-normalize-0.1",
+        "semanticHash": "a812d85fe1db33302781dcf8f9bd97fc0151160f830c3f13ed75d93bbd236426",
+        "generatedFrom": {
+          "url": "https://job.alio.go.kr/recruitview.do?idx=305584",
+          "sha256": "30397c16d49b5e5e220e76f7f7338509bc49a20691de14ad5579f40123ce864a",
+          "receivedAt": "2026-10-01T05:50:10.146+00:00"
+        },
+        "aiUsed": false,
+        "heldUnitCount": 4
+      },
+      "autoSync": {
+        "semanticHash": "a812d85fe1db33302781dcf8f9bd97fc0151160f830c3f13ed75d93bbd236426",
+        "conditionsHash": "08d078985137c94f8055b17a7b972ed9ca647d38fb7cd1ed9d3e878cbfb6b0dc",
+        "rawSha256": "30397c16d49b5e5e220e76f7f7338509bc49a20691de14ad5579f40123ce864a",
+        "lastFetchedAt": "2026-10-01T05:50:10.146+00:00",
+        "contentChangedAt": "2026-10-01T05:50:10.146+00:00",
+        "baselineStatus": "first_capture",
+        "needsReview": true,
+        "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
+        "resultCheck": {
+          "checkedAt": "2026-10-01T05:50:10.146+00:00",
+          "status": "checked",
+          "changedUnitIds": [
+            "auto-07fd239b130672b1",
+            "auto-b638f98fa66c5c80"
+          ],
+          "preservedUnitIds": [],
+          "unmatchedUnitIds": [],
+          "issues": []
+        }
+      },
+      "lifecycle": {
+        "status": "open",
+        "evaluatedDate": "2026-10-01",
+        "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
+      }
     }
   ],
   "refresh": {
     "status": "success",
     "mode": "live",
-    "lastAttemptAt": "2026-09-30T22:14:06+00:00",
-    "lastSuccessAt": "2026-09-30T22:14:06+00:00",
-    "candidatesCount": 428,
+    "lastAttemptAt": "2026-10-01T05:50:01+00:00",
+    "lastSuccessAt": "2026-10-01T05:50:01+00:00",
+    "candidatesCount": 432,
     "coverage": {
       "description": "JOB-ALIO 최근60일 이내 진행중·비정규직·경영회계사무 목록, 목록최대2페이지·상세최대4건/회. 저장된 마감공고도 결과를 순환 재확인합니다. 전체공고 수집 아님.",
-      "queuedNoticeCount": 51,
-      "heldUnitCount": 377,
-      "nextPage": 3,
+      "queuedNoticeCount": 50,
+      "heldUnitCount": 382,
+      "nextPage": 4,
       "closedRecheck": {
         "recentDays": 30,
         "recentOrUnknownIntervalDays": 1,
@@ -32010,6 +32598,17 @@
       "requestLimit": 6,
       "automaticRetries": 0,
       "heldNotices": [
+        {
+          "id": "job-alio-305536",
+          "organization": "한국장애인개발원",
+          "title": "[제2026-113호] 2026년 제2차 우선구매지원부 우선구매심사팀 기간제 계약직 채용 공고",
+          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305536",
+          "lastFetchedAt": "2026-10-01T05:50:21.850+00:00",
+          "reasons": [
+            "모집단위명만으로 사무직 여부 미확인"
+          ],
+          "status": "unverified"
+        },
         {
           "id": "job-alio-305551",
           "organization": "한국탄소산업진흥원",
@@ -32220,20 +32819,9 @@
             "모집단위명만으로 사무직 여부 미확인"
           ],
           "status": "unverified"
-        },
-        {
-          "id": "job-alio-305320",
-          "organization": "한국원자력안전기술원",
-          "title": "한국원자력안전기술원 공모직전문위원 채용",
-          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305320",
-          "lastFetchedAt": "2026-09-24T11:43:56.442+00:00",
-          "reasons": [
-            "모집단위명만으로 사무직 여부 미확인"
-          ],
-          "status": "unverified"
         }
       ],
-      "heldNoticesTotal": 46,
+      "heldNoticesTotal": 47,
       "heldNoticesShownLimit": 20
     }
   }
