@@ -11760,8 +11760,8 @@
           "id": "auto_alio",
           "label": "JOB-ALIO 상세 · 자동 수신",
           "url": "https://job.alio.go.kr/recruitview.do?idx=304995",
-          "sha256": "4221501b0c81b78933a82b23a6cf83f935c342d6844a55f88afd2f0810ac9847",
-          "receivedAt": "2026-09-26T04:56:36.301+00:00"
+          "sha256": "ac1b46c3412983fc08151ddac996672ec16b8a94659677f901d1ef32ff32ed65",
+          "receivedAt": "2026-10-02T12:32:38.829+00:00"
         }
       ],
       "attachments": [
@@ -11839,14 +11839,14 @@
       "autoSync": {
         "semanticHash": "26efbffe13377c6433d492ba401837caa3e4c8e9a2c470a3718ee95272d62000",
         "conditionsHash": "39981df9e2bfa351b603bcd4feb8bc5f6db5566f61cae6457baf65b405fbc6b3",
-        "rawSha256": "4221501b0c81b78933a82b23a6cf83f935c342d6844a55f88afd2f0810ac9847",
-        "lastFetchedAt": "2026-09-26T04:56:36.301+00:00",
+        "rawSha256": "ac1b46c3412983fc08151ddac996672ec16b8a94659677f901d1ef32ff32ed65",
+        "lastFetchedAt": "2026-10-02T12:32:38.829+00:00",
         "contentChangedAt": "2026-09-15T16:58:15.102+00:00",
         "baselineStatus": "compared",
         "needsReview": true,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-09-26T04:56:36.301+00:00",
+          "checkedAt": "2026-10-02T12:32:38.829+00:00",
           "status": "checked",
           "changedUnitIds": [],
           "preservedUnitIds": [],
@@ -15852,7 +15852,7 @@
           "label": "JOB-ALIO 상세 · 자동 수신",
           "url": "https://job.alio.go.kr/recruitview.do?idx=304927",
           "sha256": "805f0a0c4d70e528f6aad4093f5e104ddcb6d842bb1f049da8fd8fb4889fa33a",
-          "receivedAt": "2026-09-24T21:30:02.354+00:00"
+          "receivedAt": "2026-10-02T12:32:36.175+00:00"
         }
       ],
       "attachments": [
@@ -15925,13 +15925,13 @@
         "semanticHash": "fd6ecee3725997c4dc4dff43101e8d9fbe447982c1ad7b0c14194acfd075dbec",
         "conditionsHash": "6290b4af329249a90efd549351753ecc8bb1e60f4855995eef72410f2ab5678e",
         "rawSha256": "805f0a0c4d70e528f6aad4093f5e104ddcb6d842bb1f049da8fd8fb4889fa33a",
-        "lastFetchedAt": "2026-09-24T21:30:02.354+00:00",
+        "lastFetchedAt": "2026-10-02T12:32:36.175+00:00",
         "contentChangedAt": "2026-09-19T04:36:12.574+00:00",
         "baselineStatus": "compared",
         "needsReview": true,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-09-24T21:30:02.354+00:00",
+          "checkedAt": "2026-10-02T12:32:36.175+00:00",
           "status": "checked",
           "changedUnitIds": [],
           "preservedUnitIds": [],
@@ -34034,14 +34034,14 @@
   "refresh": {
     "status": "success",
     "mode": "live",
-    "lastAttemptAt": "2026-10-02T05:34:45+00:00",
-    "lastSuccessAt": "2026-10-02T05:34:45+00:00",
-    "candidatesCount": 462,
+    "lastAttemptAt": "2026-10-02T12:32:24+00:00",
+    "lastSuccessAt": "2026-10-02T12:32:24+00:00",
+    "candidatesCount": 465,
     "coverage": {
       "description": "JOB-ALIO 최근60일 이내 진행중·비정규직·경영회계사무 목록, 목록최대2페이지·상세최대4건/회. 저장된 마감공고도 결과를 순환 재확인합니다. 전체공고 수집 아님.",
-      "queuedNoticeCount": 60,
-      "heldUnitCount": 402,
-      "nextPage": 7,
+      "queuedNoticeCount": 61,
+      "heldUnitCount": 404,
+      "nextPage": 8,
       "closedRecheck": {
         "recentDays": 30,
         "recentOrUnknownIntervalDays": 1,
@@ -34052,6 +34052,28 @@
       "requestLimit": 6,
       "automaticRetries": 0,
       "heldNotices": [
+        {
+          "id": "job-alio-305716",
+          "organization": "(재)우체국물류지원단",
+          "title": "2026년도 우체국물류지원단 제2차 제한경쟁채용(기간제, 장애인) 공고",
+          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305716",
+          "lastFetchedAt": "2026-10-02T12:32:42.402+00:00",
+          "reasons": [
+            "모집단위명만으로 사무직 여부 미확인"
+          ],
+          "status": "unverified"
+        },
+        {
+          "id": "job-alio-305715",
+          "organization": "한국수자원공사",
+          "title": "[한국수자원공사] 안전본부 특수직(사무관리_서무보조) 채용 공고",
+          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305715",
+          "lastFetchedAt": "2026-10-02T12:32:32.964+00:00",
+          "reasons": [
+            "모집단위명만으로 사무직 여부 미확인"
+          ],
+          "status": "unverified"
+        },
         {
           "id": "job-alio-305670",
           "organization": "한국토지주택공사",
@@ -34250,31 +34272,9 @@
             "사무직과 다른 직무가 함께 표기되어 분리 미확인"
           ],
           "status": "unverified"
-        },
-        {
-          "id": "job-alio-304621",
-          "organization": "한국지식재산보호원",
-          "title": "[한국지식재산보호원] 2026년도 제8차 인력채용",
-          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=304621",
-          "lastFetchedAt": "2026-09-26T04:56:32.386+00:00",
-          "reasons": [
-            "모집단위명만으로 사무직 여부 미확인"
-          ],
-          "status": "unverified"
-        },
-        {
-          "id": "job-alio-305128",
-          "organization": "한국부동산원",
-          "title": "한국부동산원 전문계약직(정규직 전환형) 채용 공고",
-          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305128",
-          "lastFetchedAt": "2026-09-25T11:49:32.429+00:00",
-          "reasons": [
-            "모집단위명만으로 사무직 여부 미확인"
-          ],
-          "status": "unverified"
         }
       ],
-      "heldNoticesTotal": 50,
+      "heldNoticesTotal": 52,
       "heldNoticesShownLimit": 20
     }
   }
