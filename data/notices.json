@@ -9532,7 +9532,7 @@
           "label": "JOB-ALIO 상세 · 자동 수신",
           "url": "https://job.alio.go.kr/recruitview.do?idx=304220",
           "sha256": "3c17fa3e9922d43a31fa0f0aeba73dc2468ad440ac1e96ae7cb7735ccce525aa",
-          "receivedAt": "2026-09-26T11:23:25.298+00:00"
+          "receivedAt": "2026-10-03T11:37:54.006+00:00"
         }
       ],
       "attachments": [
@@ -9599,13 +9599,13 @@
         "semanticHash": "9ddab343107eab106b705d5e1bfc5f53d56091d094181ab22cd0adc0e6156fbd",
         "conditionsHash": "426ee234ab5088801857555641189c34b2a11c9daa19ebc7d986af6f3325b70c",
         "rawSha256": "3c17fa3e9922d43a31fa0f0aeba73dc2468ad440ac1e96ae7cb7735ccce525aa",
-        "lastFetchedAt": "2026-09-26T11:23:25.298+00:00",
+        "lastFetchedAt": "2026-10-03T11:37:54.006+00:00",
         "contentChangedAt": "2026-09-23T11:33:59.536+00:00",
         "baselineStatus": "compared",
         "needsReview": false,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-09-26T11:23:25.298+00:00",
+          "checkedAt": "2026-10-03T11:37:54.006+00:00",
           "status": "checked",
           "changedUnitIds": [],
           "preservedUnitIds": [],
@@ -26602,16 +26602,16 @@
       ],
       "sources": [
         {
-          "id": "auto_alio",
-          "label": "JOB-ALIO 상세 · 코드 수신·자동 정리",
-          "url": "https://job.alio.go.kr/recruitview.do?idx=305162",
-          "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
-          "receivedAt": "2026-09-25T11:49:22.876+00:00"
-        },
-        {
           "id": "auto_original_1",
           "label": "기관 원문 링크 · 내용 미확인",
           "url": "https://www.lhca.or.kr/business/front/recruit/recruitList.do?boardId=recruit"
+        },
+        {
+          "id": "auto_alio",
+          "label": "JOB-ALIO 상세 · 자동 수신",
+          "url": "https://job.alio.go.kr/recruitview.do?idx=305162",
+          "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
+          "receivedAt": "2026-10-03T11:37:51.426+00:00"
         }
       ],
       "attachments": [
@@ -26672,32 +26672,15 @@
         "semanticHash": "df473cf5136d8bc506a554f5b9ea463fbbba0a99a6ccff1fbe2a7b427d3644f6",
         "conditionsHash": "af0e7a5e3b0ed59e7af2268dc08d4166426b3232ed240a3f58b917178b472998",
         "rawSha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
-        "lastFetchedAt": "2026-09-25T11:49:22.876+00:00",
+        "lastFetchedAt": "2026-10-03T11:37:51.426+00:00",
         "contentChangedAt": "2026-09-25T11:49:22.876+00:00",
-        "baselineStatus": "first_capture",
+        "baselineStatus": "compared",
         "needsReview": true,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-09-25T11:49:22.876+00:00",
+          "checkedAt": "2026-10-03T11:37:51.426+00:00",
           "status": "checked",
-          "changedUnitIds": [
-            "auto-7fbdddc59b7c24ec",
-            "auto-50721c2ee540ed40",
-            "auto-63e446993f55f672",
-            "auto-6c38a176e296ef42",
-            "auto-1f4e38a1691be68b",
-            "auto-8fe98e00eb0b166e",
-            "auto-c887894d855d5f0f",
-            "auto-726b9c1eee4f160d",
-            "auto-d9af673937d3ee2f",
-            "auto-b66a490891d01dad",
-            "auto-4b68dc6d03eb7ca7",
-            "auto-c7f3276836d0edc5",
-            "auto-c78c0c367e3bd8eb",
-            "auto-98039ba7189c10b5",
-            "auto-f48aff65f43118e7",
-            "auto-1dd4bacbf1f1ead0"
-          ],
+          "changedUnitIds": [],
           "preservedUnitIds": [],
           "unmatchedUnitIds": [],
           "issues": []
@@ -34397,14 +34380,14 @@
   "refresh": {
     "status": "success",
     "mode": "live",
-    "lastAttemptAt": "2026-10-03T05:16:58+00:00",
-    "lastSuccessAt": "2026-10-03T05:16:58+00:00",
-    "candidatesCount": 474,
+    "lastAttemptAt": "2026-10-03T11:37:41+00:00",
+    "lastSuccessAt": "2026-10-03T11:37:41+00:00",
+    "candidatesCount": 488,
     "coverage": {
       "description": "JOB-ALIO 최근60일 이내 진행중·비정규직·경영회계사무 목록, 목록최대2페이지·상세최대4건/회. 저장된 마감공고도 결과를 순환 재확인합니다. 전체공고 수집 아님.",
-      "queuedNoticeCount": 57,
-      "heldUnitCount": 417,
-      "nextPage": 3,
+      "queuedNoticeCount": 55,
+      "heldUnitCount": 433,
+      "nextPage": 4,
       "closedRecheck": {
         "recentDays": 30,
         "recentOrUnknownIntervalDays": 1,
@@ -34415,6 +34398,28 @@
       "requestLimit": 6,
       "automaticRetries": 0,
       "heldNotices": [
+        {
+          "id": "job-alio-305661",
+          "organization": "한국토지주택공사",
+          "title": "한국토지주택공사 서울지역본부 기간제근로자(보상일반역, 보상전문역) 채용공고",
+          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305661",
+          "lastFetchedAt": "2026-10-03T11:37:56.701+00:00",
+          "reasons": [
+            "모집단위명만으로 사무직 여부 미확인"
+          ],
+          "status": "unverified"
+        },
+        {
+          "id": "job-alio-305664",
+          "organization": "한국토지주택공사",
+          "title": "한국토지주택공사 수도권정비사업특별본부 기간제근로자(보상일반역, 보상전문역) 채용공고",
+          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305664",
+          "lastFetchedAt": "2026-10-03T11:37:48.511+00:00",
+          "reasons": [
+            "모집단위명만으로 사무직 여부 미확인"
+          ],
+          "status": "unverified"
+        },
         {
           "id": "job-alio-305665",
           "organization": "한국장애인고용공단",
@@ -34613,31 +34618,9 @@
             "모집단위명만으로 사무직 여부 미확인"
           ],
           "status": "unverified"
-        },
-        {
-          "id": "job-alio-305221",
-          "organization": "한국공정거래조정원",
-          "title": "한국공정거래조정원 2026년 제4차 기간제 근로자 채용 공고",
-          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305221",
-          "lastFetchedAt": "2026-09-27T21:19:50.468+00:00",
-          "reasons": [
-            "모집단위명만으로 사무직 여부 미확인"
-          ],
-          "status": "unverified"
-        },
-        {
-          "id": "job-alio-304476",
-          "organization": "한국수자원공사",
-          "title": "[한국수자원공사] (재공고) 거제권지사 단기계약근로자(수돗물 안심서비스 운영관리) 채용 공고",
-          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=304476",
-          "lastFetchedAt": "2026-09-27T12:00:14.890+00:00",
-          "reasons": [
-            "모집단위명만으로 사무직 여부 미확인"
-          ],
-          "status": "unverified"
         }
       ],
-      "heldNoticesTotal": 55,
+      "heldNoticesTotal": 57,
       "heldNoticesShownLimit": 20
     }
   }
