@@ -18198,7 +18198,7 @@
           "label": "JOB-ALIO 상세 · 자동 수신",
           "url": "https://job.alio.go.kr/recruitview.do?idx=305243",
           "sha256": "7f6d565c7cecf97ede3bcf4da55305a5e9a6ba99715df63ece26dcb3737555a2",
-          "receivedAt": "2026-09-28T13:51:53.733+00:00"
+          "receivedAt": "2026-10-04T12:19:37.343+00:00"
         }
       ],
       "attachments": [
@@ -18265,13 +18265,13 @@
         "semanticHash": "0b93610355bf2f9b61079b582cef74e12fa7c403fef470d34d4fe156d7879789",
         "conditionsHash": "72b813c4cbe1e4e0705c167de2549fe4807dba80d4c427cadcd0f2a72244f097",
         "rawSha256": "7f6d565c7cecf97ede3bcf4da55305a5e9a6ba99715df63ece26dcb3737555a2",
-        "lastFetchedAt": "2026-09-28T13:51:53.733+00:00",
+        "lastFetchedAt": "2026-10-04T12:19:37.343+00:00",
         "contentChangedAt": "2026-09-22T11:36:23.365+00:00",
         "baselineStatus": "compared",
         "needsReview": false,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-09-28T13:51:53.733+00:00",
+          "checkedAt": "2026-10-04T12:19:37.343+00:00",
           "status": "checked",
           "changedUnitIds": [],
           "preservedUnitIds": [],
@@ -27694,16 +27694,16 @@
       ],
       "sources": [
         {
-          "id": "auto_alio",
-          "label": "JOB-ALIO 상세 · 코드 수신·자동 정리",
-          "url": "https://job.alio.go.kr/recruitview.do?idx=304583",
-          "sha256": "693488ac917b2d293d2d4b43956c926cdd859f8e122aaa5fd57f1afe06645630",
-          "receivedAt": "2026-09-26T16:22:52.191+00:00"
-        },
-        {
           "id": "auto_original_1",
           "label": "기관 원문 링크 · 내용 미확인",
           "url": "https://kotsa1.career.co.kr/"
+        },
+        {
+          "id": "auto_alio",
+          "label": "JOB-ALIO 상세 · 자동 수신",
+          "url": "https://job.alio.go.kr/recruitview.do?idx=304583",
+          "sha256": "693488ac917b2d293d2d4b43956c926cdd859f8e122aaa5fd57f1afe06645630",
+          "receivedAt": "2026-10-04T12:19:41.227+00:00"
         }
       ],
       "attachments": [
@@ -27770,17 +27770,15 @@
         "semanticHash": "abfc4183f70c749d252eae59385478175ee77e6ff0402718c498543550403c7e",
         "conditionsHash": "0fbdf265e5bea50850b820148fc32bb46c680e54c4539a9af31c8f3061abd3e3",
         "rawSha256": "693488ac917b2d293d2d4b43956c926cdd859f8e122aaa5fd57f1afe06645630",
-        "lastFetchedAt": "2026-09-26T16:22:52.191+00:00",
+        "lastFetchedAt": "2026-10-04T12:19:41.227+00:00",
         "contentChangedAt": "2026-09-26T16:22:52.191+00:00",
-        "baselineStatus": "first_capture",
+        "baselineStatus": "compared",
         "needsReview": false,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-09-26T16:22:52.191+00:00",
+          "checkedAt": "2026-10-04T12:19:41.227+00:00",
           "status": "checked",
-          "changedUnitIds": [
-            "auto-43f894556c732304"
-          ],
+          "changedUnitIds": [],
           "preservedUnitIds": [],
           "unmatchedUnitIds": [],
           "issues": []
@@ -35146,14 +35144,14 @@
   "refresh": {
     "status": "success",
     "mode": "live",
-    "lastAttemptAt": "2026-10-04T05:50:24+00:00",
-    "lastSuccessAt": "2026-10-04T05:50:24+00:00",
-    "candidatesCount": 506,
+    "lastAttemptAt": "2026-10-04T12:19:25+00:00",
+    "lastSuccessAt": "2026-10-04T12:19:25+00:00",
+    "candidatesCount": 507,
     "coverage": {
       "description": "JOB-ALIO 최근60일 이내 진행중·비정규직·경영회계사무 목록, 목록최대2페이지·상세최대4건/회. 저장된 마감공고도 결과를 순환 재확인합니다. 전체공고 수집 아님.",
-      "queuedNoticeCount": 49,
-      "heldUnitCount": 457,
-      "nextPage": 7,
+      "queuedNoticeCount": 47,
+      "heldUnitCount": 460,
+      "nextPage": 8,
       "closedRecheck": {
         "recentDays": 30,
         "recentOrUnknownIntervalDays": 1,
@@ -35164,6 +35162,28 @@
       "requestLimit": 6,
       "automaticRetries": 0,
       "heldNotices": [
+        {
+          "id": "job-alio-305447",
+          "organization": "한국토지주택공사",
+          "title": "한국토지주택공사 대구경북지역본부 기간제근로자(대체채용) 채용 공고(2026-07)",
+          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305447",
+          "lastFetchedAt": "2026-10-04T12:19:44.284+00:00",
+          "reasons": [
+            "모집단위명만으로 사무직 여부 미확인"
+          ],
+          "status": "unverified"
+        },
+        {
+          "id": "job-alio-305452",
+          "organization": "한국수자원공사",
+          "title": "[한국수자원공사] 정읍권지사 단기계약근로자(수탁운영_지방상수도 고객관리) 채용 공고(장애인 제한채용)",
+          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305452",
+          "lastFetchedAt": "2026-10-04T12:19:34.284+00:00",
+          "reasons": [
+            "모집단위명만으로 사무직 여부 미확인"
+          ],
+          "status": "unverified"
+        },
         {
           "id": "job-alio-305630",
           "organization": "한국토지주택공사",
@@ -35361,31 +35381,9 @@
             "모집단위명만으로 사무직 여부 미확인"
           ],
           "status": "unverified"
-        },
-        {
-          "id": "job-alio-305456",
-          "organization": "한국수자원공사",
-          "title": "[한국수자원공사] 금강유역협력단 부여2차현대화사업팀 특수직(사무관리_건설사업) 채용 공고",
-          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305456",
-          "lastFetchedAt": "2026-09-29T05:42:36.538+00:00",
-          "reasons": [
-            "모집단위명만으로 사무직 여부 미확인"
-          ],
-          "status": "unverified"
-        },
-        {
-          "id": "job-alio-305457",
-          "organization": "한국수자원공사",
-          "title": "[한국수자원공사] 금강유역협력단 괴산현대화사업팀 특수직(사무관리_건설사업) 채용 공고",
-          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305457",
-          "lastFetchedAt": "2026-09-29T05:42:26.259+00:00",
-          "reasons": [
-            "모집단위명만으로 사무직 여부 미확인"
-          ],
-          "status": "unverified"
         }
       ],
-      "heldNoticesTotal": 61,
+      "heldNoticesTotal": 63,
       "heldNoticesShownLimit": 20
     }
   }
