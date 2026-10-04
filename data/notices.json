@@ -17076,7 +17076,7 @@
           "label": "JOB-ALIO 상세 · 자동 수신",
           "url": "https://job.alio.go.kr/recruitview.do?idx=304776",
           "sha256": "05d0b0ea91348bbf4ea3bf75c525db7ffbff42d1504f1048c1e66c5052ad72e2",
-          "receivedAt": "2026-09-26T16:22:48.927+00:00"
+          "receivedAt": "2026-10-04T05:50:39.189+00:00"
         }
       ],
       "attachments": [
@@ -17149,13 +17149,13 @@
         "semanticHash": "77dd7948f16b13827b725a5805c3a518da96b13b61b0ee31c3778ca16cf7fc03",
         "conditionsHash": "15c39b0d3bc1b8414bd698f22196a2b41a6c31363d60e78b812b738c553bdaaa",
         "rawSha256": "05d0b0ea91348bbf4ea3bf75c525db7ffbff42d1504f1048c1e66c5052ad72e2",
-        "lastFetchedAt": "2026-09-26T16:22:48.927+00:00",
+        "lastFetchedAt": "2026-10-04T05:50:39.189+00:00",
         "contentChangedAt": "2026-09-19T15:53:09.249+00:00",
         "baselineStatus": "compared",
         "needsReview": true,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-09-26T16:22:48.927+00:00",
+          "checkedAt": "2026-10-04T05:50:39.189+00:00",
           "status": "checked",
           "changedUnitIds": [],
           "preservedUnitIds": [],
@@ -29122,16 +29122,16 @@
       ],
       "sources": [
         {
-          "id": "auto_alio",
-          "label": "JOB-ALIO 상세 · 코드 수신·자동 정리",
-          "url": "https://job.alio.go.kr/recruitview.do?idx=305398",
-          "sha256": "e65a6015fa29f147bdbe39217fe3641f221e2dd49cebbba9ef08b2595320188e",
-          "receivedAt": "2026-09-28T13:51:50.404+00:00"
-        },
-        {
           "id": "auto_original_1",
           "label": "기관 원문 링크 · 내용 미확인",
           "url": "https://k-sec.career.co.kr"
+        },
+        {
+          "id": "auto_alio",
+          "label": "JOB-ALIO 상세 · 자동 수신",
+          "url": "https://job.alio.go.kr/recruitview.do?idx=305398",
+          "sha256": "e65a6015fa29f147bdbe39217fe3641f221e2dd49cebbba9ef08b2595320188e",
+          "receivedAt": "2026-10-04T05:50:36.248+00:00"
         }
       ],
       "attachments": [
@@ -29192,18 +29192,15 @@
         "semanticHash": "98bb2e2206c073b1469d8c13cc80ea7c0cc6ea625cbc67e4fe9a4f2564dfde2c",
         "conditionsHash": "28e5d7307a40bb98bb28591a3245a126715eb27c97c0f837a23611a81d2dcaa3",
         "rawSha256": "e65a6015fa29f147bdbe39217fe3641f221e2dd49cebbba9ef08b2595320188e",
-        "lastFetchedAt": "2026-09-28T13:51:50.404+00:00",
+        "lastFetchedAt": "2026-10-04T05:50:36.248+00:00",
         "contentChangedAt": "2026-09-28T13:51:50.404+00:00",
-        "baselineStatus": "first_capture",
+        "baselineStatus": "compared",
         "needsReview": true,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-09-28T13:51:50.404+00:00",
+          "checkedAt": "2026-10-04T05:50:36.248+00:00",
           "status": "checked",
-          "changedUnitIds": [
-            "auto-063d1bbe08083935",
-            "auto-b111ed952afcf7e5"
-          ],
+          "changedUnitIds": [],
           "preservedUnitIds": [],
           "unmatchedUnitIds": [],
           "issues": []
@@ -34371,19 +34368,792 @@
         "evaluatedDate": "2026-10-04",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
+    },
+    {
+      "id": "job-alio-305608",
+      "idx": 305608,
+      "organization": "한국보훈복지의료공단",
+      "title": "[본사] 계약직 직원(간호직, 복지기능직) 채용 공고",
+      "posted": "2026-10-01",
+      "deadline": "2026-10-15",
+      "deadlineTime": "10:00",
+      "announcementPeriod": {
+        "start": "2026-10-01",
+        "end": "2026-10-15",
+        "scope": "announcement"
+      },
+      "applicationPeriod": {
+        "start": "2026-10-01",
+        "end": "2026-10-15",
+        "endTime": "10:00",
+        "status": "partial",
+        "scope": "announcement",
+        "sources": [
+          "auto_alio"
+        ],
+        "raw": "○ 접수기간: 2026. 10. 1.(목) ~ 10. 15.(목) 10:00까지",
+        "note": "공고 본문의 단일 접수기간 원문을 자동 정규화했습니다. 모집단위별 예외·첨부 정정 여부는 미확인입니다.",
+        "evidenceSection": "전형절차/방법"
+      },
+      "applicationStart": "2026-10-01",
+      "regions": [
+        "강원"
+      ],
+      "totalVacancies": 2,
+      "employment": "계약직",
+      "units": [
+        {
+          "id": "auto-da28ef4d5c370ea8",
+          "title": "계약직 복지기능직(안전행정지원)(1)",
+          "sourceUnitName": "계약직 복지기능직(안전행정지원)(1)",
+          "employment": "계약직",
+          "regions": [
+            "강원"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "· (공통)\r\n - 공단 인사규정 제44조에서 정하는 정년(60세)을 초과하지 않는 자\r\n - 공단 인사규정 제18조에서 정하는 결격사유에 해당하지 않는 자\r\n· (간호직) 간호사 면허증 소지자\r\n· (복지기능직) 공통 응시자격 외 없음",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "강원",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "1. 지원서 접수\r\n○ 접수기간: 2026. 10. 1.(목) ~ 10. 15.(목) 10:00까지\r\n○ 접수방법: 채용지원사이트 접수\r\n (https://bohun.fairyhr.com/announcement/detail/647)\r\n\r\n2. 서류전형\r\n○ 선발방법 및 인원\r\n  - 지원자 5배수 이하시: 적격/부적격 심사, 적격자 전원 합격\r\n  - 지원자 5배수 초과시: 정량심사, 모집인원의 5배수 합격\r\n○ 합격자 발표: 2026. 10. 20.(화) 17:00 이후 (예정)\r\n\r\n3. 면접시험\r\n○ 일시 및 장소: 2026. 10. 22.(목) (예정) / 서류전형 합격자 발표시 상세 안내\r\n○ 합격자 결정: 면접접수와 가점 합계가 만점의 60% 이상 득점자 중 고득점자 순\r\n※ 블라인드 위반사항 1건당 만점의 1% 감점\r\n○ 합격자 발표: 2026. 10. 23.(금) 17:00 이후 (예정)\r\n○ 임용예정일: 2026. 11. 1.(일) (예정)\r\n\r\n4. 제출서류\r\n① 지원서, 자기소개서(직무역량소개서) 및 기재사항 증빙자료 각 1부\r\n② 개인정보제공동의서(소정양식) 1부\r\n※ 공단 입사지원 시스템 내 구현\r\n※ 기타 자세한 사항은 붙임 공고문 파일 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305608",
+              "sha256": "47c2464ba64b0f8948c3fed1083af9d27ba4c71af1481471a49358f656fcb31a",
+              "receivedAt": "2026-10-04T05:50:32.816+00:00",
+              "rawUnitName": "계약직 복지기능직(안전행정지원)(1)",
+              "rows": [
+                [
+                  "계약직 복지기능직(안전행정지원)(1)"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "recruitment_unit",
+            "method": "unit_name",
+            "value": "계약직",
+            "quote": "계약직 복지기능직(안전행정지원)(1)",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "한국보훈복지의료공단",
+            "job": "계약직 복지기능직(안전행정지원)(1)",
+            "rawUnitName": "계약직 복지기능직(안전행정지원)(1)",
+            "regions": [
+              "강원"
+            ],
+            "regionsScope": "announcement",
+            "employment": "계약직",
+            "recruitmentCategory": {
+              "value": "신입",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=305608",
+              "sha256": "47c2464ba64b0f8948c3fed1083af9d27ba4c71af1481471a49358f656fcb31a",
+              "receivedAt": "2026-10-04T05:50:32.816+00:00"
+            }
+          }
+        }
+      ],
+      "sources": [
+        {
+          "id": "auto_alio",
+          "label": "JOB-ALIO 상세 · 코드 수신·자동 정리",
+          "url": "https://job.alio.go.kr/recruitview.do?idx=305608",
+          "sha256": "47c2464ba64b0f8948c3fed1083af9d27ba4c71af1481471a49358f656fcb31a",
+          "receivedAt": "2026-10-04T05:50:32.816+00:00"
+        },
+        {
+          "id": "auto_original_1",
+          "label": "기관 원문 링크 · 내용 미확인",
+          "url": "https://www.bohun.or.kr/main/na/ntt/selectNttInfo.do?mi=37029&bbsId=1158&bbsSysId=main&nttSn=189938"
+        }
+      ],
+      "attachments": [
+        {
+          "name": "공식 첨부 1",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3078488",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        },
+        {
+          "name": "공식 첨부 2",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3078489",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        },
+        {
+          "name": "공식 첨부 3",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3078490",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        },
+        {
+          "name": "공식 첨부 4",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3078491",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        }
+      ],
+      "checkedAt": "2026-10-04T05:50:32.816+00:00",
+      "collectionMethod": "automatic_public_html",
+      "collectionLabel": "코드 원격 수신 → 규칙 기반 모집단위 정리 → 저장·화면 생성 · GPT 미사용",
+      "sourceNote": "자동으로 확인 가능한 본문·결과 표만 정리했습니다. 첨부·모집단위별 상세 조건은 미확인이며, 공고 전체 원문은 별도로 표시합니다.",
+      "announcementMetadata": {
+        "raw": {
+          "표준직무(NCS)": "경영.회계.사무,보건.의료,환경.에너지.안전",
+          "학력정보": "학력무관",
+          "근무분야": "간호직,기능직,계약직",
+          "채용구분": "신입",
+          "고용형태": "비정규직",
+          "대체인력여부": "예",
+          "근무지": "강원",
+          "급여정보": "신입 / 평균",
+          "채용인원": "2명",
+          "우대조건": "취업지원대상자, 장애인, 보건관리자 근무 경력 3년 이상(간호직), 산업안전산업기사 이상 자격증 소지자(복지기능직), 산업안전보건업무 근무 경력 1년 이상(복지기능직) ※ 기타 자세한 사항은 붙임 공고문 파일 참조",
+          "채용기간": "26.10.01 ~ 26.10.15",
+          "등록일": "2026.10.01"
+        },
+        "rawApplicationPeriod": {
+          "raw": "○ 접수기간: 2026. 10. 1.(목) ~ 10. 15.(목) 10:00까지",
+          "status": "확인",
+          "source_section": "전형절차/방법",
+          "note": "명시된 접수기간 원문만 추출; 날짜 정규화·모집단위별 상이한 기간 검토는 별도"
+        },
+        "sourceSha256": "47c2464ba64b0f8948c3fed1083af9d27ba4c71af1481471a49358f656fcb31a",
+        "sourceReceivedAt": "2026-10-04T05:50:32.816+00:00",
+        "method": "auto-normalize-0.1"
+      },
+      "autoNormalization": {
+        "version": "auto-normalize-0.1",
+        "semanticHash": "09f30d4d56a7dd5faa4a88c29c537de1548c2cf5a7e993c1f448625536308f45",
+        "generatedFrom": {
+          "url": "https://job.alio.go.kr/recruitview.do?idx=305608",
+          "sha256": "47c2464ba64b0f8948c3fed1083af9d27ba4c71af1481471a49358f656fcb31a",
+          "receivedAt": "2026-10-04T05:50:32.816+00:00"
+        },
+        "aiUsed": false,
+        "heldUnitCount": 1
+      },
+      "autoSync": {
+        "semanticHash": "09f30d4d56a7dd5faa4a88c29c537de1548c2cf5a7e993c1f448625536308f45",
+        "conditionsHash": "96ef1ee4ad39092d67f9a528302c6a209f9130ee7735b53aeec789aea0ba9fdb",
+        "rawSha256": "47c2464ba64b0f8948c3fed1083af9d27ba4c71af1481471a49358f656fcb31a",
+        "lastFetchedAt": "2026-10-04T05:50:32.816+00:00",
+        "contentChangedAt": "2026-10-04T05:50:32.816+00:00",
+        "baselineStatus": "first_capture",
+        "needsReview": true,
+        "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
+        "resultCheck": {
+          "checkedAt": "2026-10-04T05:50:32.816+00:00",
+          "status": "checked",
+          "changedUnitIds": [
+            "auto-da28ef4d5c370ea8"
+          ],
+          "preservedUnitIds": [],
+          "unmatchedUnitIds": [],
+          "issues": []
+        }
+      },
+      "lifecycle": {
+        "status": "open",
+        "evaluatedDate": "2026-10-04",
+        "basis": "저장된 마감일·시각(KST) 경과; 원문 정정 여부와 별개"
+      }
+    },
+    {
+      "id": "job-alio-305485",
+      "idx": 305485,
+      "organization": "한국마약퇴치운동본부",
+      "title": "한국마약퇴치운동본부 2026년 제4차 채용공고",
+      "posted": "2026-09-29",
+      "deadline": "2026-10-13",
+      "deadlineTime": null,
+      "announcementPeriod": {
+        "start": "2026-09-29",
+        "end": "2026-10-13",
+        "scope": "announcement"
+      },
+      "applicationPeriod": {
+        "start": null,
+        "end": null,
+        "endTime": null,
+        "status": "unverified",
+        "scope": "announcement",
+        "sources": [
+          "auto_alio"
+        ],
+        "raw": null,
+        "note": "명시된 접수기간을 단일 기간으로 해석하지 못했습니다. 공고기간으로 대체하지 않습니다."
+      },
+      "applicationStart": null,
+      "regions": [
+        "서울",
+        "충북",
+        "전남광주"
+      ],
+      "totalVacancies": 10,
+      "employment": "계약직",
+      "units": [
+        {
+          "id": "auto-9e9e92206eb3105f",
+          "title": "6. (장애인 제한경쟁) 일반행정/본부/계약직(단시간 근로자)",
+          "sourceUnitName": "6. (장애인 제한경쟁) 일반행정/본부/계약직(단시간 근로자)",
+          "employment": "계약직",
+          "regions": [
+            "서울",
+            "충북",
+            "전남광주"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "※공통사항 : 임용예정일부터 근무 가능한자, [연령, 어학 및 성별] 제한없음(단, 입사일 기준 정년(만 60세) 미도래자)\r\n\r\n1. 일반행정/본부(경영기획팀)/정규직6급\r\n- 학사 학위 이상 취득자\r\n\r\n2. 일반행정/본부(경영관리팀)/정규직6급\r\n- 학사 학위 이상 취득자\r\n\r\n3. 재활예방/광주센터/정규직6급\r\n- 학사 학위 이상 취득자\r\n\r\n4. 재활예방/충북센터/육휴대체계약직\r\n- 학사 학위 이상 취득자\r\n\r\n5. 비대면상담/본부(용기한걸음센터)/계약직\r\n- 교대근무가 가능한 자\r\n- 학사 학위 이상 취득자\r\n\r\n6. (장애인 제한경쟁) 일반행정/본부/계약직(단시간 근로자)\r\n- 「장애인복지법」에 따라 장애인으로 등록된 자\r\n- 고등학교 졸업 이상",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "서울,충북,전남광주",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "가. 채용공고 : 2026. 9. 29.(화) ~ 2026. 10. 13.(화) 16:00시까지\r\n- 접수방법 : 온라인지원한국마약퇴치운동본부 채용페이지(https://drugfree.careeron.co.kr) * 방문·우편접수 불가\r\n나. 서류전형 : 2026. 10. 21.(수) ~ 2026. 10. 23.(금)\r\n다. 서류전형 합격자 발표 :2026. 10. 26.(월), 기관 채용페이지 개별 안내\r\n라. 인적성검사 : 2026. 10. 26.(월) ~ 2026. 10. 28.(수)\r\n마. 인성검사 결과발표 : 2026. 10. 29.(목)\r\n바. 면접전형 : 2026. 11. 3.(화) ~ 2026. 11. 6.(금)\r\n사. 면접합격자 적합성검토 : 2026. 11. 9.(월) ~ 2026. 11. 13.(금)\r\n아. 채용검증위원회 : 2026. 11. 17.(화)\r\n자. 면접전형 합격자 발표 : 2026. 11. 18.(수), 기관 채용 홈페이지 공지\r\n차. 채용예정자 서류제출 : 2026. 11. 18.(수) ~ 2026. 11. 20.(금)\r\n카. 신규직원 임용예정일 : 2026. 12. 1.(화)\r\n  * (계약직) 비대면상담 직무 임용예정일\r\n - 1차 임용: 2026.12.1.(예정)\r\n - 2차 임용: 2027.1.1.(예정)\r\n\r\n※ 한국마약퇴치운동본부 채용페이지(https://drugfree.careeron.co.kr)* 방문·우편접수 불가\r\n※ 각 채용 일정은 기관 내부사정 등에 의해 변경될 수 있으며, 홈페이지를 통해 공지\r\n※ 면접 예비합격자의 경우 최대 3배수까지 선정 가능(적격자 없을 시 순위지정하지 않을 수 있음)",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "2차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305485",
+              "sha256": "16222d9380d40b9335e551ae91ae41b2305f9b0162c4055c4ac56a6200e0fad8",
+              "receivedAt": "2026-10-04T05:50:43.265+00:00",
+              "rawUnitName": "6. (장애인 제한경쟁) 일반행정/본부/계약직(단시간 근로자)",
+              "rows": [
+                [
+                  "6. (장애인 제한경쟁) 일반행정/본부/계약직(단시간 근로자)"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "2차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "recruitment_unit",
+            "method": "unit_name",
+            "value": "계약직",
+            "quote": "6. (장애인 제한경쟁) 일반행정/본부/계약직(단시간 근로자)",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "한국마약퇴치운동본부",
+            "job": "6. (장애인 제한경쟁) 일반행정/본부/계약직(단시간 근로자)",
+            "rawUnitName": "6. (장애인 제한경쟁) 일반행정/본부/계약직(단시간 근로자)",
+            "regions": [
+              "서울",
+              "충북",
+              "전남광주"
+            ],
+            "regionsScope": "announcement",
+            "employment": "계약직",
+            "recruitmentCategory": {
+              "value": "신입",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=305485",
+              "sha256": "16222d9380d40b9335e551ae91ae41b2305f9b0162c4055c4ac56a6200e0fad8",
+              "receivedAt": "2026-10-04T05:50:43.265+00:00"
+            }
+          }
+        }
+      ],
+      "sources": [
+        {
+          "id": "auto_alio",
+          "label": "JOB-ALIO 상세 · 코드 수신·자동 정리",
+          "url": "https://job.alio.go.kr/recruitview.do?idx=305485",
+          "sha256": "16222d9380d40b9335e551ae91ae41b2305f9b0162c4055c4ac56a6200e0fad8",
+          "receivedAt": "2026-10-04T05:50:43.265+00:00"
+        },
+        {
+          "id": "auto_original_1",
+          "label": "기관 원문 링크 · 내용 미확인",
+          "url": "https://drugfree.careeron.co.kr"
+        }
+      ],
+      "attachments": [
+        {
+          "name": "공식 첨부 1",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3077822",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        },
+        {
+          "name": "공식 첨부 2",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3077823",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        },
+        {
+          "name": "공식 첨부 3",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3077824",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        },
+        {
+          "name": "공식 첨부 4",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3077825",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        },
+        {
+          "name": "공식 첨부 5",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3077826",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        }
+      ],
+      "checkedAt": "2026-10-04T05:50:43.265+00:00",
+      "collectionMethod": "automatic_public_html",
+      "collectionLabel": "코드 원격 수신 → 규칙 기반 모집단위 정리 → 저장·화면 생성 · GPT 미사용",
+      "sourceNote": "자동으로 확인 가능한 본문·결과 표만 정리했습니다. 첨부·모집단위별 상세 조건은 미확인이며, 공고 전체 원문은 별도로 표시합니다.",
+      "announcementMetadata": {
+        "raw": {
+          "표준직무(NCS)": "사업관리,경영.회계.사무,교육.자연.사회과학,사회복지.종교",
+          "학력정보": "고졸,대졸(4년)",
+          "근무분야": "일반직,행정직,경영직,사무직,계약직,상담직",
+          "채용구분": "신입",
+          "고용형태": "비정규직,정규직",
+          "대체인력여부": "예",
+          "근무지": "서울,충북,전남광주",
+          "급여정보": "신입 / 평균",
+          "채용인원": "10명",
+          "우대조건": "고용형태 및 채용직무별 상이(공고문 확인)",
+          "채용기간": "26.09.29 ~ 26.10.13",
+          "등록일": "2026.09.29"
+        },
+        "rawApplicationPeriod": {
+          "raw": null,
+          "status": "미확인",
+          "source_section": "전형절차/방법",
+          "note": "명시된 접수기간 원문만 추출; 날짜 정규화·모집단위별 상이한 기간 검토는 별도"
+        },
+        "sourceSha256": "16222d9380d40b9335e551ae91ae41b2305f9b0162c4055c4ac56a6200e0fad8",
+        "sourceReceivedAt": "2026-10-04T05:50:43.265+00:00",
+        "method": "auto-normalize-0.1"
+      },
+      "autoNormalization": {
+        "version": "auto-normalize-0.1",
+        "semanticHash": "9d47944c88ca84ea548aaf7d08d610310c80c46a9e0d1ed9cc5db03aff138137",
+        "generatedFrom": {
+          "url": "https://job.alio.go.kr/recruitview.do?idx=305485",
+          "sha256": "16222d9380d40b9335e551ae91ae41b2305f9b0162c4055c4ac56a6200e0fad8",
+          "receivedAt": "2026-10-04T05:50:43.265+00:00"
+        },
+        "aiUsed": false,
+        "heldUnitCount": 5
+      },
+      "autoSync": {
+        "semanticHash": "9d47944c88ca84ea548aaf7d08d610310c80c46a9e0d1ed9cc5db03aff138137",
+        "conditionsHash": "b274c0c68f0a645f22b3402b518587959388089845a3c9726e7182dda6839f21",
+        "rawSha256": "16222d9380d40b9335e551ae91ae41b2305f9b0162c4055c4ac56a6200e0fad8",
+        "lastFetchedAt": "2026-10-04T05:50:43.265+00:00",
+        "contentChangedAt": "2026-10-04T05:50:43.265+00:00",
+        "baselineStatus": "first_capture",
+        "needsReview": true,
+        "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
+        "resultCheck": {
+          "checkedAt": "2026-10-04T05:50:43.265+00:00",
+          "status": "checked",
+          "changedUnitIds": [
+            "auto-9e9e92206eb3105f"
+          ],
+          "preservedUnitIds": [],
+          "unmatchedUnitIds": [],
+          "issues": []
+        }
+      },
+      "lifecycle": {
+        "status": "open",
+        "evaluatedDate": "2026-10-04",
+        "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
+      }
     }
   ],
   "refresh": {
     "status": "success",
     "mode": "live",
-    "lastAttemptAt": "2026-10-03T21:13:02+00:00",
-    "lastSuccessAt": "2026-10-03T21:13:02+00:00",
-    "candidatesCount": 502,
+    "lastAttemptAt": "2026-10-04T05:50:24+00:00",
+    "lastSuccessAt": "2026-10-04T05:50:24+00:00",
+    "candidatesCount": 506,
     "coverage": {
       "description": "JOB-ALIO 최근60일 이내 진행중·비정규직·경영회계사무 목록, 목록최대2페이지·상세최대4건/회. 저장된 마감공고도 결과를 순환 재확인합니다. 전체공고 수집 아님.",
-      "queuedNoticeCount": 51,
-      "heldUnitCount": 451,
-      "nextPage": 6,
+      "queuedNoticeCount": 49,
+      "heldUnitCount": 457,
+      "nextPage": 7,
       "closedRecheck": {
         "recentDays": 30,
         "recentOrUnknownIntervalDays": 1,
