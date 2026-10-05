@@ -13392,8 +13392,8 @@
           "id": "auto_alio",
           "label": "JOB-ALIO 상세 · 자동 수신",
           "url": "https://job.alio.go.kr/recruitview.do?idx=305073",
-          "sha256": "bf0653d667efc342abcec3daa15e189c811443d0cdc18d356caf13b9e596d36f",
-          "receivedAt": "2026-09-27T05:17:01.844+00:00"
+          "sha256": "6730097ba2b9168e261ef3036290fae246e2cd591eb79525cc9076621b572f57",
+          "receivedAt": "2026-10-05T14:34:53.112+00:00"
         }
       ],
       "attachments": [
@@ -13453,14 +13453,14 @@
       "autoSync": {
         "semanticHash": "8bdd3b59b16bdbfbcc44dd7404a452db5f319c12163292e5f3af39eda8fe34ed",
         "conditionsHash": "f5ce055c23238883c83dd2198f584bdd04d1fe6496eeec504237882ac34ef4cf",
-        "rawSha256": "bf0653d667efc342abcec3daa15e189c811443d0cdc18d356caf13b9e596d36f",
-        "lastFetchedAt": "2026-09-27T05:17:01.844+00:00",
+        "rawSha256": "6730097ba2b9168e261ef3036290fae246e2cd591eb79525cc9076621b572f57",
+        "lastFetchedAt": "2026-10-05T14:34:53.112+00:00",
         "contentChangedAt": "2026-09-16T11:30:30.804+00:00",
         "baselineStatus": "compared",
         "needsReview": true,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-09-27T05:17:01.844+00:00",
+          "checkedAt": "2026-10-05T14:34:53.112+00:00",
           "status": "checked",
           "changedUnitIds": [],
           "preservedUnitIds": [],
@@ -15940,7 +15940,7 @@
         }
       },
       "lifecycle": {
-        "status": "open",
+        "status": "deadline_elapsed",
         "evaluatedDate": "2026-10-05",
         "basis": "저장된 마감일·시각(KST) 경과; 원문 정정 여부와 별개"
       }
@@ -29847,16 +29847,16 @@
       ],
       "sources": [
         {
-          "id": "auto_alio",
-          "label": "JOB-ALIO 상세 · 코드 수신·자동 정리",
-          "url": "https://job.alio.go.kr/recruitview.do?idx=305453",
-          "sha256": "8d4aff30307848a255c1df6cdf97a14ba8cc1f9a62c9c39e310e1753dc739cd4",
-          "receivedAt": "2026-09-29T12:50:48.408+00:00"
-        },
-        {
           "id": "auto_original_1",
           "label": "기관 원문 링크 · 내용 미확인",
           "url": "https://k-water.recruiter.co.kr/"
+        },
+        {
+          "id": "auto_alio",
+          "label": "JOB-ALIO 상세 · 자동 수신",
+          "url": "https://job.alio.go.kr/recruitview.do?idx=305453",
+          "sha256": "8d4aff30307848a255c1df6cdf97a14ba8cc1f9a62c9c39e310e1753dc739cd4",
+          "receivedAt": "2026-10-05T14:34:49.860+00:00"
         }
       ],
       "attachments": [
@@ -29923,17 +29923,15 @@
         "semanticHash": "71145e2931ec7d1923dc397c79f9c28e0cbb200bc92f7e2d1ab8badd2e8c13cf",
         "conditionsHash": "54d197eb1a9c1833a187be7c6db0bfc8ce600a33223986a38916687e71d73688",
         "rawSha256": "8d4aff30307848a255c1df6cdf97a14ba8cc1f9a62c9c39e310e1753dc739cd4",
-        "lastFetchedAt": "2026-09-29T12:50:48.408+00:00",
+        "lastFetchedAt": "2026-10-05T14:34:49.860+00:00",
         "contentChangedAt": "2026-09-29T12:50:48.408+00:00",
-        "baselineStatus": "first_capture",
+        "baselineStatus": "compared",
         "needsReview": false,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-09-29T12:50:48.408+00:00",
+          "checkedAt": "2026-10-05T14:34:49.860+00:00",
           "status": "checked",
-          "changedUnitIds": [
-            "auto-ce50d40bc063f3a7"
-          ],
+          "changedUnitIds": [],
           "preservedUnitIds": [],
           "unmatchedUnitIds": [],
           "issues": []
@@ -35137,19 +35135,1331 @@
         "evaluatedDate": "2026-10-05",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
+    },
+    {
+      "id": "job-alio-304354",
+      "idx": 304354,
+      "organization": "중앙사회서비스원",
+      "title": "2026년 제4차 중앙사회서비스원 직원(개방형 직위, 기간제) 채용 공고",
+      "posted": "2026-08-28",
+      "deadline": "2026-09-14",
+      "deadlineTime": null,
+      "announcementPeriod": {
+        "start": "2026-08-28",
+        "end": "2026-09-14",
+        "scope": "announcement"
+      },
+      "applicationPeriod": {
+        "start": null,
+        "end": null,
+        "endTime": null,
+        "status": "unverified",
+        "scope": "announcement",
+        "sources": [
+          "auto_alio"
+        ],
+        "raw": null,
+        "note": "명시된 접수기간을 단일 기간으로 해석하지 못했습니다. 공고기간으로 대체하지 않습니다."
+      },
+      "applicationStart": null,
+      "regions": [
+        "서울"
+      ],
+      "totalVacancies": 10,
+      "employment": "기간제",
+      "units": [
+        {
+          "id": "auto-80b47e053ee53e80",
+          "title": "기간제(육아휴직 대체, 행정요원 다등급)",
+          "sourceUnitName": "기간제(육아휴직 대체, 행정요원 다등급)",
+          "employment": "기간제",
+          "regions": [
+            "서울"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "1. 공통 자격요건: ①~④의 요건을 모두 충족해야 함\r\n ① 「인사규정」 제13조(결격사유)에 해당하지 않는 자\r\n ② 기타 관계법령에 의하여 응시자격이 정지되지 아니한 사람\r\n ③ 공고일 기준 우리 원 정년*(60세) 미만인 사람\r\n   * 다만, 개방형 직위는 정년(60세) 미적용\r\n ④ 병역의무자의 경우 공고일 기준 병역을 필하였거나 면제된 사람\r\n\r\n2. 응시자격 요건: 직급별 자격 기준 중 하나 이상 충족하는 자\r\n ○ 특급\r\n  - 국가 또는 지방공무원 3급 이상에 재직한 자\r\n  - 국가 또는 지방공무원 4급에 3년 이상 재직한 자\r\n  - 공공기관에서 1급 상당으로 5년 이상 재직한 자\r\n  - 채용관련 분야 18년 이상 근무경력이 있는 자로서 5년 이상 관리자 경력이 있는 자\r\n  - 그 밖에 이와 동등 이상의 자격이 있다고 인정되는 자\r\n\r\n ○ 기간제 행정요원 가등급\r\n  - 채용 관련분야에서 7년 이상 근무한 자\r\n  - 채용 관련분야 석사학위 취득 후 3년 이상 실무 경력자\r\n  - 채용 관련분야 박사학위 취득자\r\n\r\n ○ 기간제 행정요원 나등급\r\n  - 채용 관련분야에서 3년 이상 근무한 자\r\n  - 채용 관련분야 석사학위 취득자\r\n\r\n ○ 기간제 행정요원 다등급\r\n  - 고등학교를 졸업한 자로 채용 관련 분야에서 4년 이상 실무경력자 또는 학사(전문학사 취득 후 2년 이상 실무경력) 이상 취득자\r\n  ※ 공고일 기준, 자세한 사항은 첨부된 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "서울",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "○ 전형 절차 - 자세한 사항은 첨부된 공고문 참조\r\n - 채용공고 및 원서접수: 8. 28.(금) ~ 9. 14.(월) 11:00\r\n - 서류전형: 9. 15.(화) ~ 9. 18.(금) 예정\r\n - 서류전형 합격자 발표: 9. 22.(화) 예정\r\n - 필기전형(온라인 인성검사): 9. 23.(수) ~ 9. 28.(월) 예정\r\n - 필기전형 합격자 발표 및 면접전형 시행 공고: 9. 30.(수) 예정\r\n - 면접전형 및 채용점검위원회: 10. 1.(목) ~ 10. 12.(월) 예정\r\n - 최종합격자 발표: 10. 13.(화) 예정\r\n - 임용: 10. 19.(월) 예정\r\n ※ 채용 일정은 천재지변 및 중앙사회서비스원의 사정 등에 따라 변경될 수 있으며, 변경 시에는 중앙사회서비스원  홈페이지(www.kcpass.or.kr) 및 채용 누리집(kcpass.careerlink.kr)를 통해 안내 예정\r\n\r\n○ 전형 방법 - 자세한 사항은 첨부된 공고문 참조\r\n 1. 서류전형\r\n  - 대상: 응시원서 접수자\r\n  - 평가 방법: 응시 자격기준을 충족하는 대상자의 경력 및 자기소개서 등 평가\r\n  - 합격자 결정방법: 심사위원 평균 점수와 가산점의 합이 60점 이상인 사람 중 고득점자 순으로 채용 예정인원의  5배수까지 선발\r\n  * 응시자격 미충족 시 불합격 처리\r\n  * 전형대상자가 채용예정인원 5배수 미만일 경우 60점 이상자 전원 서류전형 합격, 서류전형 결과 5배수 대상자 중 최하점수에서 동점자 발생 시 모두 합격\r\n\r\n 2. 필기전형(인성검사)\r\n  - 대상: 개방형 직위(특급) 서류전형 합격자\r\n  - 응시 방법: 인성검사(온라인)\r\n  - 인성검사 내용: 사회성, 성실성, 도덕성 등 중앙사회서비스원에서 필요로 하는 인성 형성 정도 평가, 면접전형 참고자료 활용\r\n   * 미응시자 불합격 처리\r\n\r\n 3. 면접전형\r\n  - 대상: 개방형 직위(필기전형 합격자), 계약직(서류전형 합격자)\r\n  - 평가 방법\r\n    · 직무수행면접(PT 면접): 개방형 직위 필기전형 합격자 대상, 제한시간 내 직무수행계획서 등을 활용한 PT 면접 진행\r\n    · 심층면접: 작성한 자기소개서를 토대로 업무수행능력, 전문성, 직원으로서의 자질 등 평가\r\n  - 합격자 결정방법\r\n    · 심사위원 평균 점수와 가산점의 합이 60점 이상인 사람 중에서 고득점자 순으로 최종합격자 결정\r\n    · 예비합격자는 공고된 직급별 채용예정인원의 1배수로 하고 유효기간은 3개월로 함",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": 27,
+                "selected": 7,
+                "date": "2026-09-22"
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=304354",
+              "sha256": "c233907a8cfb58f3d7f7ac6cd92ec2c3447417c7cabb8d748caf803310d7f410",
+              "receivedAt": "2026-10-05T14:34:55.976+00:00",
+              "rawUnitName": "기간제(육아휴직 대체, 행정요원 다등급)",
+              "rows": [
+                [
+                  "기간제(육아휴직 대체, 행정요원 다등급)"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "7명",
+                  "27명",
+                  "2026.09.22"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "recruitment_unit",
+            "method": "unit_name",
+            "value": "기간제",
+            "quote": "기간제(육아휴직 대체, 행정요원 다등급)",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "중앙사회서비스원",
+            "job": "기간제(육아휴직 대체, 행정요원 다등급)",
+            "rawUnitName": "기간제(육아휴직 대체, 행정요원 다등급)",
+            "regions": [
+              "서울"
+            ],
+            "regionsScope": "announcement",
+            "employment": "기간제",
+            "recruitmentCategory": {
+              "value": "신입+경력",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=304354",
+              "sha256": "c233907a8cfb58f3d7f7ac6cd92ec2c3447417c7cabb8d748caf803310d7f410",
+              "receivedAt": "2026-10-05T14:34:55.976+00:00"
+            }
+          }
+        },
+        {
+          "id": "auto-6aaef27b5606361d",
+          "title": "기간제(AX 활용기술 상용화 지원, 행정요원 나등급)",
+          "sourceUnitName": "기간제(AX 활용기술 상용화 지원, 행정요원 나등급)",
+          "employment": "기간제",
+          "regions": [
+            "서울"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "1. 공통 자격요건: ①~④의 요건을 모두 충족해야 함\r\n ① 「인사규정」 제13조(결격사유)에 해당하지 않는 자\r\n ② 기타 관계법령에 의하여 응시자격이 정지되지 아니한 사람\r\n ③ 공고일 기준 우리 원 정년*(60세) 미만인 사람\r\n   * 다만, 개방형 직위는 정년(60세) 미적용\r\n ④ 병역의무자의 경우 공고일 기준 병역을 필하였거나 면제된 사람\r\n\r\n2. 응시자격 요건: 직급별 자격 기준 중 하나 이상 충족하는 자\r\n ○ 특급\r\n  - 국가 또는 지방공무원 3급 이상에 재직한 자\r\n  - 국가 또는 지방공무원 4급에 3년 이상 재직한 자\r\n  - 공공기관에서 1급 상당으로 5년 이상 재직한 자\r\n  - 채용관련 분야 18년 이상 근무경력이 있는 자로서 5년 이상 관리자 경력이 있는 자\r\n  - 그 밖에 이와 동등 이상의 자격이 있다고 인정되는 자\r\n\r\n ○ 기간제 행정요원 가등급\r\n  - 채용 관련분야에서 7년 이상 근무한 자\r\n  - 채용 관련분야 석사학위 취득 후 3년 이상 실무 경력자\r\n  - 채용 관련분야 박사학위 취득자\r\n\r\n ○ 기간제 행정요원 나등급\r\n  - 채용 관련분야에서 3년 이상 근무한 자\r\n  - 채용 관련분야 석사학위 취득자\r\n\r\n ○ 기간제 행정요원 다등급\r\n  - 고등학교를 졸업한 자로 채용 관련 분야에서 4년 이상 실무경력자 또는 학사(전문학사 취득 후 2년 이상 실무경력) 이상 취득자\r\n  ※ 공고일 기준, 자세한 사항은 첨부된 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "서울",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "○ 전형 절차 - 자세한 사항은 첨부된 공고문 참조\r\n - 채용공고 및 원서접수: 8. 28.(금) ~ 9. 14.(월) 11:00\r\n - 서류전형: 9. 15.(화) ~ 9. 18.(금) 예정\r\n - 서류전형 합격자 발표: 9. 22.(화) 예정\r\n - 필기전형(온라인 인성검사): 9. 23.(수) ~ 9. 28.(월) 예정\r\n - 필기전형 합격자 발표 및 면접전형 시행 공고: 9. 30.(수) 예정\r\n - 면접전형 및 채용점검위원회: 10. 1.(목) ~ 10. 12.(월) 예정\r\n - 최종합격자 발표: 10. 13.(화) 예정\r\n - 임용: 10. 19.(월) 예정\r\n ※ 채용 일정은 천재지변 및 중앙사회서비스원의 사정 등에 따라 변경될 수 있으며, 변경 시에는 중앙사회서비스원  홈페이지(www.kcpass.or.kr) 및 채용 누리집(kcpass.careerlink.kr)를 통해 안내 예정\r\n\r\n○ 전형 방법 - 자세한 사항은 첨부된 공고문 참조\r\n 1. 서류전형\r\n  - 대상: 응시원서 접수자\r\n  - 평가 방법: 응시 자격기준을 충족하는 대상자의 경력 및 자기소개서 등 평가\r\n  - 합격자 결정방법: 심사위원 평균 점수와 가산점의 합이 60점 이상인 사람 중 고득점자 순으로 채용 예정인원의  5배수까지 선발\r\n  * 응시자격 미충족 시 불합격 처리\r\n  * 전형대상자가 채용예정인원 5배수 미만일 경우 60점 이상자 전원 서류전형 합격, 서류전형 결과 5배수 대상자 중 최하점수에서 동점자 발생 시 모두 합격\r\n\r\n 2. 필기전형(인성검사)\r\n  - 대상: 개방형 직위(특급) 서류전형 합격자\r\n  - 응시 방법: 인성검사(온라인)\r\n  - 인성검사 내용: 사회성, 성실성, 도덕성 등 중앙사회서비스원에서 필요로 하는 인성 형성 정도 평가, 면접전형 참고자료 활용\r\n   * 미응시자 불합격 처리\r\n\r\n 3. 면접전형\r\n  - 대상: 개방형 직위(필기전형 합격자), 계약직(서류전형 합격자)\r\n  - 평가 방법\r\n    · 직무수행면접(PT 면접): 개방형 직위 필기전형 합격자 대상, 제한시간 내 직무수행계획서 등을 활용한 PT 면접 진행\r\n    · 심층면접: 작성한 자기소개서를 토대로 업무수행능력, 전문성, 직원으로서의 자질 등 평가\r\n  - 합격자 결정방법\r\n    · 심사위원 평균 점수와 가산점의 합이 60점 이상인 사람 중에서 고득점자 순으로 최종합격자 결정\r\n    · 예비합격자는 공고된 직급별 채용예정인원의 1배수로 하고 유효기간은 3개월로 함",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": 4,
+                "selected": 4,
+                "date": "2026-09-22"
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=304354",
+              "sha256": "c233907a8cfb58f3d7f7ac6cd92ec2c3447417c7cabb8d748caf803310d7f410",
+              "receivedAt": "2026-10-05T14:34:55.976+00:00",
+              "rawUnitName": "기간제(AX 활용기술 상용화 지원, 행정요원 나등급)",
+              "rows": [
+                [
+                  "기간제(AX 활용기술 상용화 지원, 행정요원 나등급)"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "4명",
+                  "4명",
+                  "2026.09.22"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "recruitment_unit",
+            "method": "unit_name",
+            "value": "기간제",
+            "quote": "기간제(AX 활용기술 상용화 지원, 행정요원 나등급)",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "중앙사회서비스원",
+            "job": "기간제(AX 활용기술 상용화 지원, 행정요원 나등급)",
+            "rawUnitName": "기간제(AX 활용기술 상용화 지원, 행정요원 나등급)",
+            "regions": [
+              "서울"
+            ],
+            "regionsScope": "announcement",
+            "employment": "기간제",
+            "recruitmentCategory": {
+              "value": "신입+경력",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=304354",
+              "sha256": "c233907a8cfb58f3d7f7ac6cd92ec2c3447417c7cabb8d748caf803310d7f410",
+              "receivedAt": "2026-10-05T14:34:55.976+00:00"
+            }
+          }
+        },
+        {
+          "id": "auto-46ac3519ac99afed",
+          "title": "기간제(발달재활 서비스 제공인력 보수교육, 행정요원 가등급)",
+          "sourceUnitName": "기간제(발달재활 서비스 제공인력 보수교육, 행정요원 가등급)",
+          "employment": "기간제",
+          "regions": [
+            "서울"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "1. 공통 자격요건: ①~④의 요건을 모두 충족해야 함\r\n ① 「인사규정」 제13조(결격사유)에 해당하지 않는 자\r\n ② 기타 관계법령에 의하여 응시자격이 정지되지 아니한 사람\r\n ③ 공고일 기준 우리 원 정년*(60세) 미만인 사람\r\n   * 다만, 개방형 직위는 정년(60세) 미적용\r\n ④ 병역의무자의 경우 공고일 기준 병역을 필하였거나 면제된 사람\r\n\r\n2. 응시자격 요건: 직급별 자격 기준 중 하나 이상 충족하는 자\r\n ○ 특급\r\n  - 국가 또는 지방공무원 3급 이상에 재직한 자\r\n  - 국가 또는 지방공무원 4급에 3년 이상 재직한 자\r\n  - 공공기관에서 1급 상당으로 5년 이상 재직한 자\r\n  - 채용관련 분야 18년 이상 근무경력이 있는 자로서 5년 이상 관리자 경력이 있는 자\r\n  - 그 밖에 이와 동등 이상의 자격이 있다고 인정되는 자\r\n\r\n ○ 기간제 행정요원 가등급\r\n  - 채용 관련분야에서 7년 이상 근무한 자\r\n  - 채용 관련분야 석사학위 취득 후 3년 이상 실무 경력자\r\n  - 채용 관련분야 박사학위 취득자\r\n\r\n ○ 기간제 행정요원 나등급\r\n  - 채용 관련분야에서 3년 이상 근무한 자\r\n  - 채용 관련분야 석사학위 취득자\r\n\r\n ○ 기간제 행정요원 다등급\r\n  - 고등학교를 졸업한 자로 채용 관련 분야에서 4년 이상 실무경력자 또는 학사(전문학사 취득 후 2년 이상 실무경력) 이상 취득자\r\n  ※ 공고일 기준, 자세한 사항은 첨부된 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "서울",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "○ 전형 절차 - 자세한 사항은 첨부된 공고문 참조\r\n - 채용공고 및 원서접수: 8. 28.(금) ~ 9. 14.(월) 11:00\r\n - 서류전형: 9. 15.(화) ~ 9. 18.(금) 예정\r\n - 서류전형 합격자 발표: 9. 22.(화) 예정\r\n - 필기전형(온라인 인성검사): 9. 23.(수) ~ 9. 28.(월) 예정\r\n - 필기전형 합격자 발표 및 면접전형 시행 공고: 9. 30.(수) 예정\r\n - 면접전형 및 채용점검위원회: 10. 1.(목) ~ 10. 12.(월) 예정\r\n - 최종합격자 발표: 10. 13.(화) 예정\r\n - 임용: 10. 19.(월) 예정\r\n ※ 채용 일정은 천재지변 및 중앙사회서비스원의 사정 등에 따라 변경될 수 있으며, 변경 시에는 중앙사회서비스원  홈페이지(www.kcpass.or.kr) 및 채용 누리집(kcpass.careerlink.kr)를 통해 안내 예정\r\n\r\n○ 전형 방법 - 자세한 사항은 첨부된 공고문 참조\r\n 1. 서류전형\r\n  - 대상: 응시원서 접수자\r\n  - 평가 방법: 응시 자격기준을 충족하는 대상자의 경력 및 자기소개서 등 평가\r\n  - 합격자 결정방법: 심사위원 평균 점수와 가산점의 합이 60점 이상인 사람 중 고득점자 순으로 채용 예정인원의  5배수까지 선발\r\n  * 응시자격 미충족 시 불합격 처리\r\n  * 전형대상자가 채용예정인원 5배수 미만일 경우 60점 이상자 전원 서류전형 합격, 서류전형 결과 5배수 대상자 중 최하점수에서 동점자 발생 시 모두 합격\r\n\r\n 2. 필기전형(인성검사)\r\n  - 대상: 개방형 직위(특급) 서류전형 합격자\r\n  - 응시 방법: 인성검사(온라인)\r\n  - 인성검사 내용: 사회성, 성실성, 도덕성 등 중앙사회서비스원에서 필요로 하는 인성 형성 정도 평가, 면접전형 참고자료 활용\r\n   * 미응시자 불합격 처리\r\n\r\n 3. 면접전형\r\n  - 대상: 개방형 직위(필기전형 합격자), 계약직(서류전형 합격자)\r\n  - 평가 방법\r\n    · 직무수행면접(PT 면접): 개방형 직위 필기전형 합격자 대상, 제한시간 내 직무수행계획서 등을 활용한 PT 면접 진행\r\n    · 심층면접: 작성한 자기소개서를 토대로 업무수행능력, 전문성, 직원으로서의 자질 등 평가\r\n  - 합격자 결정방법\r\n    · 심사위원 평균 점수와 가산점의 합이 60점 이상인 사람 중에서 고득점자 순으로 최종합격자 결정\r\n    · 예비합격자는 공고된 직급별 채용예정인원의 1배수로 하고 유효기간은 3개월로 함",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": 3,
+                "selected": 2,
+                "date": "2026-09-22"
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=304354",
+              "sha256": "c233907a8cfb58f3d7f7ac6cd92ec2c3447417c7cabb8d748caf803310d7f410",
+              "receivedAt": "2026-10-05T14:34:55.976+00:00",
+              "rawUnitName": "기간제(발달재활 서비스 제공인력 보수교육, 행정요원 가등급)",
+              "rows": [
+                [
+                  "기간제(발달재활 서비스 제공인력 보수교육, 행정요원 가등급)"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "2명",
+                  "3명",
+                  "2026.09.22"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "recruitment_unit",
+            "method": "unit_name",
+            "value": "기간제",
+            "quote": "기간제(발달재활 서비스 제공인력 보수교육, 행정요원 가등급)",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "중앙사회서비스원",
+            "job": "기간제(발달재활 서비스 제공인력 보수교육, 행정요원 가등급)",
+            "rawUnitName": "기간제(발달재활 서비스 제공인력 보수교육, 행정요원 가등급)",
+            "regions": [
+              "서울"
+            ],
+            "regionsScope": "announcement",
+            "employment": "기간제",
+            "recruitmentCategory": {
+              "value": "신입+경력",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=304354",
+              "sha256": "c233907a8cfb58f3d7f7ac6cd92ec2c3447417c7cabb8d748caf803310d7f410",
+              "receivedAt": "2026-10-05T14:34:55.976+00:00"
+            }
+          }
+        },
+        {
+          "id": "auto-45e984dff385b959",
+          "title": "기간제(사업 및 행정업무 지원, 장애인 제한, 행정요원 다등급)",
+          "sourceUnitName": "기간제(사업 및 행정업무 지원, 장애인 제한, 행정요원 다등급)",
+          "employment": "기간제",
+          "regions": [
+            "서울"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "1. 공통 자격요건: ①~④의 요건을 모두 충족해야 함\r\n ① 「인사규정」 제13조(결격사유)에 해당하지 않는 자\r\n ② 기타 관계법령에 의하여 응시자격이 정지되지 아니한 사람\r\n ③ 공고일 기준 우리 원 정년*(60세) 미만인 사람\r\n   * 다만, 개방형 직위는 정년(60세) 미적용\r\n ④ 병역의무자의 경우 공고일 기준 병역을 필하였거나 면제된 사람\r\n\r\n2. 응시자격 요건: 직급별 자격 기준 중 하나 이상 충족하는 자\r\n ○ 특급\r\n  - 국가 또는 지방공무원 3급 이상에 재직한 자\r\n  - 국가 또는 지방공무원 4급에 3년 이상 재직한 자\r\n  - 공공기관에서 1급 상당으로 5년 이상 재직한 자\r\n  - 채용관련 분야 18년 이상 근무경력이 있는 자로서 5년 이상 관리자 경력이 있는 자\r\n  - 그 밖에 이와 동등 이상의 자격이 있다고 인정되는 자\r\n\r\n ○ 기간제 행정요원 가등급\r\n  - 채용 관련분야에서 7년 이상 근무한 자\r\n  - 채용 관련분야 석사학위 취득 후 3년 이상 실무 경력자\r\n  - 채용 관련분야 박사학위 취득자\r\n\r\n ○ 기간제 행정요원 나등급\r\n  - 채용 관련분야에서 3년 이상 근무한 자\r\n  - 채용 관련분야 석사학위 취득자\r\n\r\n ○ 기간제 행정요원 다등급\r\n  - 고등학교를 졸업한 자로 채용 관련 분야에서 4년 이상 실무경력자 또는 학사(전문학사 취득 후 2년 이상 실무경력) 이상 취득자\r\n  ※ 공고일 기준, 자세한 사항은 첨부된 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "서울",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "○ 전형 절차 - 자세한 사항은 첨부된 공고문 참조\r\n - 채용공고 및 원서접수: 8. 28.(금) ~ 9. 14.(월) 11:00\r\n - 서류전형: 9. 15.(화) ~ 9. 18.(금) 예정\r\n - 서류전형 합격자 발표: 9. 22.(화) 예정\r\n - 필기전형(온라인 인성검사): 9. 23.(수) ~ 9. 28.(월) 예정\r\n - 필기전형 합격자 발표 및 면접전형 시행 공고: 9. 30.(수) 예정\r\n - 면접전형 및 채용점검위원회: 10. 1.(목) ~ 10. 12.(월) 예정\r\n - 최종합격자 발표: 10. 13.(화) 예정\r\n - 임용: 10. 19.(월) 예정\r\n ※ 채용 일정은 천재지변 및 중앙사회서비스원의 사정 등에 따라 변경될 수 있으며, 변경 시에는 중앙사회서비스원  홈페이지(www.kcpass.or.kr) 및 채용 누리집(kcpass.careerlink.kr)를 통해 안내 예정\r\n\r\n○ 전형 방법 - 자세한 사항은 첨부된 공고문 참조\r\n 1. 서류전형\r\n  - 대상: 응시원서 접수자\r\n  - 평가 방법: 응시 자격기준을 충족하는 대상자의 경력 및 자기소개서 등 평가\r\n  - 합격자 결정방법: 심사위원 평균 점수와 가산점의 합이 60점 이상인 사람 중 고득점자 순으로 채용 예정인원의  5배수까지 선발\r\n  * 응시자격 미충족 시 불합격 처리\r\n  * 전형대상자가 채용예정인원 5배수 미만일 경우 60점 이상자 전원 서류전형 합격, 서류전형 결과 5배수 대상자 중 최하점수에서 동점자 발생 시 모두 합격\r\n\r\n 2. 필기전형(인성검사)\r\n  - 대상: 개방형 직위(특급) 서류전형 합격자\r\n  - 응시 방법: 인성검사(온라인)\r\n  - 인성검사 내용: 사회성, 성실성, 도덕성 등 중앙사회서비스원에서 필요로 하는 인성 형성 정도 평가, 면접전형 참고자료 활용\r\n   * 미응시자 불합격 처리\r\n\r\n 3. 면접전형\r\n  - 대상: 개방형 직위(필기전형 합격자), 계약직(서류전형 합격자)\r\n  - 평가 방법\r\n    · 직무수행면접(PT 면접): 개방형 직위 필기전형 합격자 대상, 제한시간 내 직무수행계획서 등을 활용한 PT 면접 진행\r\n    · 심층면접: 작성한 자기소개서를 토대로 업무수행능력, 전문성, 직원으로서의 자질 등 평가\r\n  - 합격자 결정방법\r\n    · 심사위원 평균 점수와 가산점의 합이 60점 이상인 사람 중에서 고득점자 순으로 최종합격자 결정\r\n    · 예비합격자는 공고된 직급별 채용예정인원의 1배수로 하고 유효기간은 3개월로 함",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": 8,
+                "selected": 2,
+                "date": "2026-09-22"
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=304354",
+              "sha256": "c233907a8cfb58f3d7f7ac6cd92ec2c3447417c7cabb8d748caf803310d7f410",
+              "receivedAt": "2026-10-05T14:34:55.976+00:00",
+              "rawUnitName": "기간제(사업 및 행정업무 지원, 장애인 제한, 행정요원 다등급)",
+              "rows": [
+                [
+                  "기간제(사업 및 행정업무 지원, 장애인 제한, 행정요원 다등급)"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "2명",
+                  "8명",
+                  "2026.09.22"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "recruitment_unit",
+            "method": "unit_name",
+            "value": "기간제",
+            "quote": "기간제(사업 및 행정업무 지원, 장애인 제한, 행정요원 다등급)",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "중앙사회서비스원",
+            "job": "기간제(사업 및 행정업무 지원, 장애인 제한, 행정요원 다등급)",
+            "rawUnitName": "기간제(사업 및 행정업무 지원, 장애인 제한, 행정요원 다등급)",
+            "regions": [
+              "서울"
+            ],
+            "regionsScope": "announcement",
+            "employment": "기간제",
+            "recruitmentCategory": {
+              "value": "신입+경력",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=304354",
+              "sha256": "c233907a8cfb58f3d7f7ac6cd92ec2c3447417c7cabb8d748caf803310d7f410",
+              "receivedAt": "2026-10-05T14:34:55.976+00:00"
+            }
+          }
+        },
+        {
+          "id": "auto-1faf1e9faf36b092",
+          "title": "기간제(사업 및 행정업무 지원, 보훈 제한, 행정요원 다등급)",
+          "sourceUnitName": "기간제(사업 및 행정업무 지원, 보훈 제한, 행정요원 다등급)",
+          "employment": "기간제",
+          "regions": [
+            "서울"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "1. 공통 자격요건: ①~④의 요건을 모두 충족해야 함\r\n ① 「인사규정」 제13조(결격사유)에 해당하지 않는 자\r\n ② 기타 관계법령에 의하여 응시자격이 정지되지 아니한 사람\r\n ③ 공고일 기준 우리 원 정년*(60세) 미만인 사람\r\n   * 다만, 개방형 직위는 정년(60세) 미적용\r\n ④ 병역의무자의 경우 공고일 기준 병역을 필하였거나 면제된 사람\r\n\r\n2. 응시자격 요건: 직급별 자격 기준 중 하나 이상 충족하는 자\r\n ○ 특급\r\n  - 국가 또는 지방공무원 3급 이상에 재직한 자\r\n  - 국가 또는 지방공무원 4급에 3년 이상 재직한 자\r\n  - 공공기관에서 1급 상당으로 5년 이상 재직한 자\r\n  - 채용관련 분야 18년 이상 근무경력이 있는 자로서 5년 이상 관리자 경력이 있는 자\r\n  - 그 밖에 이와 동등 이상의 자격이 있다고 인정되는 자\r\n\r\n ○ 기간제 행정요원 가등급\r\n  - 채용 관련분야에서 7년 이상 근무한 자\r\n  - 채용 관련분야 석사학위 취득 후 3년 이상 실무 경력자\r\n  - 채용 관련분야 박사학위 취득자\r\n\r\n ○ 기간제 행정요원 나등급\r\n  - 채용 관련분야에서 3년 이상 근무한 자\r\n  - 채용 관련분야 석사학위 취득자\r\n\r\n ○ 기간제 행정요원 다등급\r\n  - 고등학교를 졸업한 자로 채용 관련 분야에서 4년 이상 실무경력자 또는 학사(전문학사 취득 후 2년 이상 실무경력) 이상 취득자\r\n  ※ 공고일 기준, 자세한 사항은 첨부된 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "서울",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "○ 전형 절차 - 자세한 사항은 첨부된 공고문 참조\r\n - 채용공고 및 원서접수: 8. 28.(금) ~ 9. 14.(월) 11:00\r\n - 서류전형: 9. 15.(화) ~ 9. 18.(금) 예정\r\n - 서류전형 합격자 발표: 9. 22.(화) 예정\r\n - 필기전형(온라인 인성검사): 9. 23.(수) ~ 9. 28.(월) 예정\r\n - 필기전형 합격자 발표 및 면접전형 시행 공고: 9. 30.(수) 예정\r\n - 면접전형 및 채용점검위원회: 10. 1.(목) ~ 10. 12.(월) 예정\r\n - 최종합격자 발표: 10. 13.(화) 예정\r\n - 임용: 10. 19.(월) 예정\r\n ※ 채용 일정은 천재지변 및 중앙사회서비스원의 사정 등에 따라 변경될 수 있으며, 변경 시에는 중앙사회서비스원  홈페이지(www.kcpass.or.kr) 및 채용 누리집(kcpass.careerlink.kr)를 통해 안내 예정\r\n\r\n○ 전형 방법 - 자세한 사항은 첨부된 공고문 참조\r\n 1. 서류전형\r\n  - 대상: 응시원서 접수자\r\n  - 평가 방법: 응시 자격기준을 충족하는 대상자의 경력 및 자기소개서 등 평가\r\n  - 합격자 결정방법: 심사위원 평균 점수와 가산점의 합이 60점 이상인 사람 중 고득점자 순으로 채용 예정인원의  5배수까지 선발\r\n  * 응시자격 미충족 시 불합격 처리\r\n  * 전형대상자가 채용예정인원 5배수 미만일 경우 60점 이상자 전원 서류전형 합격, 서류전형 결과 5배수 대상자 중 최하점수에서 동점자 발생 시 모두 합격\r\n\r\n 2. 필기전형(인성검사)\r\n  - 대상: 개방형 직위(특급) 서류전형 합격자\r\n  - 응시 방법: 인성검사(온라인)\r\n  - 인성검사 내용: 사회성, 성실성, 도덕성 등 중앙사회서비스원에서 필요로 하는 인성 형성 정도 평가, 면접전형 참고자료 활용\r\n   * 미응시자 불합격 처리\r\n\r\n 3. 면접전형\r\n  - 대상: 개방형 직위(필기전형 합격자), 계약직(서류전형 합격자)\r\n  - 평가 방법\r\n    · 직무수행면접(PT 면접): 개방형 직위 필기전형 합격자 대상, 제한시간 내 직무수행계획서 등을 활용한 PT 면접 진행\r\n    · 심층면접: 작성한 자기소개서를 토대로 업무수행능력, 전문성, 직원으로서의 자질 등 평가\r\n  - 합격자 결정방법\r\n    · 심사위원 평균 점수와 가산점의 합이 60점 이상인 사람 중에서 고득점자 순으로 최종합격자 결정\r\n    · 예비합격자는 공고된 직급별 채용예정인원의 1배수로 하고 유효기간은 3개월로 함",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": 2,
+                "selected": 2,
+                "date": "2026-09-22"
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=304354",
+              "sha256": "c233907a8cfb58f3d7f7ac6cd92ec2c3447417c7cabb8d748caf803310d7f410",
+              "receivedAt": "2026-10-05T14:34:55.976+00:00",
+              "rawUnitName": "기간제(사업 및 행정업무 지원, 보훈 제한, 행정요원 다등급)",
+              "rows": [
+                [
+                  "기간제(사업 및 행정업무 지원, 보훈 제한, 행정요원 다등급)"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "2명",
+                  "2명",
+                  "2026.09.22"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "recruitment_unit",
+            "method": "unit_name",
+            "value": "기간제",
+            "quote": "기간제(사업 및 행정업무 지원, 보훈 제한, 행정요원 다등급)",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "중앙사회서비스원",
+            "job": "기간제(사업 및 행정업무 지원, 보훈 제한, 행정요원 다등급)",
+            "rawUnitName": "기간제(사업 및 행정업무 지원, 보훈 제한, 행정요원 다등급)",
+            "regions": [
+              "서울"
+            ],
+            "regionsScope": "announcement",
+            "employment": "기간제",
+            "recruitmentCategory": {
+              "value": "신입+경력",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=304354",
+              "sha256": "c233907a8cfb58f3d7f7ac6cd92ec2c3447417c7cabb8d748caf803310d7f410",
+              "receivedAt": "2026-10-05T14:34:55.976+00:00"
+            }
+          }
+        }
+      ],
+      "sources": [
+        {
+          "id": "auto_alio",
+          "label": "JOB-ALIO 상세 · 코드 수신·자동 정리",
+          "url": "https://job.alio.go.kr/recruitview.do?idx=304354",
+          "sha256": "c233907a8cfb58f3d7f7ac6cd92ec2c3447417c7cabb8d748caf803310d7f410",
+          "receivedAt": "2026-10-05T14:34:55.976+00:00"
+        },
+        {
+          "id": "auto_original_1",
+          "label": "기관 원문 링크 · 내용 미확인",
+          "url": "https://kcpass.careerlink.kr"
+        }
+      ],
+      "attachments": [
+        {
+          "name": "공식 첨부 1",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3071845",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        },
+        {
+          "name": "공식 첨부 2",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3071846",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        },
+        {
+          "name": "공식 첨부 3",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3071847",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        }
+      ],
+      "checkedAt": "2026-10-05T14:34:55.976+00:00",
+      "collectionMethod": "automatic_public_html",
+      "collectionLabel": "코드 원격 수신 → 규칙 기반 모집단위 정리 → 저장·화면 생성 · GPT 미사용",
+      "sourceNote": "자동으로 확인 가능한 본문·결과 표만 정리했습니다. 첨부·모집단위별 상세 조건은 미확인이며, 공고 전체 원문은 별도로 표시합니다.",
+      "announcementMetadata": {
+        "raw": {
+          "표준직무(NCS)": "사업관리,경영.회계.사무,사회복지.종교",
+          "학력정보": "학력무관,중졸이하,고졸,대졸(2~3년),대졸(4년),석사,박사",
+          "근무분야": "행정직,사무직,관리직,계약직",
+          "채용구분": "신입+경력",
+          "고용형태": "비정규직,정규직",
+          "대체인력여부": "예",
+          "근무지": "서울",
+          "급여정보": "신입 / 평균",
+          "채용인원": "10명",
+          "우대조건": "취업지원 대상자(보훈), 장애인, 취업지원대상자(국민기초생활보장 수급자, 차상위계층 및 한부모가족 세대주)",
+          "채용기간": "26.08.28 ~ 26.09.14",
+          "등록일": "2026.08.28"
+        },
+        "rawApplicationPeriod": {
+          "raw": null,
+          "status": "미확인",
+          "source_section": "전형절차/방법",
+          "note": "명시된 접수기간 원문만 추출; 날짜 정규화·모집단위별 상이한 기간 검토는 별도"
+        },
+        "sourceSha256": "c233907a8cfb58f3d7f7ac6cd92ec2c3447417c7cabb8d748caf803310d7f410",
+        "sourceReceivedAt": "2026-10-05T14:34:55.976+00:00",
+        "method": "auto-normalize-0.1"
+      },
+      "autoNormalization": {
+        "version": "auto-normalize-0.1",
+        "semanticHash": "fb4cebecbbc2432a21df991f7a8a814549bdaa795504a058e2d889ced0f4404b",
+        "generatedFrom": {
+          "url": "https://job.alio.go.kr/recruitview.do?idx=304354",
+          "sha256": "c233907a8cfb58f3d7f7ac6cd92ec2c3447417c7cabb8d748caf803310d7f410",
+          "receivedAt": "2026-10-05T14:34:55.976+00:00"
+        },
+        "aiUsed": false,
+        "heldUnitCount": 3
+      },
+      "autoSync": {
+        "semanticHash": "fb4cebecbbc2432a21df991f7a8a814549bdaa795504a058e2d889ced0f4404b",
+        "conditionsHash": "4cd44f446b20abd7c98a1c769c8b7b1343f6bfb2c9ef2d01b5d4c4916c408b43",
+        "rawSha256": "c233907a8cfb58f3d7f7ac6cd92ec2c3447417c7cabb8d748caf803310d7f410",
+        "lastFetchedAt": "2026-10-05T14:34:55.976+00:00",
+        "contentChangedAt": "2026-10-05T14:34:55.976+00:00",
+        "baselineStatus": "first_capture",
+        "needsReview": true,
+        "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
+        "resultCheck": {
+          "checkedAt": "2026-10-05T14:34:55.976+00:00",
+          "status": "checked",
+          "changedUnitIds": [
+            "auto-80b47e053ee53e80",
+            "auto-6aaef27b5606361d",
+            "auto-46ac3519ac99afed",
+            "auto-45e984dff385b959",
+            "auto-1faf1e9faf36b092"
+          ],
+          "preservedUnitIds": [],
+          "unmatchedUnitIds": [],
+          "issues": []
+        }
+      },
+      "lifecycle": {
+        "status": "deadline_elapsed",
+        "evaluatedDate": "2026-10-05",
+        "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
+      }
     }
   ],
   "refresh": {
     "status": "success",
     "mode": "live",
-    "lastAttemptAt": "2026-10-05T05:37:09+00:00",
-    "lastSuccessAt": "2026-10-05T05:37:09+00:00",
-    "candidatesCount": 508,
+    "lastAttemptAt": "2026-10-05T14:34:39+00:00",
+    "lastSuccessAt": "2026-10-05T14:34:39+00:00",
+    "candidatesCount": 515,
     "coverage": {
       "description": "JOB-ALIO 최근60일 이내 진행중·비정규직·경영회계사무 목록, 목록최대2페이지·상세최대4건/회. 저장된 마감공고도 결과를 순환 재확인합니다. 전체공고 수집 아님.",
-      "queuedNoticeCount": 45,
-      "heldUnitCount": 463,
-      "nextPage": 2,
+      "queuedNoticeCount": 43,
+      "heldUnitCount": 472,
+      "nextPage": 3,
       "closedRecheck": {
         "recentDays": 30,
         "recentOrUnknownIntervalDays": 1,
@@ -35160,6 +36470,17 @@
       "requestLimit": 6,
       "automaticRetries": 0,
       "heldNotices": [
+        {
+          "id": "job-alio-304387",
+          "organization": "한국의료기기안전정보원",
+          "title": "2026년 제3차 한국의료기기안전정보원 직원(기간제 근로자) 채용공고",
+          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=304387",
+          "lastFetchedAt": "2026-10-05T14:34:47.143+00:00",
+          "reasons": [
+            "사무직과 다른 직무가 함께 표기되어 분리 미확인"
+          ],
+          "status": "unverified"
+        },
         {
           "id": "job-alio-305385",
           "organization": "한국토지주택공사",
@@ -35368,20 +36689,9 @@
             "모집단위명만으로 사무직 여부 미확인"
           ],
           "status": "unverified"
-        },
-        {
-          "id": "job-alio-305551",
-          "organization": "한국탄소산업진흥원",
-          "title": "2026-04호 채용공고",
-          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305551",
-          "lastFetchedAt": "2026-09-30T22:14:23.948+00:00",
-          "reasons": [
-            "모집단위명만으로 사무직 여부 미확인"
-          ],
-          "status": "unverified"
         }
       ],
-      "heldNoticesTotal": 65,
+      "heldNoticesTotal": 66,
       "heldNoticesShownLimit": 20
     }
   }

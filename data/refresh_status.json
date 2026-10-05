@@ -1,36 +1,43 @@
 {
-  "startedAt": "2026-10-05T05:37:09+00:00",
+  "startedAt": "2026-10-05T14:34:39+00:00",
   "mode": "live",
   "records": [
     {
-      "id": "job-alio-305405",
+      "id": "job-alio-304387",
       "status": "held",
       "unitCount": 0
     },
     {
-      "id": "job-alio-305497",
+      "id": "job-alio-305453",
       "status": "unchanged",
       "unitCount": 1
     },
     {
-      "id": "job-alio-304511",
+      "id": "job-alio-305073",
       "status": "unchanged",
       "unitCount": 1
     },
     {
-      "id": "job-alio-305385",
-      "status": "held",
-      "unitCount": 0
+      "id": "job-alio-304354",
+      "status": "added",
+      "unitCount": 5
     }
   ],
   "errors": [],
   "newRemoteRequests": 6,
   "status": "success",
-  "noticeCount": 70,
-  "added": 0,
+  "noticeCount": 71,
+  "added": 1,
   "changedIds": [],
-  "deadlineEvents": [],
+  "deadlineEvents": [
+    {
+      "id": "job-alio-304927",
+      "from": "open",
+      "to": "deadline_elapsed",
+      "basis": "저장된 마감일·시각(KST) 경과; 원문 정정 여부와 별개"
+    }
+  ],
   "actualListPages": 2,
   "preservedFailedIds": [],
-  "finishedAt": "2026-10-05T05:37:29+00:00"
+  "finishedAt": "2026-10-05T14:34:55+00:00"
 }
