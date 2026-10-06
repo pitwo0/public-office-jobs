@@ -1,43 +1,45 @@
 {
-  "startedAt": "2026-10-05T14:34:39+00:00",
+  "startedAt": "2026-10-06T00:02:03+00:00",
   "mode": "live",
   "records": [
     {
-      "id": "job-alio-304387",
-      "status": "held",
-      "unitCount": 0
-    },
-    {
-      "id": "job-alio-305453",
-      "status": "unchanged",
-      "unitCount": 1
-    },
-    {
-      "id": "job-alio-305073",
-      "status": "unchanged",
-      "unitCount": 1
-    },
-    {
-      "id": "job-alio-304354",
+      "id": "job-alio-304898",
       "status": "added",
-      "unitCount": 5
+      "unitCount": 1
+    },
+    {
+      "id": "job-alio-305509",
+      "status": "unchanged",
+      "unitCount": 1
+    },
+    {
+      "id": "job-alio-305069",
+      "status": "results_changed",
+      "unitCount": 1
+    },
+    {
+      "id": "job-alio-304341",
+      "status": "added",
+      "unitCount": 1
     }
   ],
   "errors": [],
   "newRemoteRequests": 6,
   "status": "success",
-  "noticeCount": 71,
-  "added": 1,
-  "changedIds": [],
+  "noticeCount": 73,
+  "added": 2,
+  "changedIds": [
+    "job-alio-305069"
+  ],
   "deadlineEvents": [
     {
-      "id": "job-alio-304927",
+      "id": "job-alio-305162",
       "from": "open",
       "to": "deadline_elapsed",
-      "basis": "저장된 마감일·시각(KST) 경과; 원문 정정 여부와 별개"
+      "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
     }
   ],
   "actualListPages": 2,
   "preservedFailedIds": [],
-  "finishedAt": "2026-10-05T14:34:55+00:00"
+  "finishedAt": "2026-10-06T00:02:22+00:00"
 }
