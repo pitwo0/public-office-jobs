@@ -15012,8 +15012,8 @@
           "id": "auto_alio",
           "label": "JOB-ALIO 상세 · 자동 수신",
           "url": "https://job.alio.go.kr/recruitview.do?idx=305142",
-          "sha256": "8bdbfedb1eb8158469b2ddc1cab67b189c43a3a626009079b176e947c6a93367",
-          "receivedAt": "2026-09-30T12:32:41.695+00:00"
+          "sha256": "3a7f2f084647826a8e4b54e59f737c9d704e94cb722d973fdb33cf6373349bbc",
+          "receivedAt": "2026-10-12T05:55:08.499+00:00"
         }
       ],
       "attachments": [
@@ -15085,14 +15085,14 @@
       "autoSync": {
         "semanticHash": "10edb10e3cbee24a2d2734dd8dd20c400fd3a5b5031da726f98407bd40e07ad9",
         "conditionsHash": "739b1e1d13e22abbcf8f156ddf2426570b498648078d0187824624b177784b9a",
-        "rawSha256": "8bdbfedb1eb8158469b2ddc1cab67b189c43a3a626009079b176e947c6a93367",
-        "lastFetchedAt": "2026-09-30T12:32:41.695+00:00",
+        "rawSha256": "3a7f2f084647826a8e4b54e59f737c9d704e94cb722d973fdb33cf6373349bbc",
+        "lastFetchedAt": "2026-10-12T05:55:08.499+00:00",
         "contentChangedAt": "2026-09-18T04:41:42.642+00:00",
         "baselineStatus": "compared",
         "needsReview": true,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-09-30T12:32:41.695+00:00",
+          "checkedAt": "2026-10-12T05:55:08.499+00:00",
           "status": "checked",
           "changedUnitIds": [],
           "preservedUnitIds": [],
@@ -38332,16 +38332,16 @@
       ],
       "sources": [
         {
-          "id": "auto_alio",
-          "label": "JOB-ALIO 상세 · 코드 수신·자동 정리",
-          "url": "https://job.alio.go.kr/recruitview.do?idx=305769",
-          "sha256": "5abddbcc9b7f2f2451907a9885f7b65b86fc71ac185f9e02cd924a394ce5a51a",
-          "receivedAt": "2026-10-06T18:20:37.524+00:00"
-        },
-        {
           "id": "auto_original_1",
           "label": "기관 원문 링크 · 내용 미확인",
           "url": "https://www.apcc21.org"
+        },
+        {
+          "id": "auto_alio",
+          "label": "JOB-ALIO 상세 · 자동 수신",
+          "url": "https://job.alio.go.kr/recruitview.do?idx=305769",
+          "sha256": "5abddbcc9b7f2f2451907a9885f7b65b86fc71ac185f9e02cd924a394ce5a51a",
+          "receivedAt": "2026-10-12T05:55:04.874+00:00"
         }
       ],
       "attachments": [
@@ -38408,17 +38408,15 @@
         "semanticHash": "cd33aed75832c0b98699c755f99241466ad103adb99913c56f195aab59b72a56",
         "conditionsHash": "23e8302c681dfca819ca22a0c530e56a960ea3f3c49d48f74cc1aec501b7dbb2",
         "rawSha256": "5abddbcc9b7f2f2451907a9885f7b65b86fc71ac185f9e02cd924a394ce5a51a",
-        "lastFetchedAt": "2026-10-06T18:20:37.524+00:00",
+        "lastFetchedAt": "2026-10-12T05:55:04.874+00:00",
         "contentChangedAt": "2026-10-06T18:20:37.524+00:00",
-        "baselineStatus": "first_capture",
+        "baselineStatus": "compared",
         "needsReview": true,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-10-06T18:20:37.524+00:00",
+          "checkedAt": "2026-10-12T05:55:04.874+00:00",
           "status": "checked",
-          "changedUnitIds": [
-            "auto-875349175a193bec"
-          ],
+          "changedUnitIds": [],
           "preservedUnitIds": [],
           "unmatchedUnitIds": [],
           "issues": []
@@ -44333,19 +44331,658 @@
         "evaluatedDate": "2026-10-12",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
+    },
+    {
+      "id": "job-alio-305905",
+      "idx": 305905,
+      "organization": "한국청소년상담복지개발원",
+      "title": "제2026-6호 한국청소년상담복지개발원 직원 모집",
+      "posted": "2026-10-12",
+      "deadline": "2026-10-27",
+      "deadlineTime": "15:00",
+      "announcementPeriod": {
+        "start": "2026-10-12",
+        "end": "2026-10-27",
+        "scope": "announcement"
+      },
+      "applicationPeriod": {
+        "start": "2026-10-13",
+        "end": "2026-10-27",
+        "endTime": "15:00",
+        "status": "partial",
+        "scope": "announcement",
+        "sources": [
+          "auto_alio"
+        ],
+        "raw": "ㅇ 접수기간 : 2026년 10월 13일(화) ~ 2026년 10월 27일(화) 15:00까지",
+        "note": "공고 본문의 단일 접수기간 원문을 자동 정규화했습니다. 모집단위별 예외·첨부 정정 여부는 미확인입니다.",
+        "evidenceSection": "전형절차/방법"
+      },
+      "applicationStart": "2026-10-13",
+      "regions": [
+        "부산"
+      ],
+      "totalVacancies": 30,
+      "employment": "기간제",
+      "units": [
+        {
+          "id": "auto-2591e5e46a688c11",
+          "title": "기간제(행정)병급_총무인사_모집인원 2명 중 휴직대체 1명",
+          "sourceUnitName": "기간제(행정)병급_총무인사_모집인원 2명 중 휴직대체 1명",
+          "employment": "기간제",
+          "regions": [
+            "부산"
+          ],
+          "vacancies": {
+            "value": 2,
+            "status": "confirmed",
+            "note": "공식 모집단위명에 명시된 모집인원.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "recruitment_unit",
+            "evidenceLocator": "모집단위명"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "ㅇ 채용형 청년인턴 : 청년인턴(채용형)_청소년상담복지_1명\r\n 1. 관련분야 석사학위 취득자\r\n 2. 관련분야 학사학위 취득자로서 관련분야 실무경력 2년 이상인 자\r\n 3. 기타 이와 동등한 자격이 있다고 인정되는 자\r\n※ 응시 연령: 만 34세 이하(서류접수 마감일 기준, ’91.10.27. 이후 출생자)\r\n\r\nㅇ 채용형 청년인턴 : 청년인턴(채용형)_빅데이터 관리_1명\r\n 1. 4년제 대학 졸업한 자 또는 고등학교 졸업 후 4년 이상 경력이 있는 자\r\n 2. 7급 이상 공무원으로 재직한 자\r\n 3. 기타 이와 동등한 자격이 있다고 인정되는 자\r\n※ 응시 연령: 만 34세 이하(서류접수 마감일 기준, ’91.10.27. 이후 출생자)\r\n\r\nㅇ 기간제(상담)병급_청소년상담복지_모집인원 24명 중 휴직대체 6명\r\n 1. 관련분야 석사학위 취득자\r\n 2. 관련분야 학사학위 취득자로서 관련분야 실무경력 2년 이상인 자\r\n 3. 기타 이와 동등한 자격이 있다고 인정되는 자\r\n※ 상담관련 분야는 교육, 상담·심리, 사회사업(복지), 정신의학, 청소년, 아동 등\r\n\r\nㅇ 기간제(행정)병급_총무인사_모집인원 2명 중 휴직대체 1명\r\n 1. 4년제 대학 졸업한 자 또는 고등학교 졸업 후 4년 이상 경력이 있는 자\r\n 2. 7급 이상 공무원으로 재직한 자\r\n 3. 기타 이와 동등한 자격이 있다고 인정되는 자\r\n\r\nㅇ 기간제(행정)병급_사업운영_모집인원 2명 중 휴직대체 1명\r\n 1. 4년제 대학 졸업한 자 또는 고등학교 졸업 후 4년 이상 경력이 있는 자\r\n 2. 7급 이상 공무원으로 재직한 자\r\n 3. 기타 이와 동등한 자격이 있다고 인정되는 자",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "부산",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "ㅇ 공고기간 : 2026년 10월 12일(월) ~ 2026년 10월 27일(화) 15:00까지\r\nㅇ 접수기간 : 2026년 10월 13일(화) ~ 2026년 10월 27일(화) 15:00까지\r\n\r\nㅇ 서류심사\r\n - 선발예정배수 : 10배수 이내\r\n - 평가방법 및 배점(채용형 청년인턴_청소년상담복지) : 정량평가 60%(자격증, 연구실적, 직무경력), 정성평가 40%(경력 및 경험 기술서, 직무수행 계획서, 자기소개서)\r\n - 평가방법 및 배점(채용형 청년인턴_빅데이터 관리) : 정량평가 60%(자격증, 직무경력), 정성평가 40%(경력 및 경험 기술서, 직무수행 계획서, 자기소개서)\r\n - 평가방법 및 배점(기간제(상담),(행정)) : 정량평가 20%(자격증), 정성평가 80%(경력 및 경험 기술서, 직무수행 계획서, 자기소개서)\r\n\r\nㅇ 필기시험\r\n - 필기시험 대상자 : 청년인턴(채용형)_청소년상담복지 서류전형 합격자\r\n - 선발예정배수 : 5배수 이내\r\n - 심사내용 : 인성검사 및 직무능력검사\r\n - 평가항목 및 합격기준 : 붙임파일 참조\r\n - 전형장소 : 부산광역시 예정\r\n\r\nㅇ 면접심사\r\n - 선발예정배수 : 1배수\r\n - 평가방법 및 배점 : 조직 적합성 30%, 직무 적합성 30%, 리더십 20%, 면접태도 20%",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305905",
+              "sha256": "f592c9400318e0042fbd0182a3daa7b893d51353da57a133c8accf2efa9fad36",
+              "receivedAt": "2026-10-12T05:55:12.035+00:00",
+              "rawUnitName": "기간제(행정)병급_총무인사_모집인원 2명 중 휴직대체 1명",
+              "rows": [
+                [
+                  "기간제(행정)병급_총무인사_모집인원 2명 중 휴직대체 1명"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "recruitment_unit",
+            "method": "unit_name",
+            "value": "기간제",
+            "quote": "기간제(행정)병급_총무인사_모집인원 2명 중 휴직대체 1명",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "한국청소년상담복지개발원",
+            "job": "기간제(행정)병급_총무인사_모집인원 2명 중 휴직대체 1명",
+            "rawUnitName": "기간제(행정)병급_총무인사_모집인원 2명 중 휴직대체 1명",
+            "regions": [
+              "부산"
+            ],
+            "regionsScope": "announcement",
+            "employment": "기간제",
+            "recruitmentCategory": {
+              "value": "신입",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=305905",
+              "sha256": "f592c9400318e0042fbd0182a3daa7b893d51353da57a133c8accf2efa9fad36",
+              "receivedAt": "2026-10-12T05:55:12.035+00:00"
+            }
+          }
+        },
+        {
+          "id": "auto-6eb1d44ff065bf45",
+          "title": "기간제(행정)병급_사업운영_모집인원 2명 중 휴직대체 1명",
+          "sourceUnitName": "기간제(행정)병급_사업운영_모집인원 2명 중 휴직대체 1명",
+          "employment": "기간제",
+          "regions": [
+            "부산"
+          ],
+          "vacancies": {
+            "value": 2,
+            "status": "confirmed",
+            "note": "공식 모집단위명에 명시된 모집인원.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "recruitment_unit",
+            "evidenceLocator": "모집단위명"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "ㅇ 채용형 청년인턴 : 청년인턴(채용형)_청소년상담복지_1명\r\n 1. 관련분야 석사학위 취득자\r\n 2. 관련분야 학사학위 취득자로서 관련분야 실무경력 2년 이상인 자\r\n 3. 기타 이와 동등한 자격이 있다고 인정되는 자\r\n※ 응시 연령: 만 34세 이하(서류접수 마감일 기준, ’91.10.27. 이후 출생자)\r\n\r\nㅇ 채용형 청년인턴 : 청년인턴(채용형)_빅데이터 관리_1명\r\n 1. 4년제 대학 졸업한 자 또는 고등학교 졸업 후 4년 이상 경력이 있는 자\r\n 2. 7급 이상 공무원으로 재직한 자\r\n 3. 기타 이와 동등한 자격이 있다고 인정되는 자\r\n※ 응시 연령: 만 34세 이하(서류접수 마감일 기준, ’91.10.27. 이후 출생자)\r\n\r\nㅇ 기간제(상담)병급_청소년상담복지_모집인원 24명 중 휴직대체 6명\r\n 1. 관련분야 석사학위 취득자\r\n 2. 관련분야 학사학위 취득자로서 관련분야 실무경력 2년 이상인 자\r\n 3. 기타 이와 동등한 자격이 있다고 인정되는 자\r\n※ 상담관련 분야는 교육, 상담·심리, 사회사업(복지), 정신의학, 청소년, 아동 등\r\n\r\nㅇ 기간제(행정)병급_총무인사_모집인원 2명 중 휴직대체 1명\r\n 1. 4년제 대학 졸업한 자 또는 고등학교 졸업 후 4년 이상 경력이 있는 자\r\n 2. 7급 이상 공무원으로 재직한 자\r\n 3. 기타 이와 동등한 자격이 있다고 인정되는 자\r\n\r\nㅇ 기간제(행정)병급_사업운영_모집인원 2명 중 휴직대체 1명\r\n 1. 4년제 대학 졸업한 자 또는 고등학교 졸업 후 4년 이상 경력이 있는 자\r\n 2. 7급 이상 공무원으로 재직한 자\r\n 3. 기타 이와 동등한 자격이 있다고 인정되는 자",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "부산",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "ㅇ 공고기간 : 2026년 10월 12일(월) ~ 2026년 10월 27일(화) 15:00까지\r\nㅇ 접수기간 : 2026년 10월 13일(화) ~ 2026년 10월 27일(화) 15:00까지\r\n\r\nㅇ 서류심사\r\n - 선발예정배수 : 10배수 이내\r\n - 평가방법 및 배점(채용형 청년인턴_청소년상담복지) : 정량평가 60%(자격증, 연구실적, 직무경력), 정성평가 40%(경력 및 경험 기술서, 직무수행 계획서, 자기소개서)\r\n - 평가방법 및 배점(채용형 청년인턴_빅데이터 관리) : 정량평가 60%(자격증, 직무경력), 정성평가 40%(경력 및 경험 기술서, 직무수행 계획서, 자기소개서)\r\n - 평가방법 및 배점(기간제(상담),(행정)) : 정량평가 20%(자격증), 정성평가 80%(경력 및 경험 기술서, 직무수행 계획서, 자기소개서)\r\n\r\nㅇ 필기시험\r\n - 필기시험 대상자 : 청년인턴(채용형)_청소년상담복지 서류전형 합격자\r\n - 선발예정배수 : 5배수 이내\r\n - 심사내용 : 인성검사 및 직무능력검사\r\n - 평가항목 및 합격기준 : 붙임파일 참조\r\n - 전형장소 : 부산광역시 예정\r\n\r\nㅇ 면접심사\r\n - 선발예정배수 : 1배수\r\n - 평가방법 및 배점 : 조직 적합성 30%, 직무 적합성 30%, 리더십 20%, 면접태도 20%",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305905",
+              "sha256": "f592c9400318e0042fbd0182a3daa7b893d51353da57a133c8accf2efa9fad36",
+              "receivedAt": "2026-10-12T05:55:12.035+00:00",
+              "rawUnitName": "기간제(행정)병급_사업운영_모집인원 2명 중 휴직대체 1명",
+              "rows": [
+                [
+                  "기간제(행정)병급_사업운영_모집인원 2명 중 휴직대체 1명"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "recruitment_unit",
+            "method": "unit_name",
+            "value": "기간제",
+            "quote": "기간제(행정)병급_사업운영_모집인원 2명 중 휴직대체 1명",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "한국청소년상담복지개발원",
+            "job": "기간제(행정)병급_사업운영_모집인원 2명 중 휴직대체 1명",
+            "rawUnitName": "기간제(행정)병급_사업운영_모집인원 2명 중 휴직대체 1명",
+            "regions": [
+              "부산"
+            ],
+            "regionsScope": "announcement",
+            "employment": "기간제",
+            "recruitmentCategory": {
+              "value": "신입",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=305905",
+              "sha256": "f592c9400318e0042fbd0182a3daa7b893d51353da57a133c8accf2efa9fad36",
+              "receivedAt": "2026-10-12T05:55:12.035+00:00"
+            }
+          }
+        }
+      ],
+      "sources": [
+        {
+          "id": "auto_alio",
+          "label": "JOB-ALIO 상세 · 코드 수신·자동 정리",
+          "url": "https://job.alio.go.kr/recruitview.do?idx=305905",
+          "sha256": "f592c9400318e0042fbd0182a3daa7b893d51353da57a133c8accf2efa9fad36",
+          "receivedAt": "2026-10-12T05:55:12.035+00:00"
+        },
+        {
+          "id": "auto_original_1",
+          "label": "기관 원문 링크 · 내용 미확인",
+          "url": "https://kyci.fairyhr.com"
+        }
+      ],
+      "attachments": [
+        {
+          "name": "공식 첨부 1",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3080010",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        },
+        {
+          "name": "공식 첨부 2",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3080011",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        },
+        {
+          "name": "공식 첨부 3",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3080012",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        },
+        {
+          "name": "공식 첨부 4",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3080013",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        },
+        {
+          "name": "공식 첨부 5",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3080014",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        },
+        {
+          "name": "공식 첨부 6",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3080015",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        },
+        {
+          "name": "공식 첨부 7",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3080016",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        },
+        {
+          "name": "공식 첨부 8",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3080017",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        }
+      ],
+      "checkedAt": "2026-10-12T05:55:12.035+00:00",
+      "collectionMethod": "automatic_public_html",
+      "collectionLabel": "코드 원격 수신 → 규칙 기반 모집단위 정리 → 저장·화면 생성 · GPT 미사용",
+      "sourceNote": "자동으로 확인 가능한 본문·결과 표만 정리했습니다. 첨부·모집단위별 상세 조건은 미확인이며, 공고 전체 원문은 별도로 표시합니다.",
+      "announcementMetadata": {
+        "raw": {
+          "표준직무(NCS)": "사업관리,경영.회계.사무,교육.자연.사회과학,사회복지.종교,정보통신",
+          "학력정보": "고졸,대졸(4년),석사",
+          "근무분야": "행정직,상담직",
+          "채용구분": "신입",
+          "고용형태": "비정규직,청년인턴(채용형)",
+          "대체인력여부": "예",
+          "근무지": "부산",
+          "급여정보": "신입 / 평균",
+          "채용인원": "30명",
+          "우대조건": "장애인, 국가유공자, 지역인재, 저소득층, 한부모 가족, 북한이탈주민, 다문화가족 등",
+          "채용기간": "26.10.12 ~ 26.10.27",
+          "등록일": "2026.10.12"
+        },
+        "rawApplicationPeriod": {
+          "raw": "ㅇ 접수기간 : 2026년 10월 13일(화) ~ 2026년 10월 27일(화) 15:00까지",
+          "status": "확인",
+          "source_section": "전형절차/방법",
+          "note": "명시된 접수기간 원문만 추출; 날짜 정규화·모집단위별 상이한 기간 검토는 별도"
+        },
+        "sourceSha256": "f592c9400318e0042fbd0182a3daa7b893d51353da57a133c8accf2efa9fad36",
+        "sourceReceivedAt": "2026-10-12T05:55:12.035+00:00",
+        "method": "auto-normalize-0.1"
+      },
+      "autoNormalization": {
+        "version": "auto-normalize-0.1",
+        "semanticHash": "1a9b4d6b736403bd363829b6b5495083f478589182b2112718da002f305476ee",
+        "generatedFrom": {
+          "url": "https://job.alio.go.kr/recruitview.do?idx=305905",
+          "sha256": "f592c9400318e0042fbd0182a3daa7b893d51353da57a133c8accf2efa9fad36",
+          "receivedAt": "2026-10-12T05:55:12.035+00:00"
+        },
+        "aiUsed": false,
+        "heldUnitCount": 3
+      },
+      "autoSync": {
+        "semanticHash": "1a9b4d6b736403bd363829b6b5495083f478589182b2112718da002f305476ee",
+        "conditionsHash": "90c6df6ca3437b171eec5814177ad1c660e6655b85418f106966f753a23318ad",
+        "rawSha256": "f592c9400318e0042fbd0182a3daa7b893d51353da57a133c8accf2efa9fad36",
+        "lastFetchedAt": "2026-10-12T05:55:12.035+00:00",
+        "contentChangedAt": "2026-10-12T05:55:12.035+00:00",
+        "baselineStatus": "first_capture",
+        "needsReview": true,
+        "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
+        "resultCheck": {
+          "checkedAt": "2026-10-12T05:55:12.035+00:00",
+          "status": "checked",
+          "changedUnitIds": [
+            "auto-2591e5e46a688c11",
+            "auto-6eb1d44ff065bf45"
+          ],
+          "preservedUnitIds": [],
+          "unmatchedUnitIds": [],
+          "issues": []
+        }
+      },
+      "lifecycle": {
+        "status": "open",
+        "evaluatedDate": "2026-10-12",
+        "basis": "저장된 마감일·시각(KST) 경과; 원문 정정 여부와 별개"
+      }
     }
   ],
   "refresh": {
     "status": "success",
     "mode": "live",
-    "lastAttemptAt": "2026-10-11T21:56:43+00:00",
-    "lastSuccessAt": "2026-10-11T21:56:43+00:00",
-    "candidatesCount": 576,
+    "lastAttemptAt": "2026-10-12T05:54:53+00:00",
+    "lastSuccessAt": "2026-10-12T05:54:53+00:00",
+    "candidatesCount": 583,
     "coverage": {
       "description": "JOB-ALIO 최근60일 이내 진행중·비정규직·경영회계사무 목록, 목록최대2페이지·상세최대4건/회. 저장된 마감공고도 결과를 순환 재확인합니다. 전체공고 수집 아님.",
-      "queuedNoticeCount": 33,
-      "heldUnitCount": 543,
-      "nextPage": 3,
+      "queuedNoticeCount": 36,
+      "heldUnitCount": 547,
+      "nextPage": 4,
       "closedRecheck": {
         "recentDays": 30,
         "recentOrUnknownIntervalDays": 1,
@@ -44356,6 +44993,17 @@
       "requestLimit": 6,
       "automaticRetries": 0,
       "heldNotices": [
+        {
+          "id": "job-alio-305909",
+          "organization": "(재)한국통계정보원",
+          "title": "[제2026-09] 한국통계정보원 기간제 근로자 채용 재공고",
+          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305909",
+          "lastFetchedAt": "2026-10-12T05:55:01.424+00:00",
+          "reasons": [
+            "모집단위명만으로 사무직 여부 미확인"
+          ],
+          "status": "unverified"
+        },
         {
           "id": "job-alio-305080",
           "organization": "한국기술교육대학교",
@@ -44565,20 +45213,9 @@
             "사무직과 다른 직무가 함께 표기되어 분리 미확인"
           ],
           "status": "unverified"
-        },
-        {
-          "id": "job-alio-305385",
-          "organization": "한국토지주택공사",
-          "title": "한국토지주택공사 경기북부지역본부 기간제근로자(안전관리자) 채용공고('26년 9월)",
-          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305385",
-          "lastFetchedAt": "2026-10-05T05:37:28.999+00:00",
-          "reasons": [
-            "모집단위명만으로 사무직 여부 미확인"
-          ],
-          "status": "unverified"
         }
       ],
-      "heldNoticesTotal": 79,
+      "heldNoticesTotal": 80,
       "heldNoticesShownLimit": 20
     }
   }
