@@ -1,38 +1,38 @@
 {
-  "startedAt": "2026-10-13T00:37:58+00:00",
+  "startedAt": "2026-10-13T14:09:10+00:00",
   "mode": "live",
   "records": [
     {
-      "id": "job-alio-305913",
+      "id": "job-alio-305965",
       "status": "added",
       "unitCount": 1
     },
     {
-      "id": "job-alio-305796",
-      "status": "changed",
-      "unitCount": 1
-    },
-    {
-      "id": "job-alio-305155",
+      "id": "job-alio-305537",
       "status": "unchanged",
       "unitCount": 1
     },
     {
-      "id": "job-alio-301306",
-      "status": "unchanged",
+      "id": "job-alio-304922",
+      "status": "results_changed",
+      "unitCount": 2
+    },
+    {
+      "id": "job-alio-305963",
+      "status": "added",
       "unitCount": 1
     }
   ],
   "errors": [],
   "newRemoteRequests": 6,
   "status": "success",
-  "noticeCount": 89,
-  "added": 1,
+  "noticeCount": 91,
+  "added": 2,
   "changedIds": [
-    "job-alio-305796"
+    "job-alio-304922"
   ],
   "deadlineEvents": [],
   "actualListPages": 2,
   "preservedFailedIds": [],
-  "finishedAt": "2026-10-13T00:38:17+00:00"
+  "finishedAt": "2026-10-13T14:09:27+00:00"
 }
