@@ -1,76 +1,69 @@
 {
-  "startedAt": "2026-10-14T17:08:36+00:00",
+  "startedAt": "2026-10-14T21:39:34+00:00",
   "mode": "live",
-  "records": [],
-  "errors": [
+  "records": [
     {
-      "id": null,
-      "phase": "list",
-      "error": "원문 수신 실패·불완전·접근제한: transport_error",
-      "existingNoticePreserved": false
+      "id": "job-alio-306027",
+      "status": "added",
+      "unitCount": 1
     },
     {
-      "id": "job-alio-305962",
-      "phase": "detail",
-      "error": "원문 수신 실패·불완전·접근제한: transport_error",
-      "existingNoticePreserved": false
+      "id": "job-alio-305824",
+      "status": "unchanged",
+      "unitCount": 2
     },
     {
-      "id": "job-alio-305584",
-      "phase": "detail",
-      "error": "원문 수신 실패·불완전·접근제한: transport_error",
-      "existingNoticePreserved": true
+      "id": "job-alio-304899",
+      "status": "unchanged",
+      "unitCount": 1
     },
     {
-      "id": "job-alio-304778",
-      "phase": "detail",
-      "error": "원문 수신 실패·불완전·접근제한: transport_error",
-      "existingNoticePreserved": true
-    },
-    {
-      "id": "job-alio-305924",
-      "phase": "detail",
-      "error": "원문 수신 실패·불완전·접근제한: transport_error",
-      "existingNoticePreserved": false
-    },
-    {
-      "phase": "list",
-      "page": 1,
-      "error": "원문 수신 실패·불완전·접근제한: transport_error"
-    },
-    {
-      "phase": "detail",
-      "id": "job-alio-305962",
-      "error": "원문 수신 실패·불완전·접근제한: transport_error"
-    },
-    {
-      "phase": "detail",
-      "id": "job-alio-305584",
-      "error": "원문 수신 실패·불완전·접근제한: transport_error"
-    },
-    {
-      "phase": "detail",
-      "id": "job-alio-304778",
-      "error": "원문 수신 실패·불완전·접근제한: transport_error"
-    },
-    {
-      "phase": "detail",
-      "id": "job-alio-305924",
-      "error": "원문 수신 실패·불완전·접근제한: transport_error"
+      "id": "job-alio-305998",
+      "status": "held",
+      "unitCount": 0
     }
   ],
-  "newRemoteRequests": 5,
-  "status": "failed",
-  "noticeCount": 94,
-  "added": 0,
-  "changedIds": [],
-  "deadlineEvents": [],
-  "actualListPages": 0,
-  "preservedFailedIds": [
-    "job-alio-304778",
-    "job-alio-305584",
-    "job-alio-305924",
-    "job-alio-305962"
+  "errors": [
+    {
+      "id": "job-alio-304899",
+      "phase": "result_fields",
+      "issues": [
+        {
+          "unitId": "admin",
+          "status": "unverified",
+          "note": "현재 공식 표와 모집단위명이 정확히 대응하지 않아 결과를 연결하지 않았습니다."
+        }
+      ],
+      "error": "결과 표 일부 미확인·추출 실패. 기존 정상 결과를 보존했습니다.",
+      "existingNoticePreserved": true
+    }
   ],
-  "finishedAt": "2026-10-14T17:10:21+00:00"
+  "newRemoteRequests": 6,
+  "status": "partial_success",
+  "noticeCount": 95,
+  "added": 1,
+  "changedIds": [],
+  "deadlineEvents": [
+    {
+      "id": "job-alio-305512",
+      "from": "open",
+      "to": "deadline_elapsed",
+      "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
+    },
+    {
+      "id": "job-alio-305537",
+      "from": "open",
+      "to": "deadline_elapsed",
+      "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
+    },
+    {
+      "id": "job-alio-305558",
+      "from": "open",
+      "to": "deadline_elapsed",
+      "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
+    }
+  ],
+  "actualListPages": 2,
+  "preservedFailedIds": [],
+  "finishedAt": "2026-10-14T21:39:50+00:00"
 }
