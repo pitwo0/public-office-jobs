@@ -1,69 +1,49 @@
 {
-  "startedAt": "2026-10-14T21:39:34+00:00",
+  "startedAt": "2026-10-15T04:35:57+00:00",
   "mode": "live",
   "records": [
     {
-      "id": "job-alio-306027",
+      "id": "job-alio-306045",
       "status": "added",
       "unitCount": 1
     },
     {
-      "id": "job-alio-305824",
+      "id": "job-alio-305771",
       "status": "unchanged",
       "unitCount": 2
     },
     {
-      "id": "job-alio-304899",
+      "id": "job-alio-305310",
       "status": "unchanged",
       "unitCount": 1
     },
     {
-      "id": "job-alio-305998",
-      "status": "held",
-      "unitCount": 0
+      "id": "job-alio-306035",
+      "status": "added",
+      "unitCount": 1
     }
   ],
-  "errors": [
-    {
-      "id": "job-alio-304899",
-      "phase": "result_fields",
-      "issues": [
-        {
-          "unitId": "admin",
-          "status": "unverified",
-          "note": "현재 공식 표와 모집단위명이 정확히 대응하지 않아 결과를 연결하지 않았습니다."
-        }
-      ],
-      "error": "결과 표 일부 미확인·추출 실패. 기존 정상 결과를 보존했습니다.",
-      "existingNoticePreserved": true
-    }
-  ],
+  "errors": [],
   "newRemoteRequests": 6,
-  "status": "partial_success",
-  "noticeCount": 95,
-  "added": 1,
+  "status": "success",
+  "noticeCount": 97,
+  "added": 2,
   "changedIds": [],
   "deadlineEvents": [
     {
-      "id": "job-alio-305512",
+      "id": "job-alio-305497",
       "from": "open",
       "to": "deadline_elapsed",
-      "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
+      "basis": "저장된 마감일·시각(KST) 경과; 원문 정정 여부와 별개"
     },
     {
-      "id": "job-alio-305537",
+      "id": "job-alio-305608",
       "from": "open",
       "to": "deadline_elapsed",
-      "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
-    },
-    {
-      "id": "job-alio-305558",
-      "from": "open",
-      "to": "deadline_elapsed",
-      "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
+      "basis": "저장된 마감일·시각(KST) 경과; 원문 정정 여부와 별개"
     }
   ],
   "actualListPages": 2,
   "preservedFailedIds": [],
-  "finishedAt": "2026-10-14T21:39:50+00:00"
+  "finishedAt": "2026-10-15T04:36:17+00:00"
 }
