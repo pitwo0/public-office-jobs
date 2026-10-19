@@ -2750,8 +2750,8 @@
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
       "lastSeenAt": "2026-10-04T12:19:31.190+00:00",
-      "lastAttemptAt": "2026-10-03T21:13:13.562+00:00",
-      "lastSuccessAt": "2026-10-03T21:13:13.562+00:00"
+      "lastAttemptAt": "2026-10-19T04:38:26.399+00:00",
+      "lastSuccessAt": "2026-10-19T04:38:26.399+00:00"
     },
     "job-alio-305258": {
       "state": "published",
@@ -4515,7 +4515,7 @@
         "region_raw": "경기",
         "employment_raw": "비정규직",
         "registered_raw": "2026.10.07",
-        "closing_raw": "26.10.21 D-3",
+        "closing_raw": "26.10.21 D-1",
         "application_period": {
           "raw": null,
           "status": "미확인",
@@ -4526,7 +4526,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-10-17T20:35:11.440+00:00",
+      "lastSeenAt": "2026-10-19T04:38:16.033+00:00",
       "lastAttemptAt": "2026-10-06T18:20:46.751+00:00",
       "lastSuccessAt": "2026-10-06T18:20:46.751+00:00"
     },
@@ -4540,7 +4540,7 @@
         "region_raw": "서울",
         "employment_raw": "비정규직",
         "registered_raw": "2026.10.07",
-        "closing_raw": "26.10.21 D-3",
+        "closing_raw": "26.10.21 D-1",
         "application_period": {
           "raw": null,
           "status": "미확인",
@@ -4551,7 +4551,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-10-17T20:35:11.440+00:00",
+      "lastSeenAt": "2026-10-19T04:38:16.033+00:00",
       "lastAttemptAt": "2026-10-09T13:14:35.402+00:00",
       "lastSuccessAt": "2026-10-09T13:14:35.402+00:00"
     },
@@ -4565,7 +4565,7 @@
         "region_raw": "부산",
         "employment_raw": "비정규직",
         "registered_raw": "2026.10.06",
-        "closing_raw": "26.10.20 D-2",
+        "closing_raw": "26.10.20 D+0",
         "application_period": {
           "raw": null,
           "status": "미확인",
@@ -4576,7 +4576,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-10-17T20:35:11.440+00:00",
+      "lastSeenAt": "2026-10-19T04:38:16.033+00:00",
       "lastAttemptAt": "2026-10-17T15:33:22.438+00:00",
       "lastSuccessAt": "2026-10-12T05:55:04.874+00:00",
       "lastError": "원문 수신 실패·불완전·접근제한: transport_error"
@@ -4666,7 +4666,7 @@
         "region_raw": "서울",
         "employment_raw": "비정규직",
         "registered_raw": "2026.10.07",
-        "closing_raw": "26.10.21 D-3",
+        "closing_raw": "26.10.21 D-1",
         "application_period": {
           "raw": null,
           "status": "미확인",
@@ -4677,7 +4677,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-10-17T20:35:11.440+00:00",
+      "lastSeenAt": "2026-10-19T04:38:16.033+00:00",
       "lastAttemptAt": "2026-10-18T11:02:23.739+00:00",
       "lastSuccessAt": "2026-10-18T11:02:23.739+00:00"
     },
@@ -4716,7 +4716,7 @@
         "region_raw": "전북",
         "employment_raw": "비정규직",
         "registered_raw": "2026.10.07",
-        "closing_raw": "26.10.22 D-4",
+        "closing_raw": "26.10.22 D-2",
         "application_period": {
           "raw": null,
           "status": "미확인",
@@ -4727,7 +4727,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-10-17T20:35:11.440+00:00",
+      "lastSeenAt": "2026-10-19T04:38:16.033+00:00",
       "lastAttemptAt": "2026-10-07T13:21:10.785+00:00",
       "lastError": "원문 수신 실패·불완전·접근제한: transport_error"
     },
@@ -4741,18 +4741,18 @@
         "region_raw": "인천",
         "employment_raw": "비정규직",
         "registered_raw": "2026.10.08",
-        "closing_raw": "26.10.22 D-5",
+        "closing_raw": "26.10.22 D-2",
         "application_period": {
           "raw": null,
           "status": "미확인",
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=305809",
-        "list_page": 4,
+        "list_page": 5,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-10-16T16:37:17.262+00:00",
+      "lastSeenAt": "2026-10-19T04:38:16.033+00:00",
       "lastAttemptAt": "2026-10-07T23:04:30.654+00:00",
       "lastSuccessAt": "2026-10-07T23:04:30.654+00:00"
     },
@@ -4766,7 +4766,7 @@
         "region_raw": "대전",
         "employment_raw": "비정규직",
         "registered_raw": "2026.10.08",
-        "closing_raw": "26.10.23 D-5",
+        "closing_raw": "26.10.23 D-3",
         "application_period": {
           "raw": null,
           "status": "미확인",
@@ -4777,7 +4777,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-10-17T20:35:11.440+00:00",
+      "lastSeenAt": "2026-10-19T04:38:16.033+00:00",
       "lastAttemptAt": "2026-10-15T04:36:10.393+00:00",
       "lastSuccessAt": "2026-10-15T04:36:10.393+00:00"
     },
@@ -4791,7 +4791,7 @@
         "region_raw": "대전",
         "employment_raw": "비정규직",
         "registered_raw": "2026.10.07",
-        "closing_raw": "26.10.22 D-4",
+        "closing_raw": "26.10.22 D-2",
         "application_period": {
           "raw": null,
           "status": "미확인",
@@ -4802,7 +4802,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-10-17T20:35:11.440+00:00",
+      "lastSeenAt": "2026-10-19T04:38:16.033+00:00",
       "lastAttemptAt": "2026-10-13T22:43:28.649+00:00",
       "lastSuccessAt": "2026-10-13T22:43:28.649+00:00"
     },
@@ -4841,18 +4841,18 @@
         "region_raw": "전북",
         "employment_raw": "비정규직",
         "registered_raw": "2026.10.08",
-        "closing_raw": "26.10.22 D-3",
+        "closing_raw": "26.10.22 D-2",
         "application_period": {
           "raw": null,
           "status": "미확인",
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=305848",
-        "list_page": 4,
+        "list_page": 5,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-10-18T20:40:46.673+00:00",
+      "lastSeenAt": "2026-10-19T04:38:16.033+00:00",
       "lastAttemptAt": "2026-10-08T06:01:35.859+00:00",
       "lastSuccessAt": "2026-10-08T06:01:35.859+00:00"
     },
@@ -4891,18 +4891,18 @@
         "region_raw": "경기",
         "employment_raw": "비정규직",
         "registered_raw": "2026.10.08",
-        "closing_raw": "26.10.22 D-5",
+        "closing_raw": "26.10.22 D-2",
         "application_period": {
           "raw": null,
           "status": "미확인",
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=305824",
-        "list_page": 4,
+        "list_page": 5,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-10-16T16:37:17.262+00:00",
+      "lastSeenAt": "2026-10-19T04:38:16.033+00:00",
       "lastAttemptAt": "2026-10-14T21:39:44.842+00:00",
       "lastSuccessAt": "2026-10-14T21:39:44.842+00:00"
     },
@@ -5007,7 +5007,7 @@
       "lastSuccessAt": "2026-10-18T20:40:58.139+00:00"
     },
     "job-alio-305880": {
-      "state": "queued",
+      "state": "held",
       "row": {
         "id": "job-alio-305880",
         "idx": "305880",
@@ -5027,7 +5027,9 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-10-18T20:40:46.673+00:00"
+      "lastSeenAt": "2026-10-18T20:40:46.673+00:00",
+      "lastAttemptAt": "2026-10-19T04:38:29.366+00:00",
+      "lastSuccessAt": "2026-10-19T04:38:29.366+00:00"
     },
     "job-alio-305901": {
       "state": "published",
@@ -5126,8 +5128,8 @@
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
       "lastSeenAt": "2026-10-18T15:50:47.042+00:00",
-      "lastAttemptAt": "2026-10-13T22:43:26.378+00:00",
-      "lastSuccessAt": "2026-10-13T22:43:26.378+00:00"
+      "lastAttemptAt": "2026-10-19T04:38:23.294+00:00",
+      "lastSuccessAt": "2026-10-19T04:38:23.294+00:00"
     },
     "job-alio-305965": {
       "state": "published",
@@ -5414,7 +5416,7 @@
         "region_raw": "서울",
         "employment_raw": "비정규직",
         "registered_raw": "2026.10.15",
-        "closing_raw": "26.10.30 D-11",
+        "closing_raw": "26.10.30 D-10",
         "application_period": {
           "raw": null,
           "status": "미확인",
@@ -5425,7 +5427,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-10-18T20:40:43.012+00:00",
+      "lastSeenAt": "2026-10-19T04:38:12.551+00:00",
       "lastAttemptAt": "2026-10-17T20:35:22.465+00:00",
       "lastSuccessAt": "2026-10-17T20:35:22.465+00:00"
     },
@@ -5664,7 +5666,7 @@
         "region_raw": "울산",
         "employment_raw": "비정규직",
         "registered_raw": "2026.10.15",
-        "closing_raw": "26.10.30 D-11",
+        "closing_raw": "26.10.30 D-10",
         "application_period": {
           "raw": null,
           "status": "미확인",
@@ -5675,7 +5677,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-10-18T20:40:43.012+00:00",
+      "lastSeenAt": "2026-10-19T04:38:12.551+00:00",
       "lastAttemptAt": "2026-10-16T04:30:05.345+00:00",
       "lastSuccessAt": "2026-10-16T04:30:05.345+00:00"
     },
@@ -5714,7 +5716,7 @@
         "region_raw": "경남",
         "employment_raw": "비정규직",
         "registered_raw": "2026.10.17",
-        "closing_raw": "26.10.25 D-6",
+        "closing_raw": "26.10.25 D-5",
         "application_period": {
           "raw": null,
           "status": "미확인",
@@ -5725,7 +5727,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-10-18T20:40:43.012+00:00",
+      "lastSeenAt": "2026-10-19T04:38:12.551+00:00",
       "lastAttemptAt": "2026-10-16T16:37:29.869+00:00",
       "lastSuccessAt": "2026-10-16T16:37:29.869+00:00"
     },
@@ -5739,7 +5741,7 @@
         "region_raw": "부산 외 8",
         "employment_raw": "무기계약직 외 3",
         "registered_raw": "2026.10.16",
-        "closing_raw": "26.11.02 D-14",
+        "closing_raw": "26.11.02 D-13",
         "application_period": {
           "raw": null,
           "status": "미확인",
@@ -5750,7 +5752,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-10-18T20:40:43.012+00:00",
+      "lastSeenAt": "2026-10-19T04:38:12.551+00:00",
       "lastAttemptAt": "2026-10-17T15:33:01.406+00:00",
       "lastError": "원문 수신 실패·불완전·접근제한: transport_error"
     },
@@ -5764,7 +5766,7 @@
         "region_raw": "서울",
         "employment_raw": "무기계약직 외 1",
         "registered_raw": "2026.10.16",
-        "closing_raw": "26.10.30 D-11",
+        "closing_raw": "26.10.30 D-10",
         "application_period": {
           "raw": null,
           "status": "미확인",
@@ -5775,7 +5777,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-10-18T20:40:43.012+00:00",
+      "lastSeenAt": "2026-10-19T04:38:12.551+00:00",
       "lastAttemptAt": "2026-10-17T15:34:05.255+00:00",
       "lastError": "원문 수신 실패·불완전·접근제한: transport_error"
     },
@@ -5789,7 +5791,7 @@
         "region_raw": "경기",
         "employment_raw": "비정규직",
         "registered_raw": "2026.10.16",
-        "closing_raw": "26.11.02 D-14",
+        "closing_raw": "26.11.02 D-13",
         "application_period": {
           "raw": null,
           "status": "미확인",
@@ -5800,7 +5802,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-10-18T20:40:43.012+00:00",
+      "lastSeenAt": "2026-10-19T04:38:12.551+00:00",
       "lastAttemptAt": "2026-10-17T20:35:14.235+00:00",
       "lastSuccessAt": "2026-10-17T20:35:14.235+00:00"
     },
@@ -5814,7 +5816,7 @@
         "region_raw": "강원",
         "employment_raw": "비정규직",
         "registered_raw": "2026.10.16",
-        "closing_raw": "26.11.02 D-14",
+        "closing_raw": "26.11.02 D-13",
         "application_period": {
           "raw": null,
           "status": "미확인",
@@ -5825,7 +5827,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-10-18T20:40:43.012+00:00",
+      "lastSeenAt": "2026-10-19T04:38:12.551+00:00",
       "lastAttemptAt": "2026-10-16T16:37:20.395+00:00",
       "lastSuccessAt": "2026-10-16T16:37:20.395+00:00"
     },
@@ -5839,7 +5841,7 @@
         "region_raw": "서울",
         "employment_raw": "비정규직",
         "registered_raw": "2026.10.19",
-        "closing_raw": "26.11.02 D-14",
+        "closing_raw": "26.11.02 D-13",
         "application_period": {
           "raw": null,
           "status": "미확인",
@@ -5850,7 +5852,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-10-18T20:40:43.012+00:00",
+      "lastSeenAt": "2026-10-19T04:38:12.551+00:00",
       "lastAttemptAt": "2026-10-18T15:50:50.109+00:00",
       "lastSuccessAt": "2026-10-18T15:50:50.109+00:00"
     },
@@ -5864,7 +5866,7 @@
         "region_raw": "서울 외 8",
         "employment_raw": "비정규직",
         "registered_raw": "2026.10.19",
-        "closing_raw": "26.11.02 D-14",
+        "closing_raw": "26.11.02 D-13",
         "application_period": {
           "raw": null,
           "status": "미확인",
@@ -5875,9 +5877,34 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-10-18T20:40:43.012+00:00",
+      "lastSeenAt": "2026-10-19T04:38:12.551+00:00",
       "lastAttemptAt": "2026-10-18T15:50:58.745+00:00",
       "lastSuccessAt": "2026-10-18T15:50:58.745+00:00"
+    },
+    "job-alio-306132": {
+      "state": "held",
+      "row": {
+        "id": "job-alio-306132",
+        "idx": "306132",
+        "title": "[한국수자원공사] 낙동강북부사업단 특수직(사무관리_건설사업) 채용 공고",
+        "org": "한국수자원공사",
+        "region_raw": "경북",
+        "employment_raw": "비정규직",
+        "registered_raw": "2026.10.19",
+        "closing_raw": "26.11.02 D-13",
+        "application_period": {
+          "raw": null,
+          "status": "미확인",
+          "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
+        },
+        "source_url": "https://job.alio.go.kr/recruitview.do?idx=306132",
+        "list_page": 1,
+        "collection_method": "python_public_html",
+        "review_status": "transport_sample_not_office_unit_reviewed"
+      },
+      "lastSeenAt": "2026-10-19T04:38:12.551+00:00",
+      "lastAttemptAt": "2026-10-19T04:38:19.260+00:00",
+      "lastSuccessAt": "2026-10-19T04:38:19.260+00:00"
     }
   },
   "candidates": {
@@ -11887,266 +11914,6 @@
       },
       "employmentEvidence": "③ 기간제계약직 학예일반"
     },
-    "job-alio-305976:auto-389ed7495967e135": {
-      "id": "job-alio-305976:auto-389ed7495967e135",
-      "noticeId": "job-alio-305976",
-      "rawUnitName": "객실서비스(아르바이트)",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=305976",
-        "sha256": "6cc3605ed1c23e9d7999eedb747429c1ed72769ed611e3170a73301f02d94e89",
-        "receivedAt": "2026-10-13T22:43:26.378+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-305976:auto-8885465334930e10": {
-      "id": "job-alio-305976:auto-8885465334930e10",
-      "noticeId": "job-alio-305976",
-      "rawUnitName": "식음서비스(아르바이트)",
-      "status": "held",
-      "reason": "duplicate_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=305976",
-        "sha256": "6cc3605ed1c23e9d7999eedb747429c1ed72769ed611e3170a73301f02d94e89",
-        "receivedAt": "2026-10-13T22:43:26.378+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-305976:auto-43acbdd096686bd9": {
-      "id": "job-alio-305976:auto-43acbdd096686bd9",
-      "noticeId": "job-alio-305976",
-      "rawUnitName": "호텔조리(아르바이트)",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=305976",
-        "sha256": "6cc3605ed1c23e9d7999eedb747429c1ed72769ed611e3170a73301f02d94e89",
-        "receivedAt": "2026-10-13T22:43:26.378+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-305976:auto-8ea1d63564714621": {
-      "id": "job-alio-305976:auto-8ea1d63564714621",
-      "noticeId": "job-alio-305976",
-      "rawUnitName": "카지노 안내데스크 운영보조(아르바이트)",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=305976",
-        "sha256": "6cc3605ed1c23e9d7999eedb747429c1ed72769ed611e3170a73301f02d94e89",
-        "receivedAt": "2026-10-13T22:43:26.378+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-305976:auto-ae05233be650e9ce": {
-      "id": "job-alio-305976:auto-ae05233be650e9ce",
-      "noticeId": "job-alio-305976",
-      "rawUnitName": "카지노 딜러(아르바이트)",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=305976",
-        "sha256": "6cc3605ed1c23e9d7999eedb747429c1ed72769ed611e3170a73301f02d94e89",
-        "receivedAt": "2026-10-13T22:43:26.378+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-305976:auto-59395f93e5f1efa9": {
-      "id": "job-alio-305976:auto-59395f93e5f1efa9",
-      "noticeId": "job-alio-305976",
-      "rawUnitName": "카지노 보안검색대 운영보조(아르바이트)",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=305976",
-        "sha256": "6cc3605ed1c23e9d7999eedb747429c1ed72769ed611e3170a73301f02d94e89",
-        "receivedAt": "2026-10-13T22:43:26.378+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-305976:auto-90aa1662b6694a01": {
-      "id": "job-alio-305976:auto-90aa1662b6694a01",
-      "noticeId": "job-alio-305976",
-      "rawUnitName": "로프웨이운전자(아르바이트)",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=305976",
-        "sha256": "6cc3605ed1c23e9d7999eedb747429c1ed72769ed611e3170a73301f02d94e89",
-        "receivedAt": "2026-10-13T22:43:26.378+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-305976:auto-89f898cd6752826d": {
-      "id": "job-alio-305976:auto-89f898cd6752826d",
-      "noticeId": "job-alio-305976",
-      "rawUnitName": "제설(아르바이트)",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=305976",
-        "sha256": "6cc3605ed1c23e9d7999eedb747429c1ed72769ed611e3170a73301f02d94e89",
-        "receivedAt": "2026-10-13T22:43:26.378+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-305976:auto-53de02b36a3f976b": {
-      "id": "job-alio-305976:auto-53de02b36a3f976b",
-      "noticeId": "job-alio-305976",
-      "rawUnitName": "패트롤(스키구조요원)Ⅰ(아르바이트)",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=305976",
-        "sha256": "6cc3605ed1c23e9d7999eedb747429c1ed72769ed611e3170a73301f02d94e89",
-        "receivedAt": "2026-10-13T22:43:26.378+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-305976:auto-217bc45fac484d1c": {
-      "id": "job-alio-305976:auto-217bc45fac484d1c",
-      "noticeId": "job-alio-305976",
-      "rawUnitName": "패트롤(스키구조요원)Ⅱ(아르바이트)",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=305976",
-        "sha256": "6cc3605ed1c23e9d7999eedb747429c1ed72769ed611e3170a73301f02d94e89",
-        "receivedAt": "2026-10-13T22:43:26.378+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-305976:auto-636d98bb4902a50d": {
-      "id": "job-alio-305976:auto-636d98bb4902a50d",
-      "noticeId": "job-alio-305976",
-      "rawUnitName": "스키강사Ⅰ(아르바이트)",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=305976",
-        "sha256": "6cc3605ed1c23e9d7999eedb747429c1ed72769ed611e3170a73301f02d94e89",
-        "receivedAt": "2026-10-13T22:43:26.378+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-305976:auto-1ce7c090e3abf355": {
-      "id": "job-alio-305976:auto-1ce7c090e3abf355",
-      "noticeId": "job-alio-305976",
-      "rawUnitName": "스키강사Ⅱ(아르바이트)",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=305976",
-        "sha256": "6cc3605ed1c23e9d7999eedb747429c1ed72769ed611e3170a73301f02d94e89",
-        "receivedAt": "2026-10-13T22:43:26.378+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-305976:auto-6a22b63e8214db51": {
-      "id": "job-alio-305976:auto-6a22b63e8214db51",
-      "noticeId": "job-alio-305976",
-      "rawUnitName": "레저운영Ⅰ(아르바이트)",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=305976",
-        "sha256": "6cc3605ed1c23e9d7999eedb747429c1ed72769ed611e3170a73301f02d94e89",
-        "receivedAt": "2026-10-13T22:43:26.378+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-305976:auto-7e8036e30b0e997e": {
-      "id": "job-alio-305976:auto-7e8036e30b0e997e",
-      "noticeId": "job-alio-305976",
-      "rawUnitName": "레저운영Ⅱ(아르바이트)",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=305976",
-        "sha256": "6cc3605ed1c23e9d7999eedb747429c1ed72769ed611e3170a73301f02d94e89",
-        "receivedAt": "2026-10-13T22:43:26.378+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-305976:auto-db3add3279be1c98": {
-      "id": "job-alio-305976:auto-db3add3279be1c98",
-      "noticeId": "job-alio-305976",
-      "rawUnitName": "레저운영Ⅲ(아르바이트)",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=305976",
-        "sha256": "6cc3605ed1c23e9d7999eedb747429c1ed72769ed611e3170a73301f02d94e89",
-        "receivedAt": "2026-10-13T22:43:26.378+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-305976:auto-361aa2318576ce0a": {
-      "id": "job-alio-305976:auto-361aa2318576ce0a",
-      "noticeId": "job-alio-305976",
-      "rawUnitName": "의무실 운영보조(아르바이트)",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=305976",
-        "sha256": "6cc3605ed1c23e9d7999eedb747429c1ed72769ed611e3170a73301f02d94e89",
-        "receivedAt": "2026-10-13T22:43:26.378+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-305976:auto-c21c901b1d22406e": {
-      "id": "job-alio-305976:auto-c21c901b1d22406e",
-      "noticeId": "job-alio-305976",
-      "rawUnitName": "구급차 운전기사(아르바이트)",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=305976",
-        "sha256": "6cc3605ed1c23e9d7999eedb747429c1ed72769ed611e3170a73301f02d94e89",
-        "receivedAt": "2026-10-13T22:43:26.378+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-305976:auto-1a6e7804f96ea0f2": {
-      "id": "job-alio-305976:auto-1a6e7804f96ea0f2",
-      "noticeId": "job-alio-305976",
-      "rawUnitName": "직원숙소 운영보조(아르바이트)",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=305976",
-        "sha256": "6cc3605ed1c23e9d7999eedb747429c1ed72769ed611e3170a73301f02d94e89",
-        "receivedAt": "2026-10-13T22:43:26.378+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-305976:auto-f1b571a3fcb3a0f5": {
-      "id": "job-alio-305976:auto-f1b571a3fcb3a0f5",
-      "noticeId": "job-alio-305976",
-      "rawUnitName": "복지관 운영보조(아르바이트)",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=305976",
-        "sha256": "6cc3605ed1c23e9d7999eedb747429c1ed72769ed611e3170a73301f02d94e89",
-        "receivedAt": "2026-10-13T22:43:26.378+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-305976:auto-9abb94cfca2e199f": {
-      "id": "job-alio-305976:auto-9abb94cfca2e199f",
-      "noticeId": "job-alio-305976",
-      "rawUnitName": "스키버스 운영지원(아르바이트)",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=305976",
-        "sha256": "6cc3605ed1c23e9d7999eedb747429c1ed72769ed611e3170a73301f02d94e89",
-        "receivedAt": "2026-10-13T22:43:26.378+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
     "job-alio-305333:auto-a4931f6123ecfe95": {
       "id": "job-alio-305333:auto-a4931f6123ecfe95",
       "noticeId": "job-alio-305333",
@@ -14304,8 +14071,294 @@
         "receivedAt": "2026-10-18T20:40:58.139+00:00"
       },
       "employmentEvidence": "비정규직"
+    },
+    "job-alio-306132:auto-53a689f3f3503de6": {
+      "id": "job-alio-306132:auto-53a689f3f3503de6",
+      "noticeId": "job-alio-306132",
+      "rawUnitName": "특수직",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=306132",
+        "sha256": "bfade632d457b049c84a9f5f4033cd2080ae95df10a49350a90f9f2af259cb17",
+        "receivedAt": "2026-10-19T04:38:19.260+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-305976:auto-389ed7495967e135": {
+      "id": "job-alio-305976:auto-389ed7495967e135",
+      "noticeId": "job-alio-305976",
+      "rawUnitName": "객실서비스(아르바이트)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305976",
+        "sha256": "6cc3605ed1c23e9d7999eedb747429c1ed72769ed611e3170a73301f02d94e89",
+        "receivedAt": "2026-10-19T04:38:23.294+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-305976:auto-8885465334930e10": {
+      "id": "job-alio-305976:auto-8885465334930e10",
+      "noticeId": "job-alio-305976",
+      "rawUnitName": "식음서비스(아르바이트)",
+      "status": "held",
+      "reason": "duplicate_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305976",
+        "sha256": "6cc3605ed1c23e9d7999eedb747429c1ed72769ed611e3170a73301f02d94e89",
+        "receivedAt": "2026-10-19T04:38:23.294+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-305976:auto-43acbdd096686bd9": {
+      "id": "job-alio-305976:auto-43acbdd096686bd9",
+      "noticeId": "job-alio-305976",
+      "rawUnitName": "호텔조리(아르바이트)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305976",
+        "sha256": "6cc3605ed1c23e9d7999eedb747429c1ed72769ed611e3170a73301f02d94e89",
+        "receivedAt": "2026-10-19T04:38:23.294+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-305976:auto-8ea1d63564714621": {
+      "id": "job-alio-305976:auto-8ea1d63564714621",
+      "noticeId": "job-alio-305976",
+      "rawUnitName": "카지노 안내데스크 운영보조(아르바이트)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305976",
+        "sha256": "6cc3605ed1c23e9d7999eedb747429c1ed72769ed611e3170a73301f02d94e89",
+        "receivedAt": "2026-10-19T04:38:23.294+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-305976:auto-ae05233be650e9ce": {
+      "id": "job-alio-305976:auto-ae05233be650e9ce",
+      "noticeId": "job-alio-305976",
+      "rawUnitName": "카지노 딜러(아르바이트)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305976",
+        "sha256": "6cc3605ed1c23e9d7999eedb747429c1ed72769ed611e3170a73301f02d94e89",
+        "receivedAt": "2026-10-19T04:38:23.294+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-305976:auto-59395f93e5f1efa9": {
+      "id": "job-alio-305976:auto-59395f93e5f1efa9",
+      "noticeId": "job-alio-305976",
+      "rawUnitName": "카지노 보안검색대 운영보조(아르바이트)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305976",
+        "sha256": "6cc3605ed1c23e9d7999eedb747429c1ed72769ed611e3170a73301f02d94e89",
+        "receivedAt": "2026-10-19T04:38:23.294+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-305976:auto-90aa1662b6694a01": {
+      "id": "job-alio-305976:auto-90aa1662b6694a01",
+      "noticeId": "job-alio-305976",
+      "rawUnitName": "로프웨이운전자(아르바이트)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305976",
+        "sha256": "6cc3605ed1c23e9d7999eedb747429c1ed72769ed611e3170a73301f02d94e89",
+        "receivedAt": "2026-10-19T04:38:23.294+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-305976:auto-89f898cd6752826d": {
+      "id": "job-alio-305976:auto-89f898cd6752826d",
+      "noticeId": "job-alio-305976",
+      "rawUnitName": "제설(아르바이트)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305976",
+        "sha256": "6cc3605ed1c23e9d7999eedb747429c1ed72769ed611e3170a73301f02d94e89",
+        "receivedAt": "2026-10-19T04:38:23.294+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-305976:auto-53de02b36a3f976b": {
+      "id": "job-alio-305976:auto-53de02b36a3f976b",
+      "noticeId": "job-alio-305976",
+      "rawUnitName": "패트롤(스키구조요원)Ⅰ(아르바이트)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305976",
+        "sha256": "6cc3605ed1c23e9d7999eedb747429c1ed72769ed611e3170a73301f02d94e89",
+        "receivedAt": "2026-10-19T04:38:23.294+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-305976:auto-217bc45fac484d1c": {
+      "id": "job-alio-305976:auto-217bc45fac484d1c",
+      "noticeId": "job-alio-305976",
+      "rawUnitName": "패트롤(스키구조요원)Ⅱ(아르바이트)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305976",
+        "sha256": "6cc3605ed1c23e9d7999eedb747429c1ed72769ed611e3170a73301f02d94e89",
+        "receivedAt": "2026-10-19T04:38:23.294+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-305976:auto-636d98bb4902a50d": {
+      "id": "job-alio-305976:auto-636d98bb4902a50d",
+      "noticeId": "job-alio-305976",
+      "rawUnitName": "스키강사Ⅰ(아르바이트)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305976",
+        "sha256": "6cc3605ed1c23e9d7999eedb747429c1ed72769ed611e3170a73301f02d94e89",
+        "receivedAt": "2026-10-19T04:38:23.294+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-305976:auto-1ce7c090e3abf355": {
+      "id": "job-alio-305976:auto-1ce7c090e3abf355",
+      "noticeId": "job-alio-305976",
+      "rawUnitName": "스키강사Ⅱ(아르바이트)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305976",
+        "sha256": "6cc3605ed1c23e9d7999eedb747429c1ed72769ed611e3170a73301f02d94e89",
+        "receivedAt": "2026-10-19T04:38:23.294+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-305976:auto-6a22b63e8214db51": {
+      "id": "job-alio-305976:auto-6a22b63e8214db51",
+      "noticeId": "job-alio-305976",
+      "rawUnitName": "레저운영Ⅰ(아르바이트)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305976",
+        "sha256": "6cc3605ed1c23e9d7999eedb747429c1ed72769ed611e3170a73301f02d94e89",
+        "receivedAt": "2026-10-19T04:38:23.294+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-305976:auto-7e8036e30b0e997e": {
+      "id": "job-alio-305976:auto-7e8036e30b0e997e",
+      "noticeId": "job-alio-305976",
+      "rawUnitName": "레저운영Ⅱ(아르바이트)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305976",
+        "sha256": "6cc3605ed1c23e9d7999eedb747429c1ed72769ed611e3170a73301f02d94e89",
+        "receivedAt": "2026-10-19T04:38:23.294+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-305976:auto-db3add3279be1c98": {
+      "id": "job-alio-305976:auto-db3add3279be1c98",
+      "noticeId": "job-alio-305976",
+      "rawUnitName": "레저운영Ⅲ(아르바이트)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305976",
+        "sha256": "6cc3605ed1c23e9d7999eedb747429c1ed72769ed611e3170a73301f02d94e89",
+        "receivedAt": "2026-10-19T04:38:23.294+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-305976:auto-361aa2318576ce0a": {
+      "id": "job-alio-305976:auto-361aa2318576ce0a",
+      "noticeId": "job-alio-305976",
+      "rawUnitName": "의무실 운영보조(아르바이트)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305976",
+        "sha256": "6cc3605ed1c23e9d7999eedb747429c1ed72769ed611e3170a73301f02d94e89",
+        "receivedAt": "2026-10-19T04:38:23.294+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-305976:auto-c21c901b1d22406e": {
+      "id": "job-alio-305976:auto-c21c901b1d22406e",
+      "noticeId": "job-alio-305976",
+      "rawUnitName": "구급차 운전기사(아르바이트)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305976",
+        "sha256": "6cc3605ed1c23e9d7999eedb747429c1ed72769ed611e3170a73301f02d94e89",
+        "receivedAt": "2026-10-19T04:38:23.294+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-305976:auto-1a6e7804f96ea0f2": {
+      "id": "job-alio-305976:auto-1a6e7804f96ea0f2",
+      "noticeId": "job-alio-305976",
+      "rawUnitName": "직원숙소 운영보조(아르바이트)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305976",
+        "sha256": "6cc3605ed1c23e9d7999eedb747429c1ed72769ed611e3170a73301f02d94e89",
+        "receivedAt": "2026-10-19T04:38:23.294+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-305976:auto-f1b571a3fcb3a0f5": {
+      "id": "job-alio-305976:auto-f1b571a3fcb3a0f5",
+      "noticeId": "job-alio-305976",
+      "rawUnitName": "복지관 운영보조(아르바이트)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305976",
+        "sha256": "6cc3605ed1c23e9d7999eedb747429c1ed72769ed611e3170a73301f02d94e89",
+        "receivedAt": "2026-10-19T04:38:23.294+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-305976:auto-9abb94cfca2e199f": {
+      "id": "job-alio-305976:auto-9abb94cfca2e199f",
+      "noticeId": "job-alio-305976",
+      "rawUnitName": "스키버스 운영지원(아르바이트)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305976",
+        "sha256": "6cc3605ed1c23e9d7999eedb747429c1ed72769ed611e3170a73301f02d94e89",
+        "receivedAt": "2026-10-19T04:38:23.294+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-305880:auto-7900d68eab59d5be": {
+      "id": "job-alio-305880:auto-7900d68eab59d5be",
+      "noticeId": "job-alio-305880",
+      "rawUnitName": "장애인취업성공패키지 업무 전반",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=305880",
+        "sha256": "5482600e8f3dcd3351d1e5e12afcd70c979f275a25a1678c703578c2fcbead86",
+        "receivedAt": "2026-10-19T04:38:29.366+00:00"
+      },
+      "employmentEvidence": "비정규직,청년인턴(체험형)"
     }
   },
-  "nextPage": 5,
+  "nextPage": 6,
   "schemaVersion": "automatic-refresh-state-0.2"
 }
