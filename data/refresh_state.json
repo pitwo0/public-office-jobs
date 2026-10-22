@@ -1442,7 +1442,7 @@
       "lastSuccessAt": "2026-10-21T21:41:42.588+00:00"
     },
     "job-alio-304956": {
-      "state": "queued",
+      "state": "held",
       "row": {
         "id": "job-alio-304956",
         "idx": "304956",
@@ -1463,8 +1463,9 @@
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
       "lastSeenAt": "2026-09-27T12:00:01.102+00:00",
-      "lastAttemptAt": "2026-09-18T20:54:01.497+00:00",
-      "lastError": "원문 수신 실패·불완전·접근제한: transport_error"
+      "lastAttemptAt": "2026-10-22T04:41:40.195+00:00",
+      "lastError": "원문 수신 실패·불완전·접근제한: transport_error",
+      "lastSuccessAt": "2026-10-22T04:41:40.195+00:00"
     },
     "job-alio-304943": {
       "state": "published",
@@ -1593,7 +1594,7 @@
       "lastSuccessAt": "2026-10-03T11:37:54.006+00:00"
     },
     "job-alio-304948": {
-      "state": "queued",
+      "state": "held",
       "row": {
         "id": "job-alio-304948",
         "idx": "304948",
@@ -1614,8 +1615,9 @@
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
       "lastSeenAt": "2026-09-27T05:16:54.547+00:00",
-      "lastAttemptAt": "2026-09-18T20:55:06.265+00:00",
-      "lastError": "원문 수신 실패·불완전·접근제한: transport_error"
+      "lastAttemptAt": "2026-10-22T04:41:49.533+00:00",
+      "lastError": "원문 수신 실패·불완전·접근제한: transport_error",
+      "lastSuccessAt": "2026-10-22T04:41:49.533+00:00"
     },
     "job-alio-304924": {
       "state": "published",
@@ -2047,8 +2049,8 @@
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
       "lastSeenAt": "2026-09-22T11:36:11.672+00:00",
-      "lastAttemptAt": "2026-10-06T00:02:19.088+00:00",
-      "lastSuccessAt": "2026-10-06T00:02:19.088+00:00"
+      "lastAttemptAt": "2026-10-22T04:41:46.436+00:00",
+      "lastSuccessAt": "2026-10-22T04:41:46.436+00:00"
     },
     "job-alio-305061": {
       "state": "published",
@@ -4746,7 +4748,7 @@
         "region_raw": "인천",
         "employment_raw": "비정규직",
         "registered_raw": "2026.10.08",
-        "closing_raw": "26.10.22 D-1",
+        "closing_raw": "26.10.22 D-Day",
         "application_period": {
           "raw": null,
           "status": "미확인",
@@ -4757,7 +4759,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-10-20T21:35:56.384+00:00",
+      "lastSeenAt": "2026-10-22T04:41:37.654+00:00",
       "lastAttemptAt": "2026-10-07T23:04:30.654+00:00",
       "lastSuccessAt": "2026-10-07T23:04:30.654+00:00"
     },
@@ -4821,7 +4823,7 @@
         "region_raw": "전북",
         "employment_raw": "비정규직",
         "registered_raw": "2026.10.08",
-        "closing_raw": "26.10.22 D-1",
+        "closing_raw": "26.10.22 D-Day",
         "application_period": {
           "raw": null,
           "status": "미확인",
@@ -4832,7 +4834,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-10-20T21:35:56.384+00:00",
+      "lastSeenAt": "2026-10-22T04:41:37.654+00:00",
       "lastAttemptAt": "2026-10-19T22:20:19.041+00:00",
       "lastSuccessAt": "2026-10-19T22:20:19.041+00:00"
     },
@@ -4846,7 +4848,7 @@
         "region_raw": "전북",
         "employment_raw": "비정규직",
         "registered_raw": "2026.10.08",
-        "closing_raw": "26.10.22 D-1",
+        "closing_raw": "26.10.22 D-Day",
         "application_period": {
           "raw": null,
           "status": "미확인",
@@ -4857,7 +4859,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-10-20T21:35:56.384+00:00",
+      "lastSeenAt": "2026-10-22T04:41:37.654+00:00",
       "lastAttemptAt": "2026-10-08T06:01:35.859+00:00",
       "lastSuccessAt": "2026-10-08T06:01:35.859+00:00"
     },
@@ -4896,7 +4898,7 @@
         "region_raw": "경기",
         "employment_raw": "비정규직",
         "registered_raw": "2026.10.08",
-        "closing_raw": "26.10.22 D-1",
+        "closing_raw": "26.10.22 D-Day",
         "application_period": {
           "raw": null,
           "status": "미확인",
@@ -4907,7 +4909,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-10-20T21:35:56.384+00:00",
+      "lastSeenAt": "2026-10-22T04:41:37.654+00:00",
       "lastAttemptAt": "2026-10-20T21:36:01.817+00:00",
       "lastSuccessAt": "2026-10-20T21:36:01.817+00:00"
     },
@@ -4921,18 +4923,18 @@
         "region_raw": "대전",
         "employment_raw": "비정규직",
         "registered_raw": "2026.10.12",
-        "closing_raw": "26.10.26 D-5",
+        "closing_raw": "26.10.26 D-3",
         "application_period": {
           "raw": null,
           "status": "미확인",
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=305909",
-        "list_page": 4,
+        "list_page": 5,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-10-20T17:01:30.401+00:00",
+      "lastSeenAt": "2026-10-22T04:41:37.654+00:00",
       "lastAttemptAt": "2026-10-12T05:55:01.424+00:00",
       "lastSuccessAt": "2026-10-12T05:55:01.424+00:00"
     },
@@ -4946,18 +4948,18 @@
         "region_raw": "부산",
         "employment_raw": "비정규직 외 1",
         "registered_raw": "2026.10.12",
-        "closing_raw": "26.10.27 D-6",
+        "closing_raw": "26.10.27 D-4",
         "application_period": {
           "raw": null,
           "status": "미확인",
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=305905",
-        "list_page": 4,
+        "list_page": 5,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-10-20T17:01:30.401+00:00",
+      "lastSeenAt": "2026-10-22T04:41:37.654+00:00",
       "lastAttemptAt": "2026-10-17T20:35:17.012+00:00",
       "lastSuccessAt": "2026-10-17T20:35:17.012+00:00"
     },
@@ -4971,18 +4973,18 @@
         "region_raw": "서울",
         "employment_raw": "비정규직",
         "registered_raw": "2026.10.12",
-        "closing_raw": "26.10.27 D-6",
+        "closing_raw": "26.10.27 D-4",
         "application_period": {
           "raw": null,
           "status": "미확인",
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=305903",
-        "list_page": 4,
+        "list_page": 5,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-10-20T17:01:30.401+00:00",
+      "lastSeenAt": "2026-10-22T04:41:37.654+00:00",
       "lastAttemptAt": "2026-10-18T11:02:30.213+00:00",
       "lastSuccessAt": "2026-10-18T11:02:30.213+00:00"
     },
@@ -4996,18 +4998,18 @@
         "region_raw": "부산",
         "employment_raw": "비정규직",
         "registered_raw": "2026.10.12",
-        "closing_raw": "26.10.26 D-5",
+        "closing_raw": "26.10.26 D-3",
         "application_period": {
           "raw": null,
           "status": "미확인",
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=305889",
-        "list_page": 4,
+        "list_page": 5,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-10-20T17:01:30.401+00:00",
+      "lastSeenAt": "2026-10-22T04:41:37.654+00:00",
       "lastAttemptAt": "2026-10-18T20:40:58.139+00:00",
       "lastSuccessAt": "2026-10-18T20:40:58.139+00:00"
     },
@@ -5046,18 +5048,18 @@
         "region_raw": "대전",
         "employment_raw": "비정규직",
         "registered_raw": "2026.10.13",
-        "closing_raw": "26.10.28 D-7",
+        "closing_raw": "26.10.28 D-5",
         "application_period": {
           "raw": null,
           "status": "미확인",
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=305901",
-        "list_page": 4,
+        "list_page": 5,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-10-20T17:01:30.401+00:00",
+      "lastSeenAt": "2026-10-22T04:41:37.654+00:00",
       "lastAttemptAt": "2026-10-18T20:40:49.173+00:00",
       "lastSuccessAt": "2026-10-18T20:40:49.173+00:00"
     },
@@ -5096,18 +5098,18 @@
         "region_raw": "인천 외 1",
         "employment_raw": "비정규직",
         "registered_raw": "2026.10.12",
-        "closing_raw": "26.10.26 D-5",
+        "closing_raw": "26.10.26 D-3",
         "application_period": {
           "raw": null,
           "status": "미확인",
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=305913",
-        "list_page": 4,
+        "list_page": 5,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-10-20T17:01:30.401+00:00",
+      "lastSeenAt": "2026-10-22T04:41:37.654+00:00",
       "lastAttemptAt": "2026-10-18T04:30:12.318+00:00",
       "lastSuccessAt": "2026-10-18T04:30:12.318+00:00"
     },
@@ -5484,8 +5486,8 @@
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
       "lastSeenAt": "2026-10-21T17:10:30.093+00:00",
-      "lastAttemptAt": "2026-10-15T11:26:41.912+00:00",
-      "lastSuccessAt": "2026-10-15T11:26:41.912+00:00"
+      "lastAttemptAt": "2026-10-22T04:41:43.583+00:00",
+      "lastSuccessAt": "2026-10-22T04:41:43.583+00:00"
     },
     "job-alio-306075": {
       "state": "held",
@@ -5922,7 +5924,7 @@
         "region_raw": "서울 외 1",
         "employment_raw": "무기계약직 외 1",
         "registered_raw": "2026.10.19",
-        "closing_raw": "26.11.02 D-11",
+        "closing_raw": "26.11.02 D-10",
         "application_period": {
           "raw": null,
           "status": "미확인",
@@ -5933,7 +5935,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-10-21T21:41:29.757+00:00",
+      "lastSeenAt": "2026-10-22T04:41:34.895+00:00",
       "lastAttemptAt": "2026-10-19T13:11:03.436+00:00",
       "lastSuccessAt": "2026-10-19T13:11:03.436+00:00"
     },
@@ -5947,7 +5949,7 @@
         "region_raw": "충남",
         "employment_raw": "비정규직",
         "registered_raw": "2026.10.20",
-        "closing_raw": "26.11.03 D-12",
+        "closing_raw": "26.11.03 D-11",
         "application_period": {
           "raw": null,
           "status": "미확인",
@@ -5958,7 +5960,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-10-21T21:41:29.757+00:00",
+      "lastSeenAt": "2026-10-22T04:41:34.895+00:00",
       "lastAttemptAt": "2026-10-20T11:33:45.109+00:00",
       "lastSuccessAt": "2026-10-20T11:33:45.109+00:00"
     },
@@ -5972,7 +5974,7 @@
         "region_raw": "서울",
         "employment_raw": "비정규직",
         "registered_raw": "2026.10.20",
-        "closing_raw": "26.10.27 D-5",
+        "closing_raw": "26.10.27 D-4",
         "application_period": {
           "raw": null,
           "status": "미확인",
@@ -5983,7 +5985,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-10-21T21:41:29.757+00:00",
+      "lastSeenAt": "2026-10-22T04:41:34.895+00:00",
       "lastAttemptAt": "2026-10-20T11:33:53.947+00:00",
       "lastSuccessAt": "2026-10-20T11:33:53.947+00:00"
     },
@@ -5997,7 +5999,7 @@
         "region_raw": "세종",
         "employment_raw": "비정규직",
         "registered_raw": "2026.10.21",
-        "closing_raw": "26.11.04 D-13",
+        "closing_raw": "26.11.04 D-12",
         "application_period": {
           "raw": null,
           "status": "미확인",
@@ -6008,7 +6010,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-10-21T21:41:29.757+00:00",
+      "lastSeenAt": "2026-10-22T04:41:34.895+00:00",
       "lastAttemptAt": "2026-10-21T04:43:46.642+00:00",
       "lastSuccessAt": "2026-10-21T04:43:46.642+00:00"
     },
@@ -6022,7 +6024,7 @@
         "region_raw": "서울",
         "employment_raw": "비정규직 외 1",
         "registered_raw": "2026.10.21",
-        "closing_raw": "26.11.05 D-14",
+        "closing_raw": "26.11.05 D-13",
         "application_period": {
           "raw": null,
           "status": "미확인",
@@ -6033,7 +6035,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-10-21T21:41:29.757+00:00",
+      "lastSeenAt": "2026-10-22T04:41:34.895+00:00",
       "lastAttemptAt": "2026-10-21T04:43:55.929+00:00",
       "lastSuccessAt": "2026-10-21T04:43:55.929+00:00"
     },
@@ -6047,7 +6049,7 @@
         "region_raw": "세종",
         "employment_raw": "비정규직 외 1",
         "registered_raw": "2026.10.21",
-        "closing_raw": "26.11.05 D-14",
+        "closing_raw": "26.11.05 D-13",
         "application_period": {
           "raw": null,
           "status": "미확인",
@@ -6058,7 +6060,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-10-21T21:41:29.757+00:00",
+      "lastSeenAt": "2026-10-22T04:41:34.895+00:00",
       "lastAttemptAt": "2026-10-21T17:10:41.086+00:00",
       "lastSuccessAt": "2026-10-21T17:10:41.086+00:00"
     },
@@ -6072,7 +6074,7 @@
         "region_raw": "경북",
         "employment_raw": "비정규직",
         "registered_raw": "2026.10.21",
-        "closing_raw": "26.11.05 D-14",
+        "closing_raw": "26.11.05 D-13",
         "application_period": {
           "raw": null,
           "status": "미확인",
@@ -6083,7 +6085,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-10-21T21:41:29.757+00:00",
+      "lastSeenAt": "2026-10-22T04:41:34.895+00:00",
       "lastAttemptAt": "2026-10-21T21:41:34.994+00:00",
       "lastSuccessAt": "2026-10-21T21:41:34.994+00:00"
     },
@@ -6097,7 +6099,7 @@
         "region_raw": "서울",
         "employment_raw": "비정규직",
         "registered_raw": "2026.10.21",
-        "closing_raw": "26.11.05 D-14",
+        "closing_raw": "26.11.05 D-13",
         "application_period": {
           "raw": null,
           "status": "미확인",
@@ -6108,7 +6110,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-10-21T21:41:29.757+00:00",
+      "lastSeenAt": "2026-10-22T04:41:34.895+00:00",
       "lastAttemptAt": "2026-10-21T11:46:20.742+00:00",
       "lastSuccessAt": "2026-10-21T11:46:20.742+00:00"
     },
@@ -6122,7 +6124,7 @@
         "region_raw": "인천 외 10",
         "employment_raw": "비정규직",
         "registered_raw": "2026.10.21",
-        "closing_raw": "26.11.06 D-15",
+        "closing_raw": "26.11.06 D-14",
         "application_period": {
           "raw": null,
           "status": "미확인",
@@ -6133,7 +6135,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-10-21T21:41:29.757+00:00",
+      "lastSeenAt": "2026-10-22T04:41:34.895+00:00",
       "lastAttemptAt": "2026-10-21T11:46:29.588+00:00",
       "lastSuccessAt": "2026-10-21T11:46:29.588+00:00"
     },
@@ -6147,7 +6149,7 @@
         "region_raw": "서울",
         "employment_raw": "비정규직",
         "registered_raw": "2026.10.21",
-        "closing_raw": "26.11.04 D-13",
+        "closing_raw": "26.11.04 D-12",
         "application_period": {
           "raw": null,
           "status": "미확인",
@@ -6158,7 +6160,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-10-21T21:41:29.757+00:00",
+      "lastSeenAt": "2026-10-22T04:41:34.895+00:00",
       "lastAttemptAt": "2026-10-21T17:10:32.761+00:00",
       "lastSuccessAt": "2026-10-21T17:10:32.761+00:00"
     }
@@ -12079,344 +12081,6 @@
       },
       "employmentEvidence": "체험형청년인턴_영화·영화인 DB 구축"
     },
-    "job-alio-306079:auto-db683495569bdb3a": {
-      "id": "job-alio-306079:auto-db683495569bdb3a",
-      "noticeId": "job-alio-306079",
-      "rawUnitName": "C01. 제조 피지컬 AI 분야 국책과제 지원",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=306079",
-        "sha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
-        "receivedAt": "2026-10-15T11:26:41.912+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-306079:auto-8e6226b2a281fca4": {
-      "id": "job-alio-306079:auto-8e6226b2a281fca4",
-      "noticeId": "job-alio-306079",
-      "rawUnitName": "C02. 시험, 검사 및 품질심사 업무",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=306079",
-        "sha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
-        "receivedAt": "2026-10-15T11:26:41.912+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-306079:auto-1cf21993d1160630": {
-      "id": "job-alio-306079:auto-1cf21993d1160630",
-      "noticeId": "job-alio-306079",
-      "rawUnitName": "C03. 미래항공분야 국책과제 수행",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=306079",
-        "sha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
-        "receivedAt": "2026-10-15T11:26:41.912+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-306079:auto-9c4acca2125208a3": {
-      "id": "job-alio-306079:auto-9c4acca2125208a3",
-      "noticeId": "job-alio-306079",
-      "rawUnitName": "C04. 검증 위성, 발사체 개발 지원",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=306079",
-        "sha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
-        "receivedAt": "2026-10-15T11:26:41.912+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-306079:auto-6e7ec7bbcded0b3c": {
-      "id": "job-alio-306079:auto-6e7ec7bbcded0b3c",
-      "noticeId": "job-alio-306079",
-      "rawUnitName": "C05. 예산/관리회계 업무지원 및 연구행정",
-      "status": "held",
-      "reason": "office_and_other_role_mixed_in_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=306079",
-        "sha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
-        "receivedAt": "2026-10-15T11:26:41.912+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-306079:auto-68e396cf354cedc4": {
-      "id": "job-alio-306079:auto-68e396cf354cedc4",
-      "noticeId": "job-alio-306079",
-      "rawUnitName": "C06. 탑재체 검증 지원",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=306079",
-        "sha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
-        "receivedAt": "2026-10-15T11:26:41.912+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-306079:auto-921590bf69a44307": {
-      "id": "job-alio-306079:auto-921590bf69a44307",
-      "noticeId": "job-alio-306079",
-      "rawUnitName": "C07. 소형이차전지 전기안전 분야 연구과제 및 시험평가 업무 보조",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=306079",
-        "sha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
-        "receivedAt": "2026-10-15T11:26:41.912+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-306079:auto-d8678b8fe9fcc7cf": {
-      "id": "job-alio-306079:auto-d8678b8fe9fcc7cf",
-      "noticeId": "job-alio-306079",
-      "rawUnitName": "C08. 가정용 전기기기 시험평가 지원",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=306079",
-        "sha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
-        "receivedAt": "2026-10-15T11:26:41.912+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-306079:auto-61bb2dba2e4c5fab": {
-      "id": "job-alio-306079:auto-61bb2dba2e4c5fab",
-      "noticeId": "job-alio-306079",
-      "rawUnitName": "C09. 자동차 환경분야 시험연구 지원",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=306079",
-        "sha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
-        "receivedAt": "2026-10-15T11:26:41.912+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-306079:auto-5124684f064f0009": {
-      "id": "job-alio-306079:auto-5124684f064f0009",
-      "noticeId": "job-alio-306079",
-      "rawUnitName": "C10. 물환경분야 분석 및 일반시험",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=306079",
-        "sha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
-        "receivedAt": "2026-10-15T11:26:41.912+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-306079:auto-5d0ef6d2a5253544": {
-      "id": "job-alio-306079:auto-5d0ef6d2a5253544",
-      "noticeId": "job-alio-306079",
-      "rawUnitName": "C11. 바이오의료헬스 분야 국책과제 보조",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=306079",
-        "sha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
-        "receivedAt": "2026-10-15T11:26:41.912+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-306079:auto-8e2f854e2b5733ff": {
-      "id": "job-alio-306079:auto-8e2f854e2b5733ff",
-      "noticeId": "job-alio-306079",
-      "rawUnitName": "C12. 환경오염물질 용역 과제 및 시험 업무 지원",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=306079",
-        "sha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
-        "receivedAt": "2026-10-15T11:26:41.912+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-306079:auto-0fe0c2c99d7e5d59": {
-      "id": "job-alio-306079:auto-0fe0c2c99d7e5d59",
-      "noticeId": "job-alio-306079",
-      "rawUnitName": "C13. 폐기물 처리시설 및 환경설비 시험·검사",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=306079",
-        "sha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
-        "receivedAt": "2026-10-15T11:26:41.912+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-306079:auto-89abbea1520523c3": {
-      "id": "job-alio-306079:auto-89abbea1520523c3",
-      "noticeId": "job-alio-306079",
-      "rawUnitName": "C14. 폐기물자원화 기반 에너지회수효율 산정 및 측정",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=306079",
-        "sha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
-        "receivedAt": "2026-10-15T11:26:41.912+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-306079:auto-50a57cae31695217": {
-      "id": "job-alio-306079:auto-50a57cae31695217",
-      "noticeId": "job-alio-306079",
-      "rawUnitName": "C15. 에너지분야 국책과제 및 시험평가 보조",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=306079",
-        "sha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
-        "receivedAt": "2026-10-15T11:26:41.912+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-306079:auto-4112573b1569f93d": {
-      "id": "job-alio-306079:auto-4112573b1569f93d",
-      "noticeId": "job-alio-306079",
-      "rawUnitName": "C16. 모빌리티 분야 기반구축 장비운용, 기업지원 및 시험업무 보조",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=306079",
-        "sha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
-        "receivedAt": "2026-10-15T11:26:41.912+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-306079:auto-f53ef4138f03da1e": {
-      "id": "job-alio-306079:auto-f53ef4138f03da1e",
-      "noticeId": "job-alio-306079",
-      "rawUnitName": "C17. 복합소재 물리·화학적 분석 시험",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=306079",
-        "sha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
-        "receivedAt": "2026-10-15T11:26:41.912+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-306079:auto-63447aa34119d258": {
-      "id": "job-alio-306079:auto-63447aa34119d258",
-      "noticeId": "job-alio-306079",
-      "rawUnitName": "C18. 법정계량기 검정업무",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=306079",
-        "sha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
-        "receivedAt": "2026-10-15T11:26:41.912+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-306079:auto-86cca558de35bdda": {
-      "id": "job-alio-306079:auto-86cca558de35bdda",
-      "noticeId": "job-alio-306079",
-      "rawUnitName": "C19. 에너지 효율 분야 국책과제",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=306079",
-        "sha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
-        "receivedAt": "2026-10-15T11:26:41.912+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-306079:auto-97f702d526f26143": {
-      "id": "job-alio-306079:auto-97f702d526f26143",
-      "noticeId": "job-alio-306079",
-      "rawUnitName": "C20. 소재·부품분야 역학시험평가",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=306079",
-        "sha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
-        "receivedAt": "2026-10-15T11:26:41.912+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-306079:auto-72197ccb9535a034": {
-      "id": "job-alio-306079:auto-72197ccb9535a034",
-      "noticeId": "job-alio-306079",
-      "rawUnitName": "C21. GLP시험 조직병리",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=306079",
-        "sha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
-        "receivedAt": "2026-10-15T11:26:41.912+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-306079:auto-32bb4a1d017eaf7f": {
-      "id": "job-alio-306079:auto-32bb4a1d017eaf7f",
-      "noticeId": "job-alio-306079",
-      "rawUnitName": "C22. 바이오분야 국책과제 및 안정성 실증 지원",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=306079",
-        "sha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
-        "receivedAt": "2026-10-15T11:26:41.912+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-306079:auto-cabebabe0481945e": {
-      "id": "job-alio-306079:auto-cabebabe0481945e",
-      "noticeId": "job-alio-306079",
-      "rawUnitName": "C23. 바이오분야 동물실험 지원",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=306079",
-        "sha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
-        "receivedAt": "2026-10-15T11:26:41.912+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-306079:auto-49b11ffbfcbb7fcf": {
-      "id": "job-alio-306079:auto-49b11ffbfcbb7fcf",
-      "noticeId": "job-alio-306079",
-      "rawUnitName": "C24. 중대형이차전지 프로젝트 및 시험평가",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=306079",
-        "sha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
-        "receivedAt": "2026-10-15T11:26:41.912+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-306079:auto-f1b571e74f0473ac": {
-      "id": "job-alio-306079:auto-f1b571e74f0473ac",
-      "noticeId": "job-alio-306079",
-      "rawUnitName": "C25. 군 적합성 검증 국책과제 및 시험평가",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=306079",
-        "sha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
-        "receivedAt": "2026-10-15T11:26:41.912+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-306079:auto-f321452de642cee6": {
-      "id": "job-alio-306079:auto-f321452de642cee6",
-      "noticeId": "job-alio-306079",
-      "rawUnitName": "C26. 태양광 모듈 분야 시험 평가 보조 및 국책 과제 수행 지원",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=306079",
-        "sha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
-        "receivedAt": "2026-10-15T11:26:41.912+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
     "job-alio-305148:auto-d6e933148f32c47f": {
       "id": "job-alio-305148:auto-d6e933148f32c47f",
       "noticeId": "job-alio-305148",
@@ -15068,8 +14732,528 @@
         "receivedAt": "2026-10-21T21:41:42.588+00:00"
       },
       "employmentEvidence": "비정규직,청년인턴(체험형)"
+    },
+    "job-alio-304956:auto-b51980f507887910": {
+      "id": "job-alio-304956:auto-b51980f507887910",
+      "noticeId": "job-alio-304956",
+      "rawUnitName": "경영전략본부총괄(개방형직위) 1급상당",
+      "status": "held",
+      "reason": "mixed_or_unverified_unit_employment",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=304956",
+        "sha256": "2aeb03d92366ee1b9fe8617287203a0f0f8b25e80e81b7a9d98451d421aae531",
+        "receivedAt": "2026-10-22T04:41:40.195+00:00"
+      },
+      "employmentEvidence": "비정규직,정규직"
+    },
+    "job-alio-304956:auto-d19c33aa6bd4ff15": {
+      "id": "job-alio-304956:auto-d19c33aa6bd4ff15",
+      "noticeId": "job-alio-304956",
+      "rawUnitName": "아동보호본부총괄(개방형직위) 1급상당",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=304956",
+        "sha256": "2aeb03d92366ee1b9fe8617287203a0f0f8b25e80e81b7a9d98451d421aae531",
+        "receivedAt": "2026-10-22T04:41:40.195+00:00"
+      },
+      "employmentEvidence": "비정규직,정규직"
+    },
+    "job-alio-304956:auto-397eacee34671ce1": {
+      "id": "job-alio-304956:auto-397eacee34671ce1",
+      "noticeId": "job-alio-304956",
+      "rawUnitName": "아동지원본부총괄(개방형직위) 1급상당",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=304956",
+        "sha256": "2aeb03d92366ee1b9fe8617287203a0f0f8b25e80e81b7a9d98451d421aae531",
+        "receivedAt": "2026-10-22T04:41:40.195+00:00"
+      },
+      "employmentEvidence": "비정규직,정규직"
+    },
+    "job-alio-304956:auto-e19033f4439aae6f": {
+      "id": "job-alio-304956:auto-e19033f4439aae6f",
+      "noticeId": "job-alio-304956",
+      "rawUnitName": "사업관리(입양기록물관리) 4급",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=304956",
+        "sha256": "2aeb03d92366ee1b9fe8617287203a0f0f8b25e80e81b7a9d98451d421aae531",
+        "receivedAt": "2026-10-22T04:41:40.195+00:00"
+      },
+      "employmentEvidence": "비정규직,정규직"
+    },
+    "job-alio-304956:auto-f6c44d28f66301d9": {
+      "id": "job-alio-304956:auto-f6c44d28f66301d9",
+      "noticeId": "job-alio-304956",
+      "rawUnitName": "기관운영(정보화전략) 4급",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=304956",
+        "sha256": "2aeb03d92366ee1b9fe8617287203a0f0f8b25e80e81b7a9d98451d421aae531",
+        "receivedAt": "2026-10-22T04:41:40.195+00:00"
+      },
+      "employmentEvidence": "비정규직,정규직"
+    },
+    "job-alio-304956:auto-bd3414421bfc4cca": {
+      "id": "job-alio-304956:auto-bd3414421bfc4cca",
+      "noticeId": "job-alio-304956",
+      "rawUnitName": "사업관리(입양기록물관리) 5급",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=304956",
+        "sha256": "2aeb03d92366ee1b9fe8617287203a0f0f8b25e80e81b7a9d98451d421aae531",
+        "receivedAt": "2026-10-22T04:41:40.195+00:00"
+      },
+      "employmentEvidence": "비정규직,정규직"
+    },
+    "job-alio-304956:auto-46117dce4364984f": {
+      "id": "job-alio-304956:auto-46117dce4364984f",
+      "noticeId": "job-alio-304956",
+      "rawUnitName": "사업관리(보훈) 6급",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=304956",
+        "sha256": "2aeb03d92366ee1b9fe8617287203a0f0f8b25e80e81b7a9d98451d421aae531",
+        "receivedAt": "2026-10-22T04:41:40.195+00:00"
+      },
+      "employmentEvidence": "비정규직,정규직"
+    },
+    "job-alio-304956:auto-54e0c55baded9ed2": {
+      "id": "job-alio-304956:auto-54e0c55baded9ed2",
+      "noticeId": "job-alio-304956",
+      "rawUnitName": "사업관리(장애) 6급",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=304956",
+        "sha256": "2aeb03d92366ee1b9fe8617287203a0f0f8b25e80e81b7a9d98451d421aae531",
+        "receivedAt": "2026-10-22T04:41:40.195+00:00"
+      },
+      "employmentEvidence": "비정규직,정규직"
+    },
+    "job-alio-304956:auto-0c31c4105a4926e5": {
+      "id": "job-alio-304956:auto-0c31c4105a4926e5",
+      "noticeId": "job-alio-304956",
+      "rawUnitName": "사업관리 6급",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=304956",
+        "sha256": "2aeb03d92366ee1b9fe8617287203a0f0f8b25e80e81b7a9d98451d421aae531",
+        "receivedAt": "2026-10-22T04:41:40.195+00:00"
+      },
+      "employmentEvidence": "비정규직,정규직"
+    },
+    "job-alio-304956:auto-383369d83960d28c": {
+      "id": "job-alio-304956:auto-383369d83960d28c",
+      "noticeId": "job-alio-304956",
+      "rawUnitName": "기관운영(경영지원(비서)) 6급상당",
+      "status": "held",
+      "reason": "mixed_or_unverified_unit_employment",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=304956",
+        "sha256": "2aeb03d92366ee1b9fe8617287203a0f0f8b25e80e81b7a9d98451d421aae531",
+        "receivedAt": "2026-10-22T04:41:40.195+00:00"
+      },
+      "employmentEvidence": "비정규직,정규직"
+    },
+    "job-alio-304956:auto-8ddef37e7911d020": {
+      "id": "job-alio-304956:auto-8ddef37e7911d020",
+      "noticeId": "job-alio-304956",
+      "rawUnitName": "사업관리(입양인지원) 6급상당",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=304956",
+        "sha256": "2aeb03d92366ee1b9fe8617287203a0f0f8b25e80e81b7a9d98451d421aae531",
+        "receivedAt": "2026-10-22T04:41:40.195+00:00"
+      },
+      "employmentEvidence": "비정규직,정규직"
+    },
+    "job-alio-306079:auto-db683495569bdb3a": {
+      "id": "job-alio-306079:auto-db683495569bdb3a",
+      "noticeId": "job-alio-306079",
+      "rawUnitName": "C01. 제조 피지컬 AI 분야 국책과제 지원",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=306079",
+        "sha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
+        "receivedAt": "2026-10-22T04:41:43.583+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-306079:auto-8e6226b2a281fca4": {
+      "id": "job-alio-306079:auto-8e6226b2a281fca4",
+      "noticeId": "job-alio-306079",
+      "rawUnitName": "C02. 시험, 검사 및 품질심사 업무",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=306079",
+        "sha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
+        "receivedAt": "2026-10-22T04:41:43.583+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-306079:auto-1cf21993d1160630": {
+      "id": "job-alio-306079:auto-1cf21993d1160630",
+      "noticeId": "job-alio-306079",
+      "rawUnitName": "C03. 미래항공분야 국책과제 수행",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=306079",
+        "sha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
+        "receivedAt": "2026-10-22T04:41:43.583+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-306079:auto-9c4acca2125208a3": {
+      "id": "job-alio-306079:auto-9c4acca2125208a3",
+      "noticeId": "job-alio-306079",
+      "rawUnitName": "C04. 검증 위성, 발사체 개발 지원",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=306079",
+        "sha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
+        "receivedAt": "2026-10-22T04:41:43.583+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-306079:auto-6e7ec7bbcded0b3c": {
+      "id": "job-alio-306079:auto-6e7ec7bbcded0b3c",
+      "noticeId": "job-alio-306079",
+      "rawUnitName": "C05. 예산/관리회계 업무지원 및 연구행정",
+      "status": "held",
+      "reason": "office_and_other_role_mixed_in_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=306079",
+        "sha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
+        "receivedAt": "2026-10-22T04:41:43.583+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-306079:auto-68e396cf354cedc4": {
+      "id": "job-alio-306079:auto-68e396cf354cedc4",
+      "noticeId": "job-alio-306079",
+      "rawUnitName": "C06. 탑재체 검증 지원",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=306079",
+        "sha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
+        "receivedAt": "2026-10-22T04:41:43.583+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-306079:auto-921590bf69a44307": {
+      "id": "job-alio-306079:auto-921590bf69a44307",
+      "noticeId": "job-alio-306079",
+      "rawUnitName": "C07. 소형이차전지 전기안전 분야 연구과제 및 시험평가 업무 보조",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=306079",
+        "sha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
+        "receivedAt": "2026-10-22T04:41:43.583+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-306079:auto-d8678b8fe9fcc7cf": {
+      "id": "job-alio-306079:auto-d8678b8fe9fcc7cf",
+      "noticeId": "job-alio-306079",
+      "rawUnitName": "C08. 가정용 전기기기 시험평가 지원",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=306079",
+        "sha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
+        "receivedAt": "2026-10-22T04:41:43.583+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-306079:auto-61bb2dba2e4c5fab": {
+      "id": "job-alio-306079:auto-61bb2dba2e4c5fab",
+      "noticeId": "job-alio-306079",
+      "rawUnitName": "C09. 자동차 환경분야 시험연구 지원",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=306079",
+        "sha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
+        "receivedAt": "2026-10-22T04:41:43.583+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-306079:auto-5124684f064f0009": {
+      "id": "job-alio-306079:auto-5124684f064f0009",
+      "noticeId": "job-alio-306079",
+      "rawUnitName": "C10. 물환경분야 분석 및 일반시험",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=306079",
+        "sha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
+        "receivedAt": "2026-10-22T04:41:43.583+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-306079:auto-5d0ef6d2a5253544": {
+      "id": "job-alio-306079:auto-5d0ef6d2a5253544",
+      "noticeId": "job-alio-306079",
+      "rawUnitName": "C11. 바이오의료헬스 분야 국책과제 보조",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=306079",
+        "sha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
+        "receivedAt": "2026-10-22T04:41:43.583+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-306079:auto-8e2f854e2b5733ff": {
+      "id": "job-alio-306079:auto-8e2f854e2b5733ff",
+      "noticeId": "job-alio-306079",
+      "rawUnitName": "C12. 환경오염물질 용역 과제 및 시험 업무 지원",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=306079",
+        "sha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
+        "receivedAt": "2026-10-22T04:41:43.583+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-306079:auto-0fe0c2c99d7e5d59": {
+      "id": "job-alio-306079:auto-0fe0c2c99d7e5d59",
+      "noticeId": "job-alio-306079",
+      "rawUnitName": "C13. 폐기물 처리시설 및 환경설비 시험·검사",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=306079",
+        "sha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
+        "receivedAt": "2026-10-22T04:41:43.583+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-306079:auto-89abbea1520523c3": {
+      "id": "job-alio-306079:auto-89abbea1520523c3",
+      "noticeId": "job-alio-306079",
+      "rawUnitName": "C14. 폐기물자원화 기반 에너지회수효율 산정 및 측정",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=306079",
+        "sha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
+        "receivedAt": "2026-10-22T04:41:43.583+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-306079:auto-50a57cae31695217": {
+      "id": "job-alio-306079:auto-50a57cae31695217",
+      "noticeId": "job-alio-306079",
+      "rawUnitName": "C15. 에너지분야 국책과제 및 시험평가 보조",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=306079",
+        "sha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
+        "receivedAt": "2026-10-22T04:41:43.583+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-306079:auto-4112573b1569f93d": {
+      "id": "job-alio-306079:auto-4112573b1569f93d",
+      "noticeId": "job-alio-306079",
+      "rawUnitName": "C16. 모빌리티 분야 기반구축 장비운용, 기업지원 및 시험업무 보조",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=306079",
+        "sha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
+        "receivedAt": "2026-10-22T04:41:43.583+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-306079:auto-f53ef4138f03da1e": {
+      "id": "job-alio-306079:auto-f53ef4138f03da1e",
+      "noticeId": "job-alio-306079",
+      "rawUnitName": "C17. 복합소재 물리·화학적 분석 시험",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=306079",
+        "sha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
+        "receivedAt": "2026-10-22T04:41:43.583+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-306079:auto-63447aa34119d258": {
+      "id": "job-alio-306079:auto-63447aa34119d258",
+      "noticeId": "job-alio-306079",
+      "rawUnitName": "C18. 법정계량기 검정업무",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=306079",
+        "sha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
+        "receivedAt": "2026-10-22T04:41:43.583+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-306079:auto-86cca558de35bdda": {
+      "id": "job-alio-306079:auto-86cca558de35bdda",
+      "noticeId": "job-alio-306079",
+      "rawUnitName": "C19. 에너지 효율 분야 국책과제",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=306079",
+        "sha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
+        "receivedAt": "2026-10-22T04:41:43.583+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-306079:auto-97f702d526f26143": {
+      "id": "job-alio-306079:auto-97f702d526f26143",
+      "noticeId": "job-alio-306079",
+      "rawUnitName": "C20. 소재·부품분야 역학시험평가",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=306079",
+        "sha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
+        "receivedAt": "2026-10-22T04:41:43.583+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-306079:auto-72197ccb9535a034": {
+      "id": "job-alio-306079:auto-72197ccb9535a034",
+      "noticeId": "job-alio-306079",
+      "rawUnitName": "C21. GLP시험 조직병리",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=306079",
+        "sha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
+        "receivedAt": "2026-10-22T04:41:43.583+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-306079:auto-32bb4a1d017eaf7f": {
+      "id": "job-alio-306079:auto-32bb4a1d017eaf7f",
+      "noticeId": "job-alio-306079",
+      "rawUnitName": "C22. 바이오분야 국책과제 및 안정성 실증 지원",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=306079",
+        "sha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
+        "receivedAt": "2026-10-22T04:41:43.583+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-306079:auto-cabebabe0481945e": {
+      "id": "job-alio-306079:auto-cabebabe0481945e",
+      "noticeId": "job-alio-306079",
+      "rawUnitName": "C23. 바이오분야 동물실험 지원",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=306079",
+        "sha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
+        "receivedAt": "2026-10-22T04:41:43.583+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-306079:auto-49b11ffbfcbb7fcf": {
+      "id": "job-alio-306079:auto-49b11ffbfcbb7fcf",
+      "noticeId": "job-alio-306079",
+      "rawUnitName": "C24. 중대형이차전지 프로젝트 및 시험평가",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=306079",
+        "sha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
+        "receivedAt": "2026-10-22T04:41:43.583+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-306079:auto-f1b571e74f0473ac": {
+      "id": "job-alio-306079:auto-f1b571e74f0473ac",
+      "noticeId": "job-alio-306079",
+      "rawUnitName": "C25. 군 적합성 검증 국책과제 및 시험평가",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=306079",
+        "sha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
+        "receivedAt": "2026-10-22T04:41:43.583+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-306079:auto-f321452de642cee6": {
+      "id": "job-alio-306079:auto-f321452de642cee6",
+      "noticeId": "job-alio-306079",
+      "rawUnitName": "C26. 태양광 모듈 분야 시험 평가 보조 및 국책 과제 수행 지원",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=306079",
+        "sha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
+        "receivedAt": "2026-10-22T04:41:43.583+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-304948:auto-3450689c8951627c": {
+      "id": "job-alio-304948:auto-3450689c8951627c",
+      "noticeId": "job-alio-304948",
+      "rawUnitName": "전시운영(일반운영직 상당 기간제직원, 장애인 제한)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=304948",
+        "sha256": "fbdc399da24e20bb8293798d37fc21b46a18db876e6fdb3a410ffc6e0284057e",
+        "receivedAt": "2026-10-22T04:41:49.533+00:00"
+      },
+      "employmentEvidence": "전시운영(일반운영직 상당 기간제직원, 장애인 제한)"
+    },
+    "job-alio-304948:auto-c71095f1a53ff772": {
+      "id": "job-alio-304948:auto-c71095f1a53ff772",
+      "noticeId": "job-alio-304948",
+      "rawUnitName": "행정(청년인턴, 장애인 제한)",
+      "status": "held",
+      "reason": "not_target_employment",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=304948",
+        "sha256": "fbdc399da24e20bb8293798d37fc21b46a18db876e6fdb3a410ffc6e0284057e",
+        "receivedAt": "2026-10-22T04:41:49.533+00:00"
+      },
+      "employmentEvidence": "행정(청년인턴, 장애인 제한)"
+    },
+    "job-alio-304948:auto-fe1ab1eaa6371475": {
+      "id": "job-alio-304948:auto-fe1ab1eaa6371475",
+      "noticeId": "job-alio-304948",
+      "rawUnitName": "전시(청년인턴, 장애인 제한)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=304948",
+        "sha256": "fbdc399da24e20bb8293798d37fc21b46a18db876e6fdb3a410ffc6e0284057e",
+        "receivedAt": "2026-10-22T04:41:49.533+00:00"
+      },
+      "employmentEvidence": "전시(청년인턴, 장애인 제한)"
     }
   },
-  "nextPage": 5,
+  "nextPage": 6,
   "schemaVersion": "automatic-refresh-state-0.2"
 }

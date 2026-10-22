@@ -14746,7 +14746,7 @@
           "label": "JOB-ALIO 상세 · 자동 수신",
           "url": "https://job.alio.go.kr/recruitview.do?idx=305069",
           "sha256": "e5d3359e76117ca490ec253161f2c3d469bde91dd6bafad16c411a94daa6d0de",
-          "receivedAt": "2026-10-06T00:02:19.088+00:00"
+          "receivedAt": "2026-10-22T04:41:46.436+00:00"
         }
       ],
       "attachments": [
@@ -14825,17 +14825,15 @@
         "semanticHash": "aa231ad06ce124b1afeaa215a661ae81da2a9291645cecb3c3c9197691c9c4d8",
         "conditionsHash": "e29732f645b70f0424d712df7e3148667137b17b4c8a99a5d28ce7fc2af788fb",
         "rawSha256": "e5d3359e76117ca490ec253161f2c3d469bde91dd6bafad16c411a94daa6d0de",
-        "lastFetchedAt": "2026-10-06T00:02:19.088+00:00",
+        "lastFetchedAt": "2026-10-22T04:41:46.436+00:00",
         "contentChangedAt": "2026-10-06T00:02:19.088+00:00",
         "baselineStatus": "compared",
         "needsReview": false,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-10-06T00:02:19.088+00:00",
+          "checkedAt": "2026-10-22T04:41:46.436+00:00",
           "status": "checked",
-          "changedUnitIds": [
-            "auto-7e4b1fe6eb1cfd01"
-          ],
+          "changedUnitIds": [],
           "preservedUnitIds": [],
           "unmatchedUnitIds": [],
           "issues": []
@@ -51504,16 +51502,16 @@
       ],
       "sources": [
         {
-          "id": "auto_alio",
-          "label": "JOB-ALIO 상세 · 코드 수신·자동 정리",
-          "url": "https://job.alio.go.kr/recruitview.do?idx=306079",
-          "sha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
-          "receivedAt": "2026-10-15T11:26:41.912+00:00"
-        },
-        {
           "id": "auto_original_1",
           "label": "기관 원문 링크 · 내용 미확인",
           "url": "https://ktl.careerlink.kr"
+        },
+        {
+          "id": "auto_alio",
+          "label": "JOB-ALIO 상세 · 자동 수신",
+          "url": "https://job.alio.go.kr/recruitview.do?idx=306079",
+          "sha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
+          "receivedAt": "2026-10-22T04:41:43.583+00:00"
         }
       ],
       "attachments": [
@@ -51574,19 +51572,15 @@
         "semanticHash": "2128e3bc4294f35dcff83fa9d37c54338610f9b37dfce8e895202ad8a03c2ce7",
         "conditionsHash": "4d3497db56d3aa1a6556b91a2a2a3c154111781a20180187730ffc4e2e016bb2",
         "rawSha256": "93069df2ecd7eb3d8d3119def84969de3700f94f589cd1ef53b4f61883008104",
-        "lastFetchedAt": "2026-10-15T11:26:41.912+00:00",
+        "lastFetchedAt": "2026-10-22T04:41:43.583+00:00",
         "contentChangedAt": "2026-10-15T11:26:41.912+00:00",
-        "baselineStatus": "first_capture",
+        "baselineStatus": "compared",
         "needsReview": true,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-10-15T11:26:41.912+00:00",
+          "checkedAt": "2026-10-22T04:41:43.583+00:00",
           "status": "checked",
-          "changedUnitIds": [
-            "auto-6daacfdbc9811fd0",
-            "auto-93195b35673eef8d",
-            "auto-ead759cbd52e0d94"
-          ],
+          "changedUnitIds": [],
           "preservedUnitIds": [],
           "unmatchedUnitIds": [],
           "issues": []
@@ -63360,14 +63354,14 @@
   "refresh": {
     "status": "success",
     "mode": "live",
-    "lastAttemptAt": "2026-10-21T21:41:28+00:00",
-    "lastSuccessAt": "2026-10-21T21:41:28+00:00",
-    "candidatesCount": 719,
+    "lastAttemptAt": "2026-10-22T04:41:33+00:00",
+    "lastSuccessAt": "2026-10-22T04:41:33+00:00",
+    "candidatesCount": 731,
     "coverage": {
       "description": "JOB-ALIO 최근60일 이내 진행중·비정규직·경영회계사무 목록, 목록최대2페이지·상세최대4건/회. 저장된 마감공고도 결과를 순환 재확인합니다. 전체공고 수집 아님.",
-      "queuedNoticeCount": 34,
-      "heldUnitCount": 685,
-      "nextPage": 5,
+      "queuedNoticeCount": 32,
+      "heldUnitCount": 699,
+      "nextPage": 6,
       "closedRecheck": {
         "recentDays": 30,
         "recentOrUnknownIntervalDays": 1,
@@ -63378,6 +63372,29 @@
       "requestLimit": 6,
       "automaticRetries": 0,
       "heldNotices": [
+        {
+          "id": "job-alio-304948",
+          "organization": "국립농업박물관",
+          "title": "국립농업박물관 2026년 제5차 직원 및 하반기 청년인턴 채용(재공고)",
+          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=304948",
+          "lastFetchedAt": "2026-10-22T04:41:49.533+00:00",
+          "reasons": [
+            "모집단위명만으로 사무직 여부 미확인"
+          ],
+          "status": "unverified"
+        },
+        {
+          "id": "job-alio-304956",
+          "organization": "국가아동권리보장원",
+          "title": "(제2026-2호) 국가아동권리보장원 직원 채용",
+          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=304956",
+          "lastFetchedAt": "2026-10-22T04:41:40.195+00:00",
+          "reasons": [
+            "해당 모집단위의 기간제·계약직 여부 미확인",
+            "모집단위명만으로 사무직 여부 미확인"
+          ],
+          "status": "unverified"
+        },
         {
           "id": "job-alio-304959",
           "organization": "한국연구재단",
@@ -63578,31 +63595,9 @@
             "모집단위명만으로 사무직 여부 미확인"
           ],
           "status": "unverified"
-        },
-        {
-          "id": "job-alio-306083",
-          "organization": "한국산업기술시험원",
-          "title": "2026년 한국산업기술시험원 위촉계약직 사회형평인재 특별채용",
-          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=306083",
-          "lastFetchedAt": "2026-10-17T20:35:22.465+00:00",
-          "reasons": [
-            "모집단위명만으로 사무직 여부 미확인"
-          ],
-          "status": "unverified"
-        },
-        {
-          "id": "job-alio-306112",
-          "organization": "한국원산지정보원",
-          "title": "한국원산지정보원 FTA총괄본부장(개방형 직위) 공개모집",
-          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=306112",
-          "lastFetchedAt": "2026-10-17T20:35:14.235+00:00",
-          "reasons": [
-            "모집단위명만으로 사무직 여부 미확인"
-          ],
-          "status": "unverified"
         }
       ],
-      "heldNoticesTotal": 100,
+      "heldNoticesTotal": 102,
       "heldNoticesShownLimit": 20
     }
   }
