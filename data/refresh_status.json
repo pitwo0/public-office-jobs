@@ -1,24 +1,24 @@
 {
-  "startedAt": "2026-10-23T17:04:43+00:00",
+  "startedAt": "2026-10-23T21:22:58+00:00",
   "mode": "live",
   "records": [
     {
-      "id": "job-alio-306305",
+      "id": "job-alio-304765",
       "status": "held",
       "unitCount": 0
     },
     {
-      "id": "job-alio-306095",
+      "id": "job-alio-305905",
+      "status": "unchanged",
+      "unitCount": 2
+    },
+    {
+      "id": "job-alio-305528",
       "status": "unchanged",
       "unitCount": 1
     },
     {
-      "id": "job-alio-304804",
-      "status": "results_changed",
-      "unitCount": 1
-    },
-    {
-      "id": "job-alio-304771",
+      "id": "job-alio-304757",
       "status": "held",
       "unitCount": 0
     }
@@ -28,24 +28,9 @@
   "status": "success",
   "noticeCount": 121,
   "added": 0,
-  "changedIds": [
-    "job-alio-304804"
-  ],
-  "deadlineEvents": [
-    {
-      "id": "job-alio-305771",
-      "from": "open",
-      "to": "deadline_elapsed",
-      "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
-    },
-    {
-      "id": "job-alio-306071",
-      "from": "open",
-      "to": "deadline_elapsed",
-      "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
-    }
-  ],
+  "changedIds": [],
+  "deadlineEvents": [],
   "actualListPages": 2,
   "preservedFailedIds": [],
-  "finishedAt": "2026-10-23T17:05:01+00:00"
+  "finishedAt": "2026-10-23T21:23:17+00:00"
 }
