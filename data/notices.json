@@ -2400,9 +2400,9 @@
             "stages": [
               {
                 "name": "1차",
-                "applicants": null,
-                "selected": null,
-                "date": null
+                "applicants": 8,
+                "selected": 5,
+                "date": "2026-10-12"
               },
               {
                 "name": "최종",
@@ -2413,16 +2413,9 @@
             ],
             "evidence": {
               "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=304833",
-              "sha256": "f169be8e2baffcb5d016ca891530f040c7e57fe53559ca8c3456c1ddeb0954e0",
-              "receivedAt": "2026-09-12T22:36:27.753+00:00",
-              "method": "code_parse_saved_official_html",
+              "sha256": "91a8748e30766eb9d8112b4d51464932ed77f3c51e4f6bb0ca4c85a0f2a6b0f9",
+              "receivedAt": "2026-10-24T04:34:12.112+00:00",
               "rawUnitName": "사무업무보조(완도)(육아휴직 대체 채용)",
-              "headers": [
-                "구분",
-                "선발인원",
-                "응시인원",
-                "결과 확정일"
-              ],
               "rows": [
                 [
                   "사무업무보조(완도)(육아휴직 대체 채용)"
@@ -2435,9 +2428,9 @@
                 ],
                 [
                   "1차",
-                  "-",
-                  "-",
-                  "-"
+                  "5명",
+                  "8명",
+                  "2026.10.12"
                 ],
                 [
                   "최종",
@@ -2445,8 +2438,10 @@
                   "-",
                   "-"
                 ]
-              ]
-            }
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
           },
           "sourceUnitName": "사무업무보조(완도)(육아휴직 대체 채용)",
           "provenance": {
@@ -2589,7 +2584,72 @@
               "vacancies",
               "duties"
             ]
-          }
+          },
+          "competitionHistory": [
+            {
+              "supersededAt": "2026-10-24T04:34:12.112+00:00",
+              "competition": null,
+              "competitionRecord": {
+                "status": "not_disclosed",
+                "officialValueRaw": null,
+                "officialLabel": "최종 경쟁률",
+                "scope": "recruitment_unit",
+                "definitionStatus": "unverified",
+                "numeratorDefinition": null,
+                "denominatorDefinition": null,
+                "stages": [
+                  {
+                    "name": "1차",
+                    "applicants": null,
+                    "selected": null,
+                    "date": null
+                  },
+                  {
+                    "name": "최종",
+                    "applicants": null,
+                    "selected": null,
+                    "date": null
+                  }
+                ],
+                "evidence": {
+                  "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=304833",
+                  "sha256": "f169be8e2baffcb5d016ca891530f040c7e57fe53559ca8c3456c1ddeb0954e0",
+                  "receivedAt": "2026-09-12T22:36:27.753+00:00",
+                  "method": "code_parse_saved_official_html",
+                  "rawUnitName": "사무업무보조(완도)(육아휴직 대체 채용)",
+                  "headers": [
+                    "구분",
+                    "선발인원",
+                    "응시인원",
+                    "결과 확정일"
+                  ],
+                  "rows": [
+                    [
+                      "사무업무보조(완도)(육아휴직 대체 채용)"
+                    ],
+                    [
+                      "구분",
+                      "선발인원",
+                      "응시인원",
+                      "결과 확정일"
+                    ],
+                    [
+                      "1차",
+                      "-",
+                      "-",
+                      "-"
+                    ],
+                    [
+                      "최종",
+                      "-",
+                      "-",
+                      "-"
+                    ]
+                  ]
+                }
+              }
+            }
+          ]
         }
       ],
       "sources": [
@@ -2625,8 +2685,8 @@
           "id": "auto_alio",
           "label": "JOB-ALIO 상세 · 자동 수신",
           "url": "https://job.alio.go.kr/recruitview.do?idx=304833",
-          "sha256": "f0bfb21f0c9c3619a88fc1d69fddbefdf58d1f77a9a294618650fb1025c43fa0",
-          "receivedAt": "2026-10-07T23:04:27.945+00:00"
+          "sha256": "91a8748e30766eb9d8112b4d51464932ed77f3c51e4f6bb0ca4c85a0f2a6b0f9",
+          "receivedAt": "2026-10-24T04:34:12.112+00:00"
         }
       ],
       "attachments": [
@@ -2688,18 +2748,20 @@
         "basis": "저장된 마감일·시각(KST) 경과; 원문 정정 여부와 별개"
       },
       "autoSync": {
-        "semanticHash": "bf0985642102ff4af593f2e524c6170176acc3f93513d42aebdc81dce28a4060",
+        "semanticHash": "a0d5d2ce3ff6c25e81f556174e4ebcd47a98ba6824a502dfc2f1628bb187f9ec",
         "conditionsHash": "6966d36b3087dc1d3be122820ba1021a786ac514e9fbbd9d2432aa7c5643cf37",
-        "rawSha256": "f0bfb21f0c9c3619a88fc1d69fddbefdf58d1f77a9a294618650fb1025c43fa0",
-        "lastFetchedAt": "2026-10-07T23:04:27.945+00:00",
-        "contentChangedAt": null,
+        "rawSha256": "91a8748e30766eb9d8112b4d51464932ed77f3c51e4f6bb0ca4c85a0f2a6b0f9",
+        "lastFetchedAt": "2026-10-24T04:34:12.112+00:00",
+        "contentChangedAt": "2026-10-24T04:34:12.112+00:00",
         "baselineStatus": "compared",
         "needsReview": true,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-10-07T23:04:27.945+00:00",
+          "checkedAt": "2026-10-24T04:34:12.112+00:00",
           "status": "checked",
-          "changedUnitIds": [],
+          "changedUnitIds": [
+            "wando"
+          ],
           "preservedUnitIds": [],
           "unmatchedUnitIds": [],
           "issues": []
@@ -47187,7 +47249,7 @@
           "label": "JOB-ALIO 상세 · 자동 수신",
           "url": "https://job.alio.go.kr/recruitview.do?idx=305913",
           "sha256": "7a478fdb95d0bf78c85fe98916d241e6c31f510ba8ec160c504e5f5062c6528a",
-          "receivedAt": "2026-10-18T04:30:12.318+00:00"
+          "receivedAt": "2026-10-24T04:34:08.901+00:00"
         }
       ],
       "attachments": [
@@ -47266,13 +47328,13 @@
         "semanticHash": "01b3955f839b5a6af1436a9cfb708c34a880aaec83bf211e5a3a9bdacfb69ca4",
         "conditionsHash": "071750e32c855aef437297d714ff51d42c72182d0292c0ddf01b9031270ab229",
         "rawSha256": "7a478fdb95d0bf78c85fe98916d241e6c31f510ba8ec160c504e5f5062c6528a",
-        "lastFetchedAt": "2026-10-18T04:30:12.318+00:00",
+        "lastFetchedAt": "2026-10-24T04:34:08.901+00:00",
         "contentChangedAt": "2026-10-13T00:38:07.435+00:00",
         "baselineStatus": "compared",
         "needsReview": true,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-10-18T04:30:12.318+00:00",
+          "checkedAt": "2026-10-24T04:34:08.901+00:00",
           "status": "checked",
           "changedUnitIds": [],
           "preservedUnitIds": [],
@@ -66483,14 +66545,14 @@
   "refresh": {
     "status": "success",
     "mode": "live",
-    "lastAttemptAt": "2026-10-23T21:22:58+00:00",
-    "lastSuccessAt": "2026-10-23T21:22:58+00:00",
+    "lastAttemptAt": "2026-10-24T04:33:58+00:00",
+    "lastSuccessAt": "2026-10-24T04:33:58+00:00",
     "candidatesCount": 805,
     "coverage": {
       "description": "JOB-ALIO 최근60일 이내 진행중·비정규직·경영회계사무 목록, 목록최대2페이지·상세최대4건/회. 저장된 마감공고도 결과를 순환 재확인합니다. 전체공고 수집 아님.",
       "queuedNoticeCount": 31,
       "heldUnitCount": 774,
-      "nextPage": 2,
+      "nextPage": 3,
       "closedRecheck": {
         "recentDays": 30,
         "recentOrUnknownIntervalDays": 1,
@@ -66501,6 +66563,28 @@
       "requestLimit": 6,
       "automaticRetries": 0,
       "heldNotices": [
+        {
+          "id": "job-alio-304729",
+          "organization": "국민연금공단",
+          "title": "2차 베테랑 시니어지원단(기간제근로자) 공개채용 공고",
+          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=304729",
+          "lastFetchedAt": "2026-10-24T04:34:14.702+00:00",
+          "reasons": [
+            "모집단위명만으로 사무직 여부 미확인"
+          ],
+          "status": "unverified"
+        },
+        {
+          "id": "job-alio-304747",
+          "organization": "근로복지공단",
+          "title": "[서울남부지사] 기간제(근로자정보입력원 및 시설미화원) 채용 공고",
+          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=304747",
+          "lastFetchedAt": "2026-10-24T04:34:06.113+00:00",
+          "reasons": [
+            "모집단위명만으로 사무직 여부 미확인"
+          ],
+          "status": "unverified"
+        },
         {
           "id": "job-alio-304757",
           "organization": "한국전력공사",
@@ -66697,29 +66781,6 @@
           "title": "2026년 제13차 계약직직원 채용",
           "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305114",
           "lastFetchedAt": "2026-10-19T22:20:25.006+00:00",
-          "reasons": [
-            "모집단위명만으로 사무직 여부 미확인"
-          ],
-          "status": "unverified"
-        },
-        {
-          "id": "job-alio-305068",
-          "organization": "동남권원자력의학원",
-          "title": "2026년 제2차 동남권원자력의학원 직원채용 공고",
-          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305068",
-          "lastFetchedAt": "2026-10-19T13:11:15.549+00:00",
-          "reasons": [
-            "모집단위명만으로 사무직 여부 미확인",
-            "해당 모집단위의 기간제·계약직 여부 미확인"
-          ],
-          "status": "unverified"
-        },
-        {
-          "id": "job-alio-305880",
-          "organization": "한국장애인고용공단",
-          "title": "[한국장애인고용공단 전남지사] 2026년 체험형 청년인턴(대체근로자) 채용",
-          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305880",
-          "lastFetchedAt": "2026-10-19T04:38:29.366+00:00",
           "reasons": [
             "모집단위명만으로 사무직 여부 미확인"
           ],
