@@ -7714,7 +7714,7 @@
           "label": "JOB-ALIO 상세 · 자동 수신",
           "url": "https://job.alio.go.kr/recruitview.do?idx=304510",
           "sha256": "8971ca28055fccc9fdde04228e6ad1f6a02f6bd884d61fac465ed0bdf8d27669",
-          "receivedAt": "2026-10-09T06:06:48.723+00:00"
+          "receivedAt": "2026-10-25T04:38:46.843+00:00"
         }
       ],
       "attachments": [
@@ -7787,17 +7787,15 @@
         "semanticHash": "5659d19e348e7e28cd1beac6b104f86e0bfba8503fdf8e162138a10fbd59bdd0",
         "conditionsHash": "0fc61c33c250914aa9988a9b67b4ef03817263f5a71176d345ac07ece15c727d",
         "rawSha256": "8971ca28055fccc9fdde04228e6ad1f6a02f6bd884d61fac465ed0bdf8d27669",
-        "lastFetchedAt": "2026-10-09T06:06:48.723+00:00",
+        "lastFetchedAt": "2026-10-25T04:38:46.843+00:00",
         "contentChangedAt": "2026-10-09T06:06:48.723+00:00",
         "baselineStatus": "compared",
         "needsReview": false,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-10-09T06:06:48.723+00:00",
+          "checkedAt": "2026-10-25T04:38:46.843+00:00",
           "status": "checked",
-          "changedUnitIds": [
-            "auto-57431ad18e9860af"
-          ],
+          "changedUnitIds": [],
           "preservedUnitIds": [],
           "unmatchedUnitIds": [],
           "issues": []
@@ -48239,7 +48237,7 @@
           "label": "JOB-ALIO 상세 · 자동 수신",
           "url": "https://job.alio.go.kr/recruitview.do?idx=305963",
           "sha256": "04b3200fd06bc7ed02a7d850762616c54b6713959fd8285904c9f51c32be6a1f",
-          "receivedAt": "2026-10-18T20:40:52.164+00:00"
+          "receivedAt": "2026-10-25T04:38:43.974+00:00"
         }
       ],
       "attachments": [
@@ -48306,13 +48304,13 @@
         "semanticHash": "fcba2a4ba1698b17c64b223627160ed30d551ac77d51c78a2f897106dbbdf867",
         "conditionsHash": "a1c73c49d67eed16ce0384ef2954683742b1ba83f7b6e12c8ed00192f23c9ccf",
         "rawSha256": "04b3200fd06bc7ed02a7d850762616c54b6713959fd8285904c9f51c32be6a1f",
-        "lastFetchedAt": "2026-10-18T20:40:52.164+00:00",
+        "lastFetchedAt": "2026-10-25T04:38:43.974+00:00",
         "contentChangedAt": "2026-10-13T14:09:27.889+00:00",
         "baselineStatus": "compared",
         "needsReview": false,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-10-18T20:40:52.164+00:00",
+          "checkedAt": "2026-10-25T04:38:43.974+00:00",
           "status": "checked",
           "changedUnitIds": [],
           "preservedUnitIds": [],
@@ -69073,14 +69071,14 @@
   "refresh": {
     "status": "success",
     "mode": "live",
-    "lastAttemptAt": "2026-10-24T20:46:59+00:00",
-    "lastSuccessAt": "2026-10-24T20:46:59+00:00",
-    "candidatesCount": 825,
+    "lastAttemptAt": "2026-10-25T04:38:33+00:00",
+    "lastSuccessAt": "2026-10-25T04:38:33+00:00",
+    "candidatesCount": 826,
     "coverage": {
       "description": "JOB-ALIO 최근60일 이내 진행중·비정규직·경영회계사무 목록, 목록최대2페이지·상세최대4건/회. 저장된 마감공고도 결과를 순환 재확인합니다. 전체공고 수집 아님.",
-      "queuedNoticeCount": 26,
-      "heldUnitCount": 799,
-      "nextPage": 6,
+      "queuedNoticeCount": 25,
+      "heldUnitCount": 801,
+      "nextPage": 2,
       "closedRecheck": {
         "recentDays": 30,
         "recentOrUnknownIntervalDays": 1,
@@ -69091,6 +69089,28 @@
       "requestLimit": 6,
       "automaticRetries": 0,
       "heldNotices": [
+        {
+          "id": "job-alio-305159",
+          "organization": "한국개발연구원",
+          "title": "2026년 3분기 3차 KDI 위촉직원(대체인력) 채용 공고(행정직)",
+          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305159",
+          "lastFetchedAt": "2026-10-25T04:38:49.498+00:00",
+          "reasons": [
+            "사무직과 다른 직무가 함께 표기되어 분리 미확인"
+          ],
+          "status": "unverified"
+        },
+        {
+          "id": "job-alio-304672",
+          "organization": "(재)한국통계정보원",
+          "title": "[제2026-09] 한국통계정보원 기간제 근로자 채용 공고",
+          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=304672",
+          "lastFetchedAt": "2026-10-25T04:38:40.656+00:00",
+          "reasons": [
+            "모집단위명만으로 사무직 여부 미확인"
+          ],
+          "status": "unverified"
+        },
         {
           "id": "job-alio-305156",
           "organization": "한국토지주택공사",
@@ -69291,31 +69311,9 @@
             "모집단위명만으로 사무직 여부 미확인"
           ],
           "status": "unverified"
-        },
-        {
-          "id": "job-alio-305123",
-          "organization": "국립호남권생물자원관",
-          "title": "국립호남권생물자원관 기간제ㆍ단시간 근로자(급식종사자) 채용 재공고",
-          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305123",
-          "lastFetchedAt": "2026-10-20T17:01:41.103+00:00",
-          "reasons": [
-            "모집단위명만으로 사무직 여부 미확인"
-          ],
-          "status": "unverified"
-        },
-        {
-          "id": "job-alio-305002",
-          "organization": "한국토지주택공사",
-          "title": "한국토지주택공사 부산울산지역본부 기간제근로자(전세사기 피해자 지원 업무보조) 채용공고",
-          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305002",
-          "lastFetchedAt": "2026-10-20T17:01:33.056+00:00",
-          "reasons": [
-            "모집단위명만으로 사무직 여부 미확인"
-          ],
-          "status": "unverified"
         }
       ],
-      "heldNoticesTotal": 108,
+      "heldNoticesTotal": 109,
       "heldNoticesShownLimit": 20
     }
   }
