@@ -37805,8 +37805,8 @@
           "id": "auto_alio",
           "label": "JOB-ALIO 상세 · 자동 수신",
           "url": "https://job.alio.go.kr/recruitview.do?idx=305485",
-          "sha256": "16222d9380d40b9335e551ae91ae41b2305f9b0162c4055c4ac56a6200e0fad8",
-          "receivedAt": "2026-10-10T12:29:44.250+00:00"
+          "sha256": "36163bebd7c28e69744a3254a48220fba44e92e0ab1a691c151c6f960e57b270",
+          "receivedAt": "2026-10-27T12:08:50.298+00:00"
         }
       ],
       "attachments": [
@@ -37884,14 +37884,14 @@
       "autoSync": {
         "semanticHash": "9d47944c88ca84ea548aaf7d08d610310c80c46a9e0d1ed9cc5db03aff138137",
         "conditionsHash": "b274c0c68f0a645f22b3402b518587959388089845a3c9726e7182dda6839f21",
-        "rawSha256": "16222d9380d40b9335e551ae91ae41b2305f9b0162c4055c4ac56a6200e0fad8",
-        "lastFetchedAt": "2026-10-10T12:29:44.250+00:00",
+        "rawSha256": "36163bebd7c28e69744a3254a48220fba44e92e0ab1a691c151c6f960e57b270",
+        "lastFetchedAt": "2026-10-27T12:08:50.298+00:00",
         "contentChangedAt": "2026-10-04T05:50:43.265+00:00",
         "baselineStatus": "compared",
         "needsReview": true,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-10-10T12:29:44.250+00:00",
+          "checkedAt": "2026-10-27T12:08:50.298+00:00",
           "status": "checked",
           "changedUnitIds": [],
           "preservedUnitIds": [],
@@ -47327,7 +47327,7 @@
         }
       },
       "lifecycle": {
-        "status": "open",
+        "status": "deadline_elapsed",
         "evaluatedDate": "2026-10-27",
         "basis": "저장된 마감일·시각(KST) 경과; 원문 정정 여부와 별개"
       }
@@ -50451,7 +50451,7 @@
           "label": "JOB-ALIO 상세 · 자동 수신",
           "url": "https://job.alio.go.kr/recruitview.do?idx=306045",
           "sha256": "1dd7cd2d1b028d5867790affd01f947b6e7593e998f28066203cd6f337d6449e",
-          "receivedAt": "2026-10-21T04:43:49.755+00:00"
+          "receivedAt": "2026-10-27T12:08:47.261+00:00"
         }
       ],
       "attachments": [
@@ -50530,13 +50530,13 @@
         "semanticHash": "5218eb4b6cb70460ce51066ecc429d5633082e739e3c01ba0e6cab57b2055f80",
         "conditionsHash": "1c1e5a5a76073977a23306abfb3d547d73e66dd87b516d7906f310fd0567493c",
         "rawSha256": "1dd7cd2d1b028d5867790affd01f947b6e7593e998f28066203cd6f337d6449e",
-        "lastFetchedAt": "2026-10-21T04:43:49.755+00:00",
+        "lastFetchedAt": "2026-10-27T12:08:47.261+00:00",
         "contentChangedAt": "2026-10-15T04:36:07.403+00:00",
         "baselineStatus": "compared",
         "needsReview": false,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-10-21T04:43:49.755+00:00",
+          "checkedAt": "2026-10-27T12:08:47.261+00:00",
           "status": "checked",
           "changedUnitIds": [],
           "preservedUnitIds": [],
@@ -75140,19 +75140,1311 @@
         "evaluatedDate": "2026-10-27",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
+    },
+    {
+      "id": "job-alio-306387",
+      "idx": 306387,
+      "organization": "국립공원공단",
+      "title": "[국립공원연구원] 국립공원연구원 기간제[제한경쟁(취업지원대상자), 한시인력, 사무행정] 직원 채용(재공고)",
+      "posted": "2026-10-27",
+      "deadline": "2026-11-02",
+      "deadlineTime": null,
+      "announcementPeriod": {
+        "start": "2026-10-27",
+        "end": "2026-11-02",
+        "scope": "announcement"
+      },
+      "applicationPeriod": {
+        "start": null,
+        "end": null,
+        "endTime": null,
+        "status": "unverified",
+        "scope": "announcement",
+        "sources": [
+          "auto_alio"
+        ],
+        "raw": null,
+        "note": "명시된 접수기간을 단일 기간으로 해석하지 못했습니다. 공고기간으로 대체하지 않습니다."
+      },
+      "applicationStart": null,
+      "regions": [
+        "강원"
+      ],
+      "totalVacancies": 1,
+      "employment": "기간제",
+      "units": [
+        {
+          "id": "auto-ef38c3a7cea25578",
+          "title": "기간제(제한경쟁, 한시인력, 사무행정)(재공고)",
+          "sourceUnitName": "기간제(제한경쟁, 한시인력, 사무행정)(재공고)",
+          "employment": "기간제",
+          "regions": [
+            "강원"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "- 공단「인사규정」제18조(결격사유)에 해당되지 않은 자\r\n- 근무시작(예정)일부터 근무 가능한 자\r\n- 제한경쟁으로 취업지원대상자인 자(국가유공자 등 예우 및 지원에 관한 법률 제29조의 규정에 의한 취업지원대상자로 관련 증빙서류를 제출한 자) \r\n- 그 외 전공, 학력 등 제한 없음",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "강원",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "1. 채용공고 및 원서 접수\r\n2. 직무적합성 평가\r\n- 전형방법: 직무경력·경험(70%), 직무자격(30%), 우대가점(5%~10%)\r\n3. 최종합격자 선발",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=306387",
+              "sha256": "829b215fc111d6bed05d99a469afc0956315b639e51b3be307092fa57093d4a4",
+              "receivedAt": "2026-10-27T12:08:44.358+00:00",
+              "rawUnitName": "기간제(제한경쟁, 한시인력, 사무행정)(재공고)",
+              "rows": [
+                [
+                  "기간제(제한경쟁, 한시인력, 사무행정)(재공고)"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "recruitment_unit",
+            "method": "unit_name",
+            "value": "기간제",
+            "quote": "기간제(제한경쟁, 한시인력, 사무행정)(재공고)",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "국립공원공단",
+            "job": "기간제(제한경쟁, 한시인력, 사무행정)(재공고)",
+            "rawUnitName": "기간제(제한경쟁, 한시인력, 사무행정)(재공고)",
+            "regions": [
+              "강원"
+            ],
+            "regionsScope": "announcement",
+            "employment": "기간제",
+            "recruitmentCategory": {
+              "value": "신입+경력",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=306387",
+              "sha256": "829b215fc111d6bed05d99a469afc0956315b639e51b3be307092fa57093d4a4",
+              "receivedAt": "2026-10-27T12:08:44.358+00:00"
+            }
+          }
+        }
+      ],
+      "sources": [
+        {
+          "id": "auto_alio",
+          "label": "JOB-ALIO 상세 · 코드 수신·자동 정리",
+          "url": "https://job.alio.go.kr/recruitview.do?idx=306387",
+          "sha256": "829b215fc111d6bed05d99a469afc0956315b639e51b3be307092fa57093d4a4",
+          "receivedAt": "2026-10-27T12:08:44.358+00:00"
+        },
+        {
+          "id": "auto_original_1",
+          "label": "기관 원문 링크 · 내용 미확인",
+          "url": "https://www.knps.or.kr/front/portal/recruit/recruitDtl.do?menuNo=7070064&emplyId=EMPM019964"
+        }
+      ],
+      "attachments": [
+        {
+          "name": "공식 첨부 1",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3083049",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        },
+        {
+          "name": "공식 첨부 2",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3083050",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        },
+        {
+          "name": "공식 첨부 3",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3083051",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        },
+        {
+          "name": "공식 첨부 4",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3083052",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        },
+        {
+          "name": "공식 첨부 5",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3083053",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        }
+      ],
+      "checkedAt": "2026-10-27T12:08:44.358+00:00",
+      "collectionMethod": "automatic_public_html",
+      "collectionLabel": "코드 원격 수신 → 규칙 기반 모집단위 정리 → 저장·화면 생성 · GPT 미사용",
+      "sourceNote": "자동으로 확인 가능한 본문·결과 표만 정리했습니다. 첨부·모집단위별 상세 조건은 미확인이며, 공고 전체 원문은 별도로 표시합니다.",
+      "announcementMetadata": {
+        "raw": {
+          "표준직무(NCS)": "경영.회계.사무",
+          "학력정보": "학력무관",
+          "근무분야": "계약직",
+          "채용구분": "신입+경력",
+          "고용형태": "비정규직",
+          "대체인력여부": "아니오",
+          "근무지": "강원",
+          "급여정보": "신입 / 평균",
+          "채용인원": "1명",
+          "우대조건": "취업지원대상자, 장애인, 자립준비청년",
+          "채용기간": "26.10.27 ~ 26.11.02",
+          "등록일": "2026.10.27"
+        },
+        "rawApplicationPeriod": {
+          "raw": null,
+          "status": "미확인",
+          "source_section": "전형절차/방법",
+          "note": "명시된 접수기간 원문만 추출; 날짜 정규화·모집단위별 상이한 기간 검토는 별도"
+        },
+        "sourceSha256": "829b215fc111d6bed05d99a469afc0956315b639e51b3be307092fa57093d4a4",
+        "sourceReceivedAt": "2026-10-27T12:08:44.358+00:00",
+        "method": "auto-normalize-0.1"
+      },
+      "autoNormalization": {
+        "version": "auto-normalize-0.1",
+        "semanticHash": "9a8056ece88331a54272741b98723a2926cc26354bcbe21d92662b79d2be178d",
+        "generatedFrom": {
+          "url": "https://job.alio.go.kr/recruitview.do?idx=306387",
+          "sha256": "829b215fc111d6bed05d99a469afc0956315b639e51b3be307092fa57093d4a4",
+          "receivedAt": "2026-10-27T12:08:44.358+00:00"
+        },
+        "aiUsed": false,
+        "heldUnitCount": 0
+      },
+      "autoSync": {
+        "semanticHash": "9a8056ece88331a54272741b98723a2926cc26354bcbe21d92662b79d2be178d",
+        "conditionsHash": "ec20014fc7a15f269eebf42aa592bc26d2c4784c86ce767b7e50af779085410a",
+        "rawSha256": "829b215fc111d6bed05d99a469afc0956315b639e51b3be307092fa57093d4a4",
+        "lastFetchedAt": "2026-10-27T12:08:44.358+00:00",
+        "contentChangedAt": "2026-10-27T12:08:44.358+00:00",
+        "baselineStatus": "first_capture",
+        "needsReview": false,
+        "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
+        "resultCheck": {
+          "checkedAt": "2026-10-27T12:08:44.358+00:00",
+          "status": "checked",
+          "changedUnitIds": [
+            "auto-ef38c3a7cea25578"
+          ],
+          "preservedUnitIds": [],
+          "unmatchedUnitIds": [],
+          "issues": []
+        }
+      },
+      "lifecycle": {
+        "status": "open",
+        "evaluatedDate": "2026-10-27",
+        "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
+      }
+    },
+    {
+      "id": "job-alio-306405",
+      "idx": 306405,
+      "organization": "한국관광공사",
+      "title": "한국관광공사 2027년 체험형 청년인턴 및 기간제 근로자 채용공고(1분기)",
+      "posted": "2026-10-27",
+      "deadline": "2026-11-11",
+      "deadlineTime": null,
+      "announcementPeriod": {
+        "start": "2026-10-27",
+        "end": "2026-11-11",
+        "scope": "announcement"
+      },
+      "applicationPeriod": {
+        "start": null,
+        "end": null,
+        "endTime": null,
+        "status": "unverified",
+        "scope": "announcement",
+        "sources": [
+          "auto_alio"
+        ],
+        "raw": null,
+        "note": "명시된 접수기간을 단일 기간으로 해석하지 못했습니다. 공고기간으로 대체하지 않습니다."
+      },
+      "applicationStart": null,
+      "regions": [
+        "서울",
+        "대전",
+        "부산",
+        "강원",
+        "충북",
+        "전북",
+        "전남광주"
+      ],
+      "totalVacancies": 39,
+      "employment": "기간제",
+      "units": [
+        {
+          "id": "auto-ac03c09b21b75841",
+          "title": "기간제 근로자 사무보조(평가분석팀)",
+          "sourceUnitName": "기간제 근로자 사무보조(평가분석팀)",
+          "employment": "기간제",
+          "regions": [
+            "서울",
+            "대전",
+            "부산",
+            "강원",
+            "충북",
+            "전북",
+            "전남광주"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "1. 체험형 청년인턴\r\n  가. 공통 지원자격\r\n    1) 한국관광공사 청년인턴 근무경험이 없는 자\r\n    2) 공사 인사규정 제12조의 결격사유 및 채용시행세칙 제19조의 부정행위자에 해당하지 않는 자\r\n    3) 입사예정일부터 근무 가능한 자\r\n    4) 「청년고용촉진 특별법」 제2조에 따른 청년 연령으로서, 입사예정일 기준 15세 이상 34세 이하인 자\r\n      * 단, 「제대군인지원에 관한 법률 시행령」 제19조에 의거하여 제대군인 응시연령 상한 연장 적용\r\n  나. 부문별 지원자격\r\n    1) 일반(본사), 일반(서울센터): 600점 이상의 TOEIC 성적 보유자\r\n    2) 고졸인재(본사), 고졸인재(전북지사), 고졸인재(전남광주지사), 고졸인재(부산울산경남지사): 아래 자격을 모두 충족하는 자\r\n      가) 600점 이상의 TOEIC 성적 보유자\r\n      나) 고교졸업예정자 및 최종학력이 고졸인 자\r\n    3) 사회형평인재: 아래 자격을 모두 충족하는 자\r\n      가) 600점 이상의 TOEIC 성적 보유자\r\n      나) 본 공고 '우대사항'에 따른 저소득층, 북한이탈주민, 다문화가족, 자립준비청년, 경력단절여성 중 어느 하나에 해당하는 자\r\n    4) 취업지원대상자: 아래 자격을 모두 충족하는 자\r\n      가) 600점 이상의 TOEIC 성적 보유자\r\n      나) 본 공고 '우대사항'에 따른 취업지원대상자에 해당하는 자\r\n    5) 장애인: 「장애인고용촉진 및 직업재활법」에 의거한 장애인 또는 중증장애인\r\n\r\n2. 기간제 근로자\r\n  가. 공통 지원자격\r\n    1) 공사 인사규정 제12조의 결격사유 및 채용시행세칙 제19조의 부정행위자에 해당하지 않는 자\r\n    2) 입사예정일 기준 공사 정년(만 60세) 미만인 자\r\n    3) 입사예정일부터 근무 가능한 자\r\n  나. 부문별 지원자격\r\n    1) 창업지원(지역관광협력팀): 경영학 및 관광학 관련 박사학위 소지자\r\n\r\n※ 보다 자세한 사항은 첨부파일의 채용공고문을 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "서울,대전,부산,강원,충북,전북,전남광주",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "1. 체험형 청년인턴\r\n  가. 1차(서류전형): 3배수, 입사지원서 적부심사, 계량평가(100점)\r\n    * 체험형 청년인턴 '장애인' 부문은 계량평가 미실시로, 적부심사 결과 적격 시 만점(100점) 부여\r\n  나. 2차(면접전형): 1배수, 면접평가(100점)\r\n\r\n2. 기간제 근로자\r\n  가. 1차(서류전형): 5배수, 입사지원서 적부심사, 계량평가(100점)\r\n  나. 2차(인성검사): 서류전형 합격자 대상 인성 검사\r\n       * 면접전형 면접관 참고자료로 활용되며, 기한 내 미완료자는 면접전형 응시 불가\r\n  다. 3차(면접전형): 1배수, 면접평가(100점)\r\n\r\n※ 전형별 우대사항 적용 기준 등 보다 자세한 사항은 첨부파일의 채용공고문을 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "2차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=306405",
+              "sha256": "7c568541be23f101812624730e8cde64d2e7880ab629560bed0f56d47f771adb",
+              "receivedAt": "2026-10-27T12:08:53.676+00:00",
+              "rawUnitName": "기간제 근로자 사무보조(평가분석팀)",
+              "rows": [
+                [
+                  "기간제 근로자 사무보조(평가분석팀)"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "2차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "recruitment_unit",
+            "method": "unit_name",
+            "value": "기간제",
+            "quote": "기간제 근로자 사무보조(평가분석팀)",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "한국관광공사",
+            "job": "기간제 근로자 사무보조(평가분석팀)",
+            "rawUnitName": "기간제 근로자 사무보조(평가분석팀)",
+            "regions": [
+              "서울",
+              "대전",
+              "부산",
+              "강원",
+              "충북",
+              "전북",
+              "전남광주"
+            ],
+            "regionsScope": "announcement",
+            "employment": "기간제",
+            "recruitmentCategory": {
+              "value": "신입",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=306405",
+              "sha256": "7c568541be23f101812624730e8cde64d2e7880ab629560bed0f56d47f771adb",
+              "receivedAt": "2026-10-27T12:08:53.676+00:00"
+            }
+          }
+        },
+        {
+          "id": "auto-e66df51355eab058",
+          "title": "기간제 근로자 사무보조(세종충북지사)",
+          "sourceUnitName": "기간제 근로자 사무보조(세종충북지사)",
+          "employment": "기간제",
+          "regions": [
+            "서울",
+            "대전",
+            "부산",
+            "강원",
+            "충북",
+            "전북",
+            "전남광주"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "1. 체험형 청년인턴\r\n  가. 공통 지원자격\r\n    1) 한국관광공사 청년인턴 근무경험이 없는 자\r\n    2) 공사 인사규정 제12조의 결격사유 및 채용시행세칙 제19조의 부정행위자에 해당하지 않는 자\r\n    3) 입사예정일부터 근무 가능한 자\r\n    4) 「청년고용촉진 특별법」 제2조에 따른 청년 연령으로서, 입사예정일 기준 15세 이상 34세 이하인 자\r\n      * 단, 「제대군인지원에 관한 법률 시행령」 제19조에 의거하여 제대군인 응시연령 상한 연장 적용\r\n  나. 부문별 지원자격\r\n    1) 일반(본사), 일반(서울센터): 600점 이상의 TOEIC 성적 보유자\r\n    2) 고졸인재(본사), 고졸인재(전북지사), 고졸인재(전남광주지사), 고졸인재(부산울산경남지사): 아래 자격을 모두 충족하는 자\r\n      가) 600점 이상의 TOEIC 성적 보유자\r\n      나) 고교졸업예정자 및 최종학력이 고졸인 자\r\n    3) 사회형평인재: 아래 자격을 모두 충족하는 자\r\n      가) 600점 이상의 TOEIC 성적 보유자\r\n      나) 본 공고 '우대사항'에 따른 저소득층, 북한이탈주민, 다문화가족, 자립준비청년, 경력단절여성 중 어느 하나에 해당하는 자\r\n    4) 취업지원대상자: 아래 자격을 모두 충족하는 자\r\n      가) 600점 이상의 TOEIC 성적 보유자\r\n      나) 본 공고 '우대사항'에 따른 취업지원대상자에 해당하는 자\r\n    5) 장애인: 「장애인고용촉진 및 직업재활법」에 의거한 장애인 또는 중증장애인\r\n\r\n2. 기간제 근로자\r\n  가. 공통 지원자격\r\n    1) 공사 인사규정 제12조의 결격사유 및 채용시행세칙 제19조의 부정행위자에 해당하지 않는 자\r\n    2) 입사예정일 기준 공사 정년(만 60세) 미만인 자\r\n    3) 입사예정일부터 근무 가능한 자\r\n  나. 부문별 지원자격\r\n    1) 창업지원(지역관광협력팀): 경영학 및 관광학 관련 박사학위 소지자\r\n\r\n※ 보다 자세한 사항은 첨부파일의 채용공고문을 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "서울,대전,부산,강원,충북,전북,전남광주",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "1. 체험형 청년인턴\r\n  가. 1차(서류전형): 3배수, 입사지원서 적부심사, 계량평가(100점)\r\n    * 체험형 청년인턴 '장애인' 부문은 계량평가 미실시로, 적부심사 결과 적격 시 만점(100점) 부여\r\n  나. 2차(면접전형): 1배수, 면접평가(100점)\r\n\r\n2. 기간제 근로자\r\n  가. 1차(서류전형): 5배수, 입사지원서 적부심사, 계량평가(100점)\r\n  나. 2차(인성검사): 서류전형 합격자 대상 인성 검사\r\n       * 면접전형 면접관 참고자료로 활용되며, 기한 내 미완료자는 면접전형 응시 불가\r\n  다. 3차(면접전형): 1배수, 면접평가(100점)\r\n\r\n※ 전형별 우대사항 적용 기준 등 보다 자세한 사항은 첨부파일의 채용공고문을 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "2차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=306405",
+              "sha256": "7c568541be23f101812624730e8cde64d2e7880ab629560bed0f56d47f771adb",
+              "receivedAt": "2026-10-27T12:08:53.676+00:00",
+              "rawUnitName": "기간제 근로자 사무보조(세종충북지사)",
+              "rows": [
+                [
+                  "기간제 근로자 사무보조(세종충북지사)"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "2차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "recruitment_unit",
+            "method": "unit_name",
+            "value": "기간제",
+            "quote": "기간제 근로자 사무보조(세종충북지사)",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "한국관광공사",
+            "job": "기간제 근로자 사무보조(세종충북지사)",
+            "rawUnitName": "기간제 근로자 사무보조(세종충북지사)",
+            "regions": [
+              "서울",
+              "대전",
+              "부산",
+              "강원",
+              "충북",
+              "전북",
+              "전남광주"
+            ],
+            "regionsScope": "announcement",
+            "employment": "기간제",
+            "recruitmentCategory": {
+              "value": "신입",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=306405",
+              "sha256": "7c568541be23f101812624730e8cde64d2e7880ab629560bed0f56d47f771adb",
+              "receivedAt": "2026-10-27T12:08:53.676+00:00"
+            }
+          }
+        },
+        {
+          "id": "auto-9b7a341951240d95",
+          "title": "기간제 근로자 행정담당(대전충남지사)",
+          "sourceUnitName": "기간제 근로자 행정담당(대전충남지사)",
+          "employment": "기간제",
+          "regions": [
+            "서울",
+            "대전",
+            "부산",
+            "강원",
+            "충북",
+            "전북",
+            "전남광주"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "1. 체험형 청년인턴\r\n  가. 공통 지원자격\r\n    1) 한국관광공사 청년인턴 근무경험이 없는 자\r\n    2) 공사 인사규정 제12조의 결격사유 및 채용시행세칙 제19조의 부정행위자에 해당하지 않는 자\r\n    3) 입사예정일부터 근무 가능한 자\r\n    4) 「청년고용촉진 특별법」 제2조에 따른 청년 연령으로서, 입사예정일 기준 15세 이상 34세 이하인 자\r\n      * 단, 「제대군인지원에 관한 법률 시행령」 제19조에 의거하여 제대군인 응시연령 상한 연장 적용\r\n  나. 부문별 지원자격\r\n    1) 일반(본사), 일반(서울센터): 600점 이상의 TOEIC 성적 보유자\r\n    2) 고졸인재(본사), 고졸인재(전북지사), 고졸인재(전남광주지사), 고졸인재(부산울산경남지사): 아래 자격을 모두 충족하는 자\r\n      가) 600점 이상의 TOEIC 성적 보유자\r\n      나) 고교졸업예정자 및 최종학력이 고졸인 자\r\n    3) 사회형평인재: 아래 자격을 모두 충족하는 자\r\n      가) 600점 이상의 TOEIC 성적 보유자\r\n      나) 본 공고 '우대사항'에 따른 저소득층, 북한이탈주민, 다문화가족, 자립준비청년, 경력단절여성 중 어느 하나에 해당하는 자\r\n    4) 취업지원대상자: 아래 자격을 모두 충족하는 자\r\n      가) 600점 이상의 TOEIC 성적 보유자\r\n      나) 본 공고 '우대사항'에 따른 취업지원대상자에 해당하는 자\r\n    5) 장애인: 「장애인고용촉진 및 직업재활법」에 의거한 장애인 또는 중증장애인\r\n\r\n2. 기간제 근로자\r\n  가. 공통 지원자격\r\n    1) 공사 인사규정 제12조의 결격사유 및 채용시행세칙 제19조의 부정행위자에 해당하지 않는 자\r\n    2) 입사예정일 기준 공사 정년(만 60세) 미만인 자\r\n    3) 입사예정일부터 근무 가능한 자\r\n  나. 부문별 지원자격\r\n    1) 창업지원(지역관광협력팀): 경영학 및 관광학 관련 박사학위 소지자\r\n\r\n※ 보다 자세한 사항은 첨부파일의 채용공고문을 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "서울,대전,부산,강원,충북,전북,전남광주",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "1. 체험형 청년인턴\r\n  가. 1차(서류전형): 3배수, 입사지원서 적부심사, 계량평가(100점)\r\n    * 체험형 청년인턴 '장애인' 부문은 계량평가 미실시로, 적부심사 결과 적격 시 만점(100점) 부여\r\n  나. 2차(면접전형): 1배수, 면접평가(100점)\r\n\r\n2. 기간제 근로자\r\n  가. 1차(서류전형): 5배수, 입사지원서 적부심사, 계량평가(100점)\r\n  나. 2차(인성검사): 서류전형 합격자 대상 인성 검사\r\n       * 면접전형 면접관 참고자료로 활용되며, 기한 내 미완료자는 면접전형 응시 불가\r\n  다. 3차(면접전형): 1배수, 면접평가(100점)\r\n\r\n※ 전형별 우대사항 적용 기준 등 보다 자세한 사항은 첨부파일의 채용공고문을 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "2차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=306405",
+              "sha256": "7c568541be23f101812624730e8cde64d2e7880ab629560bed0f56d47f771adb",
+              "receivedAt": "2026-10-27T12:08:53.676+00:00",
+              "rawUnitName": "기간제 근로자 행정담당(대전충남지사)",
+              "rows": [
+                [
+                  "기간제 근로자 행정담당(대전충남지사)"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "2차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "recruitment_unit",
+            "method": "unit_name",
+            "value": "기간제",
+            "quote": "기간제 근로자 행정담당(대전충남지사)",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "한국관광공사",
+            "job": "기간제 근로자 행정담당(대전충남지사)",
+            "rawUnitName": "기간제 근로자 행정담당(대전충남지사)",
+            "regions": [
+              "서울",
+              "대전",
+              "부산",
+              "강원",
+              "충북",
+              "전북",
+              "전남광주"
+            ],
+            "regionsScope": "announcement",
+            "employment": "기간제",
+            "recruitmentCategory": {
+              "value": "신입",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=306405",
+              "sha256": "7c568541be23f101812624730e8cde64d2e7880ab629560bed0f56d47f771adb",
+              "receivedAt": "2026-10-27T12:08:53.676+00:00"
+            }
+          }
+        }
+      ],
+      "sources": [
+        {
+          "id": "auto_alio",
+          "label": "JOB-ALIO 상세 · 코드 수신·자동 정리",
+          "url": "https://job.alio.go.kr/recruitview.do?idx=306405",
+          "sha256": "7c568541be23f101812624730e8cde64d2e7880ab629560bed0f56d47f771adb",
+          "receivedAt": "2026-10-27T12:08:53.676+00:00"
+        },
+        {
+          "id": "auto_original_1",
+          "label": "기관 원문 링크 · 내용 미확인",
+          "url": "https://kto.recruit-zone.co.kr/"
+        }
+      ],
+      "attachments": [
+        {
+          "name": "공식 첨부 1",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3083149",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        },
+        {
+          "name": "공식 첨부 2",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3083150",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        },
+        {
+          "name": "공식 첨부 3",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3083151",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        },
+        {
+          "name": "공식 첨부 4",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3083152",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        }
+      ],
+      "checkedAt": "2026-10-27T12:08:53.676+00:00",
+      "collectionMethod": "automatic_public_html",
+      "collectionLabel": "코드 원격 수신 → 규칙 기반 모집단위 정리 → 저장·화면 생성 · GPT 미사용",
+      "sourceNote": "자동으로 확인 가능한 본문·결과 표만 정리했습니다. 첨부·모집단위별 상세 조건은 미확인이며, 공고 전체 원문은 별도로 표시합니다.",
+      "announcementMetadata": {
+        "raw": {
+          "표준직무(NCS)": "사업관리,경영.회계.사무",
+          "학력정보": "학력무관,고졸,박사",
+          "근무분야": "행정직,사무직,계약직",
+          "채용구분": "신입",
+          "고용형태": "비정규직,청년인턴(체험형)",
+          "대체인력여부": "예",
+          "근무지": "서울,대전,부산,강원,충북,전북,전남광주",
+          "급여정보": "신입 / 평균",
+          "채용인원": "39명",
+          "우대조건": "취업지원대상자, 저소득층, 북한이탈주민, 다문화가족, 자립준비청년, 경력단절여성, 장애인, 고졸인재, 이전지역(강원)인재, 비수도권 지역인재 등 - 보다 자세한 사항은 첨부파일의 채용공고문을 참조",
+          "채용기간": "26.10.27 ~ 26.11.11",
+          "등록일": "2026.10.27"
+        },
+        "rawApplicationPeriod": {
+          "raw": null,
+          "status": "미확인",
+          "source_section": "전형절차/방법",
+          "note": "명시된 접수기간 원문만 추출; 날짜 정규화·모집단위별 상이한 기간 검토는 별도"
+        },
+        "sourceSha256": "7c568541be23f101812624730e8cde64d2e7880ab629560bed0f56d47f771adb",
+        "sourceReceivedAt": "2026-10-27T12:08:53.676+00:00",
+        "method": "auto-normalize-0.1"
+      },
+      "autoNormalization": {
+        "version": "auto-normalize-0.1",
+        "semanticHash": "5fc0653ff79207e7e24ecca078d05d600ddf3502df94ca817abbb0463e2b095a",
+        "generatedFrom": {
+          "url": "https://job.alio.go.kr/recruitview.do?idx=306405",
+          "sha256": "7c568541be23f101812624730e8cde64d2e7880ab629560bed0f56d47f771adb",
+          "receivedAt": "2026-10-27T12:08:53.676+00:00"
+        },
+        "aiUsed": false,
+        "heldUnitCount": 10
+      },
+      "autoSync": {
+        "semanticHash": "5fc0653ff79207e7e24ecca078d05d600ddf3502df94ca817abbb0463e2b095a",
+        "conditionsHash": "873aa76541cf4c7228ac274d2cef0aecd7f3c50e1fa65b5fe266742f8484e67d",
+        "rawSha256": "7c568541be23f101812624730e8cde64d2e7880ab629560bed0f56d47f771adb",
+        "lastFetchedAt": "2026-10-27T12:08:53.676+00:00",
+        "contentChangedAt": "2026-10-27T12:08:53.676+00:00",
+        "baselineStatus": "first_capture",
+        "needsReview": true,
+        "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
+        "resultCheck": {
+          "checkedAt": "2026-10-27T12:08:53.676+00:00",
+          "status": "checked",
+          "changedUnitIds": [
+            "auto-ac03c09b21b75841",
+            "auto-e66df51355eab058",
+            "auto-9b7a341951240d95"
+          ],
+          "preservedUnitIds": [],
+          "unmatchedUnitIds": [],
+          "issues": []
+        }
+      },
+      "lifecycle": {
+        "status": "open",
+        "evaluatedDate": "2026-10-27",
+        "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
+      }
     }
   ],
   "refresh": {
     "status": "success",
     "mode": "live",
-    "lastAttemptAt": "2026-10-27T05:01:15+00:00",
-    "lastSuccessAt": "2026-10-27T05:01:15+00:00",
-    "candidatesCount": 858,
+    "lastAttemptAt": "2026-10-27T12:08:35+00:00",
+    "lastSuccessAt": "2026-10-27T12:08:35+00:00",
+    "candidatesCount": 870,
     "coverage": {
       "description": "JOB-ALIO 최근60일 이내 진행중·비정규직·경영회계사무 목록, 목록최대2페이지·상세최대4건/회. 저장된 마감공고도 결과를 순환 재확인합니다. 전체공고 수집 아님.",
-      "queuedNoticeCount": 29,
-      "heldUnitCount": 829,
-      "nextPage": 7,
+      "queuedNoticeCount": 31,
+      "heldUnitCount": 839,
+      "nextPage": 2,
       "closedRecheck": {
         "recentDays": 30,
         "recentOrUnknownIntervalDays": 1,
