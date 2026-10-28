@@ -32835,8 +32835,8 @@
           "id": "auto_alio",
           "label": "JOB-ALIO 상세 · 자동 수신",
           "url": "https://job.alio.go.kr/recruitview.do?idx=305453",
-          "sha256": "8d4aff30307848a255c1df6cdf97a14ba8cc1f9a62c9c39e310e1753dc739cd4",
-          "receivedAt": "2026-10-11T05:44:28.935+00:00"
+          "sha256": "23b5d2ce89067f7e19599980015e2d79441a55e69396e59e291d88ca51ac853d",
+          "receivedAt": "2026-10-28T12:51:35.001+00:00"
         }
       ],
       "attachments": [
@@ -32902,14 +32902,14 @@
       "autoSync": {
         "semanticHash": "71145e2931ec7d1923dc397c79f9c28e0cbb200bc92f7e2d1ab8badd2e8c13cf",
         "conditionsHash": "54d197eb1a9c1833a187be7c6db0bfc8ce600a33223986a38916687e71d73688",
-        "rawSha256": "8d4aff30307848a255c1df6cdf97a14ba8cc1f9a62c9c39e310e1753dc739cd4",
-        "lastFetchedAt": "2026-10-11T05:44:28.935+00:00",
+        "rawSha256": "23b5d2ce89067f7e19599980015e2d79441a55e69396e59e291d88ca51ac853d",
+        "lastFetchedAt": "2026-10-28T12:51:35.001+00:00",
         "contentChangedAt": "2026-09-29T12:50:48.408+00:00",
         "baselineStatus": "compared",
         "needsReview": false,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-10-11T05:44:28.935+00:00",
+          "checkedAt": "2026-10-28T12:51:35.001+00:00",
           "status": "checked",
           "changedUnitIds": [],
           "preservedUnitIds": [],
@@ -51319,7 +51319,7 @@
           "label": "JOB-ALIO 상세 · 자동 수신",
           "url": "https://job.alio.go.kr/recruitview.do?idx=306035",
           "sha256": "6843b95d68c71415c1b80c0fe36b94750fcf96a0c88bee1c4dd92a7607e04fed",
-          "receivedAt": "2026-10-21T17:10:35.488+00:00"
+          "receivedAt": "2026-10-28T12:51:32.095+00:00"
         }
       ],
       "attachments": [
@@ -51386,13 +51386,13 @@
         "semanticHash": "bdc50fd81276de666ae4c82cd3683f13eb94bdcac3708c4f179a8900c1dc6308",
         "conditionsHash": "a9e7412a28462449be5b97a7f978f34c1438a6e7dbff0818ffb263d58a1b6394",
         "rawSha256": "6843b95d68c71415c1b80c0fe36b94750fcf96a0c88bee1c4dd92a7607e04fed",
-        "lastFetchedAt": "2026-10-21T17:10:35.488+00:00",
+        "lastFetchedAt": "2026-10-28T12:51:32.095+00:00",
         "contentChangedAt": "2026-10-15T04:36:17.105+00:00",
         "baselineStatus": "compared",
         "needsReview": false,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-10-21T17:10:35.488+00:00",
+          "checkedAt": "2026-10-28T12:51:32.095+00:00",
           "status": "checked",
           "changedUnitIds": [],
           "preservedUnitIds": [],
@@ -80542,14 +80542,14 @@
   "refresh": {
     "status": "success",
     "mode": "live",
-    "lastAttemptAt": "2026-10-28T05:39:32+00:00",
-    "lastSuccessAt": "2026-10-28T05:39:32+00:00",
-    "candidatesCount": 878,
+    "lastAttemptAt": "2026-10-28T12:51:20+00:00",
+    "lastSuccessAt": "2026-10-28T12:51:20+00:00",
+    "candidatesCount": 880,
     "coverage": {
       "description": "JOB-ALIO 최근60일 이내 진행중·비정규직·경영회계사무 목록, 목록최대2페이지·상세최대4건/회. 저장된 마감공고도 결과를 순환 재확인합니다. 전체공고 수집 아님.",
-      "queuedNoticeCount": 30,
-      "heldUnitCount": 848,
-      "nextPage": 5,
+      "queuedNoticeCount": 29,
+      "heldUnitCount": 851,
+      "nextPage": 6,
       "closedRecheck": {
         "recentDays": 30,
         "recentOrUnknownIntervalDays": 1,
@@ -80560,6 +80560,28 @@
       "requestLimit": 6,
       "automaticRetries": 0,
       "heldNotices": [
+        {
+          "id": "job-alio-306367",
+          "organization": "근로복지공단",
+          "title": "[경인지역관내] 공무직(시설경비원) 및 기간제(근로자정보조사원) 채용 공고",
+          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=306367",
+          "lastFetchedAt": "2026-10-28T12:51:37.960+00:00",
+          "reasons": [
+            "모집단위명만으로 사무직 여부 미확인"
+          ],
+          "status": "unverified"
+        },
+        {
+          "id": "job-alio-306444",
+          "organization": "한국장애인고용공단",
+          "title": "[한국장애인고용공단 울산지사] 대체 근로자 채용 공고",
+          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=306444",
+          "lastFetchedAt": "2026-10-28T12:51:29.327+00:00",
+          "reasons": [
+            "모집단위명만으로 사무직 여부 미확인"
+          ],
+          "status": "unverified"
+        },
         {
           "id": "job-alio-305159",
           "organization": "한국개발연구원",
@@ -80760,31 +80782,9 @@
             "모집단위명만으로 사무직 여부 미확인"
           ],
           "status": "unverified"
-        },
-        {
-          "id": "job-alio-304965",
-          "organization": "축산물품질평가원",
-          "title": "2026년 하반기 신규직원 기간제 근로자(공인노무사) 채용공고",
-          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=304965",
-          "lastFetchedAt": "2026-10-20T21:36:07.561+00:00",
-          "reasons": [
-            "모집단위명만으로 사무직 여부 미확인"
-          ],
-          "status": "unverified"
-        },
-        {
-          "id": "job-alio-304969",
-          "organization": "축산물품질평가원",
-          "title": "2026년 하반기 신규직원 기간제 근로자(장애) 채용공고",
-          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=304969",
-          "lastFetchedAt": "2026-10-20T21:35:59.296+00:00",
-          "reasons": [
-            "모집단위명만으로 사무직 여부 미확인"
-          ],
-          "status": "unverified"
         }
       ],
-      "heldNoticesTotal": 109,
+      "heldNoticesTotal": 111,
       "heldNoticesShownLimit": 20
     }
   }
