@@ -1,61 +1,76 @@
 {
-  "startedAt": "2026-10-29T22:44:02+00:00",
+  "startedAt": "2026-10-30T05:45:35+00:00",
   "mode": "live",
-  "records": [
+  "records": [],
+  "errors": [
     {
-      "id": "job-alio-306504",
-      "status": "held",
-      "unitCount": 0
+      "id": null,
+      "phase": "list",
+      "error": "원문 수신 실패·불완전·접근제한: transport_error",
+      "existingNoticePreserved": false
     },
     {
-      "id": "job-alio-306278",
-      "status": "unchanged",
-      "unitCount": 1
+      "id": "job-alio-306497",
+      "phase": "detail",
+      "error": "원문 수신 실패·불완전·접근제한: transport_error",
+      "existingNoticePreserved": false
     },
     {
-      "id": "job-alio-304990",
-      "status": "unchanged",
-      "unitCount": 1
+      "id": "job-alio-306277",
+      "phase": "detail",
+      "error": "원문 수신 실패·불완전·접근제한: transport_error",
+      "existingNoticePreserved": true
     },
     {
-      "id": "job-alio-306503",
-      "status": "added",
-      "unitCount": 1
+      "id": "job-alio-305142",
+      "phase": "detail",
+      "error": "원문 수신 실패·불완전·접근제한: transport_error",
+      "existingNoticePreserved": true
+    },
+    {
+      "id": "job-alio-306458",
+      "phase": "detail",
+      "error": "원문 수신 실패·불완전·접근제한: transport_error",
+      "existingNoticePreserved": false
+    },
+    {
+      "phase": "list",
+      "page": 1,
+      "error": "원문 수신 실패·불완전·접근제한: transport_error"
+    },
+    {
+      "phase": "detail",
+      "id": "job-alio-306497",
+      "error": "원문 수신 실패·불완전·접근제한: transport_error"
+    },
+    {
+      "phase": "detail",
+      "id": "job-alio-306277",
+      "error": "원문 수신 실패·불완전·접근제한: transport_error"
+    },
+    {
+      "phase": "detail",
+      "id": "job-alio-305142",
+      "error": "원문 수신 실패·불완전·접근제한: transport_error"
+    },
+    {
+      "phase": "detail",
+      "id": "job-alio-306458",
+      "error": "원문 수신 실패·불완전·접근제한: transport_error"
     }
   ],
-  "errors": [],
-  "newRemoteRequests": 6,
-  "status": "success",
+  "newRemoteRequests": 5,
+  "status": "failed",
   "noticeCount": 144,
-  "added": 1,
+  "added": 0,
   "changedIds": [],
-  "deadlineEvents": [
-    {
-      "id": "job-alio-306014",
-      "from": "open",
-      "to": "deadline_elapsed",
-      "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
-    },
-    {
-      "id": "job-alio-306027",
-      "from": "open",
-      "to": "deadline_elapsed",
-      "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
-    },
-    {
-      "id": "job-alio-306065",
-      "from": "open",
-      "to": "deadline_elapsed",
-      "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
-    },
-    {
-      "id": "job-alio-306091",
-      "from": "open",
-      "to": "deadline_elapsed",
-      "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
-    }
+  "deadlineEvents": [],
+  "actualListPages": 0,
+  "preservedFailedIds": [
+    "job-alio-305142",
+    "job-alio-306277",
+    "job-alio-306458",
+    "job-alio-306497"
   ],
-  "actualListPages": 2,
-  "preservedFailedIds": [],
-  "finishedAt": "2026-10-29T22:44:18+00:00"
+  "finishedAt": "2026-10-30T05:47:20+00:00"
 }
