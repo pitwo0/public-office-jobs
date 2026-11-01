@@ -22344,33 +22344,34 @@
             ],
             "method": "deterministic_public_html_parser"
           },
-          "competition": null,
-          "competitionRecord": {
-            "status": "not_disclosed",
-            "officialValueRaw": null,
-            "officialLabel": "최종 경쟁률",
+          "competition": {
+            "label": "JOB-ALIO 최종 경쟁률",
+            "published": 9,
+            "publishedRaw": "9",
             "scope": "recruitment_unit",
+            "definition": "공식 표기값입니다. 산식·분자/분모 정의는 미확인입니다. 전형별 인원과 구분합니다.",
             "definitionStatus": "unverified",
-            "numeratorDefinition": null,
-            "denominatorDefinition": null,
+            "sources": [
+              "auto_alio"
+            ],
             "stages": [
               {
                 "name": "1차",
-                "applicants": null,
-                "selected": null,
-                "date": null
+                "applicants": 9,
+                "selected": 9,
+                "date": "2026-10-13"
               },
               {
                 "name": "최종",
-                "applicants": null,
-                "selected": null,
-                "date": null
+                "applicants": 4,
+                "selected": 1,
+                "date": "2026-10-20"
               }
             ],
             "evidence": {
               "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305333",
-              "sha256": "0af77b5df182cf61093a772a06fab20597a90cbe89a41bf12bc8a9e14a5655cf",
-              "receivedAt": "2026-09-24T04:48:13.126+00:00",
+              "sha256": "8530a146c2093e26d77eed906d9653f94c792ec77e9ed79587501e7f08eeea09",
+              "receivedAt": "2026-11-01T05:59:41.042+00:00",
               "rawUnitName": "전력사업처 사무",
               "rows": [
                 [
@@ -22384,20 +22385,80 @@
                 ],
                 [
                   "1차",
-                  "-",
-                  "-",
-                  "-"
+                  "9명",
+                  "9명",
+                  "2026.10.13"
                 ],
                 [
                   "최종",
-                  "-",
-                  "-",
-                  "-"
+                  "1명",
+                  "4명",
+                  "2026.10.20"
+                ],
+                [
+                  "경쟁률",
+                  "최종 경쟁률 9 대 1"
                 ]
               ],
               "method": "deterministic_public_html_parser"
-            },
-            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+            }
+          },
+          "competitionRecord": {
+            "status": "confirmed",
+            "officialValueRaw": "9",
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": 9,
+                "selected": 9,
+                "date": "2026-10-13"
+              },
+              {
+                "name": "최종",
+                "applicants": 4,
+                "selected": 1,
+                "date": "2026-10-20"
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305333",
+              "sha256": "8530a146c2093e26d77eed906d9653f94c792ec77e9ed79587501e7f08eeea09",
+              "receivedAt": "2026-11-01T05:59:41.042+00:00",
+              "rawUnitName": "전력사업처 사무",
+              "rows": [
+                [
+                  "전력사업처 사무"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "9명",
+                  "9명",
+                  "2026.10.13"
+                ],
+                [
+                  "최종",
+                  "1명",
+                  "4명",
+                  "2026.10.20"
+                ],
+                [
+                  "경쟁률",
+                  "최종 경쟁률 9 대 1"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            }
           },
           "employmentEvidence": {
             "scope": "announcement",
@@ -22471,7 +22532,67 @@
               "sha256": "0af77b5df182cf61093a772a06fab20597a90cbe89a41bf12bc8a9e14a5655cf",
               "receivedAt": "2026-09-24T04:48:13.126+00:00"
             }
-          }
+          },
+          "competitionHistory": [
+            {
+              "supersededAt": "2026-11-01T05:59:41.042+00:00",
+              "competition": null,
+              "competitionRecord": {
+                "status": "not_disclosed",
+                "officialValueRaw": null,
+                "officialLabel": "최종 경쟁률",
+                "scope": "recruitment_unit",
+                "definitionStatus": "unverified",
+                "numeratorDefinition": null,
+                "denominatorDefinition": null,
+                "stages": [
+                  {
+                    "name": "1차",
+                    "applicants": null,
+                    "selected": null,
+                    "date": null
+                  },
+                  {
+                    "name": "최종",
+                    "applicants": null,
+                    "selected": null,
+                    "date": null
+                  }
+                ],
+                "evidence": {
+                  "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305333",
+                  "sha256": "0af77b5df182cf61093a772a06fab20597a90cbe89a41bf12bc8a9e14a5655cf",
+                  "receivedAt": "2026-09-24T04:48:13.126+00:00",
+                  "rawUnitName": "전력사업처 사무",
+                  "rows": [
+                    [
+                      "전력사업처 사무"
+                    ],
+                    [
+                      "구분",
+                      "선발인원",
+                      "응시인원",
+                      "결과 확정일"
+                    ],
+                    [
+                      "1차",
+                      "-",
+                      "-",
+                      "-"
+                    ],
+                    [
+                      "최종",
+                      "-",
+                      "-",
+                      "-"
+                    ]
+                  ],
+                  "method": "deterministic_public_html_parser"
+                },
+                "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+              }
+            }
+          ]
         },
         {
           "id": "auto-47c878982996481f",
@@ -22579,33 +22700,34 @@
             ],
             "method": "deterministic_public_html_parser"
           },
-          "competition": null,
-          "competitionRecord": {
-            "status": "not_disclosed",
-            "officialValueRaw": null,
-            "officialLabel": "최종 경쟁률",
+          "competition": {
+            "label": "JOB-ALIO 최종 경쟁률",
+            "published": 8,
+            "publishedRaw": "8",
             "scope": "recruitment_unit",
+            "definition": "공식 표기값입니다. 산식·분자/분모 정의는 미확인입니다. 전형별 인원과 구분합니다.",
             "definitionStatus": "unverified",
-            "numeratorDefinition": null,
-            "denominatorDefinition": null,
+            "sources": [
+              "auto_alio"
+            ],
             "stages": [
               {
                 "name": "1차",
-                "applicants": null,
-                "selected": null,
-                "date": null
+                "applicants": 8,
+                "selected": 8,
+                "date": "2026-10-13"
               },
               {
                 "name": "최종",
-                "applicants": null,
-                "selected": null,
-                "date": null
+                "applicants": 4,
+                "selected": 1,
+                "date": "2026-10-20"
               }
             ],
             "evidence": {
               "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305333",
-              "sha256": "0af77b5df182cf61093a772a06fab20597a90cbe89a41bf12bc8a9e14a5655cf",
-              "receivedAt": "2026-09-24T04:48:13.126+00:00",
+              "sha256": "8530a146c2093e26d77eed906d9653f94c792ec77e9ed79587501e7f08eeea09",
+              "receivedAt": "2026-11-01T05:59:41.042+00:00",
               "rawUnitName": "구미지사 사무-1",
               "rows": [
                 [
@@ -22619,20 +22741,80 @@
                 ],
                 [
                   "1차",
-                  "-",
-                  "-",
-                  "-"
+                  "8명",
+                  "8명",
+                  "2026.10.13"
                 ],
                 [
                   "최종",
-                  "-",
-                  "-",
-                  "-"
+                  "1명",
+                  "4명",
+                  "2026.10.20"
+                ],
+                [
+                  "경쟁률",
+                  "최종 경쟁률 8 대 1"
                 ]
               ],
               "method": "deterministic_public_html_parser"
-            },
-            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+            }
+          },
+          "competitionRecord": {
+            "status": "confirmed",
+            "officialValueRaw": "8",
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": 8,
+                "selected": 8,
+                "date": "2026-10-13"
+              },
+              {
+                "name": "최종",
+                "applicants": 4,
+                "selected": 1,
+                "date": "2026-10-20"
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305333",
+              "sha256": "8530a146c2093e26d77eed906d9653f94c792ec77e9ed79587501e7f08eeea09",
+              "receivedAt": "2026-11-01T05:59:41.042+00:00",
+              "rawUnitName": "구미지사 사무-1",
+              "rows": [
+                [
+                  "구미지사 사무-1"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "8명",
+                  "8명",
+                  "2026.10.13"
+                ],
+                [
+                  "최종",
+                  "1명",
+                  "4명",
+                  "2026.10.20"
+                ],
+                [
+                  "경쟁률",
+                  "최종 경쟁률 8 대 1"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            }
           },
           "employmentEvidence": {
             "scope": "announcement",
@@ -22706,7 +22888,67 @@
               "sha256": "0af77b5df182cf61093a772a06fab20597a90cbe89a41bf12bc8a9e14a5655cf",
               "receivedAt": "2026-09-24T04:48:13.126+00:00"
             }
-          }
+          },
+          "competitionHistory": [
+            {
+              "supersededAt": "2026-11-01T05:59:41.042+00:00",
+              "competition": null,
+              "competitionRecord": {
+                "status": "not_disclosed",
+                "officialValueRaw": null,
+                "officialLabel": "최종 경쟁률",
+                "scope": "recruitment_unit",
+                "definitionStatus": "unverified",
+                "numeratorDefinition": null,
+                "denominatorDefinition": null,
+                "stages": [
+                  {
+                    "name": "1차",
+                    "applicants": null,
+                    "selected": null,
+                    "date": null
+                  },
+                  {
+                    "name": "최종",
+                    "applicants": null,
+                    "selected": null,
+                    "date": null
+                  }
+                ],
+                "evidence": {
+                  "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305333",
+                  "sha256": "0af77b5df182cf61093a772a06fab20597a90cbe89a41bf12bc8a9e14a5655cf",
+                  "receivedAt": "2026-09-24T04:48:13.126+00:00",
+                  "rawUnitName": "구미지사 사무-1",
+                  "rows": [
+                    [
+                      "구미지사 사무-1"
+                    ],
+                    [
+                      "구분",
+                      "선발인원",
+                      "응시인원",
+                      "결과 확정일"
+                    ],
+                    [
+                      "1차",
+                      "-",
+                      "-",
+                      "-"
+                    ],
+                    [
+                      "최종",
+                      "-",
+                      "-",
+                      "-"
+                    ]
+                  ],
+                  "method": "deterministic_public_html_parser"
+                },
+                "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+              }
+            }
+          ]
         },
         {
           "id": "auto-6750dd9b7a7d3ba3",
@@ -22814,33 +23056,34 @@
             ],
             "method": "deterministic_public_html_parser"
           },
-          "competition": null,
-          "competitionRecord": {
-            "status": "not_disclosed",
-            "officialValueRaw": null,
-            "officialLabel": "최종 경쟁률",
+          "competition": {
+            "label": "JOB-ALIO 최종 경쟁률",
+            "published": 14,
+            "publishedRaw": "14",
             "scope": "recruitment_unit",
+            "definition": "공식 표기값입니다. 산식·분자/분모 정의는 미확인입니다. 전형별 인원과 구분합니다.",
             "definitionStatus": "unverified",
-            "numeratorDefinition": null,
-            "denominatorDefinition": null,
+            "sources": [
+              "auto_alio"
+            ],
             "stages": [
               {
                 "name": "1차",
-                "applicants": null,
-                "selected": null,
-                "date": null
+                "applicants": 14,
+                "selected": 8,
+                "date": "2026-10-13"
               },
               {
                 "name": "최종",
-                "applicants": null,
-                "selected": null,
-                "date": null
+                "applicants": 4,
+                "selected": 1,
+                "date": "2026-10-20"
               }
             ],
             "evidence": {
               "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305333",
-              "sha256": "0af77b5df182cf61093a772a06fab20597a90cbe89a41bf12bc8a9e14a5655cf",
-              "receivedAt": "2026-09-24T04:48:13.126+00:00",
+              "sha256": "8530a146c2093e26d77eed906d9653f94c792ec77e9ed79587501e7f08eeea09",
+              "receivedAt": "2026-11-01T05:59:41.042+00:00",
               "rawUnitName": "구미지사 사무-2",
               "rows": [
                 [
@@ -22854,20 +23097,80 @@
                 ],
                 [
                   "1차",
-                  "-",
-                  "-",
-                  "-"
+                  "8명",
+                  "14명",
+                  "2026.10.13"
                 ],
                 [
                   "최종",
-                  "-",
-                  "-",
-                  "-"
+                  "1명",
+                  "4명",
+                  "2026.10.20"
+                ],
+                [
+                  "경쟁률",
+                  "최종 경쟁률 14 대 1"
                 ]
               ],
               "method": "deterministic_public_html_parser"
-            },
-            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+            }
+          },
+          "competitionRecord": {
+            "status": "confirmed",
+            "officialValueRaw": "14",
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": 14,
+                "selected": 8,
+                "date": "2026-10-13"
+              },
+              {
+                "name": "최종",
+                "applicants": 4,
+                "selected": 1,
+                "date": "2026-10-20"
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305333",
+              "sha256": "8530a146c2093e26d77eed906d9653f94c792ec77e9ed79587501e7f08eeea09",
+              "receivedAt": "2026-11-01T05:59:41.042+00:00",
+              "rawUnitName": "구미지사 사무-2",
+              "rows": [
+                [
+                  "구미지사 사무-2"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "8명",
+                  "14명",
+                  "2026.10.13"
+                ],
+                [
+                  "최종",
+                  "1명",
+                  "4명",
+                  "2026.10.20"
+                ],
+                [
+                  "경쟁률",
+                  "최종 경쟁률 14 대 1"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            }
           },
           "employmentEvidence": {
             "scope": "announcement",
@@ -22941,7 +23244,67 @@
               "sha256": "0af77b5df182cf61093a772a06fab20597a90cbe89a41bf12bc8a9e14a5655cf",
               "receivedAt": "2026-09-24T04:48:13.126+00:00"
             }
-          }
+          },
+          "competitionHistory": [
+            {
+              "supersededAt": "2026-11-01T05:59:41.042+00:00",
+              "competition": null,
+              "competitionRecord": {
+                "status": "not_disclosed",
+                "officialValueRaw": null,
+                "officialLabel": "최종 경쟁률",
+                "scope": "recruitment_unit",
+                "definitionStatus": "unverified",
+                "numeratorDefinition": null,
+                "denominatorDefinition": null,
+                "stages": [
+                  {
+                    "name": "1차",
+                    "applicants": null,
+                    "selected": null,
+                    "date": null
+                  },
+                  {
+                    "name": "최종",
+                    "applicants": null,
+                    "selected": null,
+                    "date": null
+                  }
+                ],
+                "evidence": {
+                  "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305333",
+                  "sha256": "0af77b5df182cf61093a772a06fab20597a90cbe89a41bf12bc8a9e14a5655cf",
+                  "receivedAt": "2026-09-24T04:48:13.126+00:00",
+                  "rawUnitName": "구미지사 사무-2",
+                  "rows": [
+                    [
+                      "구미지사 사무-2"
+                    ],
+                    [
+                      "구분",
+                      "선발인원",
+                      "응시인원",
+                      "결과 확정일"
+                    ],
+                    [
+                      "1차",
+                      "-",
+                      "-",
+                      "-"
+                    ],
+                    [
+                      "최종",
+                      "-",
+                      "-",
+                      "-"
+                    ]
+                  ],
+                  "method": "deterministic_public_html_parser"
+                },
+                "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+              }
+            }
+          ]
         }
       ],
       "sources": [
@@ -22954,8 +23317,8 @@
           "id": "auto_alio",
           "label": "JOB-ALIO 상세 · 자동 수신",
           "url": "https://job.alio.go.kr/recruitview.do?idx=305333",
-          "sha256": "2d007b9e19fc34df42be95eaf0907d583e7c2dc7183b2237d008809718313879",
-          "receivedAt": "2026-10-13T22:43:31.185+00:00"
+          "sha256": "8530a146c2093e26d77eed906d9653f94c792ec77e9ed79587501e7f08eeea09",
+          "receivedAt": "2026-11-01T05:59:41.042+00:00"
         }
       ],
       "attachments": [
@@ -23037,18 +23400,22 @@
         "heldUnitCount": 2
       },
       "autoSync": {
-        "semanticHash": "0abbae85fa7a1626bd66cc0691d4f61624a7281ca63715ad14c53a1c0fa9f814",
+        "semanticHash": "e358474a8a29b18f0d8106e7b1ed940e79dc208390107fa68e4d195629a31c3f",
         "conditionsHash": "e8d1f8bea014a3a559a0cb883f00874c1fa22f053b6ad8dae555bf03fb2921cb",
-        "rawSha256": "2d007b9e19fc34df42be95eaf0907d583e7c2dc7183b2237d008809718313879",
-        "lastFetchedAt": "2026-10-13T22:43:31.185+00:00",
-        "contentChangedAt": "2026-09-24T04:48:13.126+00:00",
+        "rawSha256": "8530a146c2093e26d77eed906d9653f94c792ec77e9ed79587501e7f08eeea09",
+        "lastFetchedAt": "2026-11-01T05:59:41.042+00:00",
+        "contentChangedAt": "2026-11-01T05:59:41.042+00:00",
         "baselineStatus": "compared",
         "needsReview": true,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-10-13T22:43:31.185+00:00",
+          "checkedAt": "2026-11-01T05:59:41.042+00:00",
           "status": "checked",
-          "changedUnitIds": [],
+          "changedUnitIds": [
+            "auto-d3e6053132e0bf6e",
+            "auto-47c878982996481f",
+            "auto-6750dd9b7a7d3ba3"
+          ],
           "preservedUnitIds": [],
           "unmatchedUnitIds": [],
           "issues": []
@@ -70266,24 +70633,24 @@
             "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
             "rawDetail": {
               "url": "https://job.alio.go.kr/recruitview.do?idx=306307",
-              "sha256": "5fc26f39d7ff1123193bd932e78db45637218a23457bfa8df8a6e1962e6ba7f4",
-              "receivedAt": "2026-10-25T16:15:30.315+00:00"
+              "sha256": "18a285ac94333d71c7489ed026f0efb07ef5e17451c35c4b7ccdc175d153f189",
+              "receivedAt": "2026-11-01T05:59:38.732+00:00"
             }
           }
         }
       ],
       "sources": [
         {
-          "id": "auto_alio",
-          "label": "JOB-ALIO 상세 · 코드 수신·자동 정리",
-          "url": "https://job.alio.go.kr/recruitview.do?idx=306307",
-          "sha256": "5fc26f39d7ff1123193bd932e78db45637218a23457bfa8df8a6e1962e6ba7f4",
-          "receivedAt": "2026-10-25T16:15:30.315+00:00"
-        },
-        {
           "id": "auto_original_1",
           "label": "기관 원문 링크 · 내용 미확인",
-          "url": "https://www.lh.or.kr/board.es?mid=a10602050000&bid=0036"
+          "url": "https://www.lh.or.kr/board.es?mid=a10602050000&bid=0036&act=view&list_no=734705&tag=&nPage=1"
+        },
+        {
+          "id": "auto_alio",
+          "label": "JOB-ALIO 상세 · 자동 수신",
+          "url": "https://job.alio.go.kr/recruitview.do?idx=306307",
+          "sha256": "18a285ac94333d71c7489ed026f0efb07ef5e17451c35c4b7ccdc175d153f189",
+          "receivedAt": "2026-11-01T05:59:38.732+00:00"
         }
       ],
       "attachments": [
@@ -70312,7 +70679,7 @@
           "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
         }
       ],
-      "checkedAt": "2026-10-25T16:15:30.315+00:00",
+      "checkedAt": "2026-11-01T05:59:38.732+00:00",
       "collectionMethod": "automatic_public_html",
       "collectionLabel": "코드 원격 수신 → 규칙 기반 모집단위 정리 → 저장·화면 생성 · GPT 미사용",
       "sourceNote": "자동으로 확인 가능한 본문·결과 표만 정리했습니다. 첨부·모집단위별 상세 조건은 미확인이며, 공고 전체 원문은 별도로 표시합니다.",
@@ -70337,36 +70704,34 @@
           "source_section": "전형절차/방법",
           "note": "명시된 접수기간 원문만 추출; 날짜 정규화·모집단위별 상이한 기간 검토는 별도"
         },
-        "sourceSha256": "5fc26f39d7ff1123193bd932e78db45637218a23457bfa8df8a6e1962e6ba7f4",
-        "sourceReceivedAt": "2026-10-25T16:15:30.315+00:00",
+        "sourceSha256": "18a285ac94333d71c7489ed026f0efb07ef5e17451c35c4b7ccdc175d153f189",
+        "sourceReceivedAt": "2026-11-01T05:59:38.732+00:00",
         "method": "auto-normalize-0.1"
       },
       "autoNormalization": {
         "version": "auto-normalize-0.1",
-        "semanticHash": "3d0786d89894f5e49a2eee115a20bee5523e2c863b332ce06d98786b0427f5dc",
+        "semanticHash": "23c085cd2e32f06fe630bbad5a7a19745d3ae1c08fbeffbd70390f168e9a29b2",
         "generatedFrom": {
           "url": "https://job.alio.go.kr/recruitview.do?idx=306307",
-          "sha256": "5fc26f39d7ff1123193bd932e78db45637218a23457bfa8df8a6e1962e6ba7f4",
-          "receivedAt": "2026-10-25T16:15:30.315+00:00"
+          "sha256": "18a285ac94333d71c7489ed026f0efb07ef5e17451c35c4b7ccdc175d153f189",
+          "receivedAt": "2026-11-01T05:59:38.732+00:00"
         },
         "aiUsed": false,
         "heldUnitCount": 2
       },
       "autoSync": {
-        "semanticHash": "3d0786d89894f5e49a2eee115a20bee5523e2c863b332ce06d98786b0427f5dc",
-        "conditionsHash": "3b22bef7903bb8805bc34daf0d9b03826746bda0962712046979429885993ac1",
-        "rawSha256": "5fc26f39d7ff1123193bd932e78db45637218a23457bfa8df8a6e1962e6ba7f4",
-        "lastFetchedAt": "2026-10-25T16:15:30.315+00:00",
-        "contentChangedAt": "2026-10-25T16:15:30.315+00:00",
-        "baselineStatus": "first_capture",
+        "semanticHash": "23c085cd2e32f06fe630bbad5a7a19745d3ae1c08fbeffbd70390f168e9a29b2",
+        "conditionsHash": "b4a8771476eb50bcc5cf38b2c6c31b83c8bc25c877b2238754d304d6f41dd160",
+        "rawSha256": "18a285ac94333d71c7489ed026f0efb07ef5e17451c35c4b7ccdc175d153f189",
+        "lastFetchedAt": "2026-11-01T05:59:38.732+00:00",
+        "contentChangedAt": "2026-11-01T05:59:38.732+00:00",
+        "baselineStatus": "compared",
         "needsReview": true,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-10-25T16:15:30.315+00:00",
+          "checkedAt": "2026-11-01T05:59:38.732+00:00",
           "status": "checked",
-          "changedUnitIds": [
-            "auto-f1416457f4d681b5"
-          ],
+          "changedUnitIds": [],
           "preservedUnitIds": [],
           "unmatchedUnitIds": [],
           "issues": []
@@ -82297,14 +82662,14 @@
   "refresh": {
     "status": "success",
     "mode": "live",
-    "lastAttemptAt": "2026-10-31T21:31:00+00:00",
-    "lastSuccessAt": "2026-10-31T21:31:00+00:00",
+    "lastAttemptAt": "2026-11-01T05:59:28+00:00",
+    "lastSuccessAt": "2026-11-01T05:59:28+00:00",
     "candidatesCount": 963,
     "coverage": {
       "description": "JOB-ALIO 최근60일 이내 진행중·비정규직·경영회계사무 목록, 목록최대2페이지·상세최대4건/회. 저장된 마감공고도 결과를 순환 재확인합니다. 전체공고 수집 아님.",
       "queuedNoticeCount": 28,
       "heldUnitCount": 935,
-      "nextPage": 3,
+      "nextPage": 4,
       "closedRecheck": {
         "recentDays": 30,
         "recentOrUnknownIntervalDays": 1,
@@ -82315,6 +82680,28 @@
       "requestLimit": 6,
       "automaticRetries": 0,
       "heldNotices": [
+        {
+          "id": "job-alio-305339",
+          "organization": "한국동서발전(주)",
+          "title": "발전공기업 통합실무지원단장 채용공고",
+          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305339",
+          "lastFetchedAt": "2026-11-01T05:59:43.723+00:00",
+          "reasons": [
+            "모집단위명만으로 사무직 여부 미확인"
+          ],
+          "status": "unverified"
+        },
+        {
+          "id": "job-alio-305340",
+          "organization": "한국중부발전(주)",
+          "title": "발전공기업 통합실무지원단장 채용공고",
+          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305340",
+          "lastFetchedAt": "2026-11-01T05:59:35.420+00:00",
+          "reasons": [
+            "모집단위명만으로 사무직 여부 미확인"
+          ],
+          "status": "unverified"
+        },
         {
           "id": "job-alio-305291",
           "organization": "한국수자원공사",
@@ -82509,28 +82896,6 @@
           "title": "건강보험심사평가원 정책소통전문가 채용 공고",
           "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=304722",
           "lastFetchedAt": "2026-10-24T10:56:50.475+00:00",
-          "reasons": [
-            "모집단위명만으로 사무직 여부 미확인"
-          ],
-          "status": "unverified"
-        },
-        {
-          "id": "job-alio-304729",
-          "organization": "국민연금공단",
-          "title": "2차 베테랑 시니어지원단(기간제근로자) 공개채용 공고",
-          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=304729",
-          "lastFetchedAt": "2026-10-24T04:34:14.702+00:00",
-          "reasons": [
-            "모집단위명만으로 사무직 여부 미확인"
-          ],
-          "status": "unverified"
-        },
-        {
-          "id": "job-alio-304747",
-          "organization": "근로복지공단",
-          "title": "[서울남부지사] 기간제(근로자정보입력원 및 시설미화원) 채용 공고",
-          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=304747",
-          "lastFetchedAt": "2026-10-24T04:34:06.113+00:00",
           "reasons": [
             "모집단위명만으로 사무직 여부 미확인"
           ],
