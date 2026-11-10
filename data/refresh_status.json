@@ -1,81 +1,38 @@
 {
-  "startedAt": "2026-11-09T22:19:14+00:00",
+  "startedAt": "2026-11-10T07:14:58+00:00",
   "mode": "live",
   "records": [
     {
-      "id": "job-alio-306854",
+      "id": "job-alio-306876",
       "status": "added",
-      "unitCount": 1
+      "unitCount": 4
     },
     {
-      "id": "job-alio-306629",
+      "id": "job-alio-306245",
       "status": "unchanged",
       "unitCount": 1
     },
     {
-      "id": "job-alio-304985",
+      "id": "job-alio-306051",
       "status": "results_changed",
-      "unitCount": 2
+      "unitCount": 1
     },
     {
-      "id": "job-alio-304846",
-      "status": "unchanged",
-      "unitCount": 1
+      "id": "job-alio-306869",
+      "status": "held",
+      "unitCount": 0
     }
   ],
   "errors": [],
   "newRemoteRequests": 6,
   "status": "success",
-  "noticeCount": 166,
+  "noticeCount": 167,
   "added": 1,
   "changedIds": [
-    "job-alio-304985"
+    "job-alio-306051"
   ],
-  "deadlineEvents": [
-    {
-      "id": "job-alio-306307",
-      "from": "open",
-      "to": "deadline_elapsed",
-      "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
-    },
-    {
-      "id": "job-alio-306289",
-      "from": "open",
-      "to": "deadline_elapsed",
-      "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
-    },
-    {
-      "id": "job-alio-306274",
-      "from": "open",
-      "to": "deadline_elapsed",
-      "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
-    },
-    {
-      "id": "job-alio-306343",
-      "from": "open",
-      "to": "deadline_elapsed",
-      "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
-    },
-    {
-      "id": "job-alio-306340",
-      "from": "open",
-      "to": "deadline_elapsed",
-      "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
-    },
-    {
-      "id": "job-alio-306371",
-      "from": "open",
-      "to": "deadline_elapsed",
-      "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
-    },
-    {
-      "id": "job-alio-306336",
-      "from": "open",
-      "to": "deadline_elapsed",
-      "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
-    }
-  ],
+  "deadlineEvents": [],
   "actualListPages": 2,
   "preservedFailedIds": [],
-  "finishedAt": "2026-11-09T22:19:32+00:00"
+  "finishedAt": "2026-11-10T07:15:16+00:00"
 }
