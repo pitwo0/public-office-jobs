@@ -27123,33 +27123,34 @@
             ],
             "method": "deterministic_public_html_parser"
           },
-          "competition": null,
-          "competitionRecord": {
-            "status": "not_disclosed",
-            "officialValueRaw": null,
-            "officialLabel": "최종 경쟁률",
+          "competition": {
+            "label": "JOB-ALIO 최종 경쟁률",
+            "published": 0,
+            "publishedRaw": "0",
             "scope": "recruitment_unit",
+            "definition": "공식 표기값입니다. 산식·분자/분모 정의는 미확인입니다. 전형별 인원과 구분합니다.",
             "definitionStatus": "unverified",
-            "numeratorDefinition": null,
-            "denominatorDefinition": null,
+            "sources": [
+              "auto_alio"
+            ],
             "stages": [
               {
                 "name": "1차",
-                "applicants": null,
-                "selected": null,
-                "date": null
+                "applicants": 0,
+                "selected": 0,
+                "date": "2026-10-12"
               },
               {
                 "name": "최종",
-                "applicants": null,
-                "selected": null,
-                "date": null
+                "applicants": 0,
+                "selected": 0,
+                "date": "2026-10-28"
               }
             ],
             "evidence": {
               "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
-              "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
-              "receivedAt": "2026-09-25T11:49:22.876+00:00",
+              "sha256": "d466d1e1267eeb7e7dc3d56cdcae872578be6b4602dd774c37ce43df1452940e",
+              "receivedAt": "2026-11-11T06:13:11.949+00:00",
               "rawUnitName": "기간제근로자(대체인력, 방역직) 경남북부사무소",
               "rows": [
                 [
@@ -27163,20 +27164,81 @@
                 ],
                 [
                   "1차",
-                  "-",
-                  "-",
-                  "-"
+                  "0명",
+                  "0명",
+                  "2026.10.12"
                 ],
                 [
                   "최종",
-                  "-",
-                  "-",
-                  "-"
+                  "0명",
+                  "0명",
+                  "2026.10.28"
+                ],
+                [
+                  "경쟁률",
+                  "최종 경쟁률 0 대 1"
                 ]
               ],
               "method": "deterministic_public_html_parser"
             },
-            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+            "note": "최종 선발 0명입니다. 공식 표기값을 지원자 없음이나 낮은 경쟁률로 해석하지 않습니다."
+          },
+          "competitionRecord": {
+            "status": "confirmed",
+            "officialValueRaw": "0",
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": 0,
+                "selected": 0,
+                "date": "2026-10-12"
+              },
+              {
+                "name": "최종",
+                "applicants": 0,
+                "selected": 0,
+                "date": "2026-10-28"
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
+              "sha256": "d466d1e1267eeb7e7dc3d56cdcae872578be6b4602dd774c37ce43df1452940e",
+              "receivedAt": "2026-11-11T06:13:11.949+00:00",
+              "rawUnitName": "기간제근로자(대체인력, 방역직) 경남북부사무소",
+              "rows": [
+                [
+                  "기간제근로자(대체인력, 방역직) 경남북부사무소"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "0명",
+                  "0명",
+                  "2026.10.12"
+                ],
+                [
+                  "최종",
+                  "0명",
+                  "0명",
+                  "2026.10.28"
+                ],
+                [
+                  "경쟁률",
+                  "최종 경쟁률 0 대 1"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            }
           },
           "employmentEvidence": {
             "scope": "recruitment_unit",
@@ -27264,7 +27326,67 @@
               "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
               "receivedAt": "2026-09-25T11:49:22.876+00:00"
             }
-          }
+          },
+          "competitionHistory": [
+            {
+              "supersededAt": "2026-11-11T06:13:11.949+00:00",
+              "competition": null,
+              "competitionRecord": {
+                "status": "not_disclosed",
+                "officialValueRaw": null,
+                "officialLabel": "최종 경쟁률",
+                "scope": "recruitment_unit",
+                "definitionStatus": "unverified",
+                "numeratorDefinition": null,
+                "denominatorDefinition": null,
+                "stages": [
+                  {
+                    "name": "1차",
+                    "applicants": null,
+                    "selected": null,
+                    "date": null
+                  },
+                  {
+                    "name": "최종",
+                    "applicants": null,
+                    "selected": null,
+                    "date": null
+                  }
+                ],
+                "evidence": {
+                  "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
+                  "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
+                  "receivedAt": "2026-09-25T11:49:22.876+00:00",
+                  "rawUnitName": "기간제근로자(대체인력, 방역직) 경남북부사무소",
+                  "rows": [
+                    [
+                      "기간제근로자(대체인력, 방역직) 경남북부사무소"
+                    ],
+                    [
+                      "구분",
+                      "선발인원",
+                      "응시인원",
+                      "결과 확정일"
+                    ],
+                    [
+                      "1차",
+                      "-",
+                      "-",
+                      "-"
+                    ],
+                    [
+                      "최종",
+                      "-",
+                      "-",
+                      "-"
+                    ]
+                  ],
+                  "method": "deterministic_public_html_parser"
+                },
+                "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+              }
+            }
+          ]
         },
         {
           "id": "auto-50721c2ee540ed40",
@@ -27386,33 +27508,34 @@
             ],
             "method": "deterministic_public_html_parser"
           },
-          "competition": null,
-          "competitionRecord": {
-            "status": "not_disclosed",
-            "officialValueRaw": null,
-            "officialLabel": "최종 경쟁률",
+          "competition": {
+            "label": "JOB-ALIO 최종 경쟁률",
+            "published": 3,
+            "publishedRaw": "3",
             "scope": "recruitment_unit",
+            "definition": "공식 표기값입니다. 산식·분자/분모 정의는 미확인입니다. 전형별 인원과 구분합니다.",
             "definitionStatus": "unverified",
-            "numeratorDefinition": null,
-            "denominatorDefinition": null,
+            "sources": [
+              "auto_alio"
+            ],
             "stages": [
               {
                 "name": "1차",
-                "applicants": null,
-                "selected": null,
-                "date": null
+                "applicants": 3,
+                "selected": 3,
+                "date": "2026-10-12"
               },
               {
                 "name": "최종",
-                "applicants": null,
-                "selected": null,
-                "date": null
+                "applicants": 3,
+                "selected": 1,
+                "date": "2026-10-28"
               }
             ],
             "evidence": {
               "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
-              "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
-              "receivedAt": "2026-09-25T11:49:22.876+00:00",
+              "sha256": "d466d1e1267eeb7e7dc3d56cdcae872578be6b4602dd774c37ce43df1452940e",
+              "receivedAt": "2026-11-11T06:13:11.949+00:00",
               "rawUnitName": "기간제근로자(대체인력, 위생직) 경기중부사무소",
               "rows": [
                 [
@@ -27426,20 +27549,80 @@
                 ],
                 [
                   "1차",
-                  "-",
-                  "-",
-                  "-"
+                  "3명",
+                  "3명",
+                  "2026.10.12"
                 ],
                 [
                   "최종",
-                  "-",
-                  "-",
-                  "-"
+                  "1명",
+                  "3명",
+                  "2026.10.28"
+                ],
+                [
+                  "경쟁률",
+                  "최종 경쟁률 3 대 1"
                 ]
               ],
               "method": "deterministic_public_html_parser"
-            },
-            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+            }
+          },
+          "competitionRecord": {
+            "status": "confirmed",
+            "officialValueRaw": "3",
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": 3,
+                "selected": 3,
+                "date": "2026-10-12"
+              },
+              {
+                "name": "최종",
+                "applicants": 3,
+                "selected": 1,
+                "date": "2026-10-28"
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
+              "sha256": "d466d1e1267eeb7e7dc3d56cdcae872578be6b4602dd774c37ce43df1452940e",
+              "receivedAt": "2026-11-11T06:13:11.949+00:00",
+              "rawUnitName": "기간제근로자(대체인력, 위생직) 경기중부사무소",
+              "rows": [
+                [
+                  "기간제근로자(대체인력, 위생직) 경기중부사무소"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "3명",
+                  "3명",
+                  "2026.10.12"
+                ],
+                [
+                  "최종",
+                  "1명",
+                  "3명",
+                  "2026.10.28"
+                ],
+                [
+                  "경쟁률",
+                  "최종 경쟁률 3 대 1"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            }
           },
           "employmentEvidence": {
             "scope": "recruitment_unit",
@@ -27527,7 +27710,67 @@
               "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
               "receivedAt": "2026-09-25T11:49:22.876+00:00"
             }
-          }
+          },
+          "competitionHistory": [
+            {
+              "supersededAt": "2026-11-11T06:13:11.949+00:00",
+              "competition": null,
+              "competitionRecord": {
+                "status": "not_disclosed",
+                "officialValueRaw": null,
+                "officialLabel": "최종 경쟁률",
+                "scope": "recruitment_unit",
+                "definitionStatus": "unverified",
+                "numeratorDefinition": null,
+                "denominatorDefinition": null,
+                "stages": [
+                  {
+                    "name": "1차",
+                    "applicants": null,
+                    "selected": null,
+                    "date": null
+                  },
+                  {
+                    "name": "최종",
+                    "applicants": null,
+                    "selected": null,
+                    "date": null
+                  }
+                ],
+                "evidence": {
+                  "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
+                  "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
+                  "receivedAt": "2026-09-25T11:49:22.876+00:00",
+                  "rawUnitName": "기간제근로자(대체인력, 위생직) 경기중부사무소",
+                  "rows": [
+                    [
+                      "기간제근로자(대체인력, 위생직) 경기중부사무소"
+                    ],
+                    [
+                      "구분",
+                      "선발인원",
+                      "응시인원",
+                      "결과 확정일"
+                    ],
+                    [
+                      "1차",
+                      "-",
+                      "-",
+                      "-"
+                    ],
+                    [
+                      "최종",
+                      "-",
+                      "-",
+                      "-"
+                    ]
+                  ],
+                  "method": "deterministic_public_html_parser"
+                },
+                "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+              }
+            }
+          ]
         },
         {
           "id": "auto-63e446993f55f672",
@@ -27649,33 +27892,34 @@
             ],
             "method": "deterministic_public_html_parser"
           },
-          "competition": null,
-          "competitionRecord": {
-            "status": "not_disclosed",
-            "officialValueRaw": null,
-            "officialLabel": "최종 경쟁률",
+          "competition": {
+            "label": "JOB-ALIO 최종 경쟁률",
+            "published": 1,
+            "publishedRaw": "1",
             "scope": "recruitment_unit",
+            "definition": "공식 표기값입니다. 산식·분자/분모 정의는 미확인입니다. 전형별 인원과 구분합니다.",
             "definitionStatus": "unverified",
-            "numeratorDefinition": null,
-            "denominatorDefinition": null,
+            "sources": [
+              "auto_alio"
+            ],
             "stages": [
               {
                 "name": "1차",
-                "applicants": null,
-                "selected": null,
-                "date": null
+                "applicants": 1,
+                "selected": 1,
+                "date": "2026-10-12"
               },
               {
                 "name": "최종",
-                "applicants": null,
-                "selected": null,
-                "date": null
+                "applicants": 1,
+                "selected": 1,
+                "date": "2026-10-28"
               }
             ],
             "evidence": {
               "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
-              "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
-              "receivedAt": "2026-09-25T11:49:22.876+00:00",
+              "sha256": "d466d1e1267eeb7e7dc3d56cdcae872578be6b4602dd774c37ce43df1452940e",
+              "receivedAt": "2026-11-11T06:13:11.949+00:00",
               "rawUnitName": "기간제근로자(대체인력, 위생직) 경기서부사무소",
               "rows": [
                 [
@@ -27689,20 +27933,80 @@
                 ],
                 [
                   "1차",
-                  "-",
-                  "-",
-                  "-"
+                  "1명",
+                  "1명",
+                  "2026.10.12"
                 ],
                 [
                   "최종",
-                  "-",
-                  "-",
-                  "-"
+                  "1명",
+                  "1명",
+                  "2026.10.28"
+                ],
+                [
+                  "경쟁률",
+                  "최종 경쟁률 1 대 1"
                 ]
               ],
               "method": "deterministic_public_html_parser"
-            },
-            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+            }
+          },
+          "competitionRecord": {
+            "status": "confirmed",
+            "officialValueRaw": "1",
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": 1,
+                "selected": 1,
+                "date": "2026-10-12"
+              },
+              {
+                "name": "최종",
+                "applicants": 1,
+                "selected": 1,
+                "date": "2026-10-28"
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
+              "sha256": "d466d1e1267eeb7e7dc3d56cdcae872578be6b4602dd774c37ce43df1452940e",
+              "receivedAt": "2026-11-11T06:13:11.949+00:00",
+              "rawUnitName": "기간제근로자(대체인력, 위생직) 경기서부사무소",
+              "rows": [
+                [
+                  "기간제근로자(대체인력, 위생직) 경기서부사무소"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "1명",
+                  "1명",
+                  "2026.10.12"
+                ],
+                [
+                  "최종",
+                  "1명",
+                  "1명",
+                  "2026.10.28"
+                ],
+                [
+                  "경쟁률",
+                  "최종 경쟁률 1 대 1"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            }
           },
           "employmentEvidence": {
             "scope": "recruitment_unit",
@@ -27790,7 +28094,67 @@
               "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
               "receivedAt": "2026-09-25T11:49:22.876+00:00"
             }
-          }
+          },
+          "competitionHistory": [
+            {
+              "supersededAt": "2026-11-11T06:13:11.949+00:00",
+              "competition": null,
+              "competitionRecord": {
+                "status": "not_disclosed",
+                "officialValueRaw": null,
+                "officialLabel": "최종 경쟁률",
+                "scope": "recruitment_unit",
+                "definitionStatus": "unverified",
+                "numeratorDefinition": null,
+                "denominatorDefinition": null,
+                "stages": [
+                  {
+                    "name": "1차",
+                    "applicants": null,
+                    "selected": null,
+                    "date": null
+                  },
+                  {
+                    "name": "최종",
+                    "applicants": null,
+                    "selected": null,
+                    "date": null
+                  }
+                ],
+                "evidence": {
+                  "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
+                  "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
+                  "receivedAt": "2026-09-25T11:49:22.876+00:00",
+                  "rawUnitName": "기간제근로자(대체인력, 위생직) 경기서부사무소",
+                  "rows": [
+                    [
+                      "기간제근로자(대체인력, 위생직) 경기서부사무소"
+                    ],
+                    [
+                      "구분",
+                      "선발인원",
+                      "응시인원",
+                      "결과 확정일"
+                    ],
+                    [
+                      "1차",
+                      "-",
+                      "-",
+                      "-"
+                    ],
+                    [
+                      "최종",
+                      "-",
+                      "-",
+                      "-"
+                    ]
+                  ],
+                  "method": "deterministic_public_html_parser"
+                },
+                "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+              }
+            }
+          ]
         },
         {
           "id": "auto-6c38a176e296ef42",
@@ -27912,33 +28276,34 @@
             ],
             "method": "deterministic_public_html_parser"
           },
-          "competition": null,
-          "competitionRecord": {
-            "status": "not_disclosed",
-            "officialValueRaw": null,
-            "officialLabel": "최종 경쟁률",
+          "competition": {
+            "label": "JOB-ALIO 최종 경쟁률",
+            "published": 0,
+            "publishedRaw": "0",
             "scope": "recruitment_unit",
+            "definition": "공식 표기값입니다. 산식·분자/분모 정의는 미확인입니다. 전형별 인원과 구분합니다.",
             "definitionStatus": "unverified",
-            "numeratorDefinition": null,
-            "denominatorDefinition": null,
+            "sources": [
+              "auto_alio"
+            ],
             "stages": [
               {
                 "name": "1차",
-                "applicants": null,
-                "selected": null,
-                "date": null
+                "applicants": 0,
+                "selected": 0,
+                "date": "2026-10-12"
               },
               {
                 "name": "최종",
-                "applicants": null,
-                "selected": null,
-                "date": null
+                "applicants": 0,
+                "selected": 0,
+                "date": "2026-10-28"
               }
             ],
             "evidence": {
               "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
-              "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
-              "receivedAt": "2026-09-25T11:49:22.876+00:00",
+              "sha256": "d466d1e1267eeb7e7dc3d56cdcae872578be6b4602dd774c37ce43df1452940e",
+              "receivedAt": "2026-11-11T06:13:11.949+00:00",
               "rawUnitName": "기간제근로자(대체인력, 위생직) 경기남부사무소",
               "rows": [
                 [
@@ -27952,20 +28317,81 @@
                 ],
                 [
                   "1차",
-                  "-",
-                  "-",
-                  "-"
+                  "0명",
+                  "0명",
+                  "2026.10.12"
                 ],
                 [
                   "최종",
-                  "-",
-                  "-",
-                  "-"
+                  "0명",
+                  "0명",
+                  "2026.10.28"
+                ],
+                [
+                  "경쟁률",
+                  "최종 경쟁률 0 대 1"
                 ]
               ],
               "method": "deterministic_public_html_parser"
             },
-            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+            "note": "최종 선발 0명입니다. 공식 표기값을 지원자 없음이나 낮은 경쟁률로 해석하지 않습니다."
+          },
+          "competitionRecord": {
+            "status": "confirmed",
+            "officialValueRaw": "0",
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": 0,
+                "selected": 0,
+                "date": "2026-10-12"
+              },
+              {
+                "name": "최종",
+                "applicants": 0,
+                "selected": 0,
+                "date": "2026-10-28"
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
+              "sha256": "d466d1e1267eeb7e7dc3d56cdcae872578be6b4602dd774c37ce43df1452940e",
+              "receivedAt": "2026-11-11T06:13:11.949+00:00",
+              "rawUnitName": "기간제근로자(대체인력, 위생직) 경기남부사무소",
+              "rows": [
+                [
+                  "기간제근로자(대체인력, 위생직) 경기남부사무소"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "0명",
+                  "0명",
+                  "2026.10.12"
+                ],
+                [
+                  "최종",
+                  "0명",
+                  "0명",
+                  "2026.10.28"
+                ],
+                [
+                  "경쟁률",
+                  "최종 경쟁률 0 대 1"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            }
           },
           "employmentEvidence": {
             "scope": "recruitment_unit",
@@ -28053,7 +28479,67 @@
               "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
               "receivedAt": "2026-09-25T11:49:22.876+00:00"
             }
-          }
+          },
+          "competitionHistory": [
+            {
+              "supersededAt": "2026-11-11T06:13:11.949+00:00",
+              "competition": null,
+              "competitionRecord": {
+                "status": "not_disclosed",
+                "officialValueRaw": null,
+                "officialLabel": "최종 경쟁률",
+                "scope": "recruitment_unit",
+                "definitionStatus": "unverified",
+                "numeratorDefinition": null,
+                "denominatorDefinition": null,
+                "stages": [
+                  {
+                    "name": "1차",
+                    "applicants": null,
+                    "selected": null,
+                    "date": null
+                  },
+                  {
+                    "name": "최종",
+                    "applicants": null,
+                    "selected": null,
+                    "date": null
+                  }
+                ],
+                "evidence": {
+                  "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
+                  "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
+                  "receivedAt": "2026-09-25T11:49:22.876+00:00",
+                  "rawUnitName": "기간제근로자(대체인력, 위생직) 경기남부사무소",
+                  "rows": [
+                    [
+                      "기간제근로자(대체인력, 위생직) 경기남부사무소"
+                    ],
+                    [
+                      "구분",
+                      "선발인원",
+                      "응시인원",
+                      "결과 확정일"
+                    ],
+                    [
+                      "1차",
+                      "-",
+                      "-",
+                      "-"
+                    ],
+                    [
+                      "최종",
+                      "-",
+                      "-",
+                      "-"
+                    ]
+                  ],
+                  "method": "deterministic_public_html_parser"
+                },
+                "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+              }
+            }
+          ]
         },
         {
           "id": "auto-1f4e38a1691be68b",
@@ -28175,33 +28661,34 @@
             ],
             "method": "deterministic_public_html_parser"
           },
-          "competition": null,
-          "competitionRecord": {
-            "status": "not_disclosed",
-            "officialValueRaw": null,
-            "officialLabel": "최종 경쟁률",
+          "competition": {
+            "label": "JOB-ALIO 최종 경쟁률",
+            "published": 0,
+            "publishedRaw": "0",
             "scope": "recruitment_unit",
+            "definition": "공식 표기값입니다. 산식·분자/분모 정의는 미확인입니다. 전형별 인원과 구분합니다.",
             "definitionStatus": "unverified",
-            "numeratorDefinition": null,
-            "denominatorDefinition": null,
+            "sources": [
+              "auto_alio"
+            ],
             "stages": [
               {
                 "name": "1차",
-                "applicants": null,
-                "selected": null,
-                "date": null
+                "applicants": 0,
+                "selected": 0,
+                "date": "2026-10-12"
               },
               {
                 "name": "최종",
-                "applicants": null,
-                "selected": null,
-                "date": null
+                "applicants": 0,
+                "selected": 0,
+                "date": "2026-10-28"
               }
             ],
             "evidence": {
               "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
-              "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
-              "receivedAt": "2026-09-25T11:49:22.876+00:00",
+              "sha256": "d466d1e1267eeb7e7dc3d56cdcae872578be6b4602dd774c37ce43df1452940e",
+              "receivedAt": "2026-11-11T06:13:11.949+00:00",
               "rawUnitName": "기간제근로자(대체인력, 위생직) 강원남부사무소",
               "rows": [
                 [
@@ -28215,20 +28702,81 @@
                 ],
                 [
                   "1차",
-                  "-",
-                  "-",
-                  "-"
+                  "0명",
+                  "0명",
+                  "2026.10.12"
                 ],
                 [
                   "최종",
-                  "-",
-                  "-",
-                  "-"
+                  "0명",
+                  "0명",
+                  "2026.10.28"
+                ],
+                [
+                  "경쟁률",
+                  "최종 경쟁률 0 대 1"
                 ]
               ],
               "method": "deterministic_public_html_parser"
             },
-            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+            "note": "최종 선발 0명입니다. 공식 표기값을 지원자 없음이나 낮은 경쟁률로 해석하지 않습니다."
+          },
+          "competitionRecord": {
+            "status": "confirmed",
+            "officialValueRaw": "0",
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": 0,
+                "selected": 0,
+                "date": "2026-10-12"
+              },
+              {
+                "name": "최종",
+                "applicants": 0,
+                "selected": 0,
+                "date": "2026-10-28"
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
+              "sha256": "d466d1e1267eeb7e7dc3d56cdcae872578be6b4602dd774c37ce43df1452940e",
+              "receivedAt": "2026-11-11T06:13:11.949+00:00",
+              "rawUnitName": "기간제근로자(대체인력, 위생직) 강원남부사무소",
+              "rows": [
+                [
+                  "기간제근로자(대체인력, 위생직) 강원남부사무소"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "0명",
+                  "0명",
+                  "2026.10.12"
+                ],
+                [
+                  "최종",
+                  "0명",
+                  "0명",
+                  "2026.10.28"
+                ],
+                [
+                  "경쟁률",
+                  "최종 경쟁률 0 대 1"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            }
           },
           "employmentEvidence": {
             "scope": "recruitment_unit",
@@ -28316,7 +28864,67 @@
               "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
               "receivedAt": "2026-09-25T11:49:22.876+00:00"
             }
-          }
+          },
+          "competitionHistory": [
+            {
+              "supersededAt": "2026-11-11T06:13:11.949+00:00",
+              "competition": null,
+              "competitionRecord": {
+                "status": "not_disclosed",
+                "officialValueRaw": null,
+                "officialLabel": "최종 경쟁률",
+                "scope": "recruitment_unit",
+                "definitionStatus": "unverified",
+                "numeratorDefinition": null,
+                "denominatorDefinition": null,
+                "stages": [
+                  {
+                    "name": "1차",
+                    "applicants": null,
+                    "selected": null,
+                    "date": null
+                  },
+                  {
+                    "name": "최종",
+                    "applicants": null,
+                    "selected": null,
+                    "date": null
+                  }
+                ],
+                "evidence": {
+                  "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
+                  "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
+                  "receivedAt": "2026-09-25T11:49:22.876+00:00",
+                  "rawUnitName": "기간제근로자(대체인력, 위생직) 강원남부사무소",
+                  "rows": [
+                    [
+                      "기간제근로자(대체인력, 위생직) 강원남부사무소"
+                    ],
+                    [
+                      "구분",
+                      "선발인원",
+                      "응시인원",
+                      "결과 확정일"
+                    ],
+                    [
+                      "1차",
+                      "-",
+                      "-",
+                      "-"
+                    ],
+                    [
+                      "최종",
+                      "-",
+                      "-",
+                      "-"
+                    ]
+                  ],
+                  "method": "deterministic_public_html_parser"
+                },
+                "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+              }
+            }
+          ]
         },
         {
           "id": "auto-8fe98e00eb0b166e",
@@ -28438,33 +29046,34 @@
             ],
             "method": "deterministic_public_html_parser"
           },
-          "competition": null,
-          "competitionRecord": {
-            "status": "not_disclosed",
-            "officialValueRaw": null,
-            "officialLabel": "최종 경쟁률",
+          "competition": {
+            "label": "JOB-ALIO 최종 경쟁률",
+            "published": 0,
+            "publishedRaw": "0",
             "scope": "recruitment_unit",
+            "definition": "공식 표기값입니다. 산식·분자/분모 정의는 미확인입니다. 전형별 인원과 구분합니다.",
             "definitionStatus": "unverified",
-            "numeratorDefinition": null,
-            "denominatorDefinition": null,
+            "sources": [
+              "auto_alio"
+            ],
             "stages": [
               {
                 "name": "1차",
-                "applicants": null,
-                "selected": null,
-                "date": null
+                "applicants": 0,
+                "selected": 0,
+                "date": "2026-10-12"
               },
               {
                 "name": "최종",
-                "applicants": null,
-                "selected": null,
-                "date": null
+                "applicants": 0,
+                "selected": 0,
+                "date": "2026-10-28"
               }
             ],
             "evidence": {
               "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
-              "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
-              "receivedAt": "2026-09-25T11:49:22.876+00:00",
+              "sha256": "d466d1e1267eeb7e7dc3d56cdcae872578be6b4602dd774c37ce43df1452940e",
+              "receivedAt": "2026-11-11T06:13:11.949+00:00",
               "rawUnitName": "기간제근로자(대체인력, 위생직) 충북북부사무소",
               "rows": [
                 [
@@ -28478,20 +29087,81 @@
                 ],
                 [
                   "1차",
-                  "-",
-                  "-",
-                  "-"
+                  "0명",
+                  "0명",
+                  "2026.10.12"
                 ],
                 [
                   "최종",
-                  "-",
-                  "-",
-                  "-"
+                  "0명",
+                  "0명",
+                  "2026.10.28"
+                ],
+                [
+                  "경쟁률",
+                  "최종 경쟁률 0 대 1"
                 ]
               ],
               "method": "deterministic_public_html_parser"
             },
-            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+            "note": "최종 선발 0명입니다. 공식 표기값을 지원자 없음이나 낮은 경쟁률로 해석하지 않습니다."
+          },
+          "competitionRecord": {
+            "status": "confirmed",
+            "officialValueRaw": "0",
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": 0,
+                "selected": 0,
+                "date": "2026-10-12"
+              },
+              {
+                "name": "최종",
+                "applicants": 0,
+                "selected": 0,
+                "date": "2026-10-28"
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
+              "sha256": "d466d1e1267eeb7e7dc3d56cdcae872578be6b4602dd774c37ce43df1452940e",
+              "receivedAt": "2026-11-11T06:13:11.949+00:00",
+              "rawUnitName": "기간제근로자(대체인력, 위생직) 충북북부사무소",
+              "rows": [
+                [
+                  "기간제근로자(대체인력, 위생직) 충북북부사무소"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "0명",
+                  "0명",
+                  "2026.10.12"
+                ],
+                [
+                  "최종",
+                  "0명",
+                  "0명",
+                  "2026.10.28"
+                ],
+                [
+                  "경쟁률",
+                  "최종 경쟁률 0 대 1"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            }
           },
           "employmentEvidence": {
             "scope": "recruitment_unit",
@@ -28579,7 +29249,67 @@
               "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
               "receivedAt": "2026-09-25T11:49:22.876+00:00"
             }
-          }
+          },
+          "competitionHistory": [
+            {
+              "supersededAt": "2026-11-11T06:13:11.949+00:00",
+              "competition": null,
+              "competitionRecord": {
+                "status": "not_disclosed",
+                "officialValueRaw": null,
+                "officialLabel": "최종 경쟁률",
+                "scope": "recruitment_unit",
+                "definitionStatus": "unverified",
+                "numeratorDefinition": null,
+                "denominatorDefinition": null,
+                "stages": [
+                  {
+                    "name": "1차",
+                    "applicants": null,
+                    "selected": null,
+                    "date": null
+                  },
+                  {
+                    "name": "최종",
+                    "applicants": null,
+                    "selected": null,
+                    "date": null
+                  }
+                ],
+                "evidence": {
+                  "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
+                  "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
+                  "receivedAt": "2026-09-25T11:49:22.876+00:00",
+                  "rawUnitName": "기간제근로자(대체인력, 위생직) 충북북부사무소",
+                  "rows": [
+                    [
+                      "기간제근로자(대체인력, 위생직) 충북북부사무소"
+                    ],
+                    [
+                      "구분",
+                      "선발인원",
+                      "응시인원",
+                      "결과 확정일"
+                    ],
+                    [
+                      "1차",
+                      "-",
+                      "-",
+                      "-"
+                    ],
+                    [
+                      "최종",
+                      "-",
+                      "-",
+                      "-"
+                    ]
+                  ],
+                  "method": "deterministic_public_html_parser"
+                },
+                "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+              }
+            }
+          ]
         },
         {
           "id": "auto-c887894d855d5f0f",
@@ -28701,33 +29431,34 @@
             ],
             "method": "deterministic_public_html_parser"
           },
-          "competition": null,
-          "competitionRecord": {
-            "status": "not_disclosed",
-            "officialValueRaw": null,
-            "officialLabel": "최종 경쟁률",
+          "competition": {
+            "label": "JOB-ALIO 최종 경쟁률",
+            "published": 0,
+            "publishedRaw": "0",
             "scope": "recruitment_unit",
+            "definition": "공식 표기값입니다. 산식·분자/분모 정의는 미확인입니다. 전형별 인원과 구분합니다.",
             "definitionStatus": "unverified",
-            "numeratorDefinition": null,
-            "denominatorDefinition": null,
+            "sources": [
+              "auto_alio"
+            ],
             "stages": [
               {
                 "name": "1차",
-                "applicants": null,
-                "selected": null,
-                "date": null
+                "applicants": 0,
+                "selected": 0,
+                "date": "2026-10-12"
               },
               {
                 "name": "최종",
-                "applicants": null,
-                "selected": null,
-                "date": null
+                "applicants": 0,
+                "selected": 0,
+                "date": "2026-10-28"
               }
             ],
             "evidence": {
               "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
-              "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
-              "receivedAt": "2026-09-25T11:49:22.876+00:00",
+              "sha256": "d466d1e1267eeb7e7dc3d56cdcae872578be6b4602dd774c37ce43df1452940e",
+              "receivedAt": "2026-11-11T06:13:11.949+00:00",
               "rawUnitName": "기간제근로자(대체인력, 위생직) 충남중부사무소",
               "rows": [
                 [
@@ -28741,20 +29472,81 @@
                 ],
                 [
                   "1차",
-                  "-",
-                  "-",
-                  "-"
+                  "0명",
+                  "0명",
+                  "2026.10.12"
                 ],
                 [
                   "최종",
-                  "-",
-                  "-",
-                  "-"
+                  "0명",
+                  "0명",
+                  "2026.10.28"
+                ],
+                [
+                  "경쟁률",
+                  "최종 경쟁률 0 대 1"
                 ]
               ],
               "method": "deterministic_public_html_parser"
             },
-            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+            "note": "최종 선발 0명입니다. 공식 표기값을 지원자 없음이나 낮은 경쟁률로 해석하지 않습니다."
+          },
+          "competitionRecord": {
+            "status": "confirmed",
+            "officialValueRaw": "0",
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": 0,
+                "selected": 0,
+                "date": "2026-10-12"
+              },
+              {
+                "name": "최종",
+                "applicants": 0,
+                "selected": 0,
+                "date": "2026-10-28"
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
+              "sha256": "d466d1e1267eeb7e7dc3d56cdcae872578be6b4602dd774c37ce43df1452940e",
+              "receivedAt": "2026-11-11T06:13:11.949+00:00",
+              "rawUnitName": "기간제근로자(대체인력, 위생직) 충남중부사무소",
+              "rows": [
+                [
+                  "기간제근로자(대체인력, 위생직) 충남중부사무소"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "0명",
+                  "0명",
+                  "2026.10.12"
+                ],
+                [
+                  "최종",
+                  "0명",
+                  "0명",
+                  "2026.10.28"
+                ],
+                [
+                  "경쟁률",
+                  "최종 경쟁률 0 대 1"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            }
           },
           "employmentEvidence": {
             "scope": "recruitment_unit",
@@ -28842,7 +29634,67 @@
               "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
               "receivedAt": "2026-09-25T11:49:22.876+00:00"
             }
-          }
+          },
+          "competitionHistory": [
+            {
+              "supersededAt": "2026-11-11T06:13:11.949+00:00",
+              "competition": null,
+              "competitionRecord": {
+                "status": "not_disclosed",
+                "officialValueRaw": null,
+                "officialLabel": "최종 경쟁률",
+                "scope": "recruitment_unit",
+                "definitionStatus": "unverified",
+                "numeratorDefinition": null,
+                "denominatorDefinition": null,
+                "stages": [
+                  {
+                    "name": "1차",
+                    "applicants": null,
+                    "selected": null,
+                    "date": null
+                  },
+                  {
+                    "name": "최종",
+                    "applicants": null,
+                    "selected": null,
+                    "date": null
+                  }
+                ],
+                "evidence": {
+                  "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
+                  "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
+                  "receivedAt": "2026-09-25T11:49:22.876+00:00",
+                  "rawUnitName": "기간제근로자(대체인력, 위생직) 충남중부사무소",
+                  "rows": [
+                    [
+                      "기간제근로자(대체인력, 위생직) 충남중부사무소"
+                    ],
+                    [
+                      "구분",
+                      "선발인원",
+                      "응시인원",
+                      "결과 확정일"
+                    ],
+                    [
+                      "1차",
+                      "-",
+                      "-",
+                      "-"
+                    ],
+                    [
+                      "최종",
+                      "-",
+                      "-",
+                      "-"
+                    ]
+                  ],
+                  "method": "deterministic_public_html_parser"
+                },
+                "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+              }
+            }
+          ]
         },
         {
           "id": "auto-726b9c1eee4f160d",
@@ -28964,33 +29816,34 @@
             ],
             "method": "deterministic_public_html_parser"
           },
-          "competition": null,
-          "competitionRecord": {
-            "status": "not_disclosed",
-            "officialValueRaw": null,
-            "officialLabel": "최종 경쟁률",
+          "competition": {
+            "label": "JOB-ALIO 최종 경쟁률",
+            "published": 0,
+            "publishedRaw": "0",
             "scope": "recruitment_unit",
+            "definition": "공식 표기값입니다. 산식·분자/분모 정의는 미확인입니다. 전형별 인원과 구분합니다.",
             "definitionStatus": "unverified",
-            "numeratorDefinition": null,
-            "denominatorDefinition": null,
+            "sources": [
+              "auto_alio"
+            ],
             "stages": [
               {
                 "name": "1차",
-                "applicants": null,
-                "selected": null,
-                "date": null
+                "applicants": 0,
+                "selected": 0,
+                "date": "2026-10-12"
               },
               {
                 "name": "최종",
-                "applicants": null,
-                "selected": null,
-                "date": null
+                "applicants": 0,
+                "selected": 0,
+                "date": "2026-10-28"
               }
             ],
             "evidence": {
               "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
-              "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
-              "receivedAt": "2026-09-25T11:49:22.876+00:00",
+              "sha256": "d466d1e1267eeb7e7dc3d56cdcae872578be6b4602dd774c37ce43df1452940e",
+              "receivedAt": "2026-11-11T06:13:11.949+00:00",
               "rawUnitName": "기간제근로자(대체인력, 위생직) 충남북부사무소",
               "rows": [
                 [
@@ -29004,20 +29857,81 @@
                 ],
                 [
                   "1차",
-                  "-",
-                  "-",
-                  "-"
+                  "0명",
+                  "0명",
+                  "2026.10.12"
                 ],
                 [
                   "최종",
-                  "-",
-                  "-",
-                  "-"
+                  "0명",
+                  "0명",
+                  "2026.10.28"
+                ],
+                [
+                  "경쟁률",
+                  "최종 경쟁률 0 대 1"
                 ]
               ],
               "method": "deterministic_public_html_parser"
             },
-            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+            "note": "최종 선발 0명입니다. 공식 표기값을 지원자 없음이나 낮은 경쟁률로 해석하지 않습니다."
+          },
+          "competitionRecord": {
+            "status": "confirmed",
+            "officialValueRaw": "0",
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": 0,
+                "selected": 0,
+                "date": "2026-10-12"
+              },
+              {
+                "name": "최종",
+                "applicants": 0,
+                "selected": 0,
+                "date": "2026-10-28"
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
+              "sha256": "d466d1e1267eeb7e7dc3d56cdcae872578be6b4602dd774c37ce43df1452940e",
+              "receivedAt": "2026-11-11T06:13:11.949+00:00",
+              "rawUnitName": "기간제근로자(대체인력, 위생직) 충남북부사무소",
+              "rows": [
+                [
+                  "기간제근로자(대체인력, 위생직) 충남북부사무소"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "0명",
+                  "0명",
+                  "2026.10.12"
+                ],
+                [
+                  "최종",
+                  "0명",
+                  "0명",
+                  "2026.10.28"
+                ],
+                [
+                  "경쟁률",
+                  "최종 경쟁률 0 대 1"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            }
           },
           "employmentEvidence": {
             "scope": "recruitment_unit",
@@ -29105,7 +30019,67 @@
               "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
               "receivedAt": "2026-09-25T11:49:22.876+00:00"
             }
-          }
+          },
+          "competitionHistory": [
+            {
+              "supersededAt": "2026-11-11T06:13:11.949+00:00",
+              "competition": null,
+              "competitionRecord": {
+                "status": "not_disclosed",
+                "officialValueRaw": null,
+                "officialLabel": "최종 경쟁률",
+                "scope": "recruitment_unit",
+                "definitionStatus": "unverified",
+                "numeratorDefinition": null,
+                "denominatorDefinition": null,
+                "stages": [
+                  {
+                    "name": "1차",
+                    "applicants": null,
+                    "selected": null,
+                    "date": null
+                  },
+                  {
+                    "name": "최종",
+                    "applicants": null,
+                    "selected": null,
+                    "date": null
+                  }
+                ],
+                "evidence": {
+                  "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
+                  "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
+                  "receivedAt": "2026-09-25T11:49:22.876+00:00",
+                  "rawUnitName": "기간제근로자(대체인력, 위생직) 충남북부사무소",
+                  "rows": [
+                    [
+                      "기간제근로자(대체인력, 위생직) 충남북부사무소"
+                    ],
+                    [
+                      "구분",
+                      "선발인원",
+                      "응시인원",
+                      "결과 확정일"
+                    ],
+                    [
+                      "1차",
+                      "-",
+                      "-",
+                      "-"
+                    ],
+                    [
+                      "최종",
+                      "-",
+                      "-",
+                      "-"
+                    ]
+                  ],
+                  "method": "deterministic_public_html_parser"
+                },
+                "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+              }
+            }
+          ]
         },
         {
           "id": "auto-d9af673937d3ee2f",
@@ -29227,33 +30201,34 @@
             ],
             "method": "deterministic_public_html_parser"
           },
-          "competition": null,
-          "competitionRecord": {
-            "status": "not_disclosed",
-            "officialValueRaw": null,
-            "officialLabel": "최종 경쟁률",
+          "competition": {
+            "label": "JOB-ALIO 최종 경쟁률",
+            "published": 0,
+            "publishedRaw": "0",
             "scope": "recruitment_unit",
+            "definition": "공식 표기값입니다. 산식·분자/분모 정의는 미확인입니다. 전형별 인원과 구분합니다.",
             "definitionStatus": "unverified",
-            "numeratorDefinition": null,
-            "denominatorDefinition": null,
+            "sources": [
+              "auto_alio"
+            ],
             "stages": [
               {
                 "name": "1차",
-                "applicants": null,
-                "selected": null,
-                "date": null
+                "applicants": 0,
+                "selected": 0,
+                "date": "2026-10-12"
               },
               {
                 "name": "최종",
-                "applicants": null,
-                "selected": null,
-                "date": null
+                "applicants": 0,
+                "selected": 0,
+                "date": "2026-10-28"
               }
             ],
             "evidence": {
               "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
-              "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
-              "receivedAt": "2026-09-25T11:49:22.876+00:00",
+              "sha256": "d466d1e1267eeb7e7dc3d56cdcae872578be6b4602dd774c37ce43df1452940e",
+              "receivedAt": "2026-11-11T06:13:11.949+00:00",
               "rawUnitName": "기간제근로자(대체인력, 위생직) 전북서부사무소('26.11.4.~'28.9.29.)",
               "rows": [
                 [
@@ -29267,20 +30242,81 @@
                 ],
                 [
                   "1차",
-                  "-",
-                  "-",
-                  "-"
+                  "0명",
+                  "0명",
+                  "2026.10.12"
                 ],
                 [
                   "최종",
-                  "-",
-                  "-",
-                  "-"
+                  "0명",
+                  "0명",
+                  "2026.10.28"
+                ],
+                [
+                  "경쟁률",
+                  "최종 경쟁률 0 대 1"
                 ]
               ],
               "method": "deterministic_public_html_parser"
             },
-            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+            "note": "최종 선발 0명입니다. 공식 표기값을 지원자 없음이나 낮은 경쟁률로 해석하지 않습니다."
+          },
+          "competitionRecord": {
+            "status": "confirmed",
+            "officialValueRaw": "0",
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": 0,
+                "selected": 0,
+                "date": "2026-10-12"
+              },
+              {
+                "name": "최종",
+                "applicants": 0,
+                "selected": 0,
+                "date": "2026-10-28"
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
+              "sha256": "d466d1e1267eeb7e7dc3d56cdcae872578be6b4602dd774c37ce43df1452940e",
+              "receivedAt": "2026-11-11T06:13:11.949+00:00",
+              "rawUnitName": "기간제근로자(대체인력, 위생직) 전북서부사무소('26.11.4.~'28.9.29.)",
+              "rows": [
+                [
+                  "기간제근로자(대체인력, 위생직) 전북서부사무소('26.11.4.~'28.9.29.)"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "0명",
+                  "0명",
+                  "2026.10.12"
+                ],
+                [
+                  "최종",
+                  "0명",
+                  "0명",
+                  "2026.10.28"
+                ],
+                [
+                  "경쟁률",
+                  "최종 경쟁률 0 대 1"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            }
           },
           "employmentEvidence": {
             "scope": "recruitment_unit",
@@ -29368,7 +30404,67 @@
               "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
               "receivedAt": "2026-09-25T11:49:22.876+00:00"
             }
-          }
+          },
+          "competitionHistory": [
+            {
+              "supersededAt": "2026-11-11T06:13:11.949+00:00",
+              "competition": null,
+              "competitionRecord": {
+                "status": "not_disclosed",
+                "officialValueRaw": null,
+                "officialLabel": "최종 경쟁률",
+                "scope": "recruitment_unit",
+                "definitionStatus": "unverified",
+                "numeratorDefinition": null,
+                "denominatorDefinition": null,
+                "stages": [
+                  {
+                    "name": "1차",
+                    "applicants": null,
+                    "selected": null,
+                    "date": null
+                  },
+                  {
+                    "name": "최종",
+                    "applicants": null,
+                    "selected": null,
+                    "date": null
+                  }
+                ],
+                "evidence": {
+                  "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
+                  "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
+                  "receivedAt": "2026-09-25T11:49:22.876+00:00",
+                  "rawUnitName": "기간제근로자(대체인력, 위생직) 전북서부사무소('26.11.4.~'28.9.29.)",
+                  "rows": [
+                    [
+                      "기간제근로자(대체인력, 위생직) 전북서부사무소('26.11.4.~'28.9.29.)"
+                    ],
+                    [
+                      "구분",
+                      "선발인원",
+                      "응시인원",
+                      "결과 확정일"
+                    ],
+                    [
+                      "1차",
+                      "-",
+                      "-",
+                      "-"
+                    ],
+                    [
+                      "최종",
+                      "-",
+                      "-",
+                      "-"
+                    ]
+                  ],
+                  "method": "deterministic_public_html_parser"
+                },
+                "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+              }
+            }
+          ]
         },
         {
           "id": "auto-b66a490891d01dad",
@@ -29490,33 +30586,34 @@
             ],
             "method": "deterministic_public_html_parser"
           },
-          "competition": null,
-          "competitionRecord": {
-            "status": "not_disclosed",
-            "officialValueRaw": null,
-            "officialLabel": "최종 경쟁률",
+          "competition": {
+            "label": "JOB-ALIO 최종 경쟁률",
+            "published": 1,
+            "publishedRaw": "1",
             "scope": "recruitment_unit",
+            "definition": "공식 표기값입니다. 산식·분자/분모 정의는 미확인입니다. 전형별 인원과 구분합니다.",
             "definitionStatus": "unverified",
-            "numeratorDefinition": null,
-            "denominatorDefinition": null,
+            "sources": [
+              "auto_alio"
+            ],
             "stages": [
               {
                 "name": "1차",
-                "applicants": null,
-                "selected": null,
-                "date": null
+                "applicants": 1,
+                "selected": 1,
+                "date": "2026-10-12"
               },
               {
                 "name": "최종",
-                "applicants": null,
-                "selected": null,
-                "date": null
+                "applicants": 1,
+                "selected": 1,
+                "date": "2026-10-28"
               }
             ],
             "evidence": {
               "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
-              "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
-              "receivedAt": "2026-09-25T11:49:22.876+00:00",
+              "sha256": "d466d1e1267eeb7e7dc3d56cdcae872578be6b4602dd774c37ce43df1452940e",
+              "receivedAt": "2026-11-11T06:13:11.949+00:00",
               "rawUnitName": "기간제근로자(대체인력, 위생직) 전북서부사무소('26.11.4.~'28.1.28.)",
               "rows": [
                 [
@@ -29530,20 +30627,80 @@
                 ],
                 [
                   "1차",
-                  "-",
-                  "-",
-                  "-"
+                  "1명",
+                  "1명",
+                  "2026.10.12"
                 ],
                 [
                   "최종",
-                  "-",
-                  "-",
-                  "-"
+                  "1명",
+                  "1명",
+                  "2026.10.28"
+                ],
+                [
+                  "경쟁률",
+                  "최종 경쟁률 1 대 1"
                 ]
               ],
               "method": "deterministic_public_html_parser"
-            },
-            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+            }
+          },
+          "competitionRecord": {
+            "status": "confirmed",
+            "officialValueRaw": "1",
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": 1,
+                "selected": 1,
+                "date": "2026-10-12"
+              },
+              {
+                "name": "최종",
+                "applicants": 1,
+                "selected": 1,
+                "date": "2026-10-28"
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
+              "sha256": "d466d1e1267eeb7e7dc3d56cdcae872578be6b4602dd774c37ce43df1452940e",
+              "receivedAt": "2026-11-11T06:13:11.949+00:00",
+              "rawUnitName": "기간제근로자(대체인력, 위생직) 전북서부사무소('26.11.4.~'28.1.28.)",
+              "rows": [
+                [
+                  "기간제근로자(대체인력, 위생직) 전북서부사무소('26.11.4.~'28.1.28.)"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "1명",
+                  "1명",
+                  "2026.10.12"
+                ],
+                [
+                  "최종",
+                  "1명",
+                  "1명",
+                  "2026.10.28"
+                ],
+                [
+                  "경쟁률",
+                  "최종 경쟁률 1 대 1"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            }
           },
           "employmentEvidence": {
             "scope": "recruitment_unit",
@@ -29631,7 +30788,67 @@
               "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
               "receivedAt": "2026-09-25T11:49:22.876+00:00"
             }
-          }
+          },
+          "competitionHistory": [
+            {
+              "supersededAt": "2026-11-11T06:13:11.949+00:00",
+              "competition": null,
+              "competitionRecord": {
+                "status": "not_disclosed",
+                "officialValueRaw": null,
+                "officialLabel": "최종 경쟁률",
+                "scope": "recruitment_unit",
+                "definitionStatus": "unverified",
+                "numeratorDefinition": null,
+                "denominatorDefinition": null,
+                "stages": [
+                  {
+                    "name": "1차",
+                    "applicants": null,
+                    "selected": null,
+                    "date": null
+                  },
+                  {
+                    "name": "최종",
+                    "applicants": null,
+                    "selected": null,
+                    "date": null
+                  }
+                ],
+                "evidence": {
+                  "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
+                  "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
+                  "receivedAt": "2026-09-25T11:49:22.876+00:00",
+                  "rawUnitName": "기간제근로자(대체인력, 위생직) 전북서부사무소('26.11.4.~'28.1.28.)",
+                  "rows": [
+                    [
+                      "기간제근로자(대체인력, 위생직) 전북서부사무소('26.11.4.~'28.1.28.)"
+                    ],
+                    [
+                      "구분",
+                      "선발인원",
+                      "응시인원",
+                      "결과 확정일"
+                    ],
+                    [
+                      "1차",
+                      "-",
+                      "-",
+                      "-"
+                    ],
+                    [
+                      "최종",
+                      "-",
+                      "-",
+                      "-"
+                    ]
+                  ],
+                  "method": "deterministic_public_html_parser"
+                },
+                "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+              }
+            }
+          ]
         },
         {
           "id": "auto-4b68dc6d03eb7ca7",
@@ -29753,33 +30970,34 @@
             ],
             "method": "deterministic_public_html_parser"
           },
-          "competition": null,
-          "competitionRecord": {
-            "status": "not_disclosed",
-            "officialValueRaw": null,
-            "officialLabel": "최종 경쟁률",
+          "competition": {
+            "label": "JOB-ALIO 최종 경쟁률",
+            "published": 0,
+            "publishedRaw": "0",
             "scope": "recruitment_unit",
+            "definition": "공식 표기값입니다. 산식·분자/분모 정의는 미확인입니다. 전형별 인원과 구분합니다.",
             "definitionStatus": "unverified",
-            "numeratorDefinition": null,
-            "denominatorDefinition": null,
+            "sources": [
+              "auto_alio"
+            ],
             "stages": [
               {
                 "name": "1차",
-                "applicants": null,
-                "selected": null,
-                "date": null
+                "applicants": 0,
+                "selected": 0,
+                "date": "2026-10-12"
               },
               {
                 "name": "최종",
-                "applicants": null,
-                "selected": null,
-                "date": null
+                "applicants": 0,
+                "selected": 0,
+                "date": "2026-10-28"
               }
             ],
             "evidence": {
               "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
-              "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
-              "receivedAt": "2026-09-25T11:49:22.876+00:00",
+              "sha256": "d466d1e1267eeb7e7dc3d56cdcae872578be6b4602dd774c37ce43df1452940e",
+              "receivedAt": "2026-11-11T06:13:11.949+00:00",
               "rawUnitName": "기간제근로자(대체인력, 위생직) 전북북부사무소",
               "rows": [
                 [
@@ -29793,20 +31011,81 @@
                 ],
                 [
                   "1차",
-                  "-",
-                  "-",
-                  "-"
+                  "0명",
+                  "0명",
+                  "2026.10.12"
                 ],
                 [
                   "최종",
-                  "-",
-                  "-",
-                  "-"
+                  "0명",
+                  "0명",
+                  "2026.10.28"
+                ],
+                [
+                  "경쟁률",
+                  "최종 경쟁률 0 대 1"
                 ]
               ],
               "method": "deterministic_public_html_parser"
             },
-            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+            "note": "최종 선발 0명입니다. 공식 표기값을 지원자 없음이나 낮은 경쟁률로 해석하지 않습니다."
+          },
+          "competitionRecord": {
+            "status": "confirmed",
+            "officialValueRaw": "0",
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": 0,
+                "selected": 0,
+                "date": "2026-10-12"
+              },
+              {
+                "name": "최종",
+                "applicants": 0,
+                "selected": 0,
+                "date": "2026-10-28"
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
+              "sha256": "d466d1e1267eeb7e7dc3d56cdcae872578be6b4602dd774c37ce43df1452940e",
+              "receivedAt": "2026-11-11T06:13:11.949+00:00",
+              "rawUnitName": "기간제근로자(대체인력, 위생직) 전북북부사무소",
+              "rows": [
+                [
+                  "기간제근로자(대체인력, 위생직) 전북북부사무소"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "0명",
+                  "0명",
+                  "2026.10.12"
+                ],
+                [
+                  "최종",
+                  "0명",
+                  "0명",
+                  "2026.10.28"
+                ],
+                [
+                  "경쟁률",
+                  "최종 경쟁률 0 대 1"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            }
           },
           "employmentEvidence": {
             "scope": "recruitment_unit",
@@ -29894,7 +31173,67 @@
               "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
               "receivedAt": "2026-09-25T11:49:22.876+00:00"
             }
-          }
+          },
+          "competitionHistory": [
+            {
+              "supersededAt": "2026-11-11T06:13:11.949+00:00",
+              "competition": null,
+              "competitionRecord": {
+                "status": "not_disclosed",
+                "officialValueRaw": null,
+                "officialLabel": "최종 경쟁률",
+                "scope": "recruitment_unit",
+                "definitionStatus": "unverified",
+                "numeratorDefinition": null,
+                "denominatorDefinition": null,
+                "stages": [
+                  {
+                    "name": "1차",
+                    "applicants": null,
+                    "selected": null,
+                    "date": null
+                  },
+                  {
+                    "name": "최종",
+                    "applicants": null,
+                    "selected": null,
+                    "date": null
+                  }
+                ],
+                "evidence": {
+                  "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
+                  "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
+                  "receivedAt": "2026-09-25T11:49:22.876+00:00",
+                  "rawUnitName": "기간제근로자(대체인력, 위생직) 전북북부사무소",
+                  "rows": [
+                    [
+                      "기간제근로자(대체인력, 위생직) 전북북부사무소"
+                    ],
+                    [
+                      "구분",
+                      "선발인원",
+                      "응시인원",
+                      "결과 확정일"
+                    ],
+                    [
+                      "1차",
+                      "-",
+                      "-",
+                      "-"
+                    ],
+                    [
+                      "최종",
+                      "-",
+                      "-",
+                      "-"
+                    ]
+                  ],
+                  "method": "deterministic_public_html_parser"
+                },
+                "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+              }
+            }
+          ]
         },
         {
           "id": "auto-c7f3276836d0edc5",
@@ -30016,33 +31355,34 @@
             ],
             "method": "deterministic_public_html_parser"
           },
-          "competition": null,
-          "competitionRecord": {
-            "status": "not_disclosed",
-            "officialValueRaw": null,
-            "officialLabel": "최종 경쟁률",
+          "competition": {
+            "label": "JOB-ALIO 최종 경쟁률",
+            "published": 0,
+            "publishedRaw": "0",
             "scope": "recruitment_unit",
+            "definition": "공식 표기값입니다. 산식·분자/분모 정의는 미확인입니다. 전형별 인원과 구분합니다.",
             "definitionStatus": "unverified",
-            "numeratorDefinition": null,
-            "denominatorDefinition": null,
+            "sources": [
+              "auto_alio"
+            ],
             "stages": [
               {
                 "name": "1차",
-                "applicants": null,
-                "selected": null,
-                "date": null
+                "applicants": 0,
+                "selected": 0,
+                "date": "2026-10-12"
               },
               {
                 "name": "최종",
-                "applicants": null,
-                "selected": null,
-                "date": null
+                "applicants": 0,
+                "selected": 0,
+                "date": "2026-10-28"
               }
             ],
             "evidence": {
               "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
-              "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
-              "receivedAt": "2026-09-25T11:49:22.876+00:00",
+              "sha256": "d466d1e1267eeb7e7dc3d56cdcae872578be6b4602dd774c37ce43df1452940e",
+              "receivedAt": "2026-11-11T06:13:11.949+00:00",
               "rawUnitName": "기간제근로자(대체인력, 위생직) 전남중부사무소('26.11.4.~'27.7.14.)",
               "rows": [
                 [
@@ -30056,20 +31396,81 @@
                 ],
                 [
                   "1차",
-                  "-",
-                  "-",
-                  "-"
+                  "0명",
+                  "0명",
+                  "2026.10.12"
                 ],
                 [
                   "최종",
-                  "-",
-                  "-",
-                  "-"
+                  "0명",
+                  "0명",
+                  "2026.10.28"
+                ],
+                [
+                  "경쟁률",
+                  "최종 경쟁률 0 대 1"
                 ]
               ],
               "method": "deterministic_public_html_parser"
             },
-            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+            "note": "최종 선발 0명입니다. 공식 표기값을 지원자 없음이나 낮은 경쟁률로 해석하지 않습니다."
+          },
+          "competitionRecord": {
+            "status": "confirmed",
+            "officialValueRaw": "0",
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": 0,
+                "selected": 0,
+                "date": "2026-10-12"
+              },
+              {
+                "name": "최종",
+                "applicants": 0,
+                "selected": 0,
+                "date": "2026-10-28"
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
+              "sha256": "d466d1e1267eeb7e7dc3d56cdcae872578be6b4602dd774c37ce43df1452940e",
+              "receivedAt": "2026-11-11T06:13:11.949+00:00",
+              "rawUnitName": "기간제근로자(대체인력, 위생직) 전남중부사무소('26.11.4.~'27.7.14.)",
+              "rows": [
+                [
+                  "기간제근로자(대체인력, 위생직) 전남중부사무소('26.11.4.~'27.7.14.)"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "0명",
+                  "0명",
+                  "2026.10.12"
+                ],
+                [
+                  "최종",
+                  "0명",
+                  "0명",
+                  "2026.10.28"
+                ],
+                [
+                  "경쟁률",
+                  "최종 경쟁률 0 대 1"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            }
           },
           "employmentEvidence": {
             "scope": "recruitment_unit",
@@ -30157,7 +31558,67 @@
               "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
               "receivedAt": "2026-09-25T11:49:22.876+00:00"
             }
-          }
+          },
+          "competitionHistory": [
+            {
+              "supersededAt": "2026-11-11T06:13:11.949+00:00",
+              "competition": null,
+              "competitionRecord": {
+                "status": "not_disclosed",
+                "officialValueRaw": null,
+                "officialLabel": "최종 경쟁률",
+                "scope": "recruitment_unit",
+                "definitionStatus": "unverified",
+                "numeratorDefinition": null,
+                "denominatorDefinition": null,
+                "stages": [
+                  {
+                    "name": "1차",
+                    "applicants": null,
+                    "selected": null,
+                    "date": null
+                  },
+                  {
+                    "name": "최종",
+                    "applicants": null,
+                    "selected": null,
+                    "date": null
+                  }
+                ],
+                "evidence": {
+                  "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
+                  "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
+                  "receivedAt": "2026-09-25T11:49:22.876+00:00",
+                  "rawUnitName": "기간제근로자(대체인력, 위생직) 전남중부사무소('26.11.4.~'27.7.14.)",
+                  "rows": [
+                    [
+                      "기간제근로자(대체인력, 위생직) 전남중부사무소('26.11.4.~'27.7.14.)"
+                    ],
+                    [
+                      "구분",
+                      "선발인원",
+                      "응시인원",
+                      "결과 확정일"
+                    ],
+                    [
+                      "1차",
+                      "-",
+                      "-",
+                      "-"
+                    ],
+                    [
+                      "최종",
+                      "-",
+                      "-",
+                      "-"
+                    ]
+                  ],
+                  "method": "deterministic_public_html_parser"
+                },
+                "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+              }
+            }
+          ]
         },
         {
           "id": "auto-c78c0c367e3bd8eb",
@@ -30279,33 +31740,34 @@
             ],
             "method": "deterministic_public_html_parser"
           },
-          "competition": null,
-          "competitionRecord": {
-            "status": "not_disclosed",
-            "officialValueRaw": null,
-            "officialLabel": "최종 경쟁률",
+          "competition": {
+            "label": "JOB-ALIO 최종 경쟁률",
+            "published": 0,
+            "publishedRaw": "0",
             "scope": "recruitment_unit",
+            "definition": "공식 표기값입니다. 산식·분자/분모 정의는 미확인입니다. 전형별 인원과 구분합니다.",
             "definitionStatus": "unverified",
-            "numeratorDefinition": null,
-            "denominatorDefinition": null,
+            "sources": [
+              "auto_alio"
+            ],
             "stages": [
               {
                 "name": "1차",
-                "applicants": null,
-                "selected": null,
-                "date": null
+                "applicants": 0,
+                "selected": 0,
+                "date": "2026-10-12"
               },
               {
                 "name": "최종",
-                "applicants": null,
-                "selected": null,
-                "date": null
+                "applicants": 0,
+                "selected": 0,
+                "date": "2026-10-28"
               }
             ],
             "evidence": {
               "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
-              "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
-              "receivedAt": "2026-09-25T11:49:22.876+00:00",
+              "sha256": "d466d1e1267eeb7e7dc3d56cdcae872578be6b4602dd774c37ce43df1452940e",
+              "receivedAt": "2026-11-11T06:13:11.949+00:00",
               "rawUnitName": "기간제근로자(대체인력, 위생직) 전남중부사무소('26.11.4.~'27.8.27.)",
               "rows": [
                 [
@@ -30319,20 +31781,81 @@
                 ],
                 [
                   "1차",
-                  "-",
-                  "-",
-                  "-"
+                  "0명",
+                  "0명",
+                  "2026.10.12"
                 ],
                 [
                   "최종",
-                  "-",
-                  "-",
-                  "-"
+                  "0명",
+                  "0명",
+                  "2026.10.28"
+                ],
+                [
+                  "경쟁률",
+                  "최종 경쟁률 0 대 1"
                 ]
               ],
               "method": "deterministic_public_html_parser"
             },
-            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+            "note": "최종 선발 0명입니다. 공식 표기값을 지원자 없음이나 낮은 경쟁률로 해석하지 않습니다."
+          },
+          "competitionRecord": {
+            "status": "confirmed",
+            "officialValueRaw": "0",
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": 0,
+                "selected": 0,
+                "date": "2026-10-12"
+              },
+              {
+                "name": "최종",
+                "applicants": 0,
+                "selected": 0,
+                "date": "2026-10-28"
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
+              "sha256": "d466d1e1267eeb7e7dc3d56cdcae872578be6b4602dd774c37ce43df1452940e",
+              "receivedAt": "2026-11-11T06:13:11.949+00:00",
+              "rawUnitName": "기간제근로자(대체인력, 위생직) 전남중부사무소('26.11.4.~'27.8.27.)",
+              "rows": [
+                [
+                  "기간제근로자(대체인력, 위생직) 전남중부사무소('26.11.4.~'27.8.27.)"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "0명",
+                  "0명",
+                  "2026.10.12"
+                ],
+                [
+                  "최종",
+                  "0명",
+                  "0명",
+                  "2026.10.28"
+                ],
+                [
+                  "경쟁률",
+                  "최종 경쟁률 0 대 1"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            }
           },
           "employmentEvidence": {
             "scope": "recruitment_unit",
@@ -30420,7 +31943,67 @@
               "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
               "receivedAt": "2026-09-25T11:49:22.876+00:00"
             }
-          }
+          },
+          "competitionHistory": [
+            {
+              "supersededAt": "2026-11-11T06:13:11.949+00:00",
+              "competition": null,
+              "competitionRecord": {
+                "status": "not_disclosed",
+                "officialValueRaw": null,
+                "officialLabel": "최종 경쟁률",
+                "scope": "recruitment_unit",
+                "definitionStatus": "unverified",
+                "numeratorDefinition": null,
+                "denominatorDefinition": null,
+                "stages": [
+                  {
+                    "name": "1차",
+                    "applicants": null,
+                    "selected": null,
+                    "date": null
+                  },
+                  {
+                    "name": "최종",
+                    "applicants": null,
+                    "selected": null,
+                    "date": null
+                  }
+                ],
+                "evidence": {
+                  "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
+                  "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
+                  "receivedAt": "2026-09-25T11:49:22.876+00:00",
+                  "rawUnitName": "기간제근로자(대체인력, 위생직) 전남중부사무소('26.11.4.~'27.8.27.)",
+                  "rows": [
+                    [
+                      "기간제근로자(대체인력, 위생직) 전남중부사무소('26.11.4.~'27.8.27.)"
+                    ],
+                    [
+                      "구분",
+                      "선발인원",
+                      "응시인원",
+                      "결과 확정일"
+                    ],
+                    [
+                      "1차",
+                      "-",
+                      "-",
+                      "-"
+                    ],
+                    [
+                      "최종",
+                      "-",
+                      "-",
+                      "-"
+                    ]
+                  ],
+                  "method": "deterministic_public_html_parser"
+                },
+                "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+              }
+            }
+          ]
         },
         {
           "id": "auto-98039ba7189c10b5",
@@ -30542,33 +32125,34 @@
             ],
             "method": "deterministic_public_html_parser"
           },
-          "competition": null,
-          "competitionRecord": {
-            "status": "not_disclosed",
-            "officialValueRaw": null,
-            "officialLabel": "최종 경쟁률",
+          "competition": {
+            "label": "JOB-ALIO 최종 경쟁률",
+            "published": 0,
+            "publishedRaw": "0",
             "scope": "recruitment_unit",
+            "definition": "공식 표기값입니다. 산식·분자/분모 정의는 미확인입니다. 전형별 인원과 구분합니다.",
             "definitionStatus": "unverified",
-            "numeratorDefinition": null,
-            "denominatorDefinition": null,
+            "sources": [
+              "auto_alio"
+            ],
             "stages": [
               {
                 "name": "1차",
-                "applicants": null,
-                "selected": null,
-                "date": null
+                "applicants": 1,
+                "selected": 1,
+                "date": "2026-10-12"
               },
               {
                 "name": "최종",
-                "applicants": null,
-                "selected": null,
-                "date": null
+                "applicants": 0,
+                "selected": 0,
+                "date": "2026-10-28"
               }
             ],
             "evidence": {
               "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
-              "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
-              "receivedAt": "2026-09-25T11:49:22.876+00:00",
+              "sha256": "d466d1e1267eeb7e7dc3d56cdcae872578be6b4602dd774c37ce43df1452940e",
+              "receivedAt": "2026-11-11T06:13:11.949+00:00",
               "rawUnitName": "기간제근로자(대체인력, 위생직) 전남서부사무소",
               "rows": [
                 [
@@ -30582,20 +32166,81 @@
                 ],
                 [
                   "1차",
-                  "-",
-                  "-",
-                  "-"
+                  "1명",
+                  "1명",
+                  "2026.10.12"
                 ],
                 [
                   "최종",
-                  "-",
-                  "-",
-                  "-"
+                  "0명",
+                  "0명",
+                  "2026.10.28"
+                ],
+                [
+                  "경쟁률",
+                  "최종 경쟁률 0 대 1"
                 ]
               ],
               "method": "deterministic_public_html_parser"
             },
-            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+            "note": "최종 선발 0명입니다. 공식 표기값을 지원자 없음이나 낮은 경쟁률로 해석하지 않습니다."
+          },
+          "competitionRecord": {
+            "status": "confirmed",
+            "officialValueRaw": "0",
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": 1,
+                "selected": 1,
+                "date": "2026-10-12"
+              },
+              {
+                "name": "최종",
+                "applicants": 0,
+                "selected": 0,
+                "date": "2026-10-28"
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
+              "sha256": "d466d1e1267eeb7e7dc3d56cdcae872578be6b4602dd774c37ce43df1452940e",
+              "receivedAt": "2026-11-11T06:13:11.949+00:00",
+              "rawUnitName": "기간제근로자(대체인력, 위생직) 전남서부사무소",
+              "rows": [
+                [
+                  "기간제근로자(대체인력, 위생직) 전남서부사무소"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "1명",
+                  "1명",
+                  "2026.10.12"
+                ],
+                [
+                  "최종",
+                  "0명",
+                  "0명",
+                  "2026.10.28"
+                ],
+                [
+                  "경쟁률",
+                  "최종 경쟁률 0 대 1"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            }
           },
           "employmentEvidence": {
             "scope": "recruitment_unit",
@@ -30683,7 +32328,67 @@
               "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
               "receivedAt": "2026-09-25T11:49:22.876+00:00"
             }
-          }
+          },
+          "competitionHistory": [
+            {
+              "supersededAt": "2026-11-11T06:13:11.949+00:00",
+              "competition": null,
+              "competitionRecord": {
+                "status": "not_disclosed",
+                "officialValueRaw": null,
+                "officialLabel": "최종 경쟁률",
+                "scope": "recruitment_unit",
+                "definitionStatus": "unverified",
+                "numeratorDefinition": null,
+                "denominatorDefinition": null,
+                "stages": [
+                  {
+                    "name": "1차",
+                    "applicants": null,
+                    "selected": null,
+                    "date": null
+                  },
+                  {
+                    "name": "최종",
+                    "applicants": null,
+                    "selected": null,
+                    "date": null
+                  }
+                ],
+                "evidence": {
+                  "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
+                  "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
+                  "receivedAt": "2026-09-25T11:49:22.876+00:00",
+                  "rawUnitName": "기간제근로자(대체인력, 위생직) 전남서부사무소",
+                  "rows": [
+                    [
+                      "기간제근로자(대체인력, 위생직) 전남서부사무소"
+                    ],
+                    [
+                      "구분",
+                      "선발인원",
+                      "응시인원",
+                      "결과 확정일"
+                    ],
+                    [
+                      "1차",
+                      "-",
+                      "-",
+                      "-"
+                    ],
+                    [
+                      "최종",
+                      "-",
+                      "-",
+                      "-"
+                    ]
+                  ],
+                  "method": "deterministic_public_html_parser"
+                },
+                "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+              }
+            }
+          ]
         },
         {
           "id": "auto-f48aff65f43118e7",
@@ -30805,33 +32510,34 @@
             ],
             "method": "deterministic_public_html_parser"
           },
-          "competition": null,
-          "competitionRecord": {
-            "status": "not_disclosed",
-            "officialValueRaw": null,
-            "officialLabel": "최종 경쟁률",
+          "competition": {
+            "label": "JOB-ALIO 최종 경쟁률",
+            "published": 1,
+            "publishedRaw": "1",
             "scope": "recruitment_unit",
+            "definition": "공식 표기값입니다. 산식·분자/분모 정의는 미확인입니다. 전형별 인원과 구분합니다.",
             "definitionStatus": "unverified",
-            "numeratorDefinition": null,
-            "denominatorDefinition": null,
+            "sources": [
+              "auto_alio"
+            ],
             "stages": [
               {
                 "name": "1차",
-                "applicants": null,
-                "selected": null,
-                "date": null
+                "applicants": 1,
+                "selected": 1,
+                "date": "2026-10-12"
               },
               {
                 "name": "최종",
-                "applicants": null,
-                "selected": null,
-                "date": null
+                "applicants": 1,
+                "selected": 1,
+                "date": "2026-10-28"
               }
             ],
             "evidence": {
               "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
-              "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
-              "receivedAt": "2026-09-25T11:49:22.876+00:00",
+              "sha256": "d466d1e1267eeb7e7dc3d56cdcae872578be6b4602dd774c37ce43df1452940e",
+              "receivedAt": "2026-11-11T06:13:11.949+00:00",
               "rawUnitName": "기간제근로자(대체인력, 위생직) 경남중부사무소",
               "rows": [
                 [
@@ -30845,20 +32551,80 @@
                 ],
                 [
                   "1차",
-                  "-",
-                  "-",
-                  "-"
+                  "1명",
+                  "1명",
+                  "2026.10.12"
                 ],
                 [
                   "최종",
-                  "-",
-                  "-",
-                  "-"
+                  "1명",
+                  "1명",
+                  "2026.10.28"
+                ],
+                [
+                  "경쟁률",
+                  "최종 경쟁률 1 대 1"
                 ]
               ],
               "method": "deterministic_public_html_parser"
-            },
-            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+            }
+          },
+          "competitionRecord": {
+            "status": "confirmed",
+            "officialValueRaw": "1",
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": 1,
+                "selected": 1,
+                "date": "2026-10-12"
+              },
+              {
+                "name": "최종",
+                "applicants": 1,
+                "selected": 1,
+                "date": "2026-10-28"
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
+              "sha256": "d466d1e1267eeb7e7dc3d56cdcae872578be6b4602dd774c37ce43df1452940e",
+              "receivedAt": "2026-11-11T06:13:11.949+00:00",
+              "rawUnitName": "기간제근로자(대체인력, 위생직) 경남중부사무소",
+              "rows": [
+                [
+                  "기간제근로자(대체인력, 위생직) 경남중부사무소"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "1명",
+                  "1명",
+                  "2026.10.12"
+                ],
+                [
+                  "최종",
+                  "1명",
+                  "1명",
+                  "2026.10.28"
+                ],
+                [
+                  "경쟁률",
+                  "최종 경쟁률 1 대 1"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            }
           },
           "employmentEvidence": {
             "scope": "recruitment_unit",
@@ -30946,7 +32712,67 @@
               "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
               "receivedAt": "2026-09-25T11:49:22.876+00:00"
             }
-          }
+          },
+          "competitionHistory": [
+            {
+              "supersededAt": "2026-11-11T06:13:11.949+00:00",
+              "competition": null,
+              "competitionRecord": {
+                "status": "not_disclosed",
+                "officialValueRaw": null,
+                "officialLabel": "최종 경쟁률",
+                "scope": "recruitment_unit",
+                "definitionStatus": "unverified",
+                "numeratorDefinition": null,
+                "denominatorDefinition": null,
+                "stages": [
+                  {
+                    "name": "1차",
+                    "applicants": null,
+                    "selected": null,
+                    "date": null
+                  },
+                  {
+                    "name": "최종",
+                    "applicants": null,
+                    "selected": null,
+                    "date": null
+                  }
+                ],
+                "evidence": {
+                  "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
+                  "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
+                  "receivedAt": "2026-09-25T11:49:22.876+00:00",
+                  "rawUnitName": "기간제근로자(대체인력, 위생직) 경남중부사무소",
+                  "rows": [
+                    [
+                      "기간제근로자(대체인력, 위생직) 경남중부사무소"
+                    ],
+                    [
+                      "구분",
+                      "선발인원",
+                      "응시인원",
+                      "결과 확정일"
+                    ],
+                    [
+                      "1차",
+                      "-",
+                      "-",
+                      "-"
+                    ],
+                    [
+                      "최종",
+                      "-",
+                      "-",
+                      "-"
+                    ]
+                  ],
+                  "method": "deterministic_public_html_parser"
+                },
+                "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+              }
+            }
+          ]
         },
         {
           "id": "auto-1dd4bacbf1f1ead0",
@@ -31068,33 +32894,34 @@
             ],
             "method": "deterministic_public_html_parser"
           },
-          "competition": null,
-          "competitionRecord": {
-            "status": "not_disclosed",
-            "officialValueRaw": null,
-            "officialLabel": "최종 경쟁률",
+          "competition": {
+            "label": "JOB-ALIO 최종 경쟁률",
+            "published": 0,
+            "publishedRaw": "0",
             "scope": "recruitment_unit",
+            "definition": "공식 표기값입니다. 산식·분자/분모 정의는 미확인입니다. 전형별 인원과 구분합니다.",
             "definitionStatus": "unverified",
-            "numeratorDefinition": null,
-            "denominatorDefinition": null,
+            "sources": [
+              "auto_alio"
+            ],
             "stages": [
               {
                 "name": "1차",
-                "applicants": null,
-                "selected": null,
-                "date": null
+                "applicants": 1,
+                "selected": 1,
+                "date": "2026-10-12"
               },
               {
                 "name": "최종",
-                "applicants": null,
-                "selected": null,
-                "date": null
+                "applicants": 0,
+                "selected": 0,
+                "date": "2026-10-28"
               }
             ],
             "evidence": {
               "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
-              "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
-              "receivedAt": "2026-09-25T11:49:22.876+00:00",
+              "sha256": "d466d1e1267eeb7e7dc3d56cdcae872578be6b4602dd774c37ce43df1452940e",
+              "receivedAt": "2026-11-11T06:13:11.949+00:00",
               "rawUnitName": "기간제근로자(대체인력, 사무운영직) 충북도본부",
               "rows": [
                 [
@@ -31108,20 +32935,81 @@
                 ],
                 [
                   "1차",
-                  "-",
-                  "-",
-                  "-"
+                  "1명",
+                  "1명",
+                  "2026.10.12"
                 ],
                 [
                   "최종",
-                  "-",
-                  "-",
-                  "-"
+                  "0명",
+                  "0명",
+                  "2026.10.28"
+                ],
+                [
+                  "경쟁률",
+                  "최종 경쟁률 0 대 1"
                 ]
               ],
               "method": "deterministic_public_html_parser"
             },
-            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+            "note": "최종 선발 0명입니다. 공식 표기값을 지원자 없음이나 낮은 경쟁률로 해석하지 않습니다."
+          },
+          "competitionRecord": {
+            "status": "confirmed",
+            "officialValueRaw": "0",
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": 1,
+                "selected": 1,
+                "date": "2026-10-12"
+              },
+              {
+                "name": "최종",
+                "applicants": 0,
+                "selected": 0,
+                "date": "2026-10-28"
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
+              "sha256": "d466d1e1267eeb7e7dc3d56cdcae872578be6b4602dd774c37ce43df1452940e",
+              "receivedAt": "2026-11-11T06:13:11.949+00:00",
+              "rawUnitName": "기간제근로자(대체인력, 사무운영직) 충북도본부",
+              "rows": [
+                [
+                  "기간제근로자(대체인력, 사무운영직) 충북도본부"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "1명",
+                  "1명",
+                  "2026.10.12"
+                ],
+                [
+                  "최종",
+                  "0명",
+                  "0명",
+                  "2026.10.28"
+                ],
+                [
+                  "경쟁률",
+                  "최종 경쟁률 0 대 1"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            }
           },
           "employmentEvidence": {
             "scope": "recruitment_unit",
@@ -31209,7 +33097,67 @@
               "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
               "receivedAt": "2026-09-25T11:49:22.876+00:00"
             }
-          }
+          },
+          "competitionHistory": [
+            {
+              "supersededAt": "2026-11-11T06:13:11.949+00:00",
+              "competition": null,
+              "competitionRecord": {
+                "status": "not_disclosed",
+                "officialValueRaw": null,
+                "officialLabel": "최종 경쟁률",
+                "scope": "recruitment_unit",
+                "definitionStatus": "unverified",
+                "numeratorDefinition": null,
+                "denominatorDefinition": null,
+                "stages": [
+                  {
+                    "name": "1차",
+                    "applicants": null,
+                    "selected": null,
+                    "date": null
+                  },
+                  {
+                    "name": "최종",
+                    "applicants": null,
+                    "selected": null,
+                    "date": null
+                  }
+                ],
+                "evidence": {
+                  "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305162",
+                  "sha256": "ab570f1605de162c409a1c628247f8de96db9dd15c555e4fd52c3791ecb41515",
+                  "receivedAt": "2026-09-25T11:49:22.876+00:00",
+                  "rawUnitName": "기간제근로자(대체인력, 사무운영직) 충북도본부",
+                  "rows": [
+                    [
+                      "기간제근로자(대체인력, 사무운영직) 충북도본부"
+                    ],
+                    [
+                      "구분",
+                      "선발인원",
+                      "응시인원",
+                      "결과 확정일"
+                    ],
+                    [
+                      "1차",
+                      "-",
+                      "-",
+                      "-"
+                    ],
+                    [
+                      "최종",
+                      "-",
+                      "-",
+                      "-"
+                    ]
+                  ],
+                  "method": "deterministic_public_html_parser"
+                },
+                "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+              }
+            }
+          ]
         }
       ],
       "sources": [
@@ -31222,8 +33170,8 @@
           "id": "auto_alio",
           "label": "JOB-ALIO 상세 · 자동 수신",
           "url": "https://job.alio.go.kr/recruitview.do?idx=305162",
-          "sha256": "f2f5dd28362e52637ffc3145bc6f4dfafb40f16fbd8619c4bb3071ceedad3e83",
-          "receivedAt": "2026-10-18T11:02:27.426+00:00"
+          "sha256": "d466d1e1267eeb7e7dc3d56cdcae872578be6b4602dd774c37ce43df1452940e",
+          "receivedAt": "2026-11-11T06:13:11.949+00:00"
         }
       ],
       "attachments": [
@@ -31281,18 +33229,35 @@
         "heldUnitCount": 2
       },
       "autoSync": {
-        "semanticHash": "df473cf5136d8bc506a554f5b9ea463fbbba0a99a6ccff1fbe2a7b427d3644f6",
+        "semanticHash": "3bda14e1f29b64305bf0fa265e8ca246dc573c9e8e4c8e7ff028a942ff1252da",
         "conditionsHash": "af0e7a5e3b0ed59e7af2268dc08d4166426b3232ed240a3f58b917178b472998",
-        "rawSha256": "f2f5dd28362e52637ffc3145bc6f4dfafb40f16fbd8619c4bb3071ceedad3e83",
-        "lastFetchedAt": "2026-10-18T11:02:27.426+00:00",
-        "contentChangedAt": "2026-09-25T11:49:22.876+00:00",
+        "rawSha256": "d466d1e1267eeb7e7dc3d56cdcae872578be6b4602dd774c37ce43df1452940e",
+        "lastFetchedAt": "2026-11-11T06:13:11.949+00:00",
+        "contentChangedAt": "2026-11-11T06:13:11.949+00:00",
         "baselineStatus": "compared",
         "needsReview": true,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-10-18T11:02:27.426+00:00",
+          "checkedAt": "2026-11-11T06:13:11.949+00:00",
           "status": "checked",
-          "changedUnitIds": [],
+          "changedUnitIds": [
+            "auto-7fbdddc59b7c24ec",
+            "auto-50721c2ee540ed40",
+            "auto-63e446993f55f672",
+            "auto-6c38a176e296ef42",
+            "auto-1f4e38a1691be68b",
+            "auto-8fe98e00eb0b166e",
+            "auto-c887894d855d5f0f",
+            "auto-726b9c1eee4f160d",
+            "auto-d9af673937d3ee2f",
+            "auto-b66a490891d01dad",
+            "auto-4b68dc6d03eb7ca7",
+            "auto-c7f3276836d0edc5",
+            "auto-c78c0c367e3bd8eb",
+            "auto-98039ba7189c10b5",
+            "auto-f48aff65f43118e7",
+            "auto-1dd4bacbf1f1ead0"
+          ],
           "preservedUnitIds": [],
           "unmatchedUnitIds": [],
           "issues": []
@@ -86403,16 +88368,16 @@
       ],
       "sources": [
         {
-          "id": "auto_alio",
-          "label": "JOB-ALIO 상세 · 코드 수신·자동 정리",
-          "url": "https://job.alio.go.kr/recruitview.do?idx=306613",
-          "sha256": "64d04205a1fc64ac8d01765995563987871344d7fac350843dc22928c5a47e08",
-          "receivedAt": "2026-11-03T00:56:41.724+00:00"
-        },
-        {
           "id": "auto_original_1",
           "label": "기관 원문 링크 · 내용 미확인",
           "url": "https://www.khra.kr/hmpg/noto/note/bordContDetail.do?mode=W&bbs_no=5&pst_no=C533B35D5A924DDE8427B252ADA3A5D3"
+        },
+        {
+          "id": "auto_alio",
+          "label": "JOB-ALIO 상세 · 자동 수신",
+          "url": "https://job.alio.go.kr/recruitview.do?idx=306613",
+          "sha256": "64d04205a1fc64ac8d01765995563987871344d7fac350843dc22928c5a47e08",
+          "receivedAt": "2026-11-11T06:13:08.252+00:00"
         }
       ],
       "attachments": [
@@ -86479,17 +88444,15 @@
         "semanticHash": "4fabd17c1ee35a1cb1462e89bb3babc532d16b14602fbd9c1a79386b45b751e8",
         "conditionsHash": "0fbe9fb43d11e433eb23e2775d53ee076f6d125d62feed0d385f996b3e7a48f9",
         "rawSha256": "64d04205a1fc64ac8d01765995563987871344d7fac350843dc22928c5a47e08",
-        "lastFetchedAt": "2026-11-03T00:56:41.724+00:00",
+        "lastFetchedAt": "2026-11-11T06:13:08.252+00:00",
         "contentChangedAt": "2026-11-03T00:56:41.724+00:00",
-        "baselineStatus": "first_capture",
+        "baselineStatus": "compared",
         "needsReview": true,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-11-03T00:56:41.724+00:00",
+          "checkedAt": "2026-11-11T06:13:08.252+00:00",
           "status": "checked",
-          "changedUnitIds": [
-            "auto-1efe6e20a8c4ae73"
-          ],
+          "changedUnitIds": [],
           "preservedUnitIds": [],
           "unmatchedUnitIds": [],
           "issues": []
@@ -95826,19 +97789,859 @@
         "evaluatedDate": "2026-11-11",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
+    },
+    {
+      "id": "job-alio-306914",
+      "idx": 306914,
+      "organization": "한국환경공단",
+      "title": "한국환경공단 충청권환경본부 환경시설관리처 기간제근로자(촉탁직, 일용직) 채용 공",
+      "posted": "2026-11-11",
+      "deadline": "2026-11-25",
+      "deadlineTime": null,
+      "announcementPeriod": {
+        "start": "2026-11-11",
+        "end": "2026-11-25",
+        "scope": "announcement"
+      },
+      "applicationPeriod": {
+        "start": null,
+        "end": null,
+        "endTime": null,
+        "status": "unverified",
+        "scope": "announcement",
+        "sources": [
+          "auto_alio"
+        ],
+        "raw": null,
+        "note": "명시된 접수기간을 단일 기간으로 해석하지 못했습니다. 공고기간으로 대체하지 않습니다."
+      },
+      "applicationStart": null,
+      "regions": [
+        "충남"
+      ],
+      "totalVacancies": 5,
+      "employment": "비정규직",
+      "units": [
+        {
+          "id": "auto-69d9020487f4e8f9",
+          "title": "예산내포(촉탁나급_토목)",
+          "sourceUnitName": "예산내포(촉탁나급_토목)",
+          "employment": "비정규직",
+          "regions": [
+            "충남"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "1. 촉탁나급: 아래 각 호중 어느 하나 이상에 해당하는 자\r\n- 해당분야의 박사학위 또는 기술사 자격을 취득한 자\r\n- 해당분야의 기사자격을 취득한 후 10년 이상 당해분야의 경력이 있는 자\r\n- 관련협회 기술인 등급 고급 이상인 자\r\n\r\n2. 일용직: 제한 없음\r\n\r\n※ 자세한 사항은 채용 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "충남",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "1. 전형절차\r\n: 1차 전형(서류전형, 3배수 이내) -> 2차 전형(면접전형) -> 채용점검위원회 심의 -> 최종합격자 결정\r\n\r\n2. 결과통보: 서류전형 및 최종합격자에 한하여 개별 통보\r\n\r\n※ 서류전형 합격자가 채용인원의 2배수 미만 시, 재공고(연장공고) 진행\r\n※ 재공고 후에도 합격자가 2배수 미만일 경우에는 최초 서류전형 합격자 및 재공고 서류전형 합격자를 대상으로 면접전형 실시\r\n※ 자세한 사항은 채용 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=306914",
+              "sha256": "4837cc577f828211c8562374dc3cfe1495d87e6ff647b07cabb2376a2cb77822",
+              "receivedAt": "2026-11-11T06:13:04.438+00:00",
+              "rawUnitName": "예산내포(촉탁나급_토목)",
+              "rows": [
+                [
+                  "예산내포(촉탁나급_토목)"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "announcement",
+            "method": "announcement_single_employment",
+            "value": "비정규직",
+            "quote": "비정규직",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "한국환경공단",
+            "job": "예산내포(촉탁나급_토목)",
+            "rawUnitName": "예산내포(촉탁나급_토목)",
+            "regions": [
+              "충남"
+            ],
+            "regionsScope": "announcement",
+            "employment": "비정규직",
+            "recruitmentCategory": {
+              "value": "신입+경력",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=306914",
+              "sha256": "4837cc577f828211c8562374dc3cfe1495d87e6ff647b07cabb2376a2cb77822",
+              "receivedAt": "2026-11-11T06:13:04.438+00:00"
+            }
+          }
+        },
+        {
+          "id": "auto-09ad53a250345f4a",
+          "title": "예산내포(일용직_사무보조)",
+          "sourceUnitName": "예산내포(일용직_사무보조)",
+          "employment": "비정규직",
+          "regions": [
+            "충남"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "1. 촉탁나급: 아래 각 호중 어느 하나 이상에 해당하는 자\r\n- 해당분야의 박사학위 또는 기술사 자격을 취득한 자\r\n- 해당분야의 기사자격을 취득한 후 10년 이상 당해분야의 경력이 있는 자\r\n- 관련협회 기술인 등급 고급 이상인 자\r\n\r\n2. 일용직: 제한 없음\r\n\r\n※ 자세한 사항은 채용 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "충남",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "1. 전형절차\r\n: 1차 전형(서류전형, 3배수 이내) -> 2차 전형(면접전형) -> 채용점검위원회 심의 -> 최종합격자 결정\r\n\r\n2. 결과통보: 서류전형 및 최종합격자에 한하여 개별 통보\r\n\r\n※ 서류전형 합격자가 채용인원의 2배수 미만 시, 재공고(연장공고) 진행\r\n※ 재공고 후에도 합격자가 2배수 미만일 경우에는 최초 서류전형 합격자 및 재공고 서류전형 합격자를 대상으로 면접전형 실시\r\n※ 자세한 사항은 채용 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=306914",
+              "sha256": "4837cc577f828211c8562374dc3cfe1495d87e6ff647b07cabb2376a2cb77822",
+              "receivedAt": "2026-11-11T06:13:04.438+00:00",
+              "rawUnitName": "예산내포(일용직_사무보조)",
+              "rows": [
+                [
+                  "예산내포(일용직_사무보조)"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "announcement",
+            "method": "announcement_single_employment",
+            "value": "비정규직",
+            "quote": "비정규직",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "한국환경공단",
+            "job": "예산내포(일용직_사무보조)",
+            "rawUnitName": "예산내포(일용직_사무보조)",
+            "regions": [
+              "충남"
+            ],
+            "regionsScope": "announcement",
+            "employment": "비정규직",
+            "recruitmentCategory": {
+              "value": "신입+경력",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=306914",
+              "sha256": "4837cc577f828211c8562374dc3cfe1495d87e6ff647b07cabb2376a2cb77822",
+              "receivedAt": "2026-11-11T06:13:04.438+00:00"
+            }
+          }
+        },
+        {
+          "id": "auto-1920cd4a6d9e8552",
+          "title": "금산금산천(일용직_사무보조)",
+          "sourceUnitName": "금산금산천(일용직_사무보조)",
+          "employment": "비정규직",
+          "regions": [
+            "충남"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "1. 촉탁나급: 아래 각 호중 어느 하나 이상에 해당하는 자\r\n- 해당분야의 박사학위 또는 기술사 자격을 취득한 자\r\n- 해당분야의 기사자격을 취득한 후 10년 이상 당해분야의 경력이 있는 자\r\n- 관련협회 기술인 등급 고급 이상인 자\r\n\r\n2. 일용직: 제한 없음\r\n\r\n※ 자세한 사항은 채용 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "충남",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "1. 전형절차\r\n: 1차 전형(서류전형, 3배수 이내) -> 2차 전형(면접전형) -> 채용점검위원회 심의 -> 최종합격자 결정\r\n\r\n2. 결과통보: 서류전형 및 최종합격자에 한하여 개별 통보\r\n\r\n※ 서류전형 합격자가 채용인원의 2배수 미만 시, 재공고(연장공고) 진행\r\n※ 재공고 후에도 합격자가 2배수 미만일 경우에는 최초 서류전형 합격자 및 재공고 서류전형 합격자를 대상으로 면접전형 실시\r\n※ 자세한 사항은 채용 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=306914",
+              "sha256": "4837cc577f828211c8562374dc3cfe1495d87e6ff647b07cabb2376a2cb77822",
+              "receivedAt": "2026-11-11T06:13:04.438+00:00",
+              "rawUnitName": "금산금산천(일용직_사무보조)",
+              "rows": [
+                [
+                  "금산금산천(일용직_사무보조)"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "announcement",
+            "method": "announcement_single_employment",
+            "value": "비정규직",
+            "quote": "비정규직",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "한국환경공단",
+            "job": "금산금산천(일용직_사무보조)",
+            "rawUnitName": "금산금산천(일용직_사무보조)",
+            "regions": [
+              "충남"
+            ],
+            "regionsScope": "announcement",
+            "employment": "비정규직",
+            "recruitmentCategory": {
+              "value": "신입+경력",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=306914",
+              "sha256": "4837cc577f828211c8562374dc3cfe1495d87e6ff647b07cabb2376a2cb77822",
+              "receivedAt": "2026-11-11T06:13:04.438+00:00"
+            }
+          }
+        }
+      ],
+      "sources": [
+        {
+          "id": "auto_alio",
+          "label": "JOB-ALIO 상세 · 코드 수신·자동 정리",
+          "url": "https://job.alio.go.kr/recruitview.do?idx=306914",
+          "sha256": "4837cc577f828211c8562374dc3cfe1495d87e6ff647b07cabb2376a2cb77822",
+          "receivedAt": "2026-11-11T06:13:04.438+00:00"
+        },
+        {
+          "id": "auto_original_1",
+          "label": "기관 원문 링크 · 내용 미확인",
+          "url": "https://www.keco.or.kr/web/lay1/bbs/S1T1205C1207/A/22/view.do?article_seq=100873&cpage=1&rows=10&condition=&keyword="
+        }
+      ],
+      "attachments": [
+        {
+          "name": "공식 첨부 1",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3086586",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        },
+        {
+          "name": "공식 첨부 2",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3086587",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        },
+        {
+          "name": "공식 첨부 3",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3086588",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        }
+      ],
+      "checkedAt": "2026-11-11T06:13:04.438+00:00",
+      "collectionMethod": "automatic_public_html",
+      "collectionLabel": "코드 원격 수신 → 규칙 기반 모집단위 정리 → 저장·화면 생성 · GPT 미사용",
+      "sourceNote": "자동으로 확인 가능한 본문·결과 표만 정리했습니다. 첨부·모집단위별 상세 조건은 미확인이며, 공고 전체 원문은 별도로 표시합니다.",
+      "announcementMetadata": {
+        "raw": {
+          "표준직무(NCS)": "경영.회계.사무,건설,환경.에너지.안전",
+          "학력정보": "학력무관",
+          "근무분야": "계약직",
+          "채용구분": "신입+경력",
+          "고용형태": "비정규직",
+          "대체인력여부": "아니오",
+          "근무지": "충남",
+          "급여정보": "신입 / 평균",
+          "채용인원": "5명",
+          "우대조건": "취업지원(보호)대상자, 장애인, 저소득층, 경력단절여성, 자립준비청년, 지원분야 자격증 소지자 및 경력자 ※ 자세한 사항은 채용공고문 참고",
+          "채용기간": "26.11.11 ~ 26.11.25",
+          "등록일": "2026.11.11"
+        },
+        "rawApplicationPeriod": {
+          "raw": null,
+          "status": "미확인",
+          "source_section": "전형절차/방법",
+          "note": "명시된 접수기간 원문만 추출; 날짜 정규화·모집단위별 상이한 기간 검토는 별도"
+        },
+        "sourceSha256": "4837cc577f828211c8562374dc3cfe1495d87e6ff647b07cabb2376a2cb77822",
+        "sourceReceivedAt": "2026-11-11T06:13:04.438+00:00",
+        "method": "auto-normalize-0.1"
+      },
+      "autoNormalization": {
+        "version": "auto-normalize-0.1",
+        "semanticHash": "44f55221c6e073259f812451b8e9f4d5857f1c5f9ec08a7949e030377132cbf9",
+        "generatedFrom": {
+          "url": "https://job.alio.go.kr/recruitview.do?idx=306914",
+          "sha256": "4837cc577f828211c8562374dc3cfe1495d87e6ff647b07cabb2376a2cb77822",
+          "receivedAt": "2026-11-11T06:13:04.438+00:00"
+        },
+        "aiUsed": false,
+        "heldUnitCount": 1
+      },
+      "autoSync": {
+        "semanticHash": "44f55221c6e073259f812451b8e9f4d5857f1c5f9ec08a7949e030377132cbf9",
+        "conditionsHash": "c67a68fb71c81b5db134e8a41615e22ca3609e871f7f45aeb428fac246fe1c3a",
+        "rawSha256": "4837cc577f828211c8562374dc3cfe1495d87e6ff647b07cabb2376a2cb77822",
+        "lastFetchedAt": "2026-11-11T06:13:04.438+00:00",
+        "contentChangedAt": "2026-11-11T06:13:04.438+00:00",
+        "baselineStatus": "first_capture",
+        "needsReview": true,
+        "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
+        "resultCheck": {
+          "checkedAt": "2026-11-11T06:13:04.438+00:00",
+          "status": "checked",
+          "changedUnitIds": [
+            "auto-69d9020487f4e8f9",
+            "auto-09ad53a250345f4a",
+            "auto-1920cd4a6d9e8552"
+          ],
+          "preservedUnitIds": [],
+          "unmatchedUnitIds": [],
+          "issues": []
+        }
+      },
+      "lifecycle": {
+        "status": "open",
+        "evaluatedDate": "2026-11-11",
+        "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
+      }
     }
   ],
   "refresh": {
     "status": "success",
     "mode": "live",
-    "lastAttemptAt": "2026-11-10T19:42:04+00:00",
-    "lastSuccessAt": "2026-11-10T19:42:04+00:00",
-    "candidatesCount": 1139,
+    "lastAttemptAt": "2026-11-11T06:12:54+00:00",
+    "lastSuccessAt": "2026-11-11T06:12:54+00:00",
+    "candidatesCount": 1142,
     "coverage": {
       "description": "JOB-ALIO 최근60일 이내 진행중·비정규직·경영회계사무 목록, 목록최대2페이지·상세최대4건/회. 저장된 마감공고도 결과를 순환 재확인합니다. 전체공고 수집 아님.",
       "queuedNoticeCount": 40,
-      "heldUnitCount": 1099,
-      "nextPage": 4,
+      "heldUnitCount": 1102,
+      "nextPage": 5,
       "closedRecheck": {
         "recentDays": 30,
         "recentOrUnknownIntervalDays": 1,
@@ -95849,6 +98652,17 @@
       "requestLimit": 6,
       "automaticRetries": 0,
       "heldNotices": [
+        {
+          "id": "job-alio-306912",
+          "organization": "농림수산식품교육문화정보원",
+          "title": "AI기반 생육지원 데이터 센터 구축 위수탁 사업 계약직 채용 공고",
+          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=306912",
+          "lastFetchedAt": "2026-11-11T06:13:15.471+00:00",
+          "reasons": [
+            "모집단위명만으로 사무직 여부 미확인"
+          ],
+          "status": "unverified"
+        },
         {
           "id": "job-alio-306858",
           "organization": "주택관리공단(주)",
@@ -96060,20 +98874,9 @@
             "해당 모집단위의 기간제·계약직 여부 미확인"
           ],
           "status": "unverified"
-        },
-        {
-          "id": "job-alio-305270",
-          "organization": "한국화학연구원",
-          "title": "한국화학연구원 계약직 채용 공고",
-          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305270",
-          "lastFetchedAt": "2026-10-31T12:24:37.249+00:00",
-          "reasons": [
-            "모집단위명만으로 사무직 여부 미확인"
-          ],
-          "status": "unverified"
         }
       ],
-      "heldNoticesTotal": 134,
+      "heldNoticesTotal": 135,
       "heldNoticesShownLimit": 20
     }
   }
