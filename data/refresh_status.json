@@ -1,24 +1,24 @@
 {
-  "startedAt": "2026-11-12T00:40:53+00:00",
+  "startedAt": "2026-11-12T15:10:59+00:00",
   "mode": "live",
   "records": [
     {
-      "id": "job-alio-306916",
+      "id": "job-alio-306983",
       "status": "held",
       "unitCount": 0
     },
     {
-      "id": "job-alio-306323",
+      "id": "job-alio-306654",
       "status": "unchanged",
       "unitCount": 1
     },
     {
-      "id": "job-alio-304596",
+      "id": "job-alio-305263",
       "status": "results_changed",
       "unitCount": 1
     },
     {
-      "id": "job-alio-301038",
+      "id": "job-alio-301306",
       "status": "unchanged",
       "unitCount": 1
     }
@@ -29,53 +29,17 @@
   "noticeCount": 171,
   "added": 0,
   "changedIds": [
-    "job-alio-304596"
+    "job-alio-305263"
   ],
   "deadlineEvents": [
     {
-      "id": "job-alio-306375",
+      "id": "job-alio-306323",
       "from": "open",
       "to": "deadline_elapsed",
       "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
     },
     {
-      "id": "job-alio-306405",
-      "from": "open",
-      "to": "deadline_elapsed",
-      "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
-    },
-    {
-      "id": "job-alio-306395",
-      "from": "open",
-      "to": "deadline_elapsed",
-      "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
-    },
-    {
-      "id": "job-alio-306419",
-      "from": "open",
-      "to": "deadline_elapsed",
-      "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
-    },
-    {
-      "id": "job-alio-306615",
-      "from": "open",
-      "to": "deadline_elapsed",
-      "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
-    },
-    {
-      "id": "job-alio-306676",
-      "from": "open",
-      "to": "deadline_elapsed",
-      "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
-    },
-    {
-      "id": "job-alio-306727",
-      "from": "open",
-      "to": "deadline_elapsed",
-      "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
-    },
-    {
-      "id": "job-alio-306726",
+      "id": "job-alio-306795",
       "from": "open",
       "to": "deadline_elapsed",
       "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
@@ -83,5 +47,5 @@
   ],
   "actualListPages": 2,
   "preservedFailedIds": [],
-  "finishedAt": "2026-11-12T00:41:11+00:00"
+  "finishedAt": "2026-11-12T15:11:15+00:00"
 }
