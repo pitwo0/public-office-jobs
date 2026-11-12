@@ -1,25 +1,25 @@
 {
-  "startedAt": "2026-11-11T14:20:43+00:00",
+  "startedAt": "2026-11-12T00:40:53+00:00",
   "mode": "live",
   "records": [
     {
-      "id": "job-alio-306927",
-      "status": "added",
-      "unitCount": 4
+      "id": "job-alio-306916",
+      "status": "held",
+      "unitCount": 0
     },
     {
-      "id": "job-alio-306914",
-      "status": "changed",
-      "unitCount": 3
+      "id": "job-alio-306323",
+      "status": "unchanged",
+      "unitCount": 1
     },
     {
-      "id": "job-alio-305152",
+      "id": "job-alio-304596",
       "status": "results_changed",
       "unitCount": 1
     },
     {
-      "id": "job-alio-306917",
-      "status": "added",
+      "id": "job-alio-301038",
+      "status": "unchanged",
       "unitCount": 1
     }
   ],
@@ -27,13 +27,61 @@
   "newRemoteRequests": 6,
   "status": "success",
   "noticeCount": 171,
-  "added": 2,
+  "added": 0,
   "changedIds": [
-    "job-alio-306914",
-    "job-alio-305152"
+    "job-alio-304596"
   ],
-  "deadlineEvents": [],
+  "deadlineEvents": [
+    {
+      "id": "job-alio-306375",
+      "from": "open",
+      "to": "deadline_elapsed",
+      "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
+    },
+    {
+      "id": "job-alio-306405",
+      "from": "open",
+      "to": "deadline_elapsed",
+      "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
+    },
+    {
+      "id": "job-alio-306395",
+      "from": "open",
+      "to": "deadline_elapsed",
+      "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
+    },
+    {
+      "id": "job-alio-306419",
+      "from": "open",
+      "to": "deadline_elapsed",
+      "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
+    },
+    {
+      "id": "job-alio-306615",
+      "from": "open",
+      "to": "deadline_elapsed",
+      "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
+    },
+    {
+      "id": "job-alio-306676",
+      "from": "open",
+      "to": "deadline_elapsed",
+      "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
+    },
+    {
+      "id": "job-alio-306727",
+      "from": "open",
+      "to": "deadline_elapsed",
+      "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
+    },
+    {
+      "id": "job-alio-306726",
+      "from": "open",
+      "to": "deadline_elapsed",
+      "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
+    }
+  ],
   "actualListPages": 2,
   "preservedFailedIds": [],
-  "finishedAt": "2026-11-11T14:20:59+00:00"
+  "finishedAt": "2026-11-12T00:41:11+00:00"
 }
