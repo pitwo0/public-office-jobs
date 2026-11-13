@@ -2897,8 +2897,8 @@
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
       "lastSeenAt": "2026-09-29T05:42:22.953+00:00",
-      "lastAttemptAt": "2026-10-15T11:26:38.087+00:00",
-      "lastSuccessAt": "2026-10-15T11:26:38.087+00:00"
+      "lastAttemptAt": "2026-11-13T19:39:49.746+00:00",
+      "lastSuccessAt": "2026-11-13T19:39:49.746+00:00"
     },
     "job-alio-305270": {
       "state": "held",
@@ -4852,8 +4852,8 @@
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
       "lastSeenAt": "2026-10-22T11:49:23.397+00:00",
-      "lastAttemptAt": "2026-10-19T22:20:19.041+00:00",
-      "lastSuccessAt": "2026-10-19T22:20:19.041+00:00"
+      "lastAttemptAt": "2026-11-13T19:39:46.550+00:00",
+      "lastSuccessAt": "2026-11-13T19:39:46.550+00:00"
     },
     "job-alio-305848": {
       "state": "held",
@@ -7719,18 +7719,18 @@
         "region_raw": "인천 외 1",
         "employment_raw": "비정규직",
         "registered_raw": "2026.11.04",
-        "closing_raw": "26.11.19 D-7",
+        "closing_raw": "26.11.19 D-5",
         "application_period": {
           "raw": null,
           "status": "미확인",
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=306565",
-        "list_page": 4,
+        "list_page": 5,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-11-11T06:13:00.722+00:00",
+      "lastSeenAt": "2026-11-13T19:39:37.185+00:00",
       "lastAttemptAt": "2026-11-08T13:21:55.051+00:00",
       "lastSuccessAt": "2026-11-08T13:21:55.051+00:00"
     },
@@ -7744,18 +7744,18 @@
         "region_raw": "부산",
         "employment_raw": "비정규직",
         "registered_raw": "2026.11.04",
-        "closing_raw": "26.11.18 D-6",
+        "closing_raw": "26.11.18 D-4",
         "application_period": {
           "raw": null,
           "status": "미확인",
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=306364",
-        "list_page": 4,
+        "list_page": 5,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-11-11T06:13:00.722+00:00"
+      "lastSeenAt": "2026-11-13T19:39:37.185+00:00"
     },
     "job-alio-306337": {
       "state": "queued",
@@ -7767,18 +7767,18 @@
         "region_raw": "전남광주",
         "employment_raw": "비정규직 외 1",
         "registered_raw": "2026.11.04",
-        "closing_raw": "26.11.19 D-7",
+        "closing_raw": "26.11.19 D-5",
         "application_period": {
           "raw": null,
           "status": "미확인",
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=306337",
-        "list_page": 4,
+        "list_page": 5,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-11-11T06:13:00.722+00:00"
+      "lastSeenAt": "2026-11-13T19:39:37.185+00:00"
     },
     "job-alio-306677": {
       "state": "published",
@@ -7790,18 +7790,18 @@
         "region_raw": "세종",
         "employment_raw": "비정규직",
         "registered_raw": "2026.11.04",
-        "closing_raw": "26.11.19 D-8",
+        "closing_raw": "26.11.19 D-5",
         "application_period": {
           "raw": null,
           "status": "미확인",
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=306677",
-        "list_page": 3,
+        "list_page": 5,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-11-10T19:42:09.517+00:00",
+      "lastSeenAt": "2026-11-13T19:39:37.185+00:00",
       "lastAttemptAt": "2026-11-13T06:42:18.676+00:00",
       "lastSuccessAt": "2026-11-13T06:42:18.676+00:00"
     },
@@ -7847,11 +7847,11 @@
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=306750",
-        "list_page": 4,
+        "list_page": 5,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-11-13T06:42:12.013+00:00",
+      "lastSeenAt": "2026-11-13T19:39:37.185+00:00",
       "lastAttemptAt": "2026-11-07T05:55:57.075+00:00",
       "lastSuccessAt": "2026-11-07T05:55:57.075+00:00"
     },
@@ -7872,13 +7872,13 @@
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=306742",
-        "list_page": 4,
+        "list_page": 5,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-11-13T06:42:12.013+00:00",
-      "lastAttemptAt": "2026-11-05T06:42:51.782+00:00",
-      "lastSuccessAt": "2026-11-05T06:42:51.782+00:00"
+      "lastSeenAt": "2026-11-13T19:39:37.185+00:00",
+      "lastAttemptAt": "2026-11-13T19:39:43.462+00:00",
+      "lastSuccessAt": "2026-11-13T19:39:43.462+00:00"
     },
     "job-alio-306740": {
       "state": "published",
@@ -7897,11 +7897,11 @@
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=306740",
-        "list_page": 4,
+        "list_page": 5,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-11-13T06:42:12.013+00:00",
+      "lastSeenAt": "2026-11-13T19:39:37.185+00:00",
       "lastAttemptAt": "2026-11-07T05:56:05.620+00:00",
       "lastSuccessAt": "2026-11-07T05:56:05.620+00:00"
     },
@@ -7922,11 +7922,11 @@
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=306739",
-        "list_page": 4,
+        "list_page": 5,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-11-13T06:42:12.013+00:00",
+      "lastSeenAt": "2026-11-13T19:39:37.185+00:00",
       "lastAttemptAt": "2026-11-07T12:57:54.479+00:00",
       "lastSuccessAt": "2026-11-07T12:57:54.479+00:00"
     },
@@ -7940,18 +7940,18 @@
         "region_raw": "인천 외 2",
         "employment_raw": "비정규직 외 1",
         "registered_raw": "2026.11.05",
-        "closing_raw": "26.11.19 D-8",
+        "closing_raw": "26.11.19 D-5",
         "application_period": {
           "raw": null,
           "status": "미확인",
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=306729",
-        "list_page": 3,
+        "list_page": 5,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-11-10T19:42:09.517+00:00",
+      "lastSeenAt": "2026-11-13T19:39:37.185+00:00",
       "lastAttemptAt": "2026-11-07T12:58:05.277+00:00",
       "lastSuccessAt": "2026-11-07T12:58:05.277+00:00"
     },
@@ -8015,18 +8015,18 @@
         "region_raw": "부산 외 2",
         "employment_raw": "비정규직",
         "registered_raw": "2026.11.05",
-        "closing_raw": "26.11.19 D-8",
+        "closing_raw": "26.11.19 D-5",
         "application_period": {
           "raw": null,
           "status": "미확인",
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=306723",
-        "list_page": 3,
+        "list_page": 5,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-11-10T19:42:09.517+00:00",
+      "lastSeenAt": "2026-11-13T19:39:37.185+00:00",
       "lastAttemptAt": "2026-11-07T21:47:56.789+00:00",
       "lastSuccessAt": "2026-11-07T21:47:56.789+00:00"
     },
@@ -8728,7 +8728,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-11-13T06:42:08.566+00:00",
+      "lastSeenAt": "2026-11-13T19:39:33.878+00:00",
       "lastAttemptAt": "2026-11-12T15:11:07.656+00:00",
       "lastSuccessAt": "2026-11-12T15:11:07.656+00:00"
     },
@@ -8870,7 +8870,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-11-13T06:42:08.566+00:00"
+      "lastSeenAt": "2026-11-13T19:39:33.878+00:00"
     },
     "job-alio-307010": {
       "state": "queued",
@@ -8893,7 +8893,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-11-13T06:42:08.566+00:00"
+      "lastSeenAt": "2026-11-13T19:39:33.878+00:00"
     },
     "job-alio-307006": {
       "state": "queued",
@@ -8916,7 +8916,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-11-13T06:42:08.566+00:00"
+      "lastSeenAt": "2026-11-13T19:39:33.878+00:00"
     },
     "job-alio-306998": {
       "state": "published",
@@ -8939,12 +8939,12 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-11-13T06:42:08.566+00:00",
+      "lastSeenAt": "2026-11-13T19:39:33.878+00:00",
       "lastAttemptAt": "2026-11-13T06:42:15.550+00:00",
       "lastSuccessAt": "2026-11-13T06:42:15.550+00:00"
     },
     "job-alio-306995": {
-      "state": "queued",
+      "state": "published",
       "row": {
         "id": "job-alio-306995",
         "idx": "306995",
@@ -8964,7 +8964,101 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-11-13T06:42:08.566+00:00"
+      "lastSeenAt": "2026-11-13T19:39:33.878+00:00",
+      "lastAttemptAt": "2026-11-13T19:39:40.287+00:00",
+      "lastSuccessAt": "2026-11-13T19:39:40.287+00:00"
+    },
+    "job-alio-307031": {
+      "state": "queued",
+      "row": {
+        "id": "job-alio-307031",
+        "idx": "307031",
+        "title": "한국장애인고용공단 전남직업능력개발원장 공개모집",
+        "org": "한국장애인고용공단",
+        "region_raw": "전남광주",
+        "employment_raw": "비정규직",
+        "registered_raw": "2026.11.13",
+        "closing_raw": "26.11.30 D-16",
+        "application_period": {
+          "raw": null,
+          "status": "미확인",
+          "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
+        },
+        "source_url": "https://job.alio.go.kr/recruitview.do?idx=307031",
+        "list_page": 1,
+        "collection_method": "python_public_html",
+        "review_status": "transport_sample_not_office_unit_reviewed"
+      },
+      "lastSeenAt": "2026-11-13T19:39:33.878+00:00"
+    },
+    "job-alio-307030": {
+      "state": "queued",
+      "row": {
+        "id": "job-alio-307030",
+        "idx": "307030",
+        "title": "한국장애인고용공단 대전직업능력개발원장 공개모집",
+        "org": "한국장애인고용공단",
+        "region_raw": "대전",
+        "employment_raw": "비정규직",
+        "registered_raw": "2026.11.13",
+        "closing_raw": "26.11.30 D-16",
+        "application_period": {
+          "raw": null,
+          "status": "미확인",
+          "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
+        },
+        "source_url": "https://job.alio.go.kr/recruitview.do?idx=307030",
+        "list_page": 1,
+        "collection_method": "python_public_html",
+        "review_status": "transport_sample_not_office_unit_reviewed"
+      },
+      "lastSeenAt": "2026-11-13T19:39:33.878+00:00"
+    },
+    "job-alio-307029": {
+      "state": "queued",
+      "row": {
+        "id": "job-alio-307029",
+        "idx": "307029",
+        "title": "한국장애인고용공단 경기남부직업능력개발원장 공개모집",
+        "org": "한국장애인고용공단",
+        "region_raw": "경기",
+        "employment_raw": "비정규직",
+        "registered_raw": "2026.11.13",
+        "closing_raw": "26.11.30 D-16",
+        "application_period": {
+          "raw": null,
+          "status": "미확인",
+          "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
+        },
+        "source_url": "https://job.alio.go.kr/recruitview.do?idx=307029",
+        "list_page": 1,
+        "collection_method": "python_public_html",
+        "review_status": "transport_sample_not_office_unit_reviewed"
+      },
+      "lastSeenAt": "2026-11-13T19:39:33.878+00:00"
+    },
+    "job-alio-307027": {
+      "state": "queued",
+      "row": {
+        "id": "job-alio-307027",
+        "idx": "307027",
+        "title": "식품안전정보원 2026년 제3차 기간제 직원 채용",
+        "org": "식품안전정보원",
+        "region_raw": "서울",
+        "employment_raw": "비정규직",
+        "registered_raw": "2026.11.13",
+        "closing_raw": "26.11.27 D-13",
+        "application_period": {
+          "raw": null,
+          "status": "미확인",
+          "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
+        },
+        "source_url": "https://job.alio.go.kr/recruitview.do?idx=307027",
+        "list_page": 1,
+        "collection_method": "python_public_html",
+        "review_status": "transport_sample_not_office_unit_reviewed"
+      },
+      "lastSeenAt": "2026-11-13T19:39:33.878+00:00"
     }
   },
   "candidates": {
@@ -23594,6 +23688,6 @@
       "employmentEvidence": "기간제근로자(공무직대체)-학예지원"
     }
   },
-  "nextPage": 5,
+  "nextPage": 6,
   "schemaVersion": "automatic-refresh-state-0.2"
 }
