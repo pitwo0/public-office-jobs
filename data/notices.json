@@ -1,6 +1,6 @@
 {
   "schemaVersion": "0.1",
-  "asOfDate": "2026-11-15",
+  "asOfDate": "2026-11-16",
   "notices": [
     {
       "id": "job-alio-304853",
@@ -794,7 +794,7 @@
       "applicationStart": "2026-09-10",
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "저장된 마감일·시각(KST) 경과; 원문 정정 여부와 별개"
       },
       "autoSync": {
@@ -1345,7 +1345,7 @@
       "applicationStart": "2026-09-10",
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "저장된 마감일·시각(KST) 경과; 원문 정정 여부와 별개"
       },
       "announcementPeriod": {
@@ -1696,7 +1696,7 @@
       "applicationStatusAtCheck": "공고 게시 중·입사지원 접수 시작 전",
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "저장된 마감일·시각(KST) 경과; 원문 정정 여부와 별개"
       },
       "announcementPeriod": {
@@ -2742,7 +2742,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "저장된 마감일·시각(KST) 경과; 원문 정정 여부와 별개"
       },
       "autoSync": {
@@ -2969,7 +2969,7 @@
       "applicationStartTime": "18:00",
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "저장된 마감일·시각(KST) 경과; 원문 정정 여부와 별개"
       },
       "announcementPeriod": {
@@ -3246,7 +3246,7 @@
       ],
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       },
       "announcementPeriod": {
@@ -3481,7 +3481,7 @@
       ],
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       },
       "announcementPeriod": {
@@ -3704,7 +3704,7 @@
       ],
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       },
       "announcementPeriod": {
@@ -4109,7 +4109,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       },
       "autoSync": {
@@ -4319,7 +4319,7 @@
       ],
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       },
       "announcementPeriod": {
@@ -4962,7 +4962,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "저장된 마감일·시각(KST) 경과; 원문 정정 여부와 별개"
       },
       "announcementPeriod": {
@@ -5512,7 +5512,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -6002,7 +6002,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "저장된 마감일·시각(KST) 경과; 원문 정정 여부와 별개"
       }
     },
@@ -6380,7 +6380,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -6931,7 +6931,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -7073,15 +7073,16 @@
             ],
             "method": "deterministic_public_html_parser"
           },
-          "competition": null,
-          "competitionRecord": {
-            "status": "not_disclosed",
-            "officialValueRaw": null,
-            "officialLabel": "최종 경쟁률",
+          "competition": {
+            "label": "JOB-ALIO 최종 경쟁률",
+            "published": 55,
+            "publishedRaw": "55",
             "scope": "recruitment_unit",
+            "definition": "공식 표기값입니다. 산식·분자/분모 정의는 미확인입니다. 전형별 인원과 구분합니다.",
             "definitionStatus": "unverified",
-            "numeratorDefinition": null,
-            "denominatorDefinition": null,
+            "sources": [
+              "auto_alio"
+            ],
             "stages": [
               {
                 "name": "1차",
@@ -7091,15 +7092,15 @@
               },
               {
                 "name": "최종",
-                "applicants": null,
-                "selected": null,
-                "date": null
+                "applicants": 6,
+                "selected": 1,
+                "date": "2026-10-27"
               }
             ],
             "evidence": {
               "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=304511",
-              "sha256": "efd506a21d5c48a44cd13d8555f2cbc8ec701e0e9cfdbd227831c92aab0f5541",
-              "receivedAt": "2026-10-21T04:43:52.874+00:00",
+              "sha256": "eef37f0ded08b70a701f701acd20b5809e9de0a5318e84025bdd43c6e05cccd9",
+              "receivedAt": "2026-11-15T18:49:36.135+00:00",
               "rawUnitName": "대체인력(일반사무)",
               "rows": [
                 [
@@ -7119,14 +7120,74 @@
                 ],
                 [
                   "최종",
-                  "-",
-                  "-",
-                  "-"
+                  "1명",
+                  "6명",
+                  "2026.10.27"
+                ],
+                [
+                  "경쟁률",
+                  "최종 경쟁률 55 대 1"
                 ]
               ],
               "method": "deterministic_public_html_parser"
-            },
-            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+            }
+          },
+          "competitionRecord": {
+            "status": "confirmed",
+            "officialValueRaw": "55",
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": 55,
+                "selected": 6,
+                "date": "2026-10-06"
+              },
+              {
+                "name": "최종",
+                "applicants": 6,
+                "selected": 1,
+                "date": "2026-10-27"
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=304511",
+              "sha256": "eef37f0ded08b70a701f701acd20b5809e9de0a5318e84025bdd43c6e05cccd9",
+              "receivedAt": "2026-11-15T18:49:36.135+00:00",
+              "rawUnitName": "대체인력(일반사무)",
+              "rows": [
+                [
+                  "대체인력(일반사무)"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "6명",
+                  "55명",
+                  "2026.10.06"
+                ],
+                [
+                  "최종",
+                  "1명",
+                  "6명",
+                  "2026.10.27"
+                ],
+                [
+                  "경쟁률",
+                  "최종 경쟁률 55 대 1"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            }
           },
           "employmentEvidence": {
             "scope": "announcement",
@@ -7259,6 +7320,64 @@
                 },
                 "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
               }
+            },
+            {
+              "supersededAt": "2026-11-15T18:49:36.135+00:00",
+              "competition": null,
+              "competitionRecord": {
+                "status": "not_disclosed",
+                "officialValueRaw": null,
+                "officialLabel": "최종 경쟁률",
+                "scope": "recruitment_unit",
+                "definitionStatus": "unverified",
+                "numeratorDefinition": null,
+                "denominatorDefinition": null,
+                "stages": [
+                  {
+                    "name": "1차",
+                    "applicants": 55,
+                    "selected": 6,
+                    "date": "2026-10-06"
+                  },
+                  {
+                    "name": "최종",
+                    "applicants": null,
+                    "selected": null,
+                    "date": null
+                  }
+                ],
+                "evidence": {
+                  "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=304511",
+                  "sha256": "efd506a21d5c48a44cd13d8555f2cbc8ec701e0e9cfdbd227831c92aab0f5541",
+                  "receivedAt": "2026-10-21T04:43:52.874+00:00",
+                  "rawUnitName": "대체인력(일반사무)",
+                  "rows": [
+                    [
+                      "대체인력(일반사무)"
+                    ],
+                    [
+                      "구분",
+                      "선발인원",
+                      "응시인원",
+                      "결과 확정일"
+                    ],
+                    [
+                      "1차",
+                      "6명",
+                      "55명",
+                      "2026.10.06"
+                    ],
+                    [
+                      "최종",
+                      "-",
+                      "-",
+                      "-"
+                    ]
+                  ],
+                  "method": "deterministic_public_html_parser"
+                },
+                "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+              }
             }
           ]
         }
@@ -7273,8 +7392,8 @@
           "id": "auto_alio",
           "label": "JOB-ALIO 상세 · 자동 수신",
           "url": "https://job.alio.go.kr/recruitview.do?idx=304511",
-          "sha256": "efd506a21d5c48a44cd13d8555f2cbc8ec701e0e9cfdbd227831c92aab0f5541",
-          "receivedAt": "2026-10-21T04:43:52.874+00:00"
+          "sha256": "eef37f0ded08b70a701f701acd20b5809e9de0a5318e84025bdd43c6e05cccd9",
+          "receivedAt": "2026-11-15T18:49:36.135+00:00"
         }
       ],
       "attachments": [
@@ -7344,16 +7463,16 @@
         "heldUnitCount": 0
       },
       "autoSync": {
-        "semanticHash": "4405e55d66136fbe6e913a3d5f6b125e353f3e41ceb70df70e4382ff0b125dc8",
+        "semanticHash": "56831ce02f0f7e5b506c96cb6ac90a8975de0d4a6c0c9380332193c611833242",
         "conditionsHash": "7dfd715b7f5a948bb11374bae2f9dc18cb4e6d30a98b246a92d21ab927cf04bc",
-        "rawSha256": "efd506a21d5c48a44cd13d8555f2cbc8ec701e0e9cfdbd227831c92aab0f5541",
-        "lastFetchedAt": "2026-10-21T04:43:52.874+00:00",
-        "contentChangedAt": "2026-10-21T04:43:52.874+00:00",
+        "rawSha256": "eef37f0ded08b70a701f701acd20b5809e9de0a5318e84025bdd43c6e05cccd9",
+        "lastFetchedAt": "2026-11-15T18:49:36.135+00:00",
+        "contentChangedAt": "2026-11-15T18:49:36.135+00:00",
         "baselineStatus": "compared",
         "needsReview": false,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-10-21T04:43:52.874+00:00",
+          "checkedAt": "2026-11-15T18:49:36.135+00:00",
           "status": "checked",
           "changedUnitIds": [
             "auto-57431ad18e9860af"
@@ -7365,7 +7484,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -7797,7 +7916,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -8292,7 +8411,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -8782,7 +8901,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "저장된 마감일·시각(KST) 경과; 원문 정정 여부와 별개"
       }
     },
@@ -9172,7 +9291,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -9663,7 +9782,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "저장된 마감일·시각(KST) 경과; 원문 정정 여부와 별개"
       }
     },
@@ -10153,7 +10272,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -10698,7 +10817,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -12501,7 +12620,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -12882,7 +13001,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -13486,7 +13605,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -14493,7 +14612,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -15462,7 +15581,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -15885,7 +16004,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "저장된 마감일·시각(KST) 경과; 원문 정정 여부와 별개"
       }
     },
@@ -16348,7 +16467,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -16837,7 +16956,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -17209,7 +17328,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -17661,7 +17780,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -18223,7 +18342,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -19192,7 +19311,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "저장된 마감일·시각(KST) 경과; 원문 정정 여부와 별개"
       }
     },
@@ -19918,7 +20037,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -20781,7 +20900,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "저장된 마감일·시각(KST) 경과; 원문 정정 여부와 별개"
       }
     },
@@ -21221,7 +21340,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -21716,7 +21835,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -22205,7 +22324,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -22695,7 +22814,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "저장된 마감일·시각(KST) 경과; 원문 정정 여부와 별개"
       }
     },
@@ -23123,7 +23242,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -23575,7 +23694,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -23947,7 +24066,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -25168,7 +25287,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -25602,7 +25721,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -26458,7 +26577,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -26951,7 +27070,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -27498,7 +27617,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -33810,7 +33929,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -34357,7 +34476,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -34904,7 +35023,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -35451,7 +35570,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -35946,7 +36065,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -36380,7 +36499,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -36990,7 +37109,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -37480,7 +37599,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "저장된 마감일·시각(KST) 경과; 원문 정정 여부와 별개"
       }
     },
@@ -37846,7 +37965,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -38224,7 +38343,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -38713,7 +38832,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -39208,7 +39327,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -39604,7 +39723,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -40327,7 +40446,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -40916,7 +41035,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -41408,7 +41527,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -41891,7 +42010,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -42492,7 +42611,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -42858,7 +42977,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -43293,7 +43412,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "저장된 마감일·시각(KST) 경과; 원문 정정 여부와 별개"
       }
     },
@@ -43689,7 +43808,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -44995,7 +45114,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -45429,7 +45548,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -45864,7 +45983,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -46292,7 +46411,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -46781,7 +46900,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -47270,7 +47389,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -47698,7 +47817,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -48188,7 +48307,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -49035,7 +49154,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "저장된 마감일·시각(KST) 경과; 원문 정정 여부와 별개"
       }
     },
@@ -49636,7 +49755,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -50348,7 +50467,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -50843,7 +50962,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -51478,7 +51597,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -52082,7 +52201,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -52509,7 +52628,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -53344,7 +53463,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -53766,7 +53885,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -54402,7 +54521,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "저장된 마감일·시각(KST) 경과; 원문 정정 여부와 별개"
       }
     },
@@ -54783,7 +54902,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -55149,7 +55268,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -55515,7 +55634,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -56126,7 +56245,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -56492,7 +56611,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -56858,7 +56977,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -57242,7 +57361,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -57620,7 +57739,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -57987,7 +58106,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "저장된 마감일·시각(KST) 경과; 원문 정정 여부와 별개"
       }
     },
@@ -58602,7 +58721,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -59467,7 +59586,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -59833,7 +59952,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -60205,7 +60324,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -60571,7 +60690,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -61066,7 +61185,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -61438,7 +61557,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -61804,7 +61923,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -62170,7 +62289,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -62656,7 +62775,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -63022,7 +63141,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -63629,7 +63748,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -64472,7 +64591,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -64840,7 +64959,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -65194,7 +65313,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -66066,7 +66185,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -66432,7 +66551,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -71418,7 +71537,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -71784,7 +71903,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -72150,7 +72269,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -72518,7 +72637,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -73158,7 +73277,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -73805,7 +73924,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -74165,7 +74284,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -74594,7 +74713,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -75047,7 +75166,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -76072,7 +76191,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -76452,7 +76571,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -76824,7 +76943,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -77190,7 +77309,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -77556,7 +77675,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -77923,7 +78042,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "저장된 마감일·시각(KST) 경과; 원문 정정 여부와 별개"
       }
     },
@@ -78295,7 +78414,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -78667,7 +78786,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -79302,7 +79421,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -80843,7 +80962,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -82384,7 +82503,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -82752,7 +82871,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -83672,7 +83791,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -84040,7 +84159,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -84665,7 +84784,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -85031,7 +85150,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -86585,7 +86704,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -86939,7 +87058,7 @@
       },
       "lifecycle": {
         "status": "open",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -87305,7 +87424,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -87680,7 +87799,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -88052,7 +88171,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -88695,7 +88814,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -89061,7 +89180,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -89427,7 +89546,7 @@
       },
       "lifecycle": {
         "status": "open",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -89793,7 +89912,7 @@
       },
       "lifecycle": {
         "status": "open",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -90159,7 +90278,7 @@
       },
       "lifecycle": {
         "status": "open",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -90525,7 +90644,7 @@
       },
       "lifecycle": {
         "status": "open",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -90893,7 +91012,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -91253,7 +91372,7 @@
       },
       "lifecycle": {
         "status": "open",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -91621,7 +91740,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -91999,7 +92118,7 @@
       },
       "lifecycle": {
         "status": "open",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -92367,7 +92486,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -92736,7 +92855,7 @@
       },
       "lifecycle": {
         "status": "open",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -93104,7 +93223,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -93472,7 +93591,7 @@
       },
       "lifecycle": {
         "status": "deadline_elapsed",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -93838,7 +93957,7 @@
       },
       "lifecycle": {
         "status": "open",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -94210,7 +94329,7 @@
       },
       "lifecycle": {
         "status": "open",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -94954,16 +95073,16 @@
       ],
       "sources": [
         {
-          "id": "auto_alio",
-          "label": "JOB-ALIO 상세 · 코드 수신·자동 정리",
-          "url": "https://job.alio.go.kr/recruitview.do?idx=306739",
-          "sha256": "289413d0a047d251855c65a5d3f292e4d498b0da259828294eb77d48534c774c",
-          "receivedAt": "2026-11-07T12:57:54.479+00:00"
-        },
-        {
           "id": "auto_original_1",
           "label": "기관 원문 링크 · 내용 미확인",
           "url": "https://www.lemi.or.kr/view.do?boardno=49&menuno=73&seq=6948"
+        },
+        {
+          "id": "auto_alio",
+          "label": "JOB-ALIO 상세 · 자동 수신",
+          "url": "https://job.alio.go.kr/recruitview.do?idx=306739",
+          "sha256": "289413d0a047d251855c65a5d3f292e4d498b0da259828294eb77d48534c774c",
+          "receivedAt": "2026-11-15T18:49:33.209+00:00"
         }
       ],
       "attachments": [
@@ -95030,19 +95149,15 @@
         "semanticHash": "24ac881a67da6f103d15a47bc82db45b143244727fd12b66ed405bbec3edaacf",
         "conditionsHash": "acd43b181d15fc0c9e58cf27af06377974a01ce45683116cc734036f4bccef3d",
         "rawSha256": "289413d0a047d251855c65a5d3f292e4d498b0da259828294eb77d48534c774c",
-        "lastFetchedAt": "2026-11-07T12:57:54.479+00:00",
+        "lastFetchedAt": "2026-11-15T18:49:33.209+00:00",
         "contentChangedAt": "2026-11-07T12:57:54.479+00:00",
-        "baselineStatus": "first_capture",
+        "baselineStatus": "compared",
         "needsReview": false,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-11-07T12:57:54.479+00:00",
+          "checkedAt": "2026-11-15T18:49:33.209+00:00",
           "status": "checked",
-          "changedUnitIds": [
-            "auto-f07ae88e5f6650da",
-            "auto-f1028e50c580a858",
-            "auto-141773d358426218"
-          ],
+          "changedUnitIds": [],
           "preservedUnitIds": [],
           "unmatchedUnitIds": [],
           "issues": []
@@ -95050,7 +95165,7 @@
       },
       "lifecycle": {
         "status": "open",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -95412,7 +95527,7 @@
       },
       "lifecycle": {
         "status": "open",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -96273,7 +96388,7 @@
       },
       "lifecycle": {
         "status": "open",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "저장된 마감일·시각(KST) 경과; 원문 정정 여부와 별개"
       }
     },
@@ -96644,7 +96759,7 @@
       },
       "lifecycle": {
         "status": "open",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -97024,7 +97139,7 @@
       },
       "lifecycle": {
         "status": "open",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -97392,7 +97507,7 @@
       },
       "lifecycle": {
         "status": "open",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -98501,7 +98616,7 @@
       },
       "lifecycle": {
         "status": "open",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -99105,7 +99220,7 @@
       },
       "lifecycle": {
         "status": "open",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -99941,7 +100056,7 @@
       },
       "lifecycle": {
         "status": "open",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -101047,7 +101162,7 @@
       },
       "lifecycle": {
         "status": "open",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -101421,7 +101536,7 @@
       },
       "lifecycle": {
         "status": "open",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -101792,7 +101907,7 @@
       },
       "lifecycle": {
         "status": "open",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -102160,7 +102275,7 @@
       },
       "lifecycle": {
         "status": "open",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -102546,7 +102661,7 @@
       },
       "lifecycle": {
         "status": "open",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -102926,7 +103041,7 @@
       },
       "lifecycle": {
         "status": "open",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     },
@@ -104957,7 +105072,7 @@
       },
       "lifecycle": {
         "status": "open",
-        "evaluatedDate": "2026-11-15",
+        "evaluatedDate": "2026-11-16",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
     }
@@ -104965,14 +105080,14 @@
   "refresh": {
     "status": "success",
     "mode": "live",
-    "lastAttemptAt": "2026-11-15T06:26:39+00:00",
-    "lastSuccessAt": "2026-11-15T06:26:39+00:00",
-    "candidatesCount": 1196,
+    "lastAttemptAt": "2026-11-15T18:49:21+00:00",
+    "lastSuccessAt": "2026-11-15T18:49:21+00:00",
+    "candidatesCount": 1208,
     "coverage": {
       "description": "JOB-ALIO 최근60일 이내 진행중·비정규직·경영회계사무 목록, 목록최대2페이지·상세최대4건/회. 저장된 마감공고도 결과를 순환 재확인합니다. 전체공고 수집 아님.",
       "queuedNoticeCount": 45,
-      "heldUnitCount": 1151,
-      "nextPage": 4,
+      "heldUnitCount": 1163,
+      "nextPage": 5,
       "closedRecheck": {
         "recentDays": 30,
         "recentOrUnknownIntervalDays": 1,
@@ -104983,6 +105098,28 @@
       "requestLimit": 6,
       "automaticRetries": 0,
       "heldNotices": [
+        {
+          "id": "job-alio-306979",
+          "organization": "한국공정거래조정원",
+          "title": "한국공정거래조정원 2026년 제5차 기간제 근로자 채용 공고",
+          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=306979",
+          "lastFetchedAt": "2026-11-15T18:49:39.114+00:00",
+          "reasons": [
+            "모집단위명만으로 사무직 여부 미확인"
+          ],
+          "status": "unverified"
+        },
+        {
+          "id": "job-alio-307033",
+          "organization": "한국마사회",
+          "title": "2026년 한국마사회 위촉직(계약직) 채용공고",
+          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=307033",
+          "lastFetchedAt": "2026-11-15T18:49:30.132+00:00",
+          "reasons": [
+            "모집단위명만으로 사무직 여부 미확인"
+          ],
+          "status": "unverified"
+        },
         {
           "id": "job-alio-307006",
           "organization": "한국관세정보원",
@@ -105181,33 +105318,9 @@
             "모집단위명만으로 사무직 여부 미확인"
           ],
           "status": "unverified"
-        },
-        {
-          "id": "job-alio-306604",
-          "organization": "대구경북첨단의료산업진흥재단",
-          "title": "대구경북첨단의료산업진흥재단 2026년 3차 정원외 계약직원 채용공고",
-          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=306604",
-          "lastFetchedAt": "2026-11-03T00:56:52.185+00:00",
-          "reasons": [
-            "사무직과 다른 직무가 함께 표기되어 분리 미확인",
-            "모집단위명만으로 사무직 여부 미확인",
-            "해당 모집단위의 기간제·계약직 여부 미확인"
-          ],
-          "status": "unverified"
-        },
-        {
-          "id": "job-alio-306464",
-          "organization": "한국토지주택공사",
-          "title": "한국토지주택공사 광주전남지역본부 기간제근로자(사업관리) 채용공고(2026.11)",
-          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=306464",
-          "lastFetchedAt": "2026-11-02T05:59:10.113+00:00",
-          "reasons": [
-            "모집단위명만으로 사무직 여부 미확인"
-          ],
-          "status": "unverified"
         }
       ],
-      "heldNoticesTotal": 143,
+      "heldNoticesTotal": 145,
       "heldNoticesShownLimit": 20
     }
   }
