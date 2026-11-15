@@ -14635,15 +14635,16 @@
             ],
             "method": "deterministic_public_html_parser"
           },
-          "competition": null,
-          "competitionRecord": {
-            "status": "not_disclosed",
-            "officialValueRaw": null,
-            "officialLabel": "최종 경쟁률",
+          "competition": {
+            "label": "JOB-ALIO 최종 경쟁률",
+            "published": 0,
+            "publishedRaw": "0",
             "scope": "recruitment_unit",
+            "definition": "공식 표기값입니다. 산식·분자/분모 정의는 미확인입니다. 전형별 인원과 구분합니다.",
             "definitionStatus": "unverified",
-            "numeratorDefinition": null,
-            "denominatorDefinition": null,
+            "sources": [
+              "auto_alio"
+            ],
             "stages": [
               {
                 "name": "1차",
@@ -14653,15 +14654,15 @@
               },
               {
                 "name": "최종",
-                "applicants": null,
-                "selected": null,
-                "date": null
+                "applicants": 0,
+                "selected": 0,
+                "date": "2026-10-15"
               }
             ],
             "evidence": {
               "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305037",
-              "sha256": "4817e13267ce6a3246a792485f999362fa59fdd82dd87550cc5b796d5f56a021",
-              "receivedAt": "2026-10-20T21:36:04.530+00:00",
+              "sha256": "50d805b6586cb431203f2647452032bd25c3352bc84ccc868f261882aff3f368",
+              "receivedAt": "2026-11-15T06:26:54.858+00:00",
               "rawUnitName": "정보보안 및 정보시스템 운영(행정원)",
               "rows": [
                 [
@@ -14681,14 +14682,75 @@
                 ],
                 [
                   "최종",
-                  "-",
-                  "-",
-                  "-"
+                  "0명",
+                  "0명",
+                  "2026.10.15"
+                ],
+                [
+                  "경쟁률",
+                  "최종 경쟁률 0 대 1"
                 ]
               ],
               "method": "deterministic_public_html_parser"
             },
-            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+            "note": "최종 선발 0명입니다. 공식 표기값을 지원자 없음이나 낮은 경쟁률로 해석하지 않습니다."
+          },
+          "competitionRecord": {
+            "status": "confirmed",
+            "officialValueRaw": "0",
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": 0,
+                "selected": 0,
+                "date": "2026-10-15"
+              },
+              {
+                "name": "최종",
+                "applicants": 0,
+                "selected": 0,
+                "date": "2026-10-15"
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305037",
+              "sha256": "50d805b6586cb431203f2647452032bd25c3352bc84ccc868f261882aff3f368",
+              "receivedAt": "2026-11-15T06:26:54.858+00:00",
+              "rawUnitName": "정보보안 및 정보시스템 운영(행정원)",
+              "rows": [
+                [
+                  "정보보안 및 정보시스템 운영(행정원)"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "0명",
+                  "0명",
+                  "2026.10.15"
+                ],
+                [
+                  "최종",
+                  "0명",
+                  "0명",
+                  "2026.10.15"
+                ],
+                [
+                  "경쟁률",
+                  "최종 경쟁률 0 대 1"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            }
           },
           "employmentEvidence": {
             "scope": "announcement",
@@ -14821,6 +14883,64 @@
                 },
                 "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
               }
+            },
+            {
+              "supersededAt": "2026-11-15T06:26:54.858+00:00",
+              "competition": null,
+              "competitionRecord": {
+                "status": "not_disclosed",
+                "officialValueRaw": null,
+                "officialLabel": "최종 경쟁률",
+                "scope": "recruitment_unit",
+                "definitionStatus": "unverified",
+                "numeratorDefinition": null,
+                "denominatorDefinition": null,
+                "stages": [
+                  {
+                    "name": "1차",
+                    "applicants": 0,
+                    "selected": 0,
+                    "date": "2026-10-15"
+                  },
+                  {
+                    "name": "최종",
+                    "applicants": null,
+                    "selected": null,
+                    "date": null
+                  }
+                ],
+                "evidence": {
+                  "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305037",
+                  "sha256": "4817e13267ce6a3246a792485f999362fa59fdd82dd87550cc5b796d5f56a021",
+                  "receivedAt": "2026-10-20T21:36:04.530+00:00",
+                  "rawUnitName": "정보보안 및 정보시스템 운영(행정원)",
+                  "rows": [
+                    [
+                      "정보보안 및 정보시스템 운영(행정원)"
+                    ],
+                    [
+                      "구분",
+                      "선발인원",
+                      "응시인원",
+                      "결과 확정일"
+                    ],
+                    [
+                      "1차",
+                      "0명",
+                      "0명",
+                      "2026.10.15"
+                    ],
+                    [
+                      "최종",
+                      "-",
+                      "-",
+                      "-"
+                    ]
+                  ],
+                  "method": "deterministic_public_html_parser"
+                },
+                "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+              }
             }
           ]
         },
@@ -14930,15 +15050,16 @@
             ],
             "method": "deterministic_public_html_parser"
           },
-          "competition": null,
-          "competitionRecord": {
-            "status": "not_disclosed",
-            "officialValueRaw": null,
-            "officialLabel": "최종 경쟁률",
+          "competition": {
+            "label": "JOB-ALIO 최종 경쟁률",
+            "published": 12,
+            "publishedRaw": "12",
             "scope": "recruitment_unit",
+            "definition": "공식 표기값입니다. 산식·분자/분모 정의는 미확인입니다. 전형별 인원과 구분합니다.",
             "definitionStatus": "unverified",
-            "numeratorDefinition": null,
-            "denominatorDefinition": null,
+            "sources": [
+              "auto_alio"
+            ],
             "stages": [
               {
                 "name": "1차",
@@ -14948,15 +15069,15 @@
               },
               {
                 "name": "최종",
-                "applicants": null,
-                "selected": null,
-                "date": null
+                "applicants": 3,
+                "selected": 1,
+                "date": "2026-10-23"
               }
             ],
             "evidence": {
               "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305037",
-              "sha256": "4817e13267ce6a3246a792485f999362fa59fdd82dd87550cc5b796d5f56a021",
-              "receivedAt": "2026-10-20T21:36:04.530+00:00",
+              "sha256": "50d805b6586cb431203f2647452032bd25c3352bc84ccc868f261882aff3f368",
+              "receivedAt": "2026-11-15T06:26:54.858+00:00",
               "rawUnitName": "인사·노무관리(전문원 3급)",
               "rows": [
                 [
@@ -14976,14 +15097,74 @@
                 ],
                 [
                   "최종",
-                  "-",
-                  "-",
-                  "-"
+                  "1명",
+                  "3명",
+                  "2026.10.23"
+                ],
+                [
+                  "경쟁률",
+                  "최종 경쟁률 12 대 1"
                 ]
               ],
               "method": "deterministic_public_html_parser"
-            },
-            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+            }
+          },
+          "competitionRecord": {
+            "status": "confirmed",
+            "officialValueRaw": "12",
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": 12,
+                "selected": 4,
+                "date": "2026-10-15"
+              },
+              {
+                "name": "최종",
+                "applicants": 3,
+                "selected": 1,
+                "date": "2026-10-23"
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305037",
+              "sha256": "50d805b6586cb431203f2647452032bd25c3352bc84ccc868f261882aff3f368",
+              "receivedAt": "2026-11-15T06:26:54.858+00:00",
+              "rawUnitName": "인사·노무관리(전문원 3급)",
+              "rows": [
+                [
+                  "인사·노무관리(전문원 3급)"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "4명",
+                  "12명",
+                  "2026.10.15"
+                ],
+                [
+                  "최종",
+                  "1명",
+                  "3명",
+                  "2026.10.23"
+                ],
+                [
+                  "경쟁률",
+                  "최종 경쟁률 12 대 1"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            }
           },
           "employmentEvidence": {
             "scope": "announcement",
@@ -15116,6 +15297,64 @@
                 },
                 "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
               }
+            },
+            {
+              "supersededAt": "2026-11-15T06:26:54.858+00:00",
+              "competition": null,
+              "competitionRecord": {
+                "status": "not_disclosed",
+                "officialValueRaw": null,
+                "officialLabel": "최종 경쟁률",
+                "scope": "recruitment_unit",
+                "definitionStatus": "unverified",
+                "numeratorDefinition": null,
+                "denominatorDefinition": null,
+                "stages": [
+                  {
+                    "name": "1차",
+                    "applicants": 12,
+                    "selected": 4,
+                    "date": "2026-10-15"
+                  },
+                  {
+                    "name": "최종",
+                    "applicants": null,
+                    "selected": null,
+                    "date": null
+                  }
+                ],
+                "evidence": {
+                  "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=305037",
+                  "sha256": "4817e13267ce6a3246a792485f999362fa59fdd82dd87550cc5b796d5f56a021",
+                  "receivedAt": "2026-10-20T21:36:04.530+00:00",
+                  "rawUnitName": "인사·노무관리(전문원 3급)",
+                  "rows": [
+                    [
+                      "인사·노무관리(전문원 3급)"
+                    ],
+                    [
+                      "구분",
+                      "선발인원",
+                      "응시인원",
+                      "결과 확정일"
+                    ],
+                    [
+                      "1차",
+                      "4명",
+                      "12명",
+                      "2026.10.15"
+                    ],
+                    [
+                      "최종",
+                      "-",
+                      "-",
+                      "-"
+                    ]
+                  ],
+                  "method": "deterministic_public_html_parser"
+                },
+                "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+              }
             }
           ]
         }
@@ -15130,8 +15369,8 @@
           "id": "auto_alio",
           "label": "JOB-ALIO 상세 · 자동 수신",
           "url": "https://job.alio.go.kr/recruitview.do?idx=305037",
-          "sha256": "4817e13267ce6a3246a792485f999362fa59fdd82dd87550cc5b796d5f56a021",
-          "receivedAt": "2026-10-20T21:36:04.530+00:00"
+          "sha256": "50d805b6586cb431203f2647452032bd25c3352bc84ccc868f261882aff3f368",
+          "receivedAt": "2026-11-15T06:26:54.858+00:00"
         }
       ],
       "attachments": [
@@ -15201,16 +15440,16 @@
         "heldUnitCount": 0
       },
       "autoSync": {
-        "semanticHash": "55d04450cb6549a8f5a9a61d2a9bec3feb2a7cc1106ab33cf092197cd0da7866",
+        "semanticHash": "134cd1d35d092fda8ae80570bd0969d4f770fb2c9ebb3c2ddc720c2096f697a1",
         "conditionsHash": "578f8d96ed6b63b1c57dc47a8637c98c785f42b12b9064ba6dc7174c5e447fc0",
-        "rawSha256": "4817e13267ce6a3246a792485f999362fa59fdd82dd87550cc5b796d5f56a021",
-        "lastFetchedAt": "2026-10-20T21:36:04.530+00:00",
-        "contentChangedAt": "2026-10-20T21:36:04.530+00:00",
+        "rawSha256": "50d805b6586cb431203f2647452032bd25c3352bc84ccc868f261882aff3f368",
+        "lastFetchedAt": "2026-11-15T06:26:54.858+00:00",
+        "contentChangedAt": "2026-11-15T06:26:54.858+00:00",
         "baselineStatus": "compared",
         "needsReview": false,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-10-20T21:36:04.530+00:00",
+          "checkedAt": "2026-11-15T06:26:54.858+00:00",
           "status": "checked",
           "changedUnitIds": [
             "auto-79e5bc7c67d270cc",
@@ -93873,16 +94112,16 @@
       ],
       "sources": [
         {
-          "id": "auto_alio",
-          "label": "JOB-ALIO 상세 · 코드 수신·자동 정리",
-          "url": "https://job.alio.go.kr/recruitview.do?idx=306740",
-          "sha256": "89f871f294a6b0219202a9463cb34b9ce4fb836c18bcf2b8c27343d16fc4b817",
-          "receivedAt": "2026-11-07T05:56:05.620+00:00"
-        },
-        {
           "id": "auto_original_1",
           "label": "기관 원문 링크 · 내용 미확인",
           "url": "https://www.redcross.or.kr/redrecruit"
+        },
+        {
+          "id": "auto_alio",
+          "label": "JOB-ALIO 상세 · 자동 수신",
+          "url": "https://job.alio.go.kr/recruitview.do?idx=306740",
+          "sha256": "89f871f294a6b0219202a9463cb34b9ce4fb836c18bcf2b8c27343d16fc4b817",
+          "receivedAt": "2026-11-15T06:26:51.577+00:00"
         }
       ],
       "attachments": [
@@ -93955,17 +94194,15 @@
         "semanticHash": "b38ca4c5e07e0eef83454bbcc5c72f1747a1e7fcb7e9d305ac4b5ab31dfa168e",
         "conditionsHash": "2d6e4934bc9a75096d83e8da50dad453ee59524aacdb6be80065ffb996ecdf96",
         "rawSha256": "89f871f294a6b0219202a9463cb34b9ce4fb836c18bcf2b8c27343d16fc4b817",
-        "lastFetchedAt": "2026-11-07T05:56:05.620+00:00",
+        "lastFetchedAt": "2026-11-15T06:26:51.577+00:00",
         "contentChangedAt": "2026-11-07T05:56:05.620+00:00",
-        "baselineStatus": "first_capture",
+        "baselineStatus": "compared",
         "needsReview": false,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-11-07T05:56:05.620+00:00",
+          "checkedAt": "2026-11-15T06:26:51.577+00:00",
           "status": "checked",
-          "changedUnitIds": [
-            "auto-aecad4ef00a9e34c"
-          ],
+          "changedUnitIds": [],
           "preservedUnitIds": [],
           "unmatchedUnitIds": [],
           "issues": []
@@ -102692,19 +102929,2050 @@
         "evaluatedDate": "2026-11-15",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
+    },
+    {
+      "id": "job-alio-306965",
+      "idx": 306965,
+      "organization": "(재)한국보건의료정보원",
+      "title": "2026년 제6차 직원채용 공고",
+      "posted": "2026-11-12",
+      "deadline": "2026-11-26",
+      "deadlineTime": null,
+      "announcementPeriod": {
+        "start": "2026-11-12",
+        "end": "2026-11-26",
+        "scope": "announcement"
+      },
+      "applicationPeriod": {
+        "start": null,
+        "end": null,
+        "endTime": null,
+        "status": "unverified",
+        "scope": "announcement",
+        "sources": [
+          "auto_alio"
+        ],
+        "raw": null,
+        "note": "명시된 접수기간을 단일 기간으로 해석하지 못했습니다. 공고기간으로 대체하지 않습니다."
+      },
+      "applicationStart": null,
+      "regions": [
+        "서울",
+        "충북"
+      ],
+      "totalVacancies": 35,
+      "employment": "육아휴직 대체 · 비정규직",
+      "units": [
+        {
+          "id": "auto-7d3f28bfe3795d0c",
+          "title": "육아휴직 대체근로_행정전문요원_나등급(기관 대외협력에 관한 사항)",
+          "sourceUnitName": "육아휴직 대체근로_행정전문요원_나등급(기관 대외협력에 관한 사항)",
+          "employment": "육아휴직 대체",
+          "regions": [
+            "서울",
+            "충북"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "○ 기간제 근로자 - 행정, 전산\r\n\r\n- 행정전문요원 가등급\r\nㆍ채용 관련 분야에서 7년 이상 근무한자\r\nㆍ채용 관련분야 석사학위 취득 후 3년 이상 실무 경력자\r\nㆍ채용 관련분야 박사학위 취득자\r\n\r\n- 행정전문요원 나등급\r\nㆍ채용 관련분야에서 3년 이상 근무한 자\r\nㆍ채용 관련분야 석사학위 취득자\r\n\r\n- 행정전문요원 다등급\r\nㆍ고등학교를 졸업한 자로 채용 관련분야에서 4년 이상 실무 경력자 또는 학사(전문학사 취득 후 2년 이상 실무경력) 이상 취득자\r\n\r\n- 전산전문요원 고급기술자\r\nㆍ중급기술자 자격 취득 후 3년 이상 소프트웨어 기술 분야의 업무를 수행한 자\r\nㆍ박사학위를 가진 자로서 기사자격 또는 산업통상자원부장관이 고시하는 해당 등급의 공인민간자격을 취득한자\r\nㆍIT관련 경력 7년 이상인 자로서 채용 관련 업무 경력자\r\n\r\n- 전산전문요원 중급기술자\r\nㆍ기사의 자격을 취득한 자로서 3년 이상 소프트웨어 기술 분야의 업무를 수행한 자\r\nㆍ기사자격 또는 산업통상자원부장관이 고시하는 해당 등급의 공인민간자격을 취득한 자로서 석사학위 취득 후 2년 이상 소프트웨어 기술 분야의\r\n업무를 수행한자\r\nㆍIT관련 경력 5년 이상인 자로서 채용 관련 업무 경력자\r\n\r\n- 전산전문요원 초급기술자\r\nㆍ기사 자격을 취득한 자\r\nㆍIT관련 경력자로서 채용 관련 업무 경력자\r\n\r\n○ 기간제 근로자 - 연구직\r\n\r\n- 선임연구원\r\nㆍ해당분야 박사학위 소지자\r\nㆍ석사학위를 갖고 있으며 5년 이상 채용 분야의 업무경력자\r\nㆍ학사학위를 갖고 있으며 7년 이상 채용 분야의 업무경력자\r\nㆍ전문학사학위를 갖고 있으며 10년 이상 채용 분야의 업무경력자\r\nㆍ상기 각 요건과 동등한 자격이 있다고 인사위원회가 인정한 자\r\n\r\n- 연구원\r\nㆍ해당분야 석사학위 소지자\r\nㆍ학사학위를 갖고 있으며 3년 이상 채용 분야의 업무경력자\r\nㆍ전문학사학위를 갖고 있으며 5년 이상 채용 분야의 업무경력자\r\nㆍ고등학교 졸업 후 7년 이상 채용 분야의 업무경력자\r\nㆍ상기 각 요건과 동등한 자격이 있다고 인사위원회가 인정한 자\r\n\r\n- 연구보조원\r\nㆍ해당분야 학사학위 소지자\r\nㆍ전문학사학위를 갖고 있으며 2년 이상 채용 분야의 업무경력자\r\nㆍ고등학교 졸업 후 4년 이상 채용 분야의 업무경력자\r\nㆍ상기 각 요건과 동등한 자격이 있다고 인사위원회가 인정한 자\r\n\r\n○ 기간제 근로자 - 행정 나등급(보훈 제한 경쟁)\r\nㆍ「국가유공자 등 예우 및 지원에 관한 법률」 등에 따른 취업지원 대상자\r\n   (국가보훈부 취업지원 대상자 증명서 제출이 가능한 자)\r\n ※ 채용 분야별 자격기준 충족 必",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "서울,충북",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "○ 전형절차\r\n1. 지원서 접수 : ‘26.11.12.(목) ~’26.11.26.(목) 14:00\r\n2. 서류합격자 발표 : ‘26.12.3.(목)\r\n3. 증빙서류 제출 : ‘26.12.3.(목) ~ ’26.12.7.(월) 14:00\r\n4. 면접전형 : ‘26.12.8.(화) ~ ’26.12.10.(목)\r\n5. 결격여부 심사 : ‘26.12.11.(금) ~ ’26.12.16.(수)\r\n6. 면접합격자 발표 : ‘26.12.18.(금)\r\n7 .임용예정일 : ‘26.12.28.(월)\r\n* 일정은 상황에 따라 변동될 수 있음\r\n** 임용예정일은 기관 상황에 따라 1개월 범위 내 조정될 수 있음",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=306965",
+              "sha256": "d578b5c5774f24bb8b09871825c4cbfbe6c9d775db8c01eb6b4cd54bc3b1ba2c",
+              "receivedAt": "2026-11-15T06:26:58.882+00:00",
+              "rawUnitName": "육아휴직 대체근로_행정전문요원_나등급(기관 대외협력에 관한 사항)",
+              "rows": [
+                [
+                  "육아휴직 대체근로_행정전문요원_나등급(기관 대외협력에 관한 사항)"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "recruitment_unit",
+            "method": "unit_name",
+            "value": "육아휴직 대체",
+            "quote": "육아휴직 대체근로_행정전문요원_나등급(기관 대외협력에 관한 사항)",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "(재)한국보건의료정보원",
+            "job": "육아휴직 대체근로_행정전문요원_나등급(기관 대외협력에 관한 사항)",
+            "rawUnitName": "육아휴직 대체근로_행정전문요원_나등급(기관 대외협력에 관한 사항)",
+            "regions": [
+              "서울",
+              "충북"
+            ],
+            "regionsScope": "announcement",
+            "employment": "육아휴직 대체",
+            "recruitmentCategory": {
+              "value": "신입+경력",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=306965",
+              "sha256": "d578b5c5774f24bb8b09871825c4cbfbe6c9d775db8c01eb6b4cd54bc3b1ba2c",
+              "receivedAt": "2026-11-15T06:26:58.882+00:00"
+            }
+          }
+        },
+        {
+          "id": "auto-a9e36a24456b4ab1",
+          "title": "보훈제한경쟁_행정전문요원_나등급(공공기관 사무행정)",
+          "sourceUnitName": "보훈제한경쟁_행정전문요원_나등급(공공기관 사무행정)",
+          "employment": "비정규직",
+          "regions": [
+            "서울",
+            "충북"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "○ 기간제 근로자 - 행정, 전산\r\n\r\n- 행정전문요원 가등급\r\nㆍ채용 관련 분야에서 7년 이상 근무한자\r\nㆍ채용 관련분야 석사학위 취득 후 3년 이상 실무 경력자\r\nㆍ채용 관련분야 박사학위 취득자\r\n\r\n- 행정전문요원 나등급\r\nㆍ채용 관련분야에서 3년 이상 근무한 자\r\nㆍ채용 관련분야 석사학위 취득자\r\n\r\n- 행정전문요원 다등급\r\nㆍ고등학교를 졸업한 자로 채용 관련분야에서 4년 이상 실무 경력자 또는 학사(전문학사 취득 후 2년 이상 실무경력) 이상 취득자\r\n\r\n- 전산전문요원 고급기술자\r\nㆍ중급기술자 자격 취득 후 3년 이상 소프트웨어 기술 분야의 업무를 수행한 자\r\nㆍ박사학위를 가진 자로서 기사자격 또는 산업통상자원부장관이 고시하는 해당 등급의 공인민간자격을 취득한자\r\nㆍIT관련 경력 7년 이상인 자로서 채용 관련 업무 경력자\r\n\r\n- 전산전문요원 중급기술자\r\nㆍ기사의 자격을 취득한 자로서 3년 이상 소프트웨어 기술 분야의 업무를 수행한 자\r\nㆍ기사자격 또는 산업통상자원부장관이 고시하는 해당 등급의 공인민간자격을 취득한 자로서 석사학위 취득 후 2년 이상 소프트웨어 기술 분야의\r\n업무를 수행한자\r\nㆍIT관련 경력 5년 이상인 자로서 채용 관련 업무 경력자\r\n\r\n- 전산전문요원 초급기술자\r\nㆍ기사 자격을 취득한 자\r\nㆍIT관련 경력자로서 채용 관련 업무 경력자\r\n\r\n○ 기간제 근로자 - 연구직\r\n\r\n- 선임연구원\r\nㆍ해당분야 박사학위 소지자\r\nㆍ석사학위를 갖고 있으며 5년 이상 채용 분야의 업무경력자\r\nㆍ학사학위를 갖고 있으며 7년 이상 채용 분야의 업무경력자\r\nㆍ전문학사학위를 갖고 있으며 10년 이상 채용 분야의 업무경력자\r\nㆍ상기 각 요건과 동등한 자격이 있다고 인사위원회가 인정한 자\r\n\r\n- 연구원\r\nㆍ해당분야 석사학위 소지자\r\nㆍ학사학위를 갖고 있으며 3년 이상 채용 분야의 업무경력자\r\nㆍ전문학사학위를 갖고 있으며 5년 이상 채용 분야의 업무경력자\r\nㆍ고등학교 졸업 후 7년 이상 채용 분야의 업무경력자\r\nㆍ상기 각 요건과 동등한 자격이 있다고 인사위원회가 인정한 자\r\n\r\n- 연구보조원\r\nㆍ해당분야 학사학위 소지자\r\nㆍ전문학사학위를 갖고 있으며 2년 이상 채용 분야의 업무경력자\r\nㆍ고등학교 졸업 후 4년 이상 채용 분야의 업무경력자\r\nㆍ상기 각 요건과 동등한 자격이 있다고 인사위원회가 인정한 자\r\n\r\n○ 기간제 근로자 - 행정 나등급(보훈 제한 경쟁)\r\nㆍ「국가유공자 등 예우 및 지원에 관한 법률」 등에 따른 취업지원 대상자\r\n   (국가보훈부 취업지원 대상자 증명서 제출이 가능한 자)\r\n ※ 채용 분야별 자격기준 충족 必",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "서울,충북",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "○ 전형절차\r\n1. 지원서 접수 : ‘26.11.12.(목) ~’26.11.26.(목) 14:00\r\n2. 서류합격자 발표 : ‘26.12.3.(목)\r\n3. 증빙서류 제출 : ‘26.12.3.(목) ~ ’26.12.7.(월) 14:00\r\n4. 면접전형 : ‘26.12.8.(화) ~ ’26.12.10.(목)\r\n5. 결격여부 심사 : ‘26.12.11.(금) ~ ’26.12.16.(수)\r\n6. 면접합격자 발표 : ‘26.12.18.(금)\r\n7 .임용예정일 : ‘26.12.28.(월)\r\n* 일정은 상황에 따라 변동될 수 있음\r\n** 임용예정일은 기관 상황에 따라 1개월 범위 내 조정될 수 있음",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=306965",
+              "sha256": "d578b5c5774f24bb8b09871825c4cbfbe6c9d775db8c01eb6b4cd54bc3b1ba2c",
+              "receivedAt": "2026-11-15T06:26:58.882+00:00",
+              "rawUnitName": "보훈제한경쟁_행정전문요원_나등급(공공기관 사무행정)",
+              "rows": [
+                [
+                  "보훈제한경쟁_행정전문요원_나등급(공공기관 사무행정)"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "announcement",
+            "method": "announcement_single_employment",
+            "value": "비정규직",
+            "quote": "비정규직",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "(재)한국보건의료정보원",
+            "job": "보훈제한경쟁_행정전문요원_나등급(공공기관 사무행정)",
+            "rawUnitName": "보훈제한경쟁_행정전문요원_나등급(공공기관 사무행정)",
+            "regions": [
+              "서울",
+              "충북"
+            ],
+            "regionsScope": "announcement",
+            "employment": "비정규직",
+            "recruitmentCategory": {
+              "value": "신입+경력",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=306965",
+              "sha256": "d578b5c5774f24bb8b09871825c4cbfbe6c9d775db8c01eb6b4cd54bc3b1ba2c",
+              "receivedAt": "2026-11-15T06:26:58.882+00:00"
+            }
+          }
+        },
+        {
+          "id": "auto-3ea996c313839675",
+          "title": "행정전문요원_가등급(특수전문기관 지정심사제도 운영 등)",
+          "sourceUnitName": "행정전문요원_가등급(특수전문기관 지정심사제도 운영 등)",
+          "employment": "비정규직",
+          "regions": [
+            "서울",
+            "충북"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "○ 기간제 근로자 - 행정, 전산\r\n\r\n- 행정전문요원 가등급\r\nㆍ채용 관련 분야에서 7년 이상 근무한자\r\nㆍ채용 관련분야 석사학위 취득 후 3년 이상 실무 경력자\r\nㆍ채용 관련분야 박사학위 취득자\r\n\r\n- 행정전문요원 나등급\r\nㆍ채용 관련분야에서 3년 이상 근무한 자\r\nㆍ채용 관련분야 석사학위 취득자\r\n\r\n- 행정전문요원 다등급\r\nㆍ고등학교를 졸업한 자로 채용 관련분야에서 4년 이상 실무 경력자 또는 학사(전문학사 취득 후 2년 이상 실무경력) 이상 취득자\r\n\r\n- 전산전문요원 고급기술자\r\nㆍ중급기술자 자격 취득 후 3년 이상 소프트웨어 기술 분야의 업무를 수행한 자\r\nㆍ박사학위를 가진 자로서 기사자격 또는 산업통상자원부장관이 고시하는 해당 등급의 공인민간자격을 취득한자\r\nㆍIT관련 경력 7년 이상인 자로서 채용 관련 업무 경력자\r\n\r\n- 전산전문요원 중급기술자\r\nㆍ기사의 자격을 취득한 자로서 3년 이상 소프트웨어 기술 분야의 업무를 수행한 자\r\nㆍ기사자격 또는 산업통상자원부장관이 고시하는 해당 등급의 공인민간자격을 취득한 자로서 석사학위 취득 후 2년 이상 소프트웨어 기술 분야의\r\n업무를 수행한자\r\nㆍIT관련 경력 5년 이상인 자로서 채용 관련 업무 경력자\r\n\r\n- 전산전문요원 초급기술자\r\nㆍ기사 자격을 취득한 자\r\nㆍIT관련 경력자로서 채용 관련 업무 경력자\r\n\r\n○ 기간제 근로자 - 연구직\r\n\r\n- 선임연구원\r\nㆍ해당분야 박사학위 소지자\r\nㆍ석사학위를 갖고 있으며 5년 이상 채용 분야의 업무경력자\r\nㆍ학사학위를 갖고 있으며 7년 이상 채용 분야의 업무경력자\r\nㆍ전문학사학위를 갖고 있으며 10년 이상 채용 분야의 업무경력자\r\nㆍ상기 각 요건과 동등한 자격이 있다고 인사위원회가 인정한 자\r\n\r\n- 연구원\r\nㆍ해당분야 석사학위 소지자\r\nㆍ학사학위를 갖고 있으며 3년 이상 채용 분야의 업무경력자\r\nㆍ전문학사학위를 갖고 있으며 5년 이상 채용 분야의 업무경력자\r\nㆍ고등학교 졸업 후 7년 이상 채용 분야의 업무경력자\r\nㆍ상기 각 요건과 동등한 자격이 있다고 인사위원회가 인정한 자\r\n\r\n- 연구보조원\r\nㆍ해당분야 학사학위 소지자\r\nㆍ전문학사학위를 갖고 있으며 2년 이상 채용 분야의 업무경력자\r\nㆍ고등학교 졸업 후 4년 이상 채용 분야의 업무경력자\r\nㆍ상기 각 요건과 동등한 자격이 있다고 인사위원회가 인정한 자\r\n\r\n○ 기간제 근로자 - 행정 나등급(보훈 제한 경쟁)\r\nㆍ「국가유공자 등 예우 및 지원에 관한 법률」 등에 따른 취업지원 대상자\r\n   (국가보훈부 취업지원 대상자 증명서 제출이 가능한 자)\r\n ※ 채용 분야별 자격기준 충족 必",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "서울,충북",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "○ 전형절차\r\n1. 지원서 접수 : ‘26.11.12.(목) ~’26.11.26.(목) 14:00\r\n2. 서류합격자 발표 : ‘26.12.3.(목)\r\n3. 증빙서류 제출 : ‘26.12.3.(목) ~ ’26.12.7.(월) 14:00\r\n4. 면접전형 : ‘26.12.8.(화) ~ ’26.12.10.(목)\r\n5. 결격여부 심사 : ‘26.12.11.(금) ~ ’26.12.16.(수)\r\n6. 면접합격자 발표 : ‘26.12.18.(금)\r\n7 .임용예정일 : ‘26.12.28.(월)\r\n* 일정은 상황에 따라 변동될 수 있음\r\n** 임용예정일은 기관 상황에 따라 1개월 범위 내 조정될 수 있음",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=306965",
+              "sha256": "d578b5c5774f24bb8b09871825c4cbfbe6c9d775db8c01eb6b4cd54bc3b1ba2c",
+              "receivedAt": "2026-11-15T06:26:58.882+00:00",
+              "rawUnitName": "행정전문요원_가등급(특수전문기관 지정심사제도 운영 등)",
+              "rows": [
+                [
+                  "행정전문요원_가등급(특수전문기관 지정심사제도 운영 등)"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "announcement",
+            "method": "announcement_single_employment",
+            "value": "비정규직",
+            "quote": "비정규직",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "(재)한국보건의료정보원",
+            "job": "행정전문요원_가등급(특수전문기관 지정심사제도 운영 등)",
+            "rawUnitName": "행정전문요원_가등급(특수전문기관 지정심사제도 운영 등)",
+            "regions": [
+              "서울",
+              "충북"
+            ],
+            "regionsScope": "announcement",
+            "employment": "비정규직",
+            "recruitmentCategory": {
+              "value": "신입+경력",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=306965",
+              "sha256": "d578b5c5774f24bb8b09871825c4cbfbe6c9d775db8c01eb6b4cd54bc3b1ba2c",
+              "receivedAt": "2026-11-15T06:26:58.882+00:00"
+            }
+          }
+        },
+        {
+          "id": "auto-db90aefbcc18b29a",
+          "title": "행정전문요원_가등급(진료정보교류 사업 행정업무 전반)",
+          "sourceUnitName": "행정전문요원_가등급(진료정보교류 사업 행정업무 전반)",
+          "employment": "비정규직",
+          "regions": [
+            "서울",
+            "충북"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "○ 기간제 근로자 - 행정, 전산\r\n\r\n- 행정전문요원 가등급\r\nㆍ채용 관련 분야에서 7년 이상 근무한자\r\nㆍ채용 관련분야 석사학위 취득 후 3년 이상 실무 경력자\r\nㆍ채용 관련분야 박사학위 취득자\r\n\r\n- 행정전문요원 나등급\r\nㆍ채용 관련분야에서 3년 이상 근무한 자\r\nㆍ채용 관련분야 석사학위 취득자\r\n\r\n- 행정전문요원 다등급\r\nㆍ고등학교를 졸업한 자로 채용 관련분야에서 4년 이상 실무 경력자 또는 학사(전문학사 취득 후 2년 이상 실무경력) 이상 취득자\r\n\r\n- 전산전문요원 고급기술자\r\nㆍ중급기술자 자격 취득 후 3년 이상 소프트웨어 기술 분야의 업무를 수행한 자\r\nㆍ박사학위를 가진 자로서 기사자격 또는 산업통상자원부장관이 고시하는 해당 등급의 공인민간자격을 취득한자\r\nㆍIT관련 경력 7년 이상인 자로서 채용 관련 업무 경력자\r\n\r\n- 전산전문요원 중급기술자\r\nㆍ기사의 자격을 취득한 자로서 3년 이상 소프트웨어 기술 분야의 업무를 수행한 자\r\nㆍ기사자격 또는 산업통상자원부장관이 고시하는 해당 등급의 공인민간자격을 취득한 자로서 석사학위 취득 후 2년 이상 소프트웨어 기술 분야의\r\n업무를 수행한자\r\nㆍIT관련 경력 5년 이상인 자로서 채용 관련 업무 경력자\r\n\r\n- 전산전문요원 초급기술자\r\nㆍ기사 자격을 취득한 자\r\nㆍIT관련 경력자로서 채용 관련 업무 경력자\r\n\r\n○ 기간제 근로자 - 연구직\r\n\r\n- 선임연구원\r\nㆍ해당분야 박사학위 소지자\r\nㆍ석사학위를 갖고 있으며 5년 이상 채용 분야의 업무경력자\r\nㆍ학사학위를 갖고 있으며 7년 이상 채용 분야의 업무경력자\r\nㆍ전문학사학위를 갖고 있으며 10년 이상 채용 분야의 업무경력자\r\nㆍ상기 각 요건과 동등한 자격이 있다고 인사위원회가 인정한 자\r\n\r\n- 연구원\r\nㆍ해당분야 석사학위 소지자\r\nㆍ학사학위를 갖고 있으며 3년 이상 채용 분야의 업무경력자\r\nㆍ전문학사학위를 갖고 있으며 5년 이상 채용 분야의 업무경력자\r\nㆍ고등학교 졸업 후 7년 이상 채용 분야의 업무경력자\r\nㆍ상기 각 요건과 동등한 자격이 있다고 인사위원회가 인정한 자\r\n\r\n- 연구보조원\r\nㆍ해당분야 학사학위 소지자\r\nㆍ전문학사학위를 갖고 있으며 2년 이상 채용 분야의 업무경력자\r\nㆍ고등학교 졸업 후 4년 이상 채용 분야의 업무경력자\r\nㆍ상기 각 요건과 동등한 자격이 있다고 인사위원회가 인정한 자\r\n\r\n○ 기간제 근로자 - 행정 나등급(보훈 제한 경쟁)\r\nㆍ「국가유공자 등 예우 및 지원에 관한 법률」 등에 따른 취업지원 대상자\r\n   (국가보훈부 취업지원 대상자 증명서 제출이 가능한 자)\r\n ※ 채용 분야별 자격기준 충족 必",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "서울,충북",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "○ 전형절차\r\n1. 지원서 접수 : ‘26.11.12.(목) ~’26.11.26.(목) 14:00\r\n2. 서류합격자 발표 : ‘26.12.3.(목)\r\n3. 증빙서류 제출 : ‘26.12.3.(목) ~ ’26.12.7.(월) 14:00\r\n4. 면접전형 : ‘26.12.8.(화) ~ ’26.12.10.(목)\r\n5. 결격여부 심사 : ‘26.12.11.(금) ~ ’26.12.16.(수)\r\n6. 면접합격자 발표 : ‘26.12.18.(금)\r\n7 .임용예정일 : ‘26.12.28.(월)\r\n* 일정은 상황에 따라 변동될 수 있음\r\n** 임용예정일은 기관 상황에 따라 1개월 범위 내 조정될 수 있음",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=306965",
+              "sha256": "d578b5c5774f24bb8b09871825c4cbfbe6c9d775db8c01eb6b4cd54bc3b1ba2c",
+              "receivedAt": "2026-11-15T06:26:58.882+00:00",
+              "rawUnitName": "행정전문요원_가등급(진료정보교류 사업 행정업무 전반)",
+              "rows": [
+                [
+                  "행정전문요원_가등급(진료정보교류 사업 행정업무 전반)"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "announcement",
+            "method": "announcement_single_employment",
+            "value": "비정규직",
+            "quote": "비정규직",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "(재)한국보건의료정보원",
+            "job": "행정전문요원_가등급(진료정보교류 사업 행정업무 전반)",
+            "rawUnitName": "행정전문요원_가등급(진료정보교류 사업 행정업무 전반)",
+            "regions": [
+              "서울",
+              "충북"
+            ],
+            "regionsScope": "announcement",
+            "employment": "비정규직",
+            "recruitmentCategory": {
+              "value": "신입+경력",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=306965",
+              "sha256": "d578b5c5774f24bb8b09871825c4cbfbe6c9d775db8c01eb6b4cd54bc3b1ba2c",
+              "receivedAt": "2026-11-15T06:26:58.882+00:00"
+            }
+          }
+        },
+        {
+          "id": "auto-33f25dcecd4e3bbd",
+          "title": "행정전문요원_다등급(EMR인증 사업 관련 업무)",
+          "sourceUnitName": "행정전문요원_다등급(EMR인증 사업 관련 업무)",
+          "employment": "비정규직",
+          "regions": [
+            "서울",
+            "충북"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "○ 기간제 근로자 - 행정, 전산\r\n\r\n- 행정전문요원 가등급\r\nㆍ채용 관련 분야에서 7년 이상 근무한자\r\nㆍ채용 관련분야 석사학위 취득 후 3년 이상 실무 경력자\r\nㆍ채용 관련분야 박사학위 취득자\r\n\r\n- 행정전문요원 나등급\r\nㆍ채용 관련분야에서 3년 이상 근무한 자\r\nㆍ채용 관련분야 석사학위 취득자\r\n\r\n- 행정전문요원 다등급\r\nㆍ고등학교를 졸업한 자로 채용 관련분야에서 4년 이상 실무 경력자 또는 학사(전문학사 취득 후 2년 이상 실무경력) 이상 취득자\r\n\r\n- 전산전문요원 고급기술자\r\nㆍ중급기술자 자격 취득 후 3년 이상 소프트웨어 기술 분야의 업무를 수행한 자\r\nㆍ박사학위를 가진 자로서 기사자격 또는 산업통상자원부장관이 고시하는 해당 등급의 공인민간자격을 취득한자\r\nㆍIT관련 경력 7년 이상인 자로서 채용 관련 업무 경력자\r\n\r\n- 전산전문요원 중급기술자\r\nㆍ기사의 자격을 취득한 자로서 3년 이상 소프트웨어 기술 분야의 업무를 수행한 자\r\nㆍ기사자격 또는 산업통상자원부장관이 고시하는 해당 등급의 공인민간자격을 취득한 자로서 석사학위 취득 후 2년 이상 소프트웨어 기술 분야의\r\n업무를 수행한자\r\nㆍIT관련 경력 5년 이상인 자로서 채용 관련 업무 경력자\r\n\r\n- 전산전문요원 초급기술자\r\nㆍ기사 자격을 취득한 자\r\nㆍIT관련 경력자로서 채용 관련 업무 경력자\r\n\r\n○ 기간제 근로자 - 연구직\r\n\r\n- 선임연구원\r\nㆍ해당분야 박사학위 소지자\r\nㆍ석사학위를 갖고 있으며 5년 이상 채용 분야의 업무경력자\r\nㆍ학사학위를 갖고 있으며 7년 이상 채용 분야의 업무경력자\r\nㆍ전문학사학위를 갖고 있으며 10년 이상 채용 분야의 업무경력자\r\nㆍ상기 각 요건과 동등한 자격이 있다고 인사위원회가 인정한 자\r\n\r\n- 연구원\r\nㆍ해당분야 석사학위 소지자\r\nㆍ학사학위를 갖고 있으며 3년 이상 채용 분야의 업무경력자\r\nㆍ전문학사학위를 갖고 있으며 5년 이상 채용 분야의 업무경력자\r\nㆍ고등학교 졸업 후 7년 이상 채용 분야의 업무경력자\r\nㆍ상기 각 요건과 동등한 자격이 있다고 인사위원회가 인정한 자\r\n\r\n- 연구보조원\r\nㆍ해당분야 학사학위 소지자\r\nㆍ전문학사학위를 갖고 있으며 2년 이상 채용 분야의 업무경력자\r\nㆍ고등학교 졸업 후 4년 이상 채용 분야의 업무경력자\r\nㆍ상기 각 요건과 동등한 자격이 있다고 인사위원회가 인정한 자\r\n\r\n○ 기간제 근로자 - 행정 나등급(보훈 제한 경쟁)\r\nㆍ「국가유공자 등 예우 및 지원에 관한 법률」 등에 따른 취업지원 대상자\r\n   (국가보훈부 취업지원 대상자 증명서 제출이 가능한 자)\r\n ※ 채용 분야별 자격기준 충족 必",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "서울,충북",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "○ 전형절차\r\n1. 지원서 접수 : ‘26.11.12.(목) ~’26.11.26.(목) 14:00\r\n2. 서류합격자 발표 : ‘26.12.3.(목)\r\n3. 증빙서류 제출 : ‘26.12.3.(목) ~ ’26.12.7.(월) 14:00\r\n4. 면접전형 : ‘26.12.8.(화) ~ ’26.12.10.(목)\r\n5. 결격여부 심사 : ‘26.12.11.(금) ~ ’26.12.16.(수)\r\n6. 면접합격자 발표 : ‘26.12.18.(금)\r\n7 .임용예정일 : ‘26.12.28.(월)\r\n* 일정은 상황에 따라 변동될 수 있음\r\n** 임용예정일은 기관 상황에 따라 1개월 범위 내 조정될 수 있음",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=306965",
+              "sha256": "d578b5c5774f24bb8b09871825c4cbfbe6c9d775db8c01eb6b4cd54bc3b1ba2c",
+              "receivedAt": "2026-11-15T06:26:58.882+00:00",
+              "rawUnitName": "행정전문요원_다등급(EMR인증 사업 관련 업무)",
+              "rows": [
+                [
+                  "행정전문요원_다등급(EMR인증 사업 관련 업무)"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "announcement",
+            "method": "announcement_single_employment",
+            "value": "비정규직",
+            "quote": "비정규직",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "(재)한국보건의료정보원",
+            "job": "행정전문요원_다등급(EMR인증 사업 관련 업무)",
+            "rawUnitName": "행정전문요원_다등급(EMR인증 사업 관련 업무)",
+            "regions": [
+              "서울",
+              "충북"
+            ],
+            "regionsScope": "announcement",
+            "employment": "비정규직",
+            "recruitmentCategory": {
+              "value": "신입+경력",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=306965",
+              "sha256": "d578b5c5774f24bb8b09871825c4cbfbe6c9d775db8c01eb6b4cd54bc3b1ba2c",
+              "receivedAt": "2026-11-15T06:26:58.882+00:00"
+            }
+          }
+        },
+        {
+          "id": "auto-24052902c0547e55",
+          "title": "행정전문요원_다등급(특수전문기관 지정심사제도 운영 등)",
+          "sourceUnitName": "행정전문요원_다등급(특수전문기관 지정심사제도 운영 등)",
+          "employment": "비정규직",
+          "regions": [
+            "서울",
+            "충북"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "○ 기간제 근로자 - 행정, 전산\r\n\r\n- 행정전문요원 가등급\r\nㆍ채용 관련 분야에서 7년 이상 근무한자\r\nㆍ채용 관련분야 석사학위 취득 후 3년 이상 실무 경력자\r\nㆍ채용 관련분야 박사학위 취득자\r\n\r\n- 행정전문요원 나등급\r\nㆍ채용 관련분야에서 3년 이상 근무한 자\r\nㆍ채용 관련분야 석사학위 취득자\r\n\r\n- 행정전문요원 다등급\r\nㆍ고등학교를 졸업한 자로 채용 관련분야에서 4년 이상 실무 경력자 또는 학사(전문학사 취득 후 2년 이상 실무경력) 이상 취득자\r\n\r\n- 전산전문요원 고급기술자\r\nㆍ중급기술자 자격 취득 후 3년 이상 소프트웨어 기술 분야의 업무를 수행한 자\r\nㆍ박사학위를 가진 자로서 기사자격 또는 산업통상자원부장관이 고시하는 해당 등급의 공인민간자격을 취득한자\r\nㆍIT관련 경력 7년 이상인 자로서 채용 관련 업무 경력자\r\n\r\n- 전산전문요원 중급기술자\r\nㆍ기사의 자격을 취득한 자로서 3년 이상 소프트웨어 기술 분야의 업무를 수행한 자\r\nㆍ기사자격 또는 산업통상자원부장관이 고시하는 해당 등급의 공인민간자격을 취득한 자로서 석사학위 취득 후 2년 이상 소프트웨어 기술 분야의\r\n업무를 수행한자\r\nㆍIT관련 경력 5년 이상인 자로서 채용 관련 업무 경력자\r\n\r\n- 전산전문요원 초급기술자\r\nㆍ기사 자격을 취득한 자\r\nㆍIT관련 경력자로서 채용 관련 업무 경력자\r\n\r\n○ 기간제 근로자 - 연구직\r\n\r\n- 선임연구원\r\nㆍ해당분야 박사학위 소지자\r\nㆍ석사학위를 갖고 있으며 5년 이상 채용 분야의 업무경력자\r\nㆍ학사학위를 갖고 있으며 7년 이상 채용 분야의 업무경력자\r\nㆍ전문학사학위를 갖고 있으며 10년 이상 채용 분야의 업무경력자\r\nㆍ상기 각 요건과 동등한 자격이 있다고 인사위원회가 인정한 자\r\n\r\n- 연구원\r\nㆍ해당분야 석사학위 소지자\r\nㆍ학사학위를 갖고 있으며 3년 이상 채용 분야의 업무경력자\r\nㆍ전문학사학위를 갖고 있으며 5년 이상 채용 분야의 업무경력자\r\nㆍ고등학교 졸업 후 7년 이상 채용 분야의 업무경력자\r\nㆍ상기 각 요건과 동등한 자격이 있다고 인사위원회가 인정한 자\r\n\r\n- 연구보조원\r\nㆍ해당분야 학사학위 소지자\r\nㆍ전문학사학위를 갖고 있으며 2년 이상 채용 분야의 업무경력자\r\nㆍ고등학교 졸업 후 4년 이상 채용 분야의 업무경력자\r\nㆍ상기 각 요건과 동등한 자격이 있다고 인사위원회가 인정한 자\r\n\r\n○ 기간제 근로자 - 행정 나등급(보훈 제한 경쟁)\r\nㆍ「국가유공자 등 예우 및 지원에 관한 법률」 등에 따른 취업지원 대상자\r\n   (국가보훈부 취업지원 대상자 증명서 제출이 가능한 자)\r\n ※ 채용 분야별 자격기준 충족 必",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "서울,충북",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "○ 전형절차\r\n1. 지원서 접수 : ‘26.11.12.(목) ~’26.11.26.(목) 14:00\r\n2. 서류합격자 발표 : ‘26.12.3.(목)\r\n3. 증빙서류 제출 : ‘26.12.3.(목) ~ ’26.12.7.(월) 14:00\r\n4. 면접전형 : ‘26.12.8.(화) ~ ’26.12.10.(목)\r\n5. 결격여부 심사 : ‘26.12.11.(금) ~ ’26.12.16.(수)\r\n6. 면접합격자 발표 : ‘26.12.18.(금)\r\n7 .임용예정일 : ‘26.12.28.(월)\r\n* 일정은 상황에 따라 변동될 수 있음\r\n** 임용예정일은 기관 상황에 따라 1개월 범위 내 조정될 수 있음",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=306965",
+              "sha256": "d578b5c5774f24bb8b09871825c4cbfbe6c9d775db8c01eb6b4cd54bc3b1ba2c",
+              "receivedAt": "2026-11-15T06:26:58.882+00:00",
+              "rawUnitName": "행정전문요원_다등급(특수전문기관 지정심사제도 운영 등)",
+              "rows": [
+                [
+                  "행정전문요원_다등급(특수전문기관 지정심사제도 운영 등)"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "announcement",
+            "method": "announcement_single_employment",
+            "value": "비정규직",
+            "quote": "비정규직",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "(재)한국보건의료정보원",
+            "job": "행정전문요원_다등급(특수전문기관 지정심사제도 운영 등)",
+            "rawUnitName": "행정전문요원_다등급(특수전문기관 지정심사제도 운영 등)",
+            "regions": [
+              "서울",
+              "충북"
+            ],
+            "regionsScope": "announcement",
+            "employment": "비정규직",
+            "recruitmentCategory": {
+              "value": "신입+경력",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=306965",
+              "sha256": "d578b5c5774f24bb8b09871825c4cbfbe6c9d775db8c01eb6b4cd54bc3b1ba2c",
+              "receivedAt": "2026-11-15T06:26:58.882+00:00"
+            }
+          }
+        },
+        {
+          "id": "auto-a194723e326ba7b2",
+          "title": "행정전문요원_다등급(정보화사업 사업관리 지원)",
+          "sourceUnitName": "행정전문요원_다등급(정보화사업 사업관리 지원)",
+          "employment": "비정규직",
+          "regions": [
+            "서울",
+            "충북"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "○ 기간제 근로자 - 행정, 전산\r\n\r\n- 행정전문요원 가등급\r\nㆍ채용 관련 분야에서 7년 이상 근무한자\r\nㆍ채용 관련분야 석사학위 취득 후 3년 이상 실무 경력자\r\nㆍ채용 관련분야 박사학위 취득자\r\n\r\n- 행정전문요원 나등급\r\nㆍ채용 관련분야에서 3년 이상 근무한 자\r\nㆍ채용 관련분야 석사학위 취득자\r\n\r\n- 행정전문요원 다등급\r\nㆍ고등학교를 졸업한 자로 채용 관련분야에서 4년 이상 실무 경력자 또는 학사(전문학사 취득 후 2년 이상 실무경력) 이상 취득자\r\n\r\n- 전산전문요원 고급기술자\r\nㆍ중급기술자 자격 취득 후 3년 이상 소프트웨어 기술 분야의 업무를 수행한 자\r\nㆍ박사학위를 가진 자로서 기사자격 또는 산업통상자원부장관이 고시하는 해당 등급의 공인민간자격을 취득한자\r\nㆍIT관련 경력 7년 이상인 자로서 채용 관련 업무 경력자\r\n\r\n- 전산전문요원 중급기술자\r\nㆍ기사의 자격을 취득한 자로서 3년 이상 소프트웨어 기술 분야의 업무를 수행한 자\r\nㆍ기사자격 또는 산업통상자원부장관이 고시하는 해당 등급의 공인민간자격을 취득한 자로서 석사학위 취득 후 2년 이상 소프트웨어 기술 분야의\r\n업무를 수행한자\r\nㆍIT관련 경력 5년 이상인 자로서 채용 관련 업무 경력자\r\n\r\n- 전산전문요원 초급기술자\r\nㆍ기사 자격을 취득한 자\r\nㆍIT관련 경력자로서 채용 관련 업무 경력자\r\n\r\n○ 기간제 근로자 - 연구직\r\n\r\n- 선임연구원\r\nㆍ해당분야 박사학위 소지자\r\nㆍ석사학위를 갖고 있으며 5년 이상 채용 분야의 업무경력자\r\nㆍ학사학위를 갖고 있으며 7년 이상 채용 분야의 업무경력자\r\nㆍ전문학사학위를 갖고 있으며 10년 이상 채용 분야의 업무경력자\r\nㆍ상기 각 요건과 동등한 자격이 있다고 인사위원회가 인정한 자\r\n\r\n- 연구원\r\nㆍ해당분야 석사학위 소지자\r\nㆍ학사학위를 갖고 있으며 3년 이상 채용 분야의 업무경력자\r\nㆍ전문학사학위를 갖고 있으며 5년 이상 채용 분야의 업무경력자\r\nㆍ고등학교 졸업 후 7년 이상 채용 분야의 업무경력자\r\nㆍ상기 각 요건과 동등한 자격이 있다고 인사위원회가 인정한 자\r\n\r\n- 연구보조원\r\nㆍ해당분야 학사학위 소지자\r\nㆍ전문학사학위를 갖고 있으며 2년 이상 채용 분야의 업무경력자\r\nㆍ고등학교 졸업 후 4년 이상 채용 분야의 업무경력자\r\nㆍ상기 각 요건과 동등한 자격이 있다고 인사위원회가 인정한 자\r\n\r\n○ 기간제 근로자 - 행정 나등급(보훈 제한 경쟁)\r\nㆍ「국가유공자 등 예우 및 지원에 관한 법률」 등에 따른 취업지원 대상자\r\n   (국가보훈부 취업지원 대상자 증명서 제출이 가능한 자)\r\n ※ 채용 분야별 자격기준 충족 必",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "서울,충북",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "○ 전형절차\r\n1. 지원서 접수 : ‘26.11.12.(목) ~’26.11.26.(목) 14:00\r\n2. 서류합격자 발표 : ‘26.12.3.(목)\r\n3. 증빙서류 제출 : ‘26.12.3.(목) ~ ’26.12.7.(월) 14:00\r\n4. 면접전형 : ‘26.12.8.(화) ~ ’26.12.10.(목)\r\n5. 결격여부 심사 : ‘26.12.11.(금) ~ ’26.12.16.(수)\r\n6. 면접합격자 발표 : ‘26.12.18.(금)\r\n7 .임용예정일 : ‘26.12.28.(월)\r\n* 일정은 상황에 따라 변동될 수 있음\r\n** 임용예정일은 기관 상황에 따라 1개월 범위 내 조정될 수 있음",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=306965",
+              "sha256": "d578b5c5774f24bb8b09871825c4cbfbe6c9d775db8c01eb6b4cd54bc3b1ba2c",
+              "receivedAt": "2026-11-15T06:26:58.882+00:00",
+              "rawUnitName": "행정전문요원_다등급(정보화사업 사업관리 지원)",
+              "rows": [
+                [
+                  "행정전문요원_다등급(정보화사업 사업관리 지원)"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "announcement",
+            "method": "announcement_single_employment",
+            "value": "비정규직",
+            "quote": "비정규직",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "(재)한국보건의료정보원",
+            "job": "행정전문요원_다등급(정보화사업 사업관리 지원)",
+            "rawUnitName": "행정전문요원_다등급(정보화사업 사업관리 지원)",
+            "regions": [
+              "서울",
+              "충북"
+            ],
+            "regionsScope": "announcement",
+            "employment": "비정규직",
+            "recruitmentCategory": {
+              "value": "신입+경력",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=306965",
+              "sha256": "d578b5c5774f24bb8b09871825c4cbfbe6c9d775db8c01eb6b4cd54bc3b1ba2c",
+              "receivedAt": "2026-11-15T06:26:58.882+00:00"
+            }
+          }
+        },
+        {
+          "id": "auto-32bbb041e59adea0",
+          "title": "행정전문요원_다등급(보건의료데이터 활용 활성화 업무)",
+          "sourceUnitName": "행정전문요원_다등급(보건의료데이터 활용 활성화 업무)",
+          "employment": "비정규직",
+          "regions": [
+            "서울",
+            "충북"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "○ 기간제 근로자 - 행정, 전산\r\n\r\n- 행정전문요원 가등급\r\nㆍ채용 관련 분야에서 7년 이상 근무한자\r\nㆍ채용 관련분야 석사학위 취득 후 3년 이상 실무 경력자\r\nㆍ채용 관련분야 박사학위 취득자\r\n\r\n- 행정전문요원 나등급\r\nㆍ채용 관련분야에서 3년 이상 근무한 자\r\nㆍ채용 관련분야 석사학위 취득자\r\n\r\n- 행정전문요원 다등급\r\nㆍ고등학교를 졸업한 자로 채용 관련분야에서 4년 이상 실무 경력자 또는 학사(전문학사 취득 후 2년 이상 실무경력) 이상 취득자\r\n\r\n- 전산전문요원 고급기술자\r\nㆍ중급기술자 자격 취득 후 3년 이상 소프트웨어 기술 분야의 업무를 수행한 자\r\nㆍ박사학위를 가진 자로서 기사자격 또는 산업통상자원부장관이 고시하는 해당 등급의 공인민간자격을 취득한자\r\nㆍIT관련 경력 7년 이상인 자로서 채용 관련 업무 경력자\r\n\r\n- 전산전문요원 중급기술자\r\nㆍ기사의 자격을 취득한 자로서 3년 이상 소프트웨어 기술 분야의 업무를 수행한 자\r\nㆍ기사자격 또는 산업통상자원부장관이 고시하는 해당 등급의 공인민간자격을 취득한 자로서 석사학위 취득 후 2년 이상 소프트웨어 기술 분야의\r\n업무를 수행한자\r\nㆍIT관련 경력 5년 이상인 자로서 채용 관련 업무 경력자\r\n\r\n- 전산전문요원 초급기술자\r\nㆍ기사 자격을 취득한 자\r\nㆍIT관련 경력자로서 채용 관련 업무 경력자\r\n\r\n○ 기간제 근로자 - 연구직\r\n\r\n- 선임연구원\r\nㆍ해당분야 박사학위 소지자\r\nㆍ석사학위를 갖고 있으며 5년 이상 채용 분야의 업무경력자\r\nㆍ학사학위를 갖고 있으며 7년 이상 채용 분야의 업무경력자\r\nㆍ전문학사학위를 갖고 있으며 10년 이상 채용 분야의 업무경력자\r\nㆍ상기 각 요건과 동등한 자격이 있다고 인사위원회가 인정한 자\r\n\r\n- 연구원\r\nㆍ해당분야 석사학위 소지자\r\nㆍ학사학위를 갖고 있으며 3년 이상 채용 분야의 업무경력자\r\nㆍ전문학사학위를 갖고 있으며 5년 이상 채용 분야의 업무경력자\r\nㆍ고등학교 졸업 후 7년 이상 채용 분야의 업무경력자\r\nㆍ상기 각 요건과 동등한 자격이 있다고 인사위원회가 인정한 자\r\n\r\n- 연구보조원\r\nㆍ해당분야 학사학위 소지자\r\nㆍ전문학사학위를 갖고 있으며 2년 이상 채용 분야의 업무경력자\r\nㆍ고등학교 졸업 후 4년 이상 채용 분야의 업무경력자\r\nㆍ상기 각 요건과 동등한 자격이 있다고 인사위원회가 인정한 자\r\n\r\n○ 기간제 근로자 - 행정 나등급(보훈 제한 경쟁)\r\nㆍ「국가유공자 등 예우 및 지원에 관한 법률」 등에 따른 취업지원 대상자\r\n   (국가보훈부 취업지원 대상자 증명서 제출이 가능한 자)\r\n ※ 채용 분야별 자격기준 충족 必",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "서울,충북",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "○ 전형절차\r\n1. 지원서 접수 : ‘26.11.12.(목) ~’26.11.26.(목) 14:00\r\n2. 서류합격자 발표 : ‘26.12.3.(목)\r\n3. 증빙서류 제출 : ‘26.12.3.(목) ~ ’26.12.7.(월) 14:00\r\n4. 면접전형 : ‘26.12.8.(화) ~ ’26.12.10.(목)\r\n5. 결격여부 심사 : ‘26.12.11.(금) ~ ’26.12.16.(수)\r\n6. 면접합격자 발표 : ‘26.12.18.(금)\r\n7 .임용예정일 : ‘26.12.28.(월)\r\n* 일정은 상황에 따라 변동될 수 있음\r\n** 임용예정일은 기관 상황에 따라 1개월 범위 내 조정될 수 있음",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=306965",
+              "sha256": "d578b5c5774f24bb8b09871825c4cbfbe6c9d775db8c01eb6b4cd54bc3b1ba2c",
+              "receivedAt": "2026-11-15T06:26:58.882+00:00",
+              "rawUnitName": "행정전문요원_다등급(보건의료데이터 활용 활성화 업무)",
+              "rows": [
+                [
+                  "행정전문요원_다등급(보건의료데이터 활용 활성화 업무)"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "announcement",
+            "method": "announcement_single_employment",
+            "value": "비정규직",
+            "quote": "비정규직",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "(재)한국보건의료정보원",
+            "job": "행정전문요원_다등급(보건의료데이터 활용 활성화 업무)",
+            "rawUnitName": "행정전문요원_다등급(보건의료데이터 활용 활성화 업무)",
+            "regions": [
+              "서울",
+              "충북"
+            ],
+            "regionsScope": "announcement",
+            "employment": "비정규직",
+            "recruitmentCategory": {
+              "value": "신입+경력",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=306965",
+              "sha256": "d578b5c5774f24bb8b09871825c4cbfbe6c9d775db8c01eb6b4cd54bc3b1ba2c",
+              "receivedAt": "2026-11-15T06:26:58.882+00:00"
+            }
+          }
+        }
+      ],
+      "sources": [
+        {
+          "id": "auto_alio",
+          "label": "JOB-ALIO 상세 · 코드 수신·자동 정리",
+          "url": "https://job.alio.go.kr/recruitview.do?idx=306965",
+          "sha256": "d578b5c5774f24bb8b09871825c4cbfbe6c9d775db8c01eb6b4cd54bc3b1ba2c",
+          "receivedAt": "2026-11-15T06:26:58.882+00:00"
+        },
+        {
+          "id": "auto_original_1",
+          "label": "기관 원문 링크 · 내용 미확인",
+          "url": "https://khis.ai-recruit.kr"
+        }
+      ],
+      "attachments": [
+        {
+          "name": "공식 첨부 1",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3086880",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        },
+        {
+          "name": "공식 첨부 2",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3086881",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        }
+      ],
+      "checkedAt": "2026-11-15T06:26:58.882+00:00",
+      "collectionMethod": "automatic_public_html",
+      "collectionLabel": "코드 원격 수신 → 규칙 기반 모집단위 정리 → 저장·화면 생성 · GPT 미사용",
+      "sourceNote": "자동으로 확인 가능한 본문·결과 표만 정리했습니다. 첨부·모집단위별 상세 조건은 미확인이며, 공고 전체 원문은 별도로 표시합니다.",
+      "announcementMetadata": {
+        "raw": {
+          "표준직무(NCS)": "사업관리,경영.회계.사무,보건.의료,연구",
+          "학력정보": "학력무관,고졸,대졸(2~3년),대졸(4년),석사,박사",
+          "근무분야": "행정직,연구직,전산직,계약직",
+          "채용구분": "신입+경력",
+          "고용형태": "비정규직",
+          "대체인력여부": "예",
+          "근무지": "서울,충북",
+          "급여정보": "신입 / 평균",
+          "채용인원": "35명",
+          "우대조건": "국가유공자 및 보훈대상자 등, 장애인, 저소득층, 비수도권 지역인재, 북한이탈주민·다문화가족, 자립준비청년, 직무관련 면허·자격증 소지자, 기간제 근로자",
+          "채용기간": "26.11.12 ~ 26.11.26",
+          "등록일": "2026.11.12"
+        },
+        "rawApplicationPeriod": {
+          "raw": null,
+          "status": "미확인",
+          "source_section": "전형절차/방법",
+          "note": "명시된 접수기간 원문만 추출; 날짜 정규화·모집단위별 상이한 기간 검토는 별도"
+        },
+        "sourceSha256": "d578b5c5774f24bb8b09871825c4cbfbe6c9d775db8c01eb6b4cd54bc3b1ba2c",
+        "sourceReceivedAt": "2026-11-15T06:26:58.882+00:00",
+        "method": "auto-normalize-0.1"
+      },
+      "autoNormalization": {
+        "version": "auto-normalize-0.1",
+        "semanticHash": "ca91b299bf0d80e6c0863b0e34bfb41bd04a67fd91edba28d40de7151727b5a2",
+        "generatedFrom": {
+          "url": "https://job.alio.go.kr/recruitview.do?idx=306965",
+          "sha256": "d578b5c5774f24bb8b09871825c4cbfbe6c9d775db8c01eb6b4cd54bc3b1ba2c",
+          "receivedAt": "2026-11-15T06:26:58.882+00:00"
+        },
+        "aiUsed": false,
+        "heldUnitCount": 14
+      },
+      "autoSync": {
+        "semanticHash": "ca91b299bf0d80e6c0863b0e34bfb41bd04a67fd91edba28d40de7151727b5a2",
+        "conditionsHash": "e0e6d06ac6b19bf195718ba09d096ad7b70bf535103b0c30449613d19a005b3f",
+        "rawSha256": "d578b5c5774f24bb8b09871825c4cbfbe6c9d775db8c01eb6b4cd54bc3b1ba2c",
+        "lastFetchedAt": "2026-11-15T06:26:58.882+00:00",
+        "contentChangedAt": "2026-11-15T06:26:58.882+00:00",
+        "baselineStatus": "first_capture",
+        "needsReview": true,
+        "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
+        "resultCheck": {
+          "checkedAt": "2026-11-15T06:26:58.882+00:00",
+          "status": "checked",
+          "changedUnitIds": [
+            "auto-7d3f28bfe3795d0c",
+            "auto-a9e36a24456b4ab1",
+            "auto-3ea996c313839675",
+            "auto-db90aefbcc18b29a",
+            "auto-33f25dcecd4e3bbd",
+            "auto-24052902c0547e55",
+            "auto-a194723e326ba7b2",
+            "auto-32bbb041e59adea0"
+          ],
+          "preservedUnitIds": [],
+          "unmatchedUnitIds": [],
+          "issues": []
+        }
+      },
+      "lifecycle": {
+        "status": "open",
+        "evaluatedDate": "2026-11-15",
+        "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
+      }
     }
   ],
   "refresh": {
     "status": "success",
     "mode": "live",
-    "lastAttemptAt": "2026-11-14T22:21:47+00:00",
-    "lastSuccessAt": "2026-11-14T22:21:47+00:00",
-    "candidatesCount": 1183,
+    "lastAttemptAt": "2026-11-15T06:26:39+00:00",
+    "lastSuccessAt": "2026-11-15T06:26:39+00:00",
+    "candidatesCount": 1196,
     "coverage": {
       "description": "JOB-ALIO 최근60일 이내 진행중·비정규직·경영회계사무 목록, 목록최대2페이지·상세최대4건/회. 저장된 마감공고도 결과를 순환 재확인합니다. 전체공고 수집 아님.",
-      "queuedNoticeCount": 47,
-      "heldUnitCount": 1136,
-      "nextPage": 3,
+      "queuedNoticeCount": 45,
+      "heldUnitCount": 1151,
+      "nextPage": 4,
       "closedRecheck": {
         "recentDays": 30,
         "recentOrUnknownIntervalDays": 1,
@@ -102715,6 +104983,17 @@
       "requestLimit": 6,
       "automaticRetries": 0,
       "heldNotices": [
+        {
+          "id": "job-alio-307006",
+          "organization": "한국관세정보원",
+          "title": "한국관세정보원 2026년도 제4차 직원(전자통관운영본부장) 채용공고",
+          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=307006",
+          "lastFetchedAt": "2026-11-15T06:26:48.299+00:00",
+          "reasons": [
+            "모집단위명만으로 사무직 여부 미확인"
+          ],
+          "status": "unverified"
+        },
         {
           "id": "job-alio-307010",
           "organization": "한국법무보호복지공단",
@@ -102926,20 +105205,9 @@
             "모집단위명만으로 사무직 여부 미확인"
           ],
           "status": "unverified"
-        },
-        {
-          "id": "job-alio-306570",
-          "organization": "국민연금공단",
-          "title": "국민연금공단 공인노무사 및 정보보안전문가(전문계약직) 공개채용 공고",
-          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=306570",
-          "lastFetchedAt": "2026-11-02T05:59:00.093+00:00",
-          "reasons": [
-            "모집단위명만으로 사무직 여부 미확인"
-          ],
-          "status": "unverified"
         }
       ],
-      "heldNoticesTotal": 142,
+      "heldNoticesTotal": 143,
       "heldNoticesShownLimit": 20
     }
   }
