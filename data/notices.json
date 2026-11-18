@@ -59968,27 +59968,28 @@
             ],
             "method": "deterministic_public_html_parser"
           },
-          "competition": null,
-          "competitionRecord": {
-            "status": "not_disclosed",
-            "officialValueRaw": null,
-            "officialLabel": "최종 경쟁률",
+          "competition": {
+            "label": "JOB-ALIO 최종 경쟁률",
+            "published": 0,
+            "publishedRaw": "0",
             "scope": "recruitment_unit",
+            "definition": "공식 표기값입니다. 산식·분자/분모 정의는 미확인입니다. 전형별 인원과 구분합니다.",
             "definitionStatus": "unverified",
-            "numeratorDefinition": null,
-            "denominatorDefinition": null,
+            "sources": [
+              "auto_alio"
+            ],
             "stages": [
               {
                 "name": "최종",
-                "applicants": null,
-                "selected": null,
-                "date": null
+                "applicants": 1,
+                "selected": 0,
+                "date": "2026-10-27"
               }
             ],
             "evidence": {
               "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=306071",
-              "sha256": "a7083f7b7b584afc13f2b03db7dfcbcd0253d0291d709a7f66fa5d85ae155097",
-              "receivedAt": "2026-10-15T16:59:09.124+00:00",
+              "sha256": "7bb9536ba9c4c4a6e842fa2c7e12d0f45225d03fb307cd34c83ea6d095e0d1ac",
+              "receivedAt": "2026-11-18T07:25:04.313+00:00",
               "rawUnitName": "기간제(제한경쟁, 한시인력, 사무행정)",
               "rows": [
                 [
@@ -60002,14 +60003,63 @@
                 ],
                 [
                   "최종",
-                  "-",
-                  "-",
-                  "-"
+                  "0명",
+                  "1명",
+                  "2026.10.27"
+                ],
+                [
+                  "경쟁률",
+                  "최종 경쟁률 0 대 1"
                 ]
               ],
               "method": "deterministic_public_html_parser"
             },
-            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+            "note": "최종 선발 0명입니다. 공식 표기값을 지원자 없음이나 낮은 경쟁률로 해석하지 않습니다."
+          },
+          "competitionRecord": {
+            "status": "confirmed",
+            "officialValueRaw": "0",
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "최종",
+                "applicants": 1,
+                "selected": 0,
+                "date": "2026-10-27"
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=306071",
+              "sha256": "7bb9536ba9c4c4a6e842fa2c7e12d0f45225d03fb307cd34c83ea6d095e0d1ac",
+              "receivedAt": "2026-11-18T07:25:04.313+00:00",
+              "rawUnitName": "기간제(제한경쟁, 한시인력, 사무행정)",
+              "rows": [
+                [
+                  "기간제(제한경쟁, 한시인력, 사무행정)"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "최종",
+                  "0명",
+                  "1명",
+                  "2026.10.27"
+                ],
+                [
+                  "경쟁률",
+                  "최종 경쟁률 0 대 1"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            }
           },
           "employmentEvidence": {
             "scope": "recruitment_unit",
@@ -60083,7 +60133,55 @@
               "sha256": "a7083f7b7b584afc13f2b03db7dfcbcd0253d0291d709a7f66fa5d85ae155097",
               "receivedAt": "2026-10-15T16:59:09.124+00:00"
             }
-          }
+          },
+          "competitionHistory": [
+            {
+              "supersededAt": "2026-11-18T07:25:04.313+00:00",
+              "competition": null,
+              "competitionRecord": {
+                "status": "not_disclosed",
+                "officialValueRaw": null,
+                "officialLabel": "최종 경쟁률",
+                "scope": "recruitment_unit",
+                "definitionStatus": "unverified",
+                "numeratorDefinition": null,
+                "denominatorDefinition": null,
+                "stages": [
+                  {
+                    "name": "최종",
+                    "applicants": null,
+                    "selected": null,
+                    "date": null
+                  }
+                ],
+                "evidence": {
+                  "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=306071",
+                  "sha256": "a7083f7b7b584afc13f2b03db7dfcbcd0253d0291d709a7f66fa5d85ae155097",
+                  "receivedAt": "2026-10-15T16:59:09.124+00:00",
+                  "rawUnitName": "기간제(제한경쟁, 한시인력, 사무행정)",
+                  "rows": [
+                    [
+                      "기간제(제한경쟁, 한시인력, 사무행정)"
+                    ],
+                    [
+                      "구분",
+                      "선발인원",
+                      "응시인원",
+                      "결과 확정일"
+                    ],
+                    [
+                      "최종",
+                      "-",
+                      "-",
+                      "-"
+                    ]
+                  ],
+                  "method": "deterministic_public_html_parser"
+                },
+                "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+              }
+            }
+          ]
         }
       ],
       "sources": [
@@ -60096,8 +60194,8 @@
           "id": "auto_alio",
           "label": "JOB-ALIO 상세 · 자동 수신",
           "url": "https://job.alio.go.kr/recruitview.do?idx=306071",
-          "sha256": "a7083f7b7b584afc13f2b03db7dfcbcd0253d0291d709a7f66fa5d85ae155097",
-          "receivedAt": "2026-10-22T11:49:30.262+00:00"
+          "sha256": "7bb9536ba9c4c4a6e842fa2c7e12d0f45225d03fb307cd34c83ea6d095e0d1ac",
+          "receivedAt": "2026-11-18T07:25:04.313+00:00"
         }
       ],
       "attachments": [
@@ -60173,18 +60271,20 @@
         "heldUnitCount": 0
       },
       "autoSync": {
-        "semanticHash": "dca99651acf03f98e9bcfcfaa59279cfcd36d69401e7c57e60ef48246ea7be14",
+        "semanticHash": "b0d8e90d170ba62c1eeb695cc89eff84238769e7236da0628cf2bd4ec4dde17f",
         "conditionsHash": "52de0dcd12be047dab83bc25ad022331c0ddc669bb0307f583c50d155639a6f3",
-        "rawSha256": "a7083f7b7b584afc13f2b03db7dfcbcd0253d0291d709a7f66fa5d85ae155097",
-        "lastFetchedAt": "2026-10-22T11:49:30.262+00:00",
-        "contentChangedAt": "2026-10-15T16:59:09.124+00:00",
+        "rawSha256": "7bb9536ba9c4c4a6e842fa2c7e12d0f45225d03fb307cd34c83ea6d095e0d1ac",
+        "lastFetchedAt": "2026-11-18T07:25:04.313+00:00",
+        "contentChangedAt": "2026-11-18T07:25:04.313+00:00",
         "baselineStatus": "compared",
         "needsReview": false,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-10-22T11:49:30.262+00:00",
+          "checkedAt": "2026-11-18T07:25:04.313+00:00",
           "status": "checked",
-          "changedUnitIds": [],
+          "changedUnitIds": [
+            "auto-318f6679a6ed8f57"
+          ],
           "preservedUnitIds": [],
           "unmatchedUnitIds": [],
           "issues": []
@@ -97643,16 +97743,16 @@
       ],
       "sources": [
         {
-          "id": "auto_alio",
-          "label": "JOB-ALIO 상세 · 코드 수신·자동 정리",
-          "url": "https://job.alio.go.kr/recruitview.do?idx=306854",
-          "sha256": "62eeb6629021d2b750116fc7a1d225b510be563562be0ddc30c574b687e7351f",
-          "receivedAt": "2026-11-09T22:19:23.634+00:00"
-        },
-        {
           "id": "auto_original_1",
           "label": "기관 원문 링크 · 내용 미확인",
           "url": "https://www.kocoal.or.kr/board/board_view.php?view_id=155&board_name=recruit&page=1"
+        },
+        {
+          "id": "auto_alio",
+          "label": "JOB-ALIO 상세 · 자동 수신",
+          "url": "https://job.alio.go.kr/recruitview.do?idx=306854",
+          "sha256": "62eeb6629021d2b750116fc7a1d225b510be563562be0ddc30c574b687e7351f",
+          "receivedAt": "2026-11-18T07:25:01.327+00:00"
         }
       ],
       "attachments": [
@@ -97719,17 +97819,15 @@
         "semanticHash": "82a0f3a13a772c92eeae4120aa7bbb43e79ddb82f857e764fff72e3b3a8a6ff5",
         "conditionsHash": "50bcd028600deee610eff7d1dc025c6cd79d670aaf141d2f7a23a22a6966ec2a",
         "rawSha256": "62eeb6629021d2b750116fc7a1d225b510be563562be0ddc30c574b687e7351f",
-        "lastFetchedAt": "2026-11-09T22:19:23.634+00:00",
+        "lastFetchedAt": "2026-11-18T07:25:01.327+00:00",
         "contentChangedAt": "2026-11-09T22:19:23.634+00:00",
-        "baselineStatus": "first_capture",
+        "baselineStatus": "compared",
         "needsReview": false,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-11-09T22:19:23.634+00:00",
+          "checkedAt": "2026-11-18T07:25:01.327+00:00",
           "status": "checked",
-          "changedUnitIds": [
-            "auto-579138380e4e7d5d"
-          ],
+          "changedUnitIds": [],
           "preservedUnitIds": [],
           "unmatchedUnitIds": [],
           "issues": []
@@ -107008,19 +107106,755 @@
         "evaluatedDate": "2026-11-18",
         "basis": "저장된 마감일·시각(KST) 경과; 원문 정정 여부와 별개"
       }
+    },
+    {
+      "id": "job-alio-307207",
+      "idx": 307207,
+      "organization": "한국고전번역원",
+      "title": "2027년 1분기 직원 신규 채용",
+      "posted": "2026-11-18",
+      "deadline": "2026-12-02",
+      "deadlineTime": null,
+      "announcementPeriod": {
+        "start": "2026-11-18",
+        "end": "2026-12-02",
+        "scope": "announcement"
+      },
+      "applicationPeriod": {
+        "start": null,
+        "end": null,
+        "endTime": null,
+        "status": "unverified",
+        "scope": "announcement",
+        "sources": [
+          "auto_alio"
+        ],
+        "raw": null,
+        "note": "명시된 접수기간을 단일 기간으로 해석하지 못했습니다. 공고기간으로 대체하지 않습니다."
+      },
+      "applicationStart": null,
+      "regions": [
+        "서울"
+      ],
+      "totalVacancies": 7,
+      "employment": "기간제",
+      "units": [
+        {
+          "id": "auto-23d6af8d5840ba6e",
+          "title": "행정직(부원급_기간제계약직)",
+          "sourceUnitName": "행정직(부원급_기간제계약직)",
+          "employment": "기간제",
+          "regions": [
+            "서울"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "□ 공통요건\r\n - 국가공무원법 제33조 각 호에 해당하지 않는 자\r\n - 한국고전번역원 인사규정 제6조(결격사유) 각 호에 해당하지 않는 자\r\n - 모집분야 해당 업무 수행 가능자\r\n - 채용 확정 후 즉시 근무 가능자\r\n - 한국고전번역원 인사규정 제19조(정년)에 도달하지 않은 자\r\n  * 교원직 : 만 65세 미만\r\n  * 연구직/행정직 : 만 60세 미만\r\n\r\n□ 채용분야별 지원자격 요건\r\n 가. 교원직(교수_정규직)\r\n <필수조건>\r\n - 한국학 분야 학위 소지자\r\n - 박사학위 소지자로서 14년 이상 관련분야 경력자\r\n - 석사학위 소지자로서 17년 이상 관련분야 경력자\r\n - 학사학위 소지자로서 19년 이상 관련분야 경력자\r\n - 또는 한학에 조예가 있고 동등 이상의 자격이 있다고 인정되는 자\r\n\r\n 나. 연구직(원급_정규직)\r\n <필수조건>\r\n - 한국학 분야 학위 소지자(’27. 2월 졸업예정자 포함)\r\n - 박사학위 소지자\r\n - 석사학위 소지자로서 3년 이상 관련분야 경력자\r\n - 학사학위 소지자로서 5년 이상 관련분야 경력자\r\n - 전문학사학위 소지자로서 7년 이상 관련분야 경력자\r\n - 또는 동등 이상 자격이 있다고 인정되는 자\r\n\r\n 다. 연구직(부원급_기간제계약직)\r\n <필수조건>\r\n - 한국학 분야 학위 소지자(’27. 2월 졸업예정자 포함)\r\n - 학사 이상\r\n - 전문학사 후 관련 경력 2년 이상\r\n - 또는 동등 이상의 자격이 있다고 인정되는 자\r\n\r\n 라. 행정직(부원급_기간제계약직)\r\n <필수조건>\r\n - 해당업무 수행 가능자\r\n\r\n※ 상세 내용은 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "서울",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "□ 채용절차\r\n 가. 교원직(정규직)\r\n - 서류전형 → 공개강의심사 → 면접전형 → 합격자발표 → 임용\r\n ※ 원규에 의거하며 그럼에도 불구하고 기준에 미치지 못한 자는 선발하지 않음\r\n\r\n 나. 연구직(정규직)\r\n - 서류전형 → 필기전형 → 면접전형 → 합격자발표 → 임용\r\n ※ 원규에 의거하며 그럼에도 불구하고 기준에 미치지 못한 자는 선발하지 않음\r\n\r\n 다. 연구직(기간제계약직)\r\n - 서류전형 → 면접전형 → 합격자발표 → 임용\r\n ※원규에 의거하며 그럼에도 불구하고 기준에 미치지 못한 자는 선발하지 않음\r\n\r\n 라. 행정직(기간제계약직)\r\n - 서류전형 → 면접전형 → 합격자발표 → 임용\r\n ※원규에 의거하며 그럼에도 불구하고 기준에 미치지 못한 자는 선발하지 않음\r\n\r\n□ 전형별 세부사항\r\n 가. 서류전형 : 자기소개서, 직무관련성, 직무이해도, 발전가능성, 기관이해도 등 평가\r\n - 교원직(정규직) : 5배수 이내 선발\r\n - 연구직(정규직) : 20배수 이내 선발\r\n - 연구직/행정직(기간제계약직) : 5배수 이내 선발\r\n\r\n 나. 공개강의심사 : 강의능력, 강의태도, 질의에 대한 응답 등 평가\r\n - 교원직(정규직) :3배수 이내 선발\r\n\r\n 나. 필기전형 : 직무에 필요한 지식 등 평가(5배수 이내 선발)\r\n - 연구직(정규직) : 한문번역, 논술 및 인·적성검사 실시\r\n ※ 필기전형 합격자를 대상으로 대행업체를 통해 온라인으로 인·적성 검사를 진행함\r\n ※ 인·적성 검사를 응시완료하지 않을 경우 면접전형 불합격 처리함\r\n\r\n 다. 면접전형\r\n - 교원직(정규직) : 교수로서의 품격 및 직장윤리 등 평가\r\n - 연구직(정규직) : 직무수행 능력, 기본 소양 등 평가\r\n - 연구직/행정직(부원급_기간제계약직) : 직무수행 능력, 기본 소양 등 평가\r\n\r\n※ 상세 내용은 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=307207",
+              "sha256": "8fc4041589c81c802148fde078bd10e987fd2310c8d540236213fed215689363",
+              "receivedAt": "2026-11-18T07:24:57.931+00:00",
+              "rawUnitName": "행정직(부원급_기간제계약직)",
+              "rows": [
+                [
+                  "행정직(부원급_기간제계약직)"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "recruitment_unit",
+            "method": "unit_name",
+            "value": "기간제",
+            "quote": "행정직(부원급_기간제계약직)",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "한국고전번역원",
+            "job": "행정직(부원급_기간제계약직)",
+            "rawUnitName": "행정직(부원급_기간제계약직)",
+            "regions": [
+              "서울"
+            ],
+            "regionsScope": "announcement",
+            "employment": "기간제",
+            "recruitmentCategory": {
+              "value": "신입+경력",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=307207",
+              "sha256": "8fc4041589c81c802148fde078bd10e987fd2310c8d540236213fed215689363",
+              "receivedAt": "2026-11-18T07:24:57.931+00:00"
+            }
+          }
+        }
+      ],
+      "sources": [
+        {
+          "id": "auto_alio",
+          "label": "JOB-ALIO 상세 · 코드 수신·자동 정리",
+          "url": "https://job.alio.go.kr/recruitview.do?idx=307207",
+          "sha256": "8fc4041589c81c802148fde078bd10e987fd2310c8d540236213fed215689363",
+          "receivedAt": "2026-11-18T07:24:57.931+00:00"
+        },
+        {
+          "id": "auto_original_1",
+          "label": "기관 원문 링크 · 내용 미확인",
+          "url": "http://www.itkc.or.kr"
+        }
+      ],
+      "attachments": [
+        {
+          "name": "공식 첨부 1",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3088398",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        },
+        {
+          "name": "공식 첨부 2",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3088399",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        },
+        {
+          "name": "공식 첨부 3",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3088400",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        }
+      ],
+      "checkedAt": "2026-11-18T07:24:57.931+00:00",
+      "collectionMethod": "automatic_public_html",
+      "collectionLabel": "코드 원격 수신 → 규칙 기반 모집단위 정리 → 저장·화면 생성 · GPT 미사용",
+      "sourceNote": "자동으로 확인 가능한 본문·결과 표만 정리했습니다. 첨부·모집단위별 상세 조건은 미확인이며, 공고 전체 원문은 별도로 표시합니다.",
+      "announcementMetadata": {
+        "raw": {
+          "표준직무(NCS)": "경영.회계.사무,교육.자연.사회과학,연구",
+          "학력정보": "학력무관,대졸(2~3년),대졸(4년),석사,박사",
+          "근무분야": "행정직,연구직,교원직",
+          "채용구분": "신입+경력",
+          "고용형태": "비정규직,정규직",
+          "대체인력여부": "예",
+          "근무지": "서울",
+          "급여정보": "신입 / 평균",
+          "채용인원": "7명",
+          "우대조건": "",
+          "채용기간": "26.11.18 ~ 26.12.02",
+          "등록일": "2026.11.18"
+        },
+        "rawApplicationPeriod": {
+          "raw": null,
+          "status": "미확인",
+          "source_section": "전형절차/방법",
+          "note": "명시된 접수기간 원문만 추출; 날짜 정규화·모집단위별 상이한 기간 검토는 별도"
+        },
+        "sourceSha256": "8fc4041589c81c802148fde078bd10e987fd2310c8d540236213fed215689363",
+        "sourceReceivedAt": "2026-11-18T07:24:57.931+00:00",
+        "method": "auto-normalize-0.1"
+      },
+      "autoNormalization": {
+        "version": "auto-normalize-0.1",
+        "semanticHash": "c42039cbf8f9559a4cd75a7c1879fa5b0b71d78d68ec31ad62d41968b75ab8d1",
+        "generatedFrom": {
+          "url": "https://job.alio.go.kr/recruitview.do?idx=307207",
+          "sha256": "8fc4041589c81c802148fde078bd10e987fd2310c8d540236213fed215689363",
+          "receivedAt": "2026-11-18T07:24:57.931+00:00"
+        },
+        "aiUsed": false,
+        "heldUnitCount": 5
+      },
+      "autoSync": {
+        "semanticHash": "c42039cbf8f9559a4cd75a7c1879fa5b0b71d78d68ec31ad62d41968b75ab8d1",
+        "conditionsHash": "4d3041295620266cc9122a63671435696b5f20843a5933dd504f137d52f6291e",
+        "rawSha256": "8fc4041589c81c802148fde078bd10e987fd2310c8d540236213fed215689363",
+        "lastFetchedAt": "2026-11-18T07:24:57.931+00:00",
+        "contentChangedAt": "2026-11-18T07:24:57.931+00:00",
+        "baselineStatus": "first_capture",
+        "needsReview": true,
+        "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
+        "resultCheck": {
+          "checkedAt": "2026-11-18T07:24:57.931+00:00",
+          "status": "checked",
+          "changedUnitIds": [
+            "auto-23d6af8d5840ba6e"
+          ],
+          "preservedUnitIds": [],
+          "unmatchedUnitIds": [],
+          "issues": []
+        }
+      },
+      "lifecycle": {
+        "status": "open",
+        "evaluatedDate": "2026-11-18",
+        "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
+      }
+    },
+    {
+      "id": "job-alio-307174",
+      "idx": 307174,
+      "organization": "한국환경공단",
+      "title": "한국환경공단 수도권서부환경본부 환경시설관리처 기간제근로자(촉탁직, 일용직) 채용 공고",
+      "posted": "2026-11-18",
+      "deadline": "2026-12-02",
+      "deadlineTime": null,
+      "announcementPeriod": {
+        "start": "2026-11-18",
+        "end": "2026-12-02",
+        "scope": "announcement"
+      },
+      "applicationPeriod": {
+        "start": null,
+        "end": null,
+        "endTime": null,
+        "status": "unverified",
+        "scope": "announcement",
+        "sources": [
+          "auto_alio"
+        ],
+        "raw": null,
+        "note": "명시된 접수기간을 단일 기간으로 해석하지 못했습니다. 공고기간으로 대체하지 않습니다."
+      },
+      "applicationStart": null,
+      "regions": [
+        "경기"
+      ],
+      "totalVacancies": 3,
+      "employment": "비정규직",
+      "units": [
+        {
+          "id": "auto-8c075a2d9423e1d2",
+          "title": "화성시(사강.발안지구) 도시침수 대응사업 일용직(사무보조)",
+          "sourceUnitName": "화성시(사강.발안지구) 도시침수 대응사업 일용직(사무보조)",
+          "employment": "비정규직",
+          "regions": [
+            "경기"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "○ 공통사항\r\n- 공단 인사규정 제16조 임용 결격사유가 없는 자\r\n- 공단 인사규정 제59조에 의거 영리업무 및 겸직근무자 제외\r\n\r\n○ 채용자격 기준(촉탁나급)\r\n- 해당분야의 박사학위 또는 기술사 자격을 취득한 자\r\n- 해당분야의 기사자격을 취득한 후 10년 이상 당해분야의 경력이 있는 자\r\n- 관련 협회 기술인 등급 고급 이상인 자\r\n\r\n○ 채용자격 기준(촉탁다급)\r\n- 해당분야의 기사자격을 취득한 후 3년 이상 당해분야의 경력이 있는 자\r\n- 석사학위를 취득한 후 2년 이상 해당분야의 경력이 있는 자\r\n- 학사학위를 취득한 후 5년 이상 해당분야의 경력이 있는 자\r\n- 관련 협회 기술인 등급 중급 이상인 자\r\n\r\n○ 채용자격 기준(일용직)\r\n- 제한없음",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "경기",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "1차전형(서류전형) ⇒ 2차전형(면접전형) ⇒ 최종합격자 결정\r\n\r\n* 결과통보: 서류전형 및 면접전형 합격자에 한해 개별 통보\r\n* 채용적정성 심의 후 최종합격자에게 결과 통보 예정\r\n※ 자세한 사항은 공고문 참조",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=307174",
+              "sha256": "fe67fd24704fba3479caad32edebcf5bfbc5e757a2f0633b6cd45a48f24e3c3a",
+              "receivedAt": "2026-11-18T07:25:07.659+00:00",
+              "rawUnitName": "화성시(사강.발안지구) 도시침수 대응사업 일용직(사무보조)",
+              "rows": [
+                [
+                  "화성시(사강.발안지구) 도시침수 대응사업 일용직(사무보조)"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "announcement",
+            "method": "announcement_single_employment",
+            "value": "비정규직",
+            "quote": "비정규직",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "한국환경공단",
+            "job": "화성시(사강.발안지구) 도시침수 대응사업 일용직(사무보조)",
+            "rawUnitName": "화성시(사강.발안지구) 도시침수 대응사업 일용직(사무보조)",
+            "regions": [
+              "경기"
+            ],
+            "regionsScope": "announcement",
+            "employment": "비정규직",
+            "recruitmentCategory": {
+              "value": "신입+경력",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=307174",
+              "sha256": "fe67fd24704fba3479caad32edebcf5bfbc5e757a2f0633b6cd45a48f24e3c3a",
+              "receivedAt": "2026-11-18T07:25:07.659+00:00"
+            }
+          }
+        }
+      ],
+      "sources": [
+        {
+          "id": "auto_alio",
+          "label": "JOB-ALIO 상세 · 코드 수신·자동 정리",
+          "url": "https://job.alio.go.kr/recruitview.do?idx=307174",
+          "sha256": "fe67fd24704fba3479caad32edebcf5bfbc5e757a2f0633b6cd45a48f24e3c3a",
+          "receivedAt": "2026-11-18T07:25:07.659+00:00"
+        },
+        {
+          "id": "auto_original_1",
+          "label": "기관 원문 링크 · 내용 미확인",
+          "url": "https://www.keco.or.kr/web/lay1/bbs/S1T1205C1207/A/22/view.do?article_seq=100926&cpage=1&rows=10&condition=&keyword="
+        }
+      ],
+      "attachments": [
+        {
+          "name": "공식 첨부 1",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3088245",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        },
+        {
+          "name": "공식 첨부 2",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3088246",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        },
+        {
+          "name": "공식 첨부 3",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3088247",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        }
+      ],
+      "checkedAt": "2026-11-18T07:25:07.659+00:00",
+      "collectionMethod": "automatic_public_html",
+      "collectionLabel": "코드 원격 수신 → 규칙 기반 모집단위 정리 → 저장·화면 생성 · GPT 미사용",
+      "sourceNote": "자동으로 확인 가능한 본문·결과 표만 정리했습니다. 첨부·모집단위별 상세 조건은 미확인이며, 공고 전체 원문은 별도로 표시합니다.",
+      "announcementMetadata": {
+        "raw": {
+          "표준직무(NCS)": "사업관리,경영.회계.사무,건설,환경.에너지.안전",
+          "학력정보": "학력무관,대졸(2~3년),대졸(4년),석사,박사",
+          "근무분야": "계약직",
+          "채용구분": "신입+경력",
+          "고용형태": "비정규직",
+          "대체인력여부": "아니오",
+          "근무지": "경기",
+          "급여정보": "신입 / 평균",
+          "채용인원": "3명",
+          "우대조건": "관계법령에 의한 취업지원대상자, 취업보호대상자, 장애인, 경력단절여성, 저소득층 ※ 자세한 사항은 공고문 참조",
+          "채용기간": "26.11.18 ~ 26.12.02",
+          "등록일": "2026.11.18"
+        },
+        "rawApplicationPeriod": {
+          "raw": null,
+          "status": "미확인",
+          "source_section": "전형절차/방법",
+          "note": "명시된 접수기간 원문만 추출; 날짜 정규화·모집단위별 상이한 기간 검토는 별도"
+        },
+        "sourceSha256": "fe67fd24704fba3479caad32edebcf5bfbc5e757a2f0633b6cd45a48f24e3c3a",
+        "sourceReceivedAt": "2026-11-18T07:25:07.659+00:00",
+        "method": "auto-normalize-0.1"
+      },
+      "autoNormalization": {
+        "version": "auto-normalize-0.1",
+        "semanticHash": "aad1250ca747676a7c65095e54f8b7e30ff6304da63d4b774e21fe8813d17fed",
+        "generatedFrom": {
+          "url": "https://job.alio.go.kr/recruitview.do?idx=307174",
+          "sha256": "fe67fd24704fba3479caad32edebcf5bfbc5e757a2f0633b6cd45a48f24e3c3a",
+          "receivedAt": "2026-11-18T07:25:07.659+00:00"
+        },
+        "aiUsed": false,
+        "heldUnitCount": 2
+      },
+      "autoSync": {
+        "semanticHash": "aad1250ca747676a7c65095e54f8b7e30ff6304da63d4b774e21fe8813d17fed",
+        "conditionsHash": "273de0a99f710929f55405b3410a69f85d12fe1cfd82db5f0228e71adab57ea7",
+        "rawSha256": "fe67fd24704fba3479caad32edebcf5bfbc5e757a2f0633b6cd45a48f24e3c3a",
+        "lastFetchedAt": "2026-11-18T07:25:07.659+00:00",
+        "contentChangedAt": "2026-11-18T07:25:07.659+00:00",
+        "baselineStatus": "first_capture",
+        "needsReview": true,
+        "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
+        "resultCheck": {
+          "checkedAt": "2026-11-18T07:25:07.659+00:00",
+          "status": "checked",
+          "changedUnitIds": [
+            "auto-8c075a2d9423e1d2"
+          ],
+          "preservedUnitIds": [],
+          "unmatchedUnitIds": [],
+          "issues": []
+        }
+      },
+      "lifecycle": {
+        "status": "open",
+        "evaluatedDate": "2026-11-18",
+        "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
+      }
     }
   ],
   "refresh": {
     "status": "success",
     "mode": "live",
-    "lastAttemptAt": "2026-11-17T20:53:38+00:00",
-    "lastSuccessAt": "2026-11-17T20:53:38+00:00",
-    "candidatesCount": 1222,
+    "lastAttemptAt": "2026-11-18T07:24:49+00:00",
+    "lastSuccessAt": "2026-11-18T07:24:49+00:00",
+    "candidatesCount": 1228,
     "coverage": {
       "description": "JOB-ALIO 최근60일 이내 진행중·비정규직·경영회계사무 목록, 목록최대2페이지·상세최대4건/회. 저장된 마감공고도 결과를 순환 재확인합니다. 전체공고 수집 아님.",
-      "queuedNoticeCount": 48,
-      "heldUnitCount": 1174,
-      "nextPage": 3,
+      "queuedNoticeCount": 49,
+      "heldUnitCount": 1179,
+      "nextPage": 4,
       "closedRecheck": {
         "recentDays": 30,
         "recentOrUnknownIntervalDays": 1,
