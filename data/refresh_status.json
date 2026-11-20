@@ -1,75 +1,38 @@
 {
-  "startedAt": "2026-11-19T20:33:20+00:00",
+  "startedAt": "2026-11-20T07:12:11+00:00",
   "mode": "live",
   "records": [
     {
-      "id": "job-alio-307254",
-      "status": "held",
-      "unitCount": 0
+      "id": "job-alio-307293",
+      "status": "added",
+      "unitCount": 1
     },
     {
-      "id": "job-alio-306927",
+      "id": "job-alio-306914",
       "status": "unchanged",
-      "unitCount": 4
+      "unitCount": 3
     },
     {
-      "id": "job-alio-305286",
+      "id": "job-alio-306057",
       "status": "results_changed",
       "unitCount": 1
     },
     {
-      "id": "job-alio-305269",
-      "status": "unchanged",
+      "id": "job-alio-307286",
+      "status": "added",
       "unitCount": 1
     }
   ],
   "errors": [],
   "newRemoteRequests": 6,
   "status": "success",
-  "noticeCount": 184,
-  "added": 0,
+  "noticeCount": 186,
+  "added": 2,
   "changedIds": [
-    "job-alio-305286"
+    "job-alio-306057"
   ],
-  "deadlineEvents": [
-    {
-      "id": "job-alio-306677",
-      "from": "open",
-      "to": "deadline_elapsed",
-      "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
-    },
-    {
-      "id": "job-alio-306742",
-      "from": "open",
-      "to": "deadline_elapsed",
-      "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
-    },
-    {
-      "id": "job-alio-306758",
-      "from": "open",
-      "to": "deadline_elapsed",
-      "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
-    },
-    {
-      "id": "job-alio-306729",
-      "from": "open",
-      "to": "deadline_elapsed",
-      "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
-    },
-    {
-      "id": "job-alio-306565",
-      "from": "open",
-      "to": "deadline_elapsed",
-      "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
-    },
-    {
-      "id": "job-alio-306968",
-      "from": "open",
-      "to": "deadline_elapsed",
-      "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
-    }
-  ],
+  "deadlineEvents": [],
   "actualListPages": 2,
   "preservedFailedIds": [],
-  "finishedAt": "2026-11-19T20:33:38+00:00"
+  "finishedAt": "2026-11-20T07:12:29+00:00"
 }
