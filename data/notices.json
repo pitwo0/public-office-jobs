@@ -771,8 +771,8 @@
           "id": "auto_alio",
           "label": "JOB-ALIO 상세 · 자동 수신",
           "url": "https://job.alio.go.kr/recruitview.do?idx=304853",
-          "sha256": "dda7477cecb05a66b17c2096f882f505eefaa09ec468882a0a36506fbcae2054",
-          "receivedAt": "2026-10-23T04:46:57.453+00:00"
+          "sha256": "31ccbd968dc5330bed6820a49456baa98759232f039bf8961571ed8bf2fba5ff",
+          "receivedAt": "2026-11-21T07:03:39.612+00:00"
         }
       ],
       "attachments": [
@@ -798,16 +798,16 @@
         "basis": "저장된 마감일·시각(KST) 경과; 원문 정정 여부와 별개"
       },
       "autoSync": {
-        "semanticHash": "803de4343e1632c67b010ac377e55ead98f484e2f086656c87d07b19723a6dad",
+        "semanticHash": "e6129e34e2b49d86c634897529d5b721dc8fa63a8e76414f2c269415ae54f0d6",
         "conditionsHash": "030824382492fb16a91780ab5de4888f0f8e12c448366b548db158940ae13bac",
-        "rawSha256": "dda7477cecb05a66b17c2096f882f505eefaa09ec468882a0a36506fbcae2054",
-        "lastFetchedAt": "2026-10-23T04:46:57.453+00:00",
-        "contentChangedAt": "2026-10-23T04:46:57.453+00:00",
+        "rawSha256": "31ccbd968dc5330bed6820a49456baa98759232f039bf8961571ed8bf2fba5ff",
+        "lastFetchedAt": "2026-11-21T07:03:39.612+00:00",
+        "contentChangedAt": "2026-11-21T07:03:39.612+00:00",
         "baselineStatus": "compared",
         "needsReview": true,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-10-23T04:46:57.453+00:00",
+          "checkedAt": "2026-11-21T07:03:39.612+00:00",
           "status": "partial",
           "changedUnitIds": [],
           "preservedUnitIds": [],
@@ -103377,16 +103377,16 @@
       ],
       "sources": [
         {
-          "id": "auto_alio",
-          "label": "JOB-ALIO 상세 · 코드 수신·자동 정리",
-          "url": "https://job.alio.go.kr/recruitview.do?idx=306995",
-          "sha256": "0875d11d610bd25f98ee493c38f83449a8b85389678d10bb1c20f447d32b6e5c",
-          "receivedAt": "2026-11-13T19:39:40.287+00:00"
-        },
-        {
           "id": "auto_original_1",
           "label": "기관 원문 링크 · 내용 미확인",
           "url": "https://khepi-hr.jobnlab.co.kr/"
+        },
+        {
+          "id": "auto_alio",
+          "label": "JOB-ALIO 상세 · 자동 수신",
+          "url": "https://job.alio.go.kr/recruitview.do?idx=306995",
+          "sha256": "0875d11d610bd25f98ee493c38f83449a8b85389678d10bb1c20f447d32b6e5c",
+          "receivedAt": "2026-11-21T07:03:36.090+00:00"
         }
       ],
       "attachments": [
@@ -103459,17 +103459,15 @@
         "semanticHash": "2c08d81091e4b970a1df3277d3577d6975c336cffcd83a576e4ccc8febcb8738",
         "conditionsHash": "b4078611041bebceba1ea43a4db3ba41d3029422d18bf238bc3616bd69d83660",
         "rawSha256": "0875d11d610bd25f98ee493c38f83449a8b85389678d10bb1c20f447d32b6e5c",
-        "lastFetchedAt": "2026-11-13T19:39:40.287+00:00",
+        "lastFetchedAt": "2026-11-21T07:03:36.090+00:00",
         "contentChangedAt": "2026-11-13T19:39:40.287+00:00",
-        "baselineStatus": "first_capture",
+        "baselineStatus": "compared",
         "needsReview": false,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-11-13T19:39:40.287+00:00",
+          "checkedAt": "2026-11-21T07:03:36.090+00:00",
           "status": "checked",
-          "changedUnitIds": [
-            "auto-41264972e41f6a4f"
-          ],
+          "changedUnitIds": [],
           "preservedUnitIds": [],
           "unmatchedUnitIds": [],
           "issues": []
@@ -110179,19 +110177,387 @@
         "evaluatedDate": "2026-11-21",
         "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
       }
+    },
+    {
+      "id": "job-alio-307303",
+      "idx": 307303,
+      "organization": "대한적십자사",
+      "title": "충북혈액원 비정규직(대체인력(5개월)/사무보조/헌혈개발팀) 채용 모집 공고",
+      "posted": "2026-11-20",
+      "deadline": "2026-12-06",
+      "deadlineTime": null,
+      "announcementPeriod": {
+        "start": "2026-11-20",
+        "end": "2026-12-06",
+        "scope": "announcement"
+      },
+      "applicationPeriod": {
+        "start": null,
+        "end": null,
+        "endTime": null,
+        "status": "unverified",
+        "scope": "announcement",
+        "sources": [
+          "auto_alio"
+        ],
+        "raw": null,
+        "note": "명시된 접수기간을 단일 기간으로 해석하지 못했습니다. 공고기간으로 대체하지 않습니다."
+      },
+      "applicationStart": null,
+      "regions": [
+        "충북"
+      ],
+      "totalVacancies": 1,
+      "employment": "비정규직",
+      "units": [
+        {
+          "id": "auto-b3490171692d8855",
+          "title": "사무보조직",
+          "sourceUnitName": "사무보조직",
+          "employment": "비정규직",
+          "regions": [
+            "충북"
+          ],
+          "vacancies": {
+            "value": null,
+            "status": "unverified",
+            "note": "해당 모집단위의 계획 모집인원 미확인. 공고 전체 인원·전형별 선발인원은 대입하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "duties": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "requirements": {
+            "value": "가. ?대한적십자사직원운영규정?제56조(정년)에 해당되지 않는 자 \r\n     (공고일 기준 만 60세 미만인 자)\r\n 나. 사무분야 자격증 1개 이상 소지자(워드프로세서, 컴퓨터활용능력 2급 이상, 한글속기 3급 이상 또는 비서 3급 이상 자격증)\r\n 다. 임용예정일(2027년 1월 1일)로부터 근무 가능한 자\r\n 라. 병역법 제76조의 병역의무 불이행자에 해당하지 않는 자\r\n 마. ?대한적십자사직원운영규정? 제20조(결격사유)에 해당되지 않는 자",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "응시자격",
+            "evidenceLocator": "공고 전체 · 응시자격"
+          },
+          "computer": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "english": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "workplace": {
+            "value": "충북",
+            "status": "partial",
+            "note": "공고 전체 근무지역입니다. 해당 단위의 배치 지역·상세 주소는 미확인입니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceLocator": "공고 메타데이터 · 근무지"
+          },
+          "pay": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "contract": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "selection": {
+            "value": "가. 1차 서류 심사(채용 예정 인원의 5배수 이내)\r\n  - 서류점수가 40점 이상인 자에 한해 고득점 서열순으로 합격자 결정\r\n  - 동점자는 모두 합격 처리. 총점 40점 미만자는 불합격 처리.\r\n 나. 2차 면접전형(서류 심사 합격자에 한함)\r\n  - 다대다 종합면접\r\n  - 상위득점자 순으로 합격자 결정\r\n  - 동점자 처리는 1) 취업지원대상자, 2) 장애인, 3) 서류전형 점수, 4) 채용업무 근무 경력자 순으로 결정",
+            "status": "partial",
+            "note": "공고 전체 본문 원문입니다. 다른 모집단위 조건이 섞일 수 있으며, 선택 단위에 모두 적용된다고 확정하지 않습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser",
+            "scope": "announcement",
+            "evidenceSection": "전형절차/방법",
+            "evidenceLocator": "공고 전체 · 전형절차/방법"
+          },
+          "documents": {
+            "value": null,
+            "status": "unverified",
+            "note": "모집단위별 근거를 자동으로 해석하지 못했습니다.",
+            "sources": [
+              "auto_alio"
+            ],
+            "method": "deterministic_public_html_parser"
+          },
+          "competition": null,
+          "competitionRecord": {
+            "status": "not_disclosed",
+            "officialValueRaw": null,
+            "officialLabel": "최종 경쟁률",
+            "scope": "recruitment_unit",
+            "definitionStatus": "unverified",
+            "numeratorDefinition": null,
+            "denominatorDefinition": null,
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              },
+              {
+                "name": "최종",
+                "applicants": null,
+                "selected": null,
+                "date": null
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=307303",
+              "sha256": "01bbe8b0ec3d949486b2d0cef98c7881ff0cc2b1cc53685aef54463ecfb41b8c",
+              "receivedAt": "2026-11-21T07:03:33.610+00:00",
+              "rawUnitName": "사무보조직",
+              "rows": [
+                [
+                  "사무보조직"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "-",
+                  "-",
+                  "-"
+                ],
+                [
+                  "최종",
+                  "-",
+                  "-",
+                  "-"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            },
+            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+          },
+          "employmentEvidence": {
+            "scope": "announcement",
+            "method": "announcement_single_employment",
+            "value": "비정규직",
+            "quote": "비정규직",
+            "sources": [
+              "auto_alio"
+            ]
+          },
+          "evaluationRequirements": {
+            "eligibility": {
+              "computerRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "englishRequired": {
+                "value": null,
+                "status": "unverified"
+              },
+              "additionalRequirements": {
+                "value": null,
+                "status": "unverified"
+              }
+            },
+            "scoredCriteria": [],
+            "englishEvaluation": {
+              "status": "unverified",
+              "points": null,
+              "tests": null
+            },
+            "scoreFormulaImplemented": false,
+            "reviewMethod": "not_semantically_reviewed",
+            "note": "지원 필수조건과 배점·가점·적용전형·상한·중복조건은 자동 판정하지 않았습니다."
+          },
+          "comparisonContext": {
+            "institution": "대한적십자사",
+            "job": "사무보조직",
+            "rawUnitName": "사무보조직",
+            "regions": [
+              "충북"
+            ],
+            "regionsScope": "announcement",
+            "employment": "비정규직",
+            "recruitmentCategory": {
+              "value": "신입",
+              "status": "partial",
+              "scope": "announcement"
+            },
+            "ratioScope": "recruitment_unit",
+            "definitionStatus": "unverified"
+          },
+          "pastComparison": {
+            "status": "unavailable",
+            "label": "비교자료 없음",
+            "sampleCount": 0,
+            "comparisonPeriod": {
+              "start": null,
+              "end": null
+            },
+            "matches": [],
+            "conditionMatch": null,
+            "note": "검증해 연결한 과거 비교자료가 없으며 0:1 또는 예상 경쟁률이 아닙니다."
+          },
+          "provenance": {
+            "method": "auto-normalize-0.1",
+            "semanticReview": "none",
+            "automaticProcessing": "공식 모집단위명·고용형태 규칙 확인, 본문 원문 복사, 단위별 결과 표 파싱",
+            "rawDetail": {
+              "url": "https://job.alio.go.kr/recruitview.do?idx=307303",
+              "sha256": "01bbe8b0ec3d949486b2d0cef98c7881ff0cc2b1cc53685aef54463ecfb41b8c",
+              "receivedAt": "2026-11-21T07:03:33.610+00:00"
+            }
+          }
+        }
+      ],
+      "sources": [
+        {
+          "id": "auto_alio",
+          "label": "JOB-ALIO 상세 · 코드 수신·자동 정리",
+          "url": "https://job.alio.go.kr/recruitview.do?idx=307303",
+          "sha256": "01bbe8b0ec3d949486b2d0cef98c7881ff0cc2b1cc53685aef54463ecfb41b8c",
+          "receivedAt": "2026-11-21T07:03:33.610+00:00"
+        },
+        {
+          "id": "auto_original_1",
+          "label": "기관 원문 링크 · 내용 미확인",
+          "url": "https://www.redcross.or.kr/redrecruit/"
+        }
+      ],
+      "attachments": [
+        {
+          "name": "공식 첨부 1",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3089204",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        },
+        {
+          "name": "공식 첨부 2",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3089205",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        },
+        {
+          "name": "공식 첨부 3",
+          "url": "https://www.alio.go.kr/download/download.json?fileNo=3089206",
+          "status": "unverified",
+          "note": "상세 페이지의 링크만 자동 확인. 파일 수신·내용 해석 미수행."
+        }
+      ],
+      "checkedAt": "2026-11-21T07:03:33.610+00:00",
+      "collectionMethod": "automatic_public_html",
+      "collectionLabel": "코드 원격 수신 → 규칙 기반 모집단위 정리 → 저장·화면 생성 · GPT 미사용",
+      "sourceNote": "자동으로 확인 가능한 본문·결과 표만 정리했습니다. 첨부·모집단위별 상세 조건은 미확인이며, 공고 전체 원문은 별도로 표시합니다.",
+      "announcementMetadata": {
+        "raw": {
+          "표준직무(NCS)": "경영.회계.사무",
+          "학력정보": "학력무관",
+          "근무분야": "사무직",
+          "채용구분": "신입",
+          "고용형태": "비정규직",
+          "대체인력여부": "예",
+          "근무지": "충북",
+          "급여정보": "신입 / 평균",
+          "채용인원": "1명",
+          "우대조건": "취업지원대상, 장애인",
+          "채용기간": "26.11.20 ~ 26.12.06",
+          "등록일": "2026.11.20"
+        },
+        "rawApplicationPeriod": {
+          "raw": null,
+          "status": "미확인",
+          "source_section": "전형절차/방법",
+          "note": "명시된 접수기간 원문만 추출; 날짜 정규화·모집단위별 상이한 기간 검토는 별도"
+        },
+        "sourceSha256": "01bbe8b0ec3d949486b2d0cef98c7881ff0cc2b1cc53685aef54463ecfb41b8c",
+        "sourceReceivedAt": "2026-11-21T07:03:33.610+00:00",
+        "method": "auto-normalize-0.1"
+      },
+      "autoNormalization": {
+        "version": "auto-normalize-0.1",
+        "semanticHash": "ba60f10de16b57f2c572ff7b93fcacea2811d36e342bdcba52a3da0fab3fd667",
+        "generatedFrom": {
+          "url": "https://job.alio.go.kr/recruitview.do?idx=307303",
+          "sha256": "01bbe8b0ec3d949486b2d0cef98c7881ff0cc2b1cc53685aef54463ecfb41b8c",
+          "receivedAt": "2026-11-21T07:03:33.610+00:00"
+        },
+        "aiUsed": false,
+        "heldUnitCount": 0
+      },
+      "autoSync": {
+        "semanticHash": "ba60f10de16b57f2c572ff7b93fcacea2811d36e342bdcba52a3da0fab3fd667",
+        "conditionsHash": "d917a5a293213826ca9b7e90458ecd5e89cee93fafcf0004145e1547aeb64077",
+        "rawSha256": "01bbe8b0ec3d949486b2d0cef98c7881ff0cc2b1cc53685aef54463ecfb41b8c",
+        "lastFetchedAt": "2026-11-21T07:03:33.610+00:00",
+        "contentChangedAt": "2026-11-21T07:03:33.610+00:00",
+        "baselineStatus": "first_capture",
+        "needsReview": false,
+        "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
+        "resultCheck": {
+          "checkedAt": "2026-11-21T07:03:33.610+00:00",
+          "status": "checked",
+          "changedUnitIds": [
+            "auto-b3490171692d8855"
+          ],
+          "preservedUnitIds": [],
+          "unmatchedUnitIds": [],
+          "issues": []
+        }
+      },
+      "lifecycle": {
+        "status": "open",
+        "evaluatedDate": "2026-11-21",
+        "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
+      }
     }
   ],
   "refresh": {
-    "status": "success",
+    "status": "partial_success",
     "mode": "live",
-    "lastAttemptAt": "2026-11-20T20:13:36+00:00",
+    "lastAttemptAt": "2026-11-21T07:03:25+00:00",
     "lastSuccessAt": "2026-11-20T20:13:36+00:00",
-    "candidatesCount": 1254,
+    "candidatesCount": 1261,
     "coverage": {
       "description": "JOB-ALIO 최근60일 이내 진행중·비정규직·경영회계사무 목록, 목록최대2페이지·상세최대4건/회. 저장된 마감공고도 결과를 순환 재확인합니다. 전체공고 수집 아님.",
       "queuedNoticeCount": 65,
-      "heldUnitCount": 1189,
-      "nextPage": 2,
+      "heldUnitCount": 1196,
+      "nextPage": 3,
       "closedRecheck": {
         "recentDays": 30,
         "recentOrUnknownIntervalDays": 1,
@@ -110202,6 +110568,17 @@
       "requestLimit": 6,
       "automaticRetries": 0,
       "heldNotices": [
+        {
+          "id": "job-alio-307276",
+          "organization": "코레일테크(주)",
+          "title": "2027년 제1차 현장 기간제사원 채용 공고",
+          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=307276",
+          "lastFetchedAt": "2026-11-21T07:03:43.762+00:00",
+          "reasons": [
+            "모집단위명만으로 사무직 여부 미확인"
+          ],
+          "status": "unverified"
+        },
         {
           "id": "job-alio-307254",
           "organization": "(재)한국통계정보원",
@@ -110410,20 +110787,9 @@
             "모집단위명만으로 사무직 여부 미확인"
           ],
           "status": "unverified"
-        },
-        {
-          "id": "job-alio-306600",
-          "organization": "한국지식재산연구원",
-          "title": "2026년 한국지식재산연구원 제4회 채용 공고",
-          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=306600",
-          "lastFetchedAt": "2026-11-08T05:58:17.926+00:00",
-          "reasons": [
-            "모집단위명만으로 사무직 여부 미확인"
-          ],
-          "status": "unverified"
         }
       ],
-      "heldNoticesTotal": 151,
+      "heldNoticesTotal": 152,
       "heldNoticesShownLimit": 20
     }
   }

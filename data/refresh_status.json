@@ -1,51 +1,55 @@
 {
-  "startedAt": "2026-11-20T20:13:36+00:00",
+  "startedAt": "2026-11-21T07:03:25+00:00",
   "mode": "live",
   "records": [
     {
-      "id": "job-alio-307306",
+      "id": "job-alio-307303",
       "status": "added",
       "unitCount": 1
     },
     {
-      "id": "job-alio-306917",
+      "id": "job-alio-306995",
       "status": "unchanged",
       "unitCount": 1
     },
     {
-      "id": "job-alio-306091",
-      "status": "results_changed",
-      "unitCount": 1
+      "id": "job-alio-304853",
+      "status": "unchanged",
+      "unitCount": 2
     },
     {
-      "id": "job-alio-305069",
-      "status": "unchanged",
-      "unitCount": 1
+      "id": "job-alio-307276",
+      "status": "held",
+      "unitCount": 0
     }
   ],
-  "errors": [],
+  "errors": [
+    {
+      "id": "job-alio-304853",
+      "phase": "result_fields",
+      "issues": [
+        {
+          "unitId": "rating",
+          "status": "unverified",
+          "note": "현재 공식 표와 모집단위명이 정확히 대응하지 않아 결과를 연결하지 않았습니다."
+        },
+        {
+          "unitId": "education",
+          "status": "unverified",
+          "note": "현재 공식 표와 모집단위명이 정확히 대응하지 않아 결과를 연결하지 않았습니다."
+        }
+      ],
+      "error": "결과 표 일부 미확인·추출 실패. 기존 정상 결과를 보존했습니다.",
+      "existingNoticePreserved": true
+    }
+  ],
   "newRemoteRequests": 6,
-  "status": "success",
-  "noticeCount": 187,
+  "status": "partial_success",
+  "noticeCount": 188,
   "added": 1,
-  "changedIds": [
-    "job-alio-306091"
-  ],
-  "deadlineEvents": [
-    {
-      "id": "job-alio-306739",
-      "from": "open",
-      "to": "deadline_elapsed",
-      "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
-    },
-    {
-      "id": "job-alio-306998",
-      "from": "open",
-      "to": "deadline_elapsed",
-      "basis": "마감 시각 미확인: 저장된 마감일 다음 날부터 지난 공고로 분류"
-    }
-  ],
+  "changedIds": [],
+  "deadlineEvents": [],
   "actualListPages": 2,
   "preservedFailedIds": [],
-  "finishedAt": "2026-11-20T20:13:55+00:00"
+  "finishedAt": "2026-11-21T07:03:43+00:00"
 }
