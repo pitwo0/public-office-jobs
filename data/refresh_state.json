@@ -74,9 +74,9 @@
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
       "lastSeenAt": "2026-09-27T21:19:47.752+00:00",
-      "lastAttemptAt": "2026-10-24T04:34:12.112+00:00",
+      "lastAttemptAt": "2026-11-24T09:51:47.360+00:00",
       "lastError": "원문 수신 실패·불완전·접근제한: transport_error",
-      "lastSuccessAt": "2026-10-24T04:34:12.112+00:00"
+      "lastSuccessAt": "2026-11-24T09:51:47.360+00:00"
     },
     "job-alio-304899": {
       "state": "published",
@@ -497,9 +497,9 @@
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
       "lastSeenAt": "2026-09-20T04:52:39.279+00:00",
-      "lastAttemptAt": "2026-10-24T15:55:45.533+00:00",
+      "lastAttemptAt": "2026-11-24T09:51:50.539+00:00",
       "lastError": "원문 수신 실패·불완전·접근제한: transport_error",
-      "lastSuccessAt": "2026-10-24T15:55:45.533+00:00"
+      "lastSuccessAt": "2026-11-24T09:51:50.539+00:00"
     },
     "job-alio-304697": {
       "state": "published",
@@ -8189,18 +8189,18 @@
         "region_raw": "충북",
         "employment_raw": "비정규직",
         "registered_raw": "2026.11.09",
-        "closing_raw": "26.11.24 D+0",
+        "closing_raw": "26.11.24 D-Day",
         "application_period": {
           "raw": null,
           "status": "미확인",
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=306789",
-        "list_page": 7,
+        "list_page": 8,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-11-23T23:51:15.684+00:00"
+      "lastSeenAt": "2026-11-24T09:51:38.710+00:00"
     },
     "job-alio-306748": {
       "state": "queued",
@@ -8212,18 +8212,18 @@
         "region_raw": "서울",
         "employment_raw": "비정규직",
         "registered_raw": "2026.11.09",
-        "closing_raw": "26.11.24 D+0",
+        "closing_raw": "26.11.24 D-Day",
         "application_period": {
           "raw": null,
           "status": "미확인",
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=306748",
-        "list_page": 7,
+        "list_page": 8,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-11-23T23:51:15.684+00:00"
+      "lastSeenAt": "2026-11-24T09:51:38.710+00:00"
     },
     "job-alio-306673": {
       "state": "queued",
@@ -8235,7 +8235,7 @@
         "region_raw": "울산",
         "employment_raw": "비정규직",
         "registered_raw": "2026.11.09",
-        "closing_raw": "26.11.24 D-3",
+        "closing_raw": "26.11.24 D-Day",
         "application_period": {
           "raw": null,
           "status": "미확인",
@@ -8246,7 +8246,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-11-20T20:13:42.803+00:00"
+      "lastSeenAt": "2026-11-24T09:51:38.710+00:00"
     },
     "job-alio-306846": {
       "state": "published",
@@ -8448,18 +8448,18 @@
         "region_raw": "전남광주",
         "employment_raw": "비정규직",
         "registered_raw": "2026.11.09",
-        "closing_raw": "26.11.24 D+0",
+        "closing_raw": "26.11.24 D-Day",
         "application_period": {
           "raw": null,
           "status": "미확인",
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=306854",
-        "list_page": 7,
+        "list_page": 8,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-11-23T23:51:15.684+00:00",
+      "lastSeenAt": "2026-11-24T09:51:38.710+00:00",
       "lastAttemptAt": "2026-11-18T07:25:01.327+00:00",
       "lastSuccessAt": "2026-11-18T07:25:01.327+00:00"
     },
@@ -8473,18 +8473,18 @@
         "region_raw": "대구 외 3",
         "employment_raw": "무기계약직 외 1",
         "registered_raw": "2026.11.10",
-        "closing_raw": "26.11.25 D-1",
+        "closing_raw": "26.11.25 D+0",
         "application_period": {
           "raw": null,
           "status": "미확인",
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=306876",
-        "list_page": 7,
+        "list_page": 8,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-11-23T23:51:15.684+00:00",
+      "lastSeenAt": "2026-11-24T09:51:38.710+00:00",
       "lastAttemptAt": "2026-11-18T20:29:02.908+00:00",
       "lastSuccessAt": "2026-11-18T20:29:02.908+00:00"
     },
@@ -8523,18 +8523,18 @@
         "region_raw": "서울 외 13",
         "employment_raw": "무기계약직 외 1",
         "registered_raw": "2026.11.11",
-        "closing_raw": "26.11.25 D-1",
+        "closing_raw": "26.11.25 D+0",
         "application_period": {
           "raw": null,
           "status": "미확인",
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=306816",
-        "list_page": 7,
+        "list_page": 8,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-11-23T23:51:15.684+00:00"
+      "lastSeenAt": "2026-11-24T09:51:38.710+00:00"
     },
     "job-alio-306914": {
       "state": "published",
@@ -9246,8 +9246,8 @@
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
       "lastSeenAt": "2026-11-22T06:44:28.235+00:00",
-      "lastAttemptAt": "2026-11-16T21:59:50.420+00:00",
-      "lastSuccessAt": "2026-11-16T21:59:50.420+00:00"
+      "lastAttemptAt": "2026-11-24T09:51:44.145+00:00",
+      "lastSuccessAt": "2026-11-24T09:51:44.145+00:00"
     },
     "job-alio-307134": {
       "state": "held",
@@ -10150,7 +10150,7 @@
         "region_raw": "대전 외 1",
         "employment_raw": "비정규직",
         "registered_raw": "2026.11.23",
-        "closing_raw": "26.12.07 D-13",
+        "closing_raw": "26.12.07 D-12",
         "application_period": {
           "raw": null,
           "status": "미확인",
@@ -10161,7 +10161,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-11-23T23:51:12.828+00:00",
+      "lastSeenAt": "2026-11-24T09:51:35.751+00:00",
       "lastAttemptAt": "2026-11-23T23:51:19.751+00:00",
       "lastSuccessAt": "2026-11-23T23:51:19.751+00:00"
     },
@@ -10175,7 +10175,7 @@
         "region_raw": "경남",
         "employment_raw": "비정규직",
         "registered_raw": "2026.11.23",
-        "closing_raw": "26.12.07 D-13",
+        "closing_raw": "26.12.07 D-12",
         "application_period": {
           "raw": null,
           "status": "미확인",
@@ -10186,7 +10186,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-11-23T23:51:12.828+00:00"
+      "lastSeenAt": "2026-11-24T09:51:35.751+00:00"
     },
     "job-alio-307331": {
       "state": "queued",
@@ -10198,7 +10198,7 @@
         "region_raw": "인천 외 6",
         "employment_raw": "비정규직 외 1",
         "registered_raw": "2026.11.23",
-        "closing_raw": "26.12.07 D-13",
+        "closing_raw": "26.12.07 D-12",
         "application_period": {
           "raw": null,
           "status": "미확인",
@@ -10209,7 +10209,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-11-23T23:51:12.828+00:00"
+      "lastSeenAt": "2026-11-24T09:51:35.751+00:00"
     },
     "job-alio-307328": {
       "state": "queued",
@@ -10221,7 +10221,7 @@
         "region_raw": "부산",
         "employment_raw": "비정규직",
         "registered_raw": "2026.11.23",
-        "closing_raw": "26.12.07 D-13",
+        "closing_raw": "26.12.07 D-12",
         "application_period": {
           "raw": null,
           "status": "미확인",
@@ -10232,7 +10232,147 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-11-23T23:51:12.828+00:00"
+      "lastSeenAt": "2026-11-24T09:51:35.751+00:00"
+    },
+    "job-alio-307395": {
+      "state": "held",
+      "row": {
+        "id": "job-alio-307395",
+        "idx": "307395",
+        "title": "[한국수자원공사] 영·섬유역협력단 전주현대화사업소 노후 상수관망 정비사업 특수직(사무관리_건설사업) 채용 공고",
+        "org": "한국수자원공사",
+        "region_raw": "전북",
+        "employment_raw": "비정규직",
+        "registered_raw": "2026.11.24",
+        "closing_raw": "26.12.08 D-13",
+        "application_period": {
+          "raw": null,
+          "status": "미확인",
+          "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
+        },
+        "source_url": "https://job.alio.go.kr/recruitview.do?idx=307395",
+        "list_page": 1,
+        "collection_method": "python_public_html",
+        "review_status": "transport_sample_not_office_unit_reviewed"
+      },
+      "lastSeenAt": "2026-11-24T09:51:35.751+00:00",
+      "lastAttemptAt": "2026-11-24T09:51:41.413+00:00",
+      "lastSuccessAt": "2026-11-24T09:51:41.413+00:00"
+    },
+    "job-alio-307391": {
+      "state": "queued",
+      "row": {
+        "id": "job-alio-307391",
+        "idx": "307391",
+        "title": "[한국수자원공사] 영·섬유역협력단 군산현대화사업소 노후 상수관망 정비사업 특수직(사무관리_건설사업) 채용 공고",
+        "org": "한국수자원공사",
+        "region_raw": "전북",
+        "employment_raw": "비정규직",
+        "registered_raw": "2026.11.24",
+        "closing_raw": "26.12.08 D-13",
+        "application_period": {
+          "raw": null,
+          "status": "미확인",
+          "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
+        },
+        "source_url": "https://job.alio.go.kr/recruitview.do?idx=307391",
+        "list_page": 1,
+        "collection_method": "python_public_html",
+        "review_status": "transport_sample_not_office_unit_reviewed"
+      },
+      "lastSeenAt": "2026-11-24T09:51:35.751+00:00"
+    },
+    "job-alio-307385": {
+      "state": "queued",
+      "row": {
+        "id": "job-alio-307385",
+        "idx": "307385",
+        "title": "[한국수자원공사] 영·섬유역협력단 남원현대화사업소 노후상수관망 정비사업 특수직(사무관리_건설사업) 채용 공고",
+        "org": "한국수자원공사",
+        "region_raw": "전북",
+        "employment_raw": "비정규직",
+        "registered_raw": "2026.11.24",
+        "closing_raw": "26.12.08 D-13",
+        "application_period": {
+          "raw": null,
+          "status": "미확인",
+          "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
+        },
+        "source_url": "https://job.alio.go.kr/recruitview.do?idx=307385",
+        "list_page": 1,
+        "collection_method": "python_public_html",
+        "review_status": "transport_sample_not_office_unit_reviewed"
+      },
+      "lastSeenAt": "2026-11-24T09:51:35.751+00:00"
+    },
+    "job-alio-307359": {
+      "state": "queued",
+      "row": {
+        "id": "job-alio-307359",
+        "idx": "307359",
+        "title": "[한국수자원공사] 대청댐지사 사회형평적 인재 단기계약근로자(물문화관 운영지원) 채용 공고(장애인 제한채용)",
+        "org": "한국수자원공사",
+        "region_raw": "대전",
+        "employment_raw": "비정규직",
+        "registered_raw": "2026.11.24",
+        "closing_raw": "26.12.01 D-6",
+        "application_period": {
+          "raw": null,
+          "status": "미확인",
+          "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
+        },
+        "source_url": "https://job.alio.go.kr/recruitview.do?idx=307359",
+        "list_page": 1,
+        "collection_method": "python_public_html",
+        "review_status": "transport_sample_not_office_unit_reviewed"
+      },
+      "lastSeenAt": "2026-11-24T09:51:35.751+00:00"
+    },
+    "job-alio-307357": {
+      "state": "queued",
+      "row": {
+        "id": "job-alio-307357",
+        "idx": "307357",
+        "title": "한국폴리텍대학 서울강서캠퍼스 행정지원직(휴직 대체인력) 채용 공",
+        "org": "학교법인한국폴리텍",
+        "region_raw": "서울",
+        "employment_raw": "비정규직",
+        "registered_raw": "2026.11.24",
+        "closing_raw": "26.12.03 D-8",
+        "application_period": {
+          "raw": null,
+          "status": "미확인",
+          "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
+        },
+        "source_url": "https://job.alio.go.kr/recruitview.do?idx=307357",
+        "list_page": 1,
+        "collection_method": "python_public_html",
+        "review_status": "transport_sample_not_office_unit_reviewed"
+      },
+      "lastSeenAt": "2026-11-24T09:51:35.751+00:00"
+    },
+    "job-alio-307372": {
+      "state": "queued",
+      "row": {
+        "id": "job-alio-307372",
+        "idx": "307372",
+        "title": "(수정) 국방기술진흥연구소 2026년 기간제 정기채용",
+        "org": "국방기술진흥연구소",
+        "region_raw": "대전 외 4",
+        "employment_raw": "비정규직",
+        "registered_raw": "2026.11.23",
+        "closing_raw": "26.12.07 D-12",
+        "application_period": {
+          "raw": null,
+          "status": "미확인",
+          "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
+        },
+        "source_url": "https://job.alio.go.kr/recruitview.do?idx=307372",
+        "list_page": 1,
+        "collection_method": "python_public_html",
+        "review_status": "transport_sample_not_office_unit_reviewed"
+      },
+      "lastSeenAt": "2026-11-24T09:51:35.751+00:00"
     }
   },
   "candidates": {
@@ -16541,97 +16681,6 @@
       },
       "employmentEvidence": "시설미화원(기간제)"
     },
-    "job-alio-304833:auto-36654fd710dd0167": {
-      "id": "job-alio-304833:auto-36654fd710dd0167",
-      "noticeId": "job-alio-304833",
-      "rawUnitName": "연구개발사업 업무지원(AI 완전자율운항선박 기술개발)",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=304833",
-        "sha256": "91a8748e30766eb9d8112b4d51464932ed77f3c51e4f6bb0ca4c85a0f2a6b0f9",
-        "receivedAt": "2026-10-24T04:34:12.112+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-304833:auto-f27c379d70edecc5": {
-      "id": "job-alio-304833:auto-f27c379d70edecc5",
-      "noticeId": "job-alio-304833",
-      "rawUnitName": "수탁사업 업무지원(해양수산 AI 응용 제품 신속 상용화 지원)",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=304833",
-        "sha256": "91a8748e30766eb9d8112b4d51464932ed77f3c51e4f6bb0ca4c85a0f2a6b0f9",
-        "receivedAt": "2026-10-24T04:34:12.112+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-304833:auto-ceb16633100fffd2": {
-      "id": "job-alio-304833:auto-ceb16633100fffd2",
-      "noticeId": "job-alio-304833",
-      "rawUnitName": "연구개발사업 업무지원(연근해어선 안전관리 기술개발)_5급 상당",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=304833",
-        "sha256": "91a8748e30766eb9d8112b4d51464932ed77f3c51e4f6bb0ca4c85a0f2a6b0f9",
-        "receivedAt": "2026-10-24T04:34:12.112+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-304833:auto-417e07f24a146125": {
-      "id": "job-alio-304833:auto-417e07f24a146125",
-      "noticeId": "job-alio-304833",
-      "rawUnitName": "연구개발사업 업무지원(연근해어선 안전관리 기술개발)_6급 상당",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=304833",
-        "sha256": "91a8748e30766eb9d8112b4d51464932ed77f3c51e4f6bb0ca4c85a0f2a6b0f9",
-        "receivedAt": "2026-10-24T04:34:12.112+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-304833:auto-5a85e821aaa215d7": {
-      "id": "job-alio-304833:auto-5a85e821aaa215d7",
-      "noticeId": "job-alio-304833",
-      "rawUnitName": "연구개발사업 업무지원(해양배터리 특화 데이터 허브 플랫폼 구축 기술 개발)",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=304833",
-        "sha256": "91a8748e30766eb9d8112b4d51464932ed77f3c51e4f6bb0ca4c85a0f2a6b0f9",
-        "receivedAt": "2026-10-24T04:34:12.112+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-304833:auto-7525878a52efe7a9": {
-      "id": "job-alio-304833:auto-7525878a52efe7a9",
-      "noticeId": "job-alio-304833",
-      "rawUnitName": "노무사",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=304833",
-        "sha256": "91a8748e30766eb9d8112b4d51464932ed77f3c51e4f6bb0ca4c85a0f2a6b0f9",
-        "receivedAt": "2026-10-24T04:34:12.112+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-304833:auto-0d8aca1d548acc1f": {
-      "id": "job-alio-304833:auto-0d8aca1d548acc1f",
-      "noticeId": "job-alio-304833",
-      "rawUnitName": "해양교통안전문화 진흥사업(육아휴직 대체 채용)",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=304833",
-        "sha256": "91a8748e30766eb9d8112b4d51464932ed77f3c51e4f6bb0ca4c85a0f2a6b0f9",
-        "receivedAt": "2026-10-24T04:34:12.112+00:00"
-      },
-      "employmentEvidence": "해양교통안전문화 진흥사업(육아휴직 대체 채용)"
-    },
     "job-alio-304729:auto-1e8eec5054e1dcbb": {
       "id": "job-alio-304729:auto-1e8eec5054e1dcbb",
       "noticeId": "job-alio-304729",
@@ -16655,71 +16704,6 @@
         "url": "https://job.alio.go.kr/recruitview.do?idx=304722",
         "sha256": "82b029511e1b47955c2135ad71acef85b7ab489ec0683339753ae0c2e6676625",
         "receivedAt": "2026-10-24T10:56:50.475+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-304699:auto-30c0503df98be4e0": {
-      "id": "job-alio-304699:auto-30c0503df98be4e0",
-      "noticeId": "job-alio-304699",
-      "rawUnitName": "탄소중립분야 아이디어거래사업화지원사업",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=304699",
-        "sha256": "9b4f47345bde7e0c12864b8e841dff656f3b1c00edb57f9b4724d035b764cfa9",
-        "receivedAt": "2026-10-24T15:55:45.533+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-304699:auto-f62dd85fbfee6d76": {
-      "id": "job-alio-304699:auto-f62dd85fbfee6d76",
-      "noticeId": "job-alio-304699",
-      "rawUnitName": "특허기반 사업화 R&D사업",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=304699",
-        "sha256": "9b4f47345bde7e0c12864b8e841dff656f3b1c00edb57f9b4724d035b764cfa9",
-        "receivedAt": "2026-10-24T15:55:45.533+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-304699:auto-c2789b21e9e3ca4b": {
-      "id": "job-alio-304699:auto-c2789b21e9e3ca4b",
-      "noticeId": "job-alio-304699",
-      "rawUnitName": "지식재산거래지원사업",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=304699",
-        "sha256": "9b4f47345bde7e0c12864b8e841dff656f3b1c00edb57f9b4724d035b764cfa9",
-        "receivedAt": "2026-10-24T15:55:45.533+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-304699:auto-2de08b5814721f00": {
-      "id": "job-alio-304699:auto-2de08b5814721f00",
-      "noticeId": "job-alio-304699",
-      "rawUnitName": "직업계고 인식제고사업(사업관리)",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=304699",
-        "sha256": "9b4f47345bde7e0c12864b8e841dff656f3b1c00edb57f9b4724d035b764cfa9",
-        "receivedAt": "2026-10-24T15:55:45.533+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-304699:auto-c55c44bd65829c9e": {
-      "id": "job-alio-304699:auto-c55c44bd65829c9e",
-      "noticeId": "job-alio-304699",
-      "rawUnitName": "특허분석평가시스템 운용사업",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=304699",
-        "sha256": "9b4f47345bde7e0c12864b8e841dff656f3b1c00edb57f9b4724d035b764cfa9",
-        "receivedAt": "2026-10-24T15:55:45.533+00:00"
       },
       "employmentEvidence": "비정규직"
     },
@@ -24484,58 +24468,6 @@
       },
       "employmentEvidence": "계약직 연구원(보건의료정책분야)"
     },
-    "job-alio-307069:auto-83804dea30ecf880": {
-      "id": "job-alio-307069:auto-83804dea30ecf880",
-      "noticeId": "job-alio-307069",
-      "rawUnitName": "시험평가",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=307069",
-        "sha256": "6973b0adaab301bb7eb7a68b905b6dbe5bbc5830fd67f0d2d253858a69c1ded9",
-        "receivedAt": "2026-11-16T21:59:50.420+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-307069:auto-9924b83b2d91677b": {
-      "id": "job-alio-307069:auto-9924b83b2d91677b",
-      "noticeId": "job-alio-307069",
-      "rawUnitName": "가스분석",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=307069",
-        "sha256": "6973b0adaab301bb7eb7a68b905b6dbe5bbc5830fd67f0d2d253858a69c1ded9",
-        "receivedAt": "2026-11-16T21:59:50.420+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-307069:auto-2f3c9d48f5b34867": {
-      "id": "job-alio-307069:auto-2f3c9d48f5b34867",
-      "noticeId": "job-alio-307069",
-      "rawUnitName": "대외협력",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=307069",
-        "sha256": "6973b0adaab301bb7eb7a68b905b6dbe5bbc5830fd67f0d2d253858a69c1ded9",
-        "receivedAt": "2026-11-16T21:59:50.420+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-307069:auto-dfca369fcc19cff6": {
-      "id": "job-alio-307069:auto-dfca369fcc19cff6",
-      "noticeId": "job-alio-307069",
-      "rawUnitName": "안전관리",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=307069",
-        "sha256": "6973b0adaab301bb7eb7a68b905b6dbe5bbc5830fd67f0d2d253858a69c1ded9",
-        "receivedAt": "2026-11-16T21:59:50.420+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
     "job-alio-306565:auto-bc14aa255280ad8b": {
       "id": "job-alio-306565:auto-bc14aa255280ad8b",
       "noticeId": "job-alio-306565",
@@ -26472,8 +26404,229 @@
         "receivedAt": "2026-11-23T23:51:29.663+00:00"
       },
       "employmentEvidence": "비정규직"
+    },
+    "job-alio-307395:auto-53a689f3f3503de6": {
+      "id": "job-alio-307395:auto-53a689f3f3503de6",
+      "noticeId": "job-alio-307395",
+      "rawUnitName": "특수직",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=307395",
+        "sha256": "ab016fcdacfaf7280b12b17e39554cd301dc23c137b447f03d3aa096b2cc5e79",
+        "receivedAt": "2026-11-24T09:51:41.413+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-307069:auto-83804dea30ecf880": {
+      "id": "job-alio-307069:auto-83804dea30ecf880",
+      "noticeId": "job-alio-307069",
+      "rawUnitName": "시험평가",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=307069",
+        "sha256": "6973b0adaab301bb7eb7a68b905b6dbe5bbc5830fd67f0d2d253858a69c1ded9",
+        "receivedAt": "2026-11-24T09:51:44.145+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-307069:auto-9924b83b2d91677b": {
+      "id": "job-alio-307069:auto-9924b83b2d91677b",
+      "noticeId": "job-alio-307069",
+      "rawUnitName": "가스분석",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=307069",
+        "sha256": "6973b0adaab301bb7eb7a68b905b6dbe5bbc5830fd67f0d2d253858a69c1ded9",
+        "receivedAt": "2026-11-24T09:51:44.145+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-307069:auto-2f3c9d48f5b34867": {
+      "id": "job-alio-307069:auto-2f3c9d48f5b34867",
+      "noticeId": "job-alio-307069",
+      "rawUnitName": "대외협력",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=307069",
+        "sha256": "6973b0adaab301bb7eb7a68b905b6dbe5bbc5830fd67f0d2d253858a69c1ded9",
+        "receivedAt": "2026-11-24T09:51:44.145+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-307069:auto-dfca369fcc19cff6": {
+      "id": "job-alio-307069:auto-dfca369fcc19cff6",
+      "noticeId": "job-alio-307069",
+      "rawUnitName": "안전관리",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=307069",
+        "sha256": "6973b0adaab301bb7eb7a68b905b6dbe5bbc5830fd67f0d2d253858a69c1ded9",
+        "receivedAt": "2026-11-24T09:51:44.145+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-304833:auto-36654fd710dd0167": {
+      "id": "job-alio-304833:auto-36654fd710dd0167",
+      "noticeId": "job-alio-304833",
+      "rawUnitName": "연구개발사업 업무지원(AI 완전자율운항선박 기술개발)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=304833",
+        "sha256": "892e6b1909b828add0b9bfab2b80ac2397d764c78fadb3a778f013feecf8989f",
+        "receivedAt": "2026-11-24T09:51:47.360+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-304833:auto-f27c379d70edecc5": {
+      "id": "job-alio-304833:auto-f27c379d70edecc5",
+      "noticeId": "job-alio-304833",
+      "rawUnitName": "수탁사업 업무지원(해양수산 AI 응용 제품 신속 상용화 지원)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=304833",
+        "sha256": "892e6b1909b828add0b9bfab2b80ac2397d764c78fadb3a778f013feecf8989f",
+        "receivedAt": "2026-11-24T09:51:47.360+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-304833:auto-ceb16633100fffd2": {
+      "id": "job-alio-304833:auto-ceb16633100fffd2",
+      "noticeId": "job-alio-304833",
+      "rawUnitName": "연구개발사업 업무지원(연근해어선 안전관리 기술개발)_5급 상당",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=304833",
+        "sha256": "892e6b1909b828add0b9bfab2b80ac2397d764c78fadb3a778f013feecf8989f",
+        "receivedAt": "2026-11-24T09:51:47.360+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-304833:auto-417e07f24a146125": {
+      "id": "job-alio-304833:auto-417e07f24a146125",
+      "noticeId": "job-alio-304833",
+      "rawUnitName": "연구개발사업 업무지원(연근해어선 안전관리 기술개발)_6급 상당",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=304833",
+        "sha256": "892e6b1909b828add0b9bfab2b80ac2397d764c78fadb3a778f013feecf8989f",
+        "receivedAt": "2026-11-24T09:51:47.360+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-304833:auto-5a85e821aaa215d7": {
+      "id": "job-alio-304833:auto-5a85e821aaa215d7",
+      "noticeId": "job-alio-304833",
+      "rawUnitName": "연구개발사업 업무지원(해양배터리 특화 데이터 허브 플랫폼 구축 기술 개발)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=304833",
+        "sha256": "892e6b1909b828add0b9bfab2b80ac2397d764c78fadb3a778f013feecf8989f",
+        "receivedAt": "2026-11-24T09:51:47.360+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-304833:auto-7525878a52efe7a9": {
+      "id": "job-alio-304833:auto-7525878a52efe7a9",
+      "noticeId": "job-alio-304833",
+      "rawUnitName": "노무사",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=304833",
+        "sha256": "892e6b1909b828add0b9bfab2b80ac2397d764c78fadb3a778f013feecf8989f",
+        "receivedAt": "2026-11-24T09:51:47.360+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-304833:auto-0d8aca1d548acc1f": {
+      "id": "job-alio-304833:auto-0d8aca1d548acc1f",
+      "noticeId": "job-alio-304833",
+      "rawUnitName": "해양교통안전문화 진흥사업(육아휴직 대체 채용)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=304833",
+        "sha256": "892e6b1909b828add0b9bfab2b80ac2397d764c78fadb3a778f013feecf8989f",
+        "receivedAt": "2026-11-24T09:51:47.360+00:00"
+      },
+      "employmentEvidence": "해양교통안전문화 진흥사업(육아휴직 대체 채용)"
+    },
+    "job-alio-304699:auto-30c0503df98be4e0": {
+      "id": "job-alio-304699:auto-30c0503df98be4e0",
+      "noticeId": "job-alio-304699",
+      "rawUnitName": "탄소중립분야 아이디어거래사업화지원사업",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=304699",
+        "sha256": "9b4f47345bde7e0c12864b8e841dff656f3b1c00edb57f9b4724d035b764cfa9",
+        "receivedAt": "2026-11-24T09:51:50.539+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-304699:auto-f62dd85fbfee6d76": {
+      "id": "job-alio-304699:auto-f62dd85fbfee6d76",
+      "noticeId": "job-alio-304699",
+      "rawUnitName": "특허기반 사업화 R&D사업",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=304699",
+        "sha256": "9b4f47345bde7e0c12864b8e841dff656f3b1c00edb57f9b4724d035b764cfa9",
+        "receivedAt": "2026-11-24T09:51:50.539+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-304699:auto-c2789b21e9e3ca4b": {
+      "id": "job-alio-304699:auto-c2789b21e9e3ca4b",
+      "noticeId": "job-alio-304699",
+      "rawUnitName": "지식재산거래지원사업",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=304699",
+        "sha256": "9b4f47345bde7e0c12864b8e841dff656f3b1c00edb57f9b4724d035b764cfa9",
+        "receivedAt": "2026-11-24T09:51:50.539+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-304699:auto-2de08b5814721f00": {
+      "id": "job-alio-304699:auto-2de08b5814721f00",
+      "noticeId": "job-alio-304699",
+      "rawUnitName": "직업계고 인식제고사업(사업관리)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=304699",
+        "sha256": "9b4f47345bde7e0c12864b8e841dff656f3b1c00edb57f9b4724d035b764cfa9",
+        "receivedAt": "2026-11-24T09:51:50.539+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-304699:auto-c55c44bd65829c9e": {
+      "id": "job-alio-304699:auto-c55c44bd65829c9e",
+      "noticeId": "job-alio-304699",
+      "rawUnitName": "특허분석평가시스템 운용사업",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=304699",
+        "sha256": "9b4f47345bde7e0c12864b8e841dff656f3b1c00edb57f9b4724d035b764cfa9",
+        "receivedAt": "2026-11-24T09:51:50.539+00:00"
+      },
+      "employmentEvidence": "비정규직"
     }
   },
-  "nextPage": 8,
+  "nextPage": 2,
   "schemaVersion": "automatic-refresh-state-0.2"
 }

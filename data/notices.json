@@ -1921,7 +1921,65 @@
               11
             ]
           },
-          "competition": null,
+          "competition": {
+            "label": "JOB-ALIO 최종 경쟁률",
+            "published": 8,
+            "publishedRaw": "8",
+            "scope": "recruitment_unit",
+            "definition": "공식 표기값입니다. 산식·분자/분모 정의는 미확인입니다. 전형별 인원과 구분합니다.",
+            "definitionStatus": "unverified",
+            "sources": [
+              "auto_alio"
+            ],
+            "stages": [
+              {
+                "name": "1차",
+                "applicants": 8,
+                "selected": 5,
+                "date": "2026-10-12"
+              },
+              {
+                "name": "최종",
+                "applicants": 2,
+                "selected": 1,
+                "date": "2026-10-22"
+              }
+            ],
+            "evidence": {
+              "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=304833",
+              "sha256": "892e6b1909b828add0b9bfab2b80ac2397d764c78fadb3a778f013feecf8989f",
+              "receivedAt": "2026-11-24T09:51:47.360+00:00",
+              "rawUnitName": "사무업무보조(완도)(육아휴직 대체 채용)",
+              "rows": [
+                [
+                  "사무업무보조(완도)(육아휴직 대체 채용)"
+                ],
+                [
+                  "구분",
+                  "선발인원",
+                  "응시인원",
+                  "결과 확정일"
+                ],
+                [
+                  "1차",
+                  "5명",
+                  "8명",
+                  "2026.10.12"
+                ],
+                [
+                  "최종",
+                  "1명",
+                  "2명",
+                  "2026.10.22"
+                ],
+                [
+                  "경쟁률",
+                  "최종 경쟁률 8 대 1"
+                ]
+              ],
+              "method": "deterministic_public_html_parser"
+            }
+          },
           "evaluationRequirements": {
             "applicableRule": "별표1 — 공단 일반 실무직 3등급 상당 사무업무보조(완도)",
             "bonusRules": {
@@ -2388,8 +2446,8 @@
             "unitId": "wando"
           },
           "competitionRecord": {
-            "status": "not_disclosed",
-            "officialValueRaw": null,
+            "status": "confirmed",
+            "officialValueRaw": "8",
             "officialLabel": "최종 경쟁률",
             "scope": "recruitment_unit",
             "definitionStatus": "unverified",
@@ -2404,15 +2462,15 @@
               },
               {
                 "name": "최종",
-                "applicants": null,
-                "selected": null,
-                "date": null
+                "applicants": 2,
+                "selected": 1,
+                "date": "2026-10-22"
               }
             ],
             "evidence": {
               "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=304833",
-              "sha256": "91a8748e30766eb9d8112b4d51464932ed77f3c51e4f6bb0ca4c85a0f2a6b0f9",
-              "receivedAt": "2026-10-24T04:34:12.112+00:00",
+              "sha256": "892e6b1909b828add0b9bfab2b80ac2397d764c78fadb3a778f013feecf8989f",
+              "receivedAt": "2026-11-24T09:51:47.360+00:00",
               "rawUnitName": "사무업무보조(완도)(육아휴직 대체 채용)",
               "rows": [
                 [
@@ -2432,14 +2490,17 @@
                 ],
                 [
                   "최종",
-                  "-",
-                  "-",
-                  "-"
+                  "1명",
+                  "2명",
+                  "2026.10.22"
+                ],
+                [
+                  "경쟁률",
+                  "최종 경쟁률 8 대 1"
                 ]
               ],
               "method": "deterministic_public_html_parser"
-            },
-            "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+            }
           },
           "sourceUnitName": "사무업무보조(완도)(육아휴직 대체 채용)",
           "provenance": {
@@ -2646,6 +2707,64 @@
                   ]
                 }
               }
+            },
+            {
+              "supersededAt": "2026-11-24T09:51:47.360+00:00",
+              "competition": null,
+              "competitionRecord": {
+                "status": "not_disclosed",
+                "officialValueRaw": null,
+                "officialLabel": "최종 경쟁률",
+                "scope": "recruitment_unit",
+                "definitionStatus": "unverified",
+                "numeratorDefinition": null,
+                "denominatorDefinition": null,
+                "stages": [
+                  {
+                    "name": "1차",
+                    "applicants": 8,
+                    "selected": 5,
+                    "date": "2026-10-12"
+                  },
+                  {
+                    "name": "최종",
+                    "applicants": null,
+                    "selected": null,
+                    "date": null
+                  }
+                ],
+                "evidence": {
+                  "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=304833",
+                  "sha256": "91a8748e30766eb9d8112b4d51464932ed77f3c51e4f6bb0ca4c85a0f2a6b0f9",
+                  "receivedAt": "2026-10-24T04:34:12.112+00:00",
+                  "rawUnitName": "사무업무보조(완도)(육아휴직 대체 채용)",
+                  "rows": [
+                    [
+                      "사무업무보조(완도)(육아휴직 대체 채용)"
+                    ],
+                    [
+                      "구분",
+                      "선발인원",
+                      "응시인원",
+                      "결과 확정일"
+                    ],
+                    [
+                      "1차",
+                      "5명",
+                      "8명",
+                      "2026.10.12"
+                    ],
+                    [
+                      "최종",
+                      "-",
+                      "-",
+                      "-"
+                    ]
+                  ],
+                  "method": "deterministic_public_html_parser"
+                },
+                "note": "확인한 해당 모집단위 결과 표의 공식 경쟁률 공란입니다. 0:1이 아닙니다."
+              }
             }
           ]
         }
@@ -2683,8 +2802,8 @@
           "id": "auto_alio",
           "label": "JOB-ALIO 상세 · 자동 수신",
           "url": "https://job.alio.go.kr/recruitview.do?idx=304833",
-          "sha256": "91a8748e30766eb9d8112b4d51464932ed77f3c51e4f6bb0ca4c85a0f2a6b0f9",
-          "receivedAt": "2026-10-24T04:34:12.112+00:00"
+          "sha256": "892e6b1909b828add0b9bfab2b80ac2397d764c78fadb3a778f013feecf8989f",
+          "receivedAt": "2026-11-24T09:51:47.360+00:00"
         }
       ],
       "attachments": [
@@ -2746,16 +2865,16 @@
         "basis": "저장된 마감일·시각(KST) 경과; 원문 정정 여부와 별개"
       },
       "autoSync": {
-        "semanticHash": "a0d5d2ce3ff6c25e81f556174e4ebcd47a98ba6824a502dfc2f1628bb187f9ec",
+        "semanticHash": "6249aa2d2475046d6000e1dd82a376e156b4be3b246174d44a616c556d8c3300",
         "conditionsHash": "6966d36b3087dc1d3be122820ba1021a786ac514e9fbbd9d2432aa7c5643cf37",
-        "rawSha256": "91a8748e30766eb9d8112b4d51464932ed77f3c51e4f6bb0ca4c85a0f2a6b0f9",
-        "lastFetchedAt": "2026-10-24T04:34:12.112+00:00",
-        "contentChangedAt": "2026-10-24T04:34:12.112+00:00",
+        "rawSha256": "892e6b1909b828add0b9bfab2b80ac2397d764c78fadb3a778f013feecf8989f",
+        "lastFetchedAt": "2026-11-24T09:51:47.360+00:00",
+        "contentChangedAt": "2026-11-24T09:51:47.360+00:00",
         "baselineStatus": "compared",
         "needsReview": true,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-10-24T04:34:12.112+00:00",
+          "checkedAt": "2026-11-24T09:51:47.360+00:00",
           "status": "checked",
           "changedUnitIds": [
             "wando"
@@ -76547,16 +76666,16 @@
       ],
       "sources": [
         {
-          "id": "auto_alio",
-          "label": "JOB-ALIO 상세 · 코드 수신·자동 정리",
-          "url": "https://job.alio.go.kr/recruitview.do?idx=304699",
-          "sha256": "9b4f47345bde7e0c12864b8e841dff656f3b1c00edb57f9b4724d035b764cfa9",
-          "receivedAt": "2026-10-24T15:55:45.533+00:00"
-        },
-        {
           "id": "auto_original_1",
           "label": "기관 원문 링크 · 내용 미확인",
           "url": "https://www.kipa.org/kipa/notice/recruit_notice.jsp?mode=view&article_no=129084&board_wrapper=%2Fkipa%2Fnotice%2Frecruit_notice.jsp&pager.offset=0&board_no=1345"
+        },
+        {
+          "id": "auto_alio",
+          "label": "JOB-ALIO 상세 · 자동 수신",
+          "url": "https://job.alio.go.kr/recruitview.do?idx=304699",
+          "sha256": "9b4f47345bde7e0c12864b8e841dff656f3b1c00edb57f9b4724d035b764cfa9",
+          "receivedAt": "2026-11-24T09:51:50.539+00:00"
         }
       ],
       "attachments": [
@@ -76623,17 +76742,15 @@
         "semanticHash": "cee59ce017da9c75e1f862a6e78f7b76e27658af6dfb30e52644c625a9308cd5",
         "conditionsHash": "74b6ce35ce4728ca629411392f9a309facffa66621becae876323fffcc8ebf79",
         "rawSha256": "9b4f47345bde7e0c12864b8e841dff656f3b1c00edb57f9b4724d035b764cfa9",
-        "lastFetchedAt": "2026-10-24T15:55:45.533+00:00",
+        "lastFetchedAt": "2026-11-24T09:51:50.539+00:00",
         "contentChangedAt": "2026-10-24T15:55:45.533+00:00",
-        "baselineStatus": "first_capture",
+        "baselineStatus": "compared",
         "needsReview": true,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-10-24T15:55:45.533+00:00",
+          "checkedAt": "2026-11-24T09:51:50.539+00:00",
           "status": "checked",
-          "changedUnitIds": [
-            "auto-99bea014519a66a5"
-          ],
+          "changedUnitIds": [],
           "preservedUnitIds": [],
           "unmatchedUnitIds": [],
           "issues": []
@@ -107513,16 +107630,16 @@
       ],
       "sources": [
         {
-          "id": "auto_alio",
-          "label": "JOB-ALIO 상세 · 코드 수신·자동 정리",
-          "url": "https://job.alio.go.kr/recruitview.do?idx=307069",
-          "sha256": "6973b0adaab301bb7eb7a68b905b6dbe5bbc5830fd67f0d2d253858a69c1ded9",
-          "receivedAt": "2026-11-16T21:59:50.420+00:00"
-        },
-        {
           "id": "auto_original_1",
           "label": "기관 원문 링크 · 내용 미확인",
           "url": "https://kogastech.recruiter.co.kr"
+        },
+        {
+          "id": "auto_alio",
+          "label": "JOB-ALIO 상세 · 자동 수신",
+          "url": "https://job.alio.go.kr/recruitview.do?idx=307069",
+          "sha256": "6973b0adaab301bb7eb7a68b905b6dbe5bbc5830fd67f0d2d253858a69c1ded9",
+          "receivedAt": "2026-11-24T09:51:44.145+00:00"
         }
       ],
       "attachments": [
@@ -107589,17 +107706,15 @@
         "semanticHash": "03137339951da61aac6817715c72a15756ef3bb4986141bdebe4aced31e687cd",
         "conditionsHash": "9b34fb9963791d170867106c98f1e03a751582102cbef0617f77ccc3adec9ccd",
         "rawSha256": "6973b0adaab301bb7eb7a68b905b6dbe5bbc5830fd67f0d2d253858a69c1ded9",
-        "lastFetchedAt": "2026-11-16T21:59:50.420+00:00",
+        "lastFetchedAt": "2026-11-24T09:51:44.145+00:00",
         "contentChangedAt": "2026-11-16T21:59:50.420+00:00",
-        "baselineStatus": "first_capture",
+        "baselineStatus": "compared",
         "needsReview": true,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-11-16T21:59:50.420+00:00",
+          "checkedAt": "2026-11-24T09:51:44.145+00:00",
           "status": "checked",
-          "changedUnitIds": [
-            "auto-2f5bd392d04a07dc"
-          ],
+          "changedUnitIds": [],
           "preservedUnitIds": [],
           "unmatchedUnitIds": [],
           "issues": []
@@ -112683,14 +112798,14 @@
   "refresh": {
     "status": "success",
     "mode": "live",
-    "lastAttemptAt": "2026-11-23T23:51:10+00:00",
-    "lastSuccessAt": "2026-11-23T23:51:10+00:00",
-    "candidatesCount": 1315,
+    "lastAttemptAt": "2026-11-24T09:51:33+00:00",
+    "lastSuccessAt": "2026-11-24T09:51:33+00:00",
+    "candidatesCount": 1321,
     "coverage": {
       "description": "JOB-ALIO 최근60일 이내 진행중·비정규직·경영회계사무 목록, 목록최대2페이지·상세최대4건/회. 저장된 마감공고도 결과를 순환 재확인합니다. 전체공고 수집 아님.",
-      "queuedNoticeCount": 66,
-      "heldUnitCount": 1249,
-      "nextPage": 8,
+      "queuedNoticeCount": 71,
+      "heldUnitCount": 1250,
+      "nextPage": 2,
       "closedRecheck": {
         "recentDays": 30,
         "recentOrUnknownIntervalDays": 1,
@@ -112701,6 +112816,17 @@
       "requestLimit": 6,
       "automaticRetries": 0,
       "heldNotices": [
+        {
+          "id": "job-alio-307395",
+          "organization": "한국수자원공사",
+          "title": "[한국수자원공사] 영·섬유역협력단 전주현대화사업소 노후 상수관망 정비사업 특수직(사무관리_건설사업) 채용 공고",
+          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=307395",
+          "lastFetchedAt": "2026-11-24T09:51:41.413+00:00",
+          "reasons": [
+            "모집단위명만으로 사무직 여부 미확인"
+          ],
+          "status": "unverified"
+        },
         {
           "id": "job-alio-307335",
           "organization": "국방기술진흥연구소",
@@ -112910,20 +113036,9 @@
             "모집단위명만으로 사무직 여부 미확인"
           ],
           "status": "unverified"
-        },
-        {
-          "id": "job-alio-306916",
-          "organization": "한국교육개발원",
-          "title": "2026년도 제6차 위촉직 채용 공고",
-          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=306916",
-          "lastFetchedAt": "2026-11-12T00:41:01.454+00:00",
-          "reasons": [
-            "모집단위명만으로 사무직 여부 미확인"
-          ],
-          "status": "unverified"
         }
       ],
-      "heldNoticesTotal": 155,
+      "heldNoticesTotal": 156,
       "heldNoticesShownLimit": 20
     }
   }
