@@ -4991,7 +4991,7 @@
           "label": "JOB-ALIO 상세 · 자동 수신",
           "url": "https://job.alio.go.kr/recruitview.do?idx=304781",
           "sha256": "d85c19d33c5ef0e8eae54d48870a95c8a03c00cd5b23aa67cab54de1b62be867",
-          "receivedAt": "2026-10-24T15:55:52.938+00:00"
+          "receivedAt": "2026-11-25T08:29:24.599+00:00"
         }
       ],
       "attachments": [
@@ -5065,13 +5065,13 @@
         "semanticHash": "2453a3d06be5ffd7b7f7e4db0b74de5c54deada3a49d990a9175e49b042d7776",
         "conditionsHash": "f215ee6f6bd0b00cc93cca01e296e535a0ee4f526be81acb008728a67c162b0d",
         "rawSha256": "d85c19d33c5ef0e8eae54d48870a95c8a03c00cd5b23aa67cab54de1b62be867",
-        "lastFetchedAt": "2026-10-24T15:55:52.938+00:00",
+        "lastFetchedAt": "2026-11-25T08:29:24.599+00:00",
         "contentChangedAt": null,
         "baselineStatus": "compared",
         "needsReview": false,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-10-24T15:55:52.938+00:00",
+          "checkedAt": "2026-11-25T08:29:24.599+00:00",
           "status": "checked",
           "changedUnitIds": [],
           "preservedUnitIds": [],
@@ -8437,7 +8437,7 @@
           "label": "JOB-ALIO 상세 · 자동 수신",
           "url": "https://job.alio.go.kr/recruitview.do?idx=304943",
           "sha256": "b119f01c4344c4267d03e5efcaa48f24bfe2b8a313b24c9d1bf9bca9dfb75e58",
-          "receivedAt": "2026-10-24T20:47:14.283+00:00"
+          "receivedAt": "2026-11-25T08:29:27.880+00:00"
         }
       ],
       "attachments": [
@@ -8510,17 +8510,15 @@
         "semanticHash": "721e2a4e709bd19d114e2c5fac4ed3286f72f462e221153c639d92ea4c1288b9",
         "conditionsHash": "98e18a0ef51ab6632b18aca73293424dc9b7555f4ecbdf356617f3358bfe0680",
         "rawSha256": "b119f01c4344c4267d03e5efcaa48f24bfe2b8a313b24c9d1bf9bca9dfb75e58",
-        "lastFetchedAt": "2026-10-24T20:47:14.283+00:00",
+        "lastFetchedAt": "2026-11-25T08:29:27.880+00:00",
         "contentChangedAt": "2026-10-24T20:47:14.283+00:00",
         "baselineStatus": "compared",
         "needsReview": false,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-10-24T20:47:14.283+00:00",
+          "checkedAt": "2026-11-25T08:29:27.880+00:00",
           "status": "checked",
-          "changedUnitIds": [
-            "auto-a4f24ba76b27ac58"
-          ],
+          "changedUnitIds": [],
           "preservedUnitIds": [],
           "unmatchedUnitIds": [],
           "issues": []
@@ -108711,16 +108709,16 @@
       ],
       "sources": [
         {
-          "id": "auto_alio",
-          "label": "JOB-ALIO 상세 · 코드 수신·자동 정리",
-          "url": "https://job.alio.go.kr/recruitview.do?idx=307207",
-          "sha256": "8fc4041589c81c802148fde078bd10e987fd2310c8d540236213fed215689363",
-          "receivedAt": "2026-11-18T07:24:57.931+00:00"
-        },
-        {
           "id": "auto_original_1",
           "label": "기관 원문 링크 · 내용 미확인",
           "url": "http://www.itkc.or.kr"
+        },
+        {
+          "id": "auto_alio",
+          "label": "JOB-ALIO 상세 · 자동 수신",
+          "url": "https://job.alio.go.kr/recruitview.do?idx=307207",
+          "sha256": "8fc4041589c81c802148fde078bd10e987fd2310c8d540236213fed215689363",
+          "receivedAt": "2026-11-25T08:29:21.368+00:00"
         }
       ],
       "attachments": [
@@ -108787,17 +108785,15 @@
         "semanticHash": "c42039cbf8f9559a4cd75a7c1879fa5b0b71d78d68ec31ad62d41968b75ab8d1",
         "conditionsHash": "4d3041295620266cc9122a63671435696b5f20843a5933dd504f137d52f6291e",
         "rawSha256": "8fc4041589c81c802148fde078bd10e987fd2310c8d540236213fed215689363",
-        "lastFetchedAt": "2026-11-18T07:24:57.931+00:00",
+        "lastFetchedAt": "2026-11-25T08:29:21.368+00:00",
         "contentChangedAt": "2026-11-18T07:24:57.931+00:00",
-        "baselineStatus": "first_capture",
+        "baselineStatus": "compared",
         "needsReview": true,
         "note": "본문·결과 표만 자동 수신. 첨부 파일 내용은 재확인하지 않았습니다. 기존 AI 검토시각은 갱신하지 않습니다.",
         "resultCheck": {
-          "checkedAt": "2026-11-18T07:24:57.931+00:00",
+          "checkedAt": "2026-11-25T08:29:21.368+00:00",
           "status": "checked",
-          "changedUnitIds": [
-            "auto-23d6af8d5840ba6e"
-          ],
+          "changedUnitIds": [],
           "preservedUnitIds": [],
           "unmatchedUnitIds": [],
           "issues": []
@@ -113300,14 +113296,14 @@
   "refresh": {
     "status": "success",
     "mode": "live",
-    "lastAttemptAt": "2026-11-24T22:24:22+00:00",
-    "lastSuccessAt": "2026-11-24T22:24:22+00:00",
-    "candidatesCount": 1321,
+    "lastAttemptAt": "2026-11-25T08:29:07+00:00",
+    "lastSuccessAt": "2026-11-25T08:29:07+00:00",
+    "candidatesCount": 1323,
     "coverage": {
       "description": "JOB-ALIO 최근60일 이내 진행중·비정규직·경영회계사무 목록, 목록최대2페이지·상세최대4건/회. 저장된 마감공고도 결과를 순환 재확인합니다. 전체공고 수집 아님.",
-      "queuedNoticeCount": 71,
-      "heldUnitCount": 1250,
-      "nextPage": 3,
+      "queuedNoticeCount": 72,
+      "heldUnitCount": 1251,
+      "nextPage": 4,
       "closedRecheck": {
         "recentDays": 30,
         "recentOrUnknownIntervalDays": 1,
@@ -113318,6 +113314,17 @@
       "requestLimit": 6,
       "automaticRetries": 0,
       "heldNotices": [
+        {
+          "id": "job-alio-307391",
+          "organization": "한국수자원공사",
+          "title": "[한국수자원공사] 영·섬유역협력단 군산현대화사업소 노후 상수관망 정비사업 특수직(사무관리_건설사업) 채용 공고",
+          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=307391",
+          "lastFetchedAt": "2026-11-25T08:29:17.687+00:00",
+          "reasons": [
+            "모집단위명만으로 사무직 여부 미확인"
+          ],
+          "status": "unverified"
+        },
         {
           "id": "job-alio-307395",
           "organization": "한국수자원공사",
@@ -113527,20 +113534,9 @@
             "모집단위명만으로 사무직 여부 미확인"
           ],
           "status": "unverified"
-        },
-        {
-          "id": "job-alio-306983",
-          "organization": "한국지식재산보호원",
-          "title": "[한국지식재산보호원] 2026년도 제11차 인력채용",
-          "sourceUrl": "https://job.alio.go.kr/recruitview.do?idx=306983",
-          "lastFetchedAt": "2026-11-12T15:11:07.656+00:00",
-          "reasons": [
-            "모집단위명만으로 사무직 여부 미확인"
-          ],
-          "status": "unverified"
         }
       ],
-      "heldNoticesTotal": 156,
+      "heldNoticesTotal": 157,
       "heldNoticesShownLimit": 20
     }
   }
