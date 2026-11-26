@@ -3674,8 +3674,8 @@
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
       "lastSeenAt": "2026-10-13T22:43:23.657+00:00",
-      "lastAttemptAt": "2026-10-27T17:59:19.817+00:00",
-      "lastSuccessAt": "2026-10-27T17:59:19.817+00:00"
+      "lastAttemptAt": "2026-11-26T21:29:07.255+00:00",
+      "lastSuccessAt": "2026-11-26T21:29:07.255+00:00"
     },
     "job-alio-305509": {
       "state": "published",
@@ -5228,8 +5228,8 @@
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
       "lastSeenAt": "2026-10-27T12:08:41.287+00:00",
-      "lastAttemptAt": "2026-10-25T04:38:43.974+00:00",
-      "lastSuccessAt": "2026-10-25T04:38:43.974+00:00"
+      "lastAttemptAt": "2026-11-26T21:29:04.870+00:00",
+      "lastSuccessAt": "2026-11-26T21:29:04.870+00:00"
     },
     "job-alio-305962": {
       "state": "queued",
@@ -8608,8 +8608,8 @@
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
       "lastSeenAt": "2026-11-23T23:51:15.684+00:00",
-      "lastAttemptAt": "2026-11-19T20:33:32.185+00:00",
-      "lastSuccessAt": "2026-11-19T20:33:32.185+00:00"
+      "lastAttemptAt": "2026-11-26T21:29:01.440+00:00",
+      "lastSuccessAt": "2026-11-26T21:29:01.440+00:00"
     },
     "job-alio-306917": {
       "state": "published",
@@ -9086,18 +9086,18 @@
         "region_raw": "부산 외 2",
         "employment_raw": "비정규직",
         "registered_raw": "2026.11.16",
-        "closing_raw": "26.11.30 D-7",
+        "closing_raw": "26.11.30 D-3",
         "application_period": {
           "raw": null,
           "status": "미확인",
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=307033",
-        "list_page": 5,
+        "list_page": 6,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-11-22T19:36:22.924+00:00",
+      "lastSeenAt": "2026-11-26T21:28:54.802+00:00",
       "lastAttemptAt": "2026-11-15T18:49:30.132+00:00",
       "lastSuccessAt": "2026-11-15T18:49:30.132+00:00"
     },
@@ -9186,18 +9186,18 @@
         "region_raw": "서울 외 1",
         "employment_raw": "무기계약직 외 2",
         "registered_raw": "2026.11.17",
-        "closing_raw": "26.12.01 D-8",
+        "closing_raw": "26.12.01 D-4",
         "application_period": {
           "raw": null,
           "status": "미확인",
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=307060",
-        "list_page": 4,
+        "list_page": 6,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-11-22T06:44:28.235+00:00"
+      "lastSeenAt": "2026-11-26T21:28:54.802+00:00"
     },
     "job-alio-307078": {
       "state": "held",
@@ -9209,18 +9209,18 @@
         "region_raw": "경기",
         "employment_raw": "비정규직",
         "registered_raw": "2026.11.16",
-        "closing_raw": "26.12.01 D-8",
+        "closing_raw": "26.12.01 D-4",
         "application_period": {
           "raw": null,
           "status": "미확인",
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=307078",
-        "list_page": 4,
+        "list_page": 6,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-11-22T06:44:28.235+00:00",
+      "lastSeenAt": "2026-11-26T21:28:54.802+00:00",
       "lastAttemptAt": "2026-11-16T21:59:41.025+00:00",
       "lastSuccessAt": "2026-11-16T21:59:41.025+00:00"
     },
@@ -9234,18 +9234,18 @@
         "region_raw": "대전",
         "employment_raw": "비정규직",
         "registered_raw": "2026.11.16",
-        "closing_raw": "26.11.30 D-7",
+        "closing_raw": "26.11.30 D-3",
         "application_period": {
           "raw": null,
           "status": "미확인",
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=307069",
-        "list_page": 4,
+        "list_page": 6,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-11-22T06:44:28.235+00:00",
+      "lastSeenAt": "2026-11-26T21:28:54.802+00:00",
       "lastAttemptAt": "2026-11-24T09:51:44.145+00:00",
       "lastSuccessAt": "2026-11-24T09:51:44.145+00:00"
     },
@@ -9259,18 +9259,18 @@
         "region_raw": "서울",
         "employment_raw": "비정규직",
         "registered_raw": "2026.11.17",
-        "closing_raw": "26.12.02 D-9",
+        "closing_raw": "26.12.02 D-5",
         "application_period": {
           "raw": null,
           "status": "미확인",
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=307134",
-        "list_page": 4,
+        "list_page": 6,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-11-22T06:44:28.235+00:00",
+      "lastSeenAt": "2026-11-26T21:28:54.802+00:00",
       "lastAttemptAt": "2026-11-17T07:52:34.432+00:00",
       "lastSuccessAt": "2026-11-17T07:52:34.432+00:00"
     },
@@ -9284,18 +9284,18 @@
         "region_raw": "세종",
         "employment_raw": "비정규직",
         "registered_raw": "2026.11.17",
-        "closing_raw": "26.12.02 D-9",
+        "closing_raw": "26.12.02 D-5",
         "application_period": {
           "raw": null,
           "status": "미확인",
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=307110",
-        "list_page": 4,
+        "list_page": 6,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-11-22T06:44:28.235+00:00",
+      "lastSeenAt": "2026-11-26T21:28:54.802+00:00",
       "lastAttemptAt": "2026-11-24T22:24:34.061+00:00",
       "lastSuccessAt": "2026-11-24T22:24:34.061+00:00"
     },
@@ -9309,18 +9309,18 @@
         "region_raw": "대전",
         "employment_raw": "비정규직",
         "registered_raw": "2026.11.17",
-        "closing_raw": "26.12.01 D-8",
+        "closing_raw": "26.12.01 D-4",
         "application_period": {
           "raw": null,
           "status": "미확인",
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=307104",
-        "list_page": 4,
+        "list_page": 6,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-11-22T06:44:28.235+00:00"
+      "lastSeenAt": "2026-11-26T21:28:54.802+00:00"
     },
     "job-alio-307113": {
       "state": "held",
@@ -9357,18 +9357,18 @@
         "region_raw": "대구",
         "employment_raw": "비정규직",
         "registered_raw": "2026.11.18",
-        "closing_raw": "26.12.02 D-10",
+        "closing_raw": "26.12.02 D-5",
         "application_period": {
           "raw": null,
           "status": "미확인",
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=307051",
-        "list_page": 3,
+        "list_page": 6,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-11-21T19:13:02.000+00:00"
+      "lastSeenAt": "2026-11-26T21:28:54.802+00:00"
     },
     "job-alio-307163": {
       "state": "held",
@@ -9437,11 +9437,11 @@
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=307174",
-        "list_page": 5,
+        "list_page": 6,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-11-26T08:13:52.513+00:00",
+      "lastSeenAt": "2026-11-26T21:28:54.802+00:00",
       "lastAttemptAt": "2026-11-25T21:39:43.508+00:00",
       "lastSuccessAt": "2026-11-25T21:39:43.508+00:00"
     },
@@ -9455,18 +9455,18 @@
         "region_raw": "서울 외 5",
         "employment_raw": "무기계약직 외 2",
         "registered_raw": "2026.11.18",
-        "closing_raw": "26.12.02 D-10",
+        "closing_raw": "26.12.02 D-5",
         "application_period": {
           "raw": null,
           "status": "미확인",
           "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
         },
         "source_url": "https://job.alio.go.kr/recruitview.do?idx=306990",
-        "list_page": 3,
+        "list_page": 6,
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-11-21T19:13:02.000+00:00"
+      "lastSeenAt": "2026-11-26T21:28:54.802+00:00"
     },
     "job-alio-307224": {
       "state": "queued",
@@ -10518,7 +10518,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-11-26T08:13:49.494+00:00",
+      "lastSeenAt": "2026-11-26T21:28:51.983+00:00",
       "lastAttemptAt": "2026-11-26T08:13:55.757+00:00",
       "lastSuccessAt": "2026-11-26T08:13:55.757+00:00"
     },
@@ -10543,7 +10543,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-11-26T08:13:49.494+00:00"
+      "lastSeenAt": "2026-11-26T21:28:51.983+00:00"
     },
     "job-alio-307498": {
       "state": "queued",
@@ -10566,7 +10566,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-11-26T08:13:49.494+00:00"
+      "lastSeenAt": "2026-11-26T21:28:51.983+00:00"
     },
     "job-alio-307486": {
       "state": "published",
@@ -10589,7 +10589,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-11-26T08:13:49.494+00:00",
+      "lastSeenAt": "2026-11-26T21:28:51.983+00:00",
       "lastAttemptAt": "2026-11-26T08:14:05.537+00:00",
       "lastSuccessAt": "2026-11-26T08:14:05.537+00:00"
     },
@@ -10614,7 +10614,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-11-26T08:13:49.494+00:00"
+      "lastSeenAt": "2026-11-26T21:28:51.983+00:00"
     },
     "job-alio-307468": {
       "state": "queued",
@@ -10637,7 +10637,7 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-11-26T08:13:49.494+00:00"
+      "lastSeenAt": "2026-11-26T21:28:51.983+00:00"
     },
     "job-alio-307465": {
       "state": "queued",
@@ -10660,7 +10660,78 @@
         "collection_method": "python_public_html",
         "review_status": "transport_sample_not_office_unit_reviewed"
       },
-      "lastSeenAt": "2026-11-26T08:13:49.494+00:00"
+      "lastSeenAt": "2026-11-26T21:28:51.983+00:00"
+    },
+    "job-alio-307517": {
+      "state": "held",
+      "row": {
+        "id": "job-alio-307517",
+        "idx": "307517",
+        "title": "한국도로공사 직계약휴게소 시범운영 현장관리 기간제근로자(총무·경리 담당) 채용공고",
+        "org": "한국도로공사",
+        "region_raw": "대구 외 4",
+        "employment_raw": "비정규직",
+        "registered_raw": "2026.11.26",
+        "closing_raw": "26.12.03 D-6",
+        "application_period": {
+          "raw": null,
+          "status": "미확인",
+          "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
+        },
+        "source_url": "https://job.alio.go.kr/recruitview.do?idx=307517",
+        "list_page": 1,
+        "collection_method": "python_public_html",
+        "review_status": "transport_sample_not_office_unit_reviewed"
+      },
+      "lastSeenAt": "2026-11-26T21:28:51.983+00:00",
+      "lastAttemptAt": "2026-11-26T21:28:58.682+00:00",
+      "lastSuccessAt": "2026-11-26T21:28:58.682+00:00"
+    },
+    "job-alio-307516": {
+      "state": "queued",
+      "row": {
+        "id": "job-alio-307516",
+        "idx": "307516",
+        "title": "한국도로공사 직계약휴게소 시범운영 현장관리 기간제근로자(위생·고객 담당) 채용공고",
+        "org": "한국도로공사",
+        "region_raw": "대구 외 4",
+        "employment_raw": "비정규직",
+        "registered_raw": "2026.11.26",
+        "closing_raw": "26.12.03 D-6",
+        "application_period": {
+          "raw": null,
+          "status": "미확인",
+          "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
+        },
+        "source_url": "https://job.alio.go.kr/recruitview.do?idx=307516",
+        "list_page": 1,
+        "collection_method": "python_public_html",
+        "review_status": "transport_sample_not_office_unit_reviewed"
+      },
+      "lastSeenAt": "2026-11-26T21:28:51.983+00:00"
+    },
+    "job-alio-307514": {
+      "state": "queued",
+      "row": {
+        "id": "job-alio-307514",
+        "idx": "307514",
+        "title": "한국도로공사 직계약휴게소 시범운영 현장관리 기간제근로자(휴게소장) 채용공고",
+        "org": "한국도로공사",
+        "region_raw": "대구 외 4",
+        "employment_raw": "비정규직",
+        "registered_raw": "2026.11.26",
+        "closing_raw": "26.12.03 D-6",
+        "application_period": {
+          "raw": null,
+          "status": "미확인",
+          "note": "목록의 등록일/마감일을 접수기간으로 바꾸지 않음"
+        },
+        "source_url": "https://job.alio.go.kr/recruitview.do?idx=307514",
+        "list_page": 1,
+        "collection_method": "python_public_html",
+        "review_status": "transport_sample_not_office_unit_reviewed"
+      },
+      "lastSeenAt": "2026-11-26T21:28:51.983+00:00"
     }
   },
   "candidates": {
@@ -24899,175 +24970,6 @@
       },
       "employmentEvidence": "비정규직"
     },
-    "job-alio-306927:auto-51d16882e4bd9281": {
-      "id": "job-alio-306927:auto-51d16882e4bd9281",
-      "noticeId": "job-alio-306927",
-      "rawUnitName": "행정지원E(체험형 청년인턴)",
-      "status": "held",
-      "reason": "not_target_employment",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=306927",
-        "sha256": "4f2ec2109dbeaeee1bb65b60a5eca4fca41d595449a37a07b9db06ef219b38c8",
-        "receivedAt": "2026-11-19T20:33:32.185+00:00"
-      },
-      "employmentEvidence": "행정지원E(체험형 청년인턴)"
-    },
-    "job-alio-306927:auto-11bdc8784cea5948": {
-      "id": "job-alio-306927:auto-11bdc8784cea5948",
-      "noticeId": "job-alio-306927",
-      "rawUnitName": "기록물관리",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=306927",
-        "sha256": "4f2ec2109dbeaeee1bb65b60a5eca4fca41d595449a37a07b9db06ef219b38c8",
-        "receivedAt": "2026-11-19T20:33:32.185+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-306927:auto-8f08d0599520738a": {
-      "id": "job-alio-306927:auto-8f08d0599520738a",
-      "noticeId": "job-alio-306927",
-      "rawUnitName": "청문감사",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=306927",
-        "sha256": "4f2ec2109dbeaeee1bb65b60a5eca4fca41d595449a37a07b9db06ef219b38c8",
-        "receivedAt": "2026-11-19T20:33:32.185+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-306927:auto-8d4866196bba7fac": {
-      "id": "job-alio-306927:auto-8d4866196bba7fac",
-      "noticeId": "job-alio-306927",
-      "rawUnitName": "조사(본원)",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=306927",
-        "sha256": "4f2ec2109dbeaeee1bb65b60a5eca4fca41d595449a37a07b9db06ef219b38c8",
-        "receivedAt": "2026-11-19T20:33:32.185+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-306927:auto-fcd9fb3258fd16d2": {
-      "id": "job-alio-306927:auto-fcd9fb3258fd16d2",
-      "noticeId": "job-alio-306927",
-      "rawUnitName": "조사(대전)",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=306927",
-        "sha256": "4f2ec2109dbeaeee1bb65b60a5eca4fca41d595449a37a07b9db06ef219b38c8",
-        "receivedAt": "2026-11-19T20:33:32.185+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-306927:auto-7408df3982786f45": {
-      "id": "job-alio-306927:auto-7408df3982786f45",
-      "noticeId": "job-alio-306927",
-      "rawUnitName": "조사(경남)",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=306927",
-        "sha256": "4f2ec2109dbeaeee1bb65b60a5eca4fca41d595449a37a07b9db06ef219b38c8",
-        "receivedAt": "2026-11-19T20:33:32.185+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-306927:auto-ca6f37f0e2277c8f": {
-      "id": "job-alio-306927:auto-ca6f37f0e2277c8f",
-      "noticeId": "job-alio-306927",
-      "rawUnitName": "조사(전남광주)",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=306927",
-        "sha256": "4f2ec2109dbeaeee1bb65b60a5eca4fca41d595449a37a07b9db06ef219b38c8",
-        "receivedAt": "2026-11-19T20:33:32.185+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-306927:auto-e4d0c281109d2a79": {
-      "id": "job-alio-306927:auto-e4d0c281109d2a79",
-      "noticeId": "job-alio-306927",
-      "rawUnitName": "전문조사(본원)",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=306927",
-        "sha256": "4f2ec2109dbeaeee1bb65b60a5eca4fca41d595449a37a07b9db06ef219b38c8",
-        "receivedAt": "2026-11-19T20:33:32.185+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-306927:auto-d6b4fe1c757bda87": {
-      "id": "job-alio-306927:auto-d6b4fe1c757bda87",
-      "noticeId": "job-alio-306927",
-      "rawUnitName": "전문조사(경기)",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=306927",
-        "sha256": "4f2ec2109dbeaeee1bb65b60a5eca4fca41d595449a37a07b9db06ef219b38c8",
-        "receivedAt": "2026-11-19T20:33:32.185+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-306927:auto-b49f8bfb0eb141ce": {
-      "id": "job-alio-306927:auto-b49f8bfb0eb141ce",
-      "noticeId": "job-alio-306927",
-      "rawUnitName": "전문조사(대전)",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=306927",
-        "sha256": "4f2ec2109dbeaeee1bb65b60a5eca4fca41d595449a37a07b9db06ef219b38c8",
-        "receivedAt": "2026-11-19T20:33:32.185+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-306927:auto-58a9dfdf8fe8fb91": {
-      "id": "job-alio-306927:auto-58a9dfdf8fe8fb91",
-      "noticeId": "job-alio-306927",
-      "rawUnitName": "전문조사(경남)",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=306927",
-        "sha256": "4f2ec2109dbeaeee1bb65b60a5eca4fca41d595449a37a07b9db06ef219b38c8",
-        "receivedAt": "2026-11-19T20:33:32.185+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-306927:auto-d5379e907d7beae9": {
-      "id": "job-alio-306927:auto-d5379e907d7beae9",
-      "noticeId": "job-alio-306927",
-      "rawUnitName": "전문조사(전남광주)",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=306927",
-        "sha256": "4f2ec2109dbeaeee1bb65b60a5eca4fca41d595449a37a07b9db06ef219b38c8",
-        "receivedAt": "2026-11-19T20:33:32.185+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
-    "job-alio-306927:auto-87f41fb06e774638": {
-      "id": "job-alio-306927:auto-87f41fb06e774638",
-      "noticeId": "job-alio-306927",
-      "rawUnitName": "변호사",
-      "status": "held",
-      "reason": "office_role_not_identifiable_from_unit_name",
-      "evidence": {
-        "url": "https://job.alio.go.kr/recruitview.do?idx=306927",
-        "sha256": "4f2ec2109dbeaeee1bb65b60a5eca4fca41d595449a37a07b9db06ef219b38c8",
-        "receivedAt": "2026-11-19T20:33:32.185+00:00"
-      },
-      "employmentEvidence": "비정규직"
-    },
     "job-alio-306914:auto-bfd2f0a73de8bf13": {
       "id": "job-alio-306914:auto-bfd2f0a73de8bf13",
       "noticeId": "job-alio-306914",
@@ -26939,8 +26841,281 @@
         "receivedAt": "2026-11-26T08:14:02.469+00:00"
       },
       "employmentEvidence": "유기계약직_민원"
+    },
+    "job-alio-307517:auto-9573fcef405bc928": {
+      "id": "job-alio-307517:auto-9573fcef405bc928",
+      "noticeId": "job-alio-307517",
+      "rawUnitName": "여주(인천)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=307517",
+        "sha256": "11fda66920546545446082f4b9a845a27a4b52080567c7651c16939d6ae57bcc",
+        "receivedAt": "2026-11-26T21:28:58.682+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-307517:auto-34a3efac14485ee9": {
+      "id": "job-alio-307517:auto-34a3efac14485ee9",
+      "noticeId": "job-alio-307517",
+      "rawUnitName": "군위(부산)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=307517",
+        "sha256": "11fda66920546545446082f4b9a845a27a4b52080567c7651c16939d6ae57bcc",
+        "receivedAt": "2026-11-26T21:28:58.682+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-307517:auto-b0efc46ccc448ebe": {
+      "id": "job-alio-307517:auto-b0efc46ccc448ebe",
+      "noticeId": "job-alio-307517",
+      "rawUnitName": "장유(서부산)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=307517",
+        "sha256": "11fda66920546545446082f4b9a845a27a4b52080567c7651c16939d6ae57bcc",
+        "receivedAt": "2026-11-26T21:28:58.682+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-307517:auto-d5a5de0e5945d271": {
+      "id": "job-alio-307517:auto-d5a5de0e5945d271",
+      "noticeId": "job-alio-307517",
+      "rawUnitName": "대천(서울)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=307517",
+        "sha256": "11fda66920546545446082f4b9a845a27a4b52080567c7651c16939d6ae57bcc",
+        "receivedAt": "2026-11-26T21:28:58.682+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-307517:auto-bf80887a22d8352c": {
+      "id": "job-alio-307517:auto-bf80887a22d8352c",
+      "noticeId": "job-alio-307517",
+      "rawUnitName": "대천(목포)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=307517",
+        "sha256": "11fda66920546545446082f4b9a845a27a4b52080567c7651c16939d6ae57bcc",
+        "receivedAt": "2026-11-26T21:28:58.682+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-307517:auto-0fab41f37e972292": {
+      "id": "job-alio-307517:auto-0fab41f37e972292",
+      "noticeId": "job-alio-307517",
+      "rawUnitName": "월출산",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=307517",
+        "sha256": "11fda66920546545446082f4b9a845a27a4b52080567c7651c16939d6ae57bcc",
+        "receivedAt": "2026-11-26T21:28:58.682+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-307517:auto-70d99218dbf3944f": {
+      "id": "job-alio-307517:auto-70d99218dbf3944f",
+      "noticeId": "job-alio-307517",
+      "rawUnitName": "합천호(함양)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=307517",
+        "sha256": "11fda66920546545446082f4b9a845a27a4b52080567c7651c16939d6ae57bcc",
+        "receivedAt": "2026-11-26T21:28:58.682+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-307517:auto-406c04625daa8b70": {
+      "id": "job-alio-307517:auto-406c04625daa8b70",
+      "noticeId": "job-alio-307517",
+      "rawUnitName": "합천호(울산)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=307517",
+        "sha256": "11fda66920546545446082f4b9a845a27a4b52080567c7651c16939d6ae57bcc",
+        "receivedAt": "2026-11-26T21:28:58.682+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-306927:auto-51d16882e4bd9281": {
+      "id": "job-alio-306927:auto-51d16882e4bd9281",
+      "noticeId": "job-alio-306927",
+      "rawUnitName": "행정지원E(체험형 청년인턴)",
+      "status": "held",
+      "reason": "not_target_employment",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=306927",
+        "sha256": "4f2ec2109dbeaeee1bb65b60a5eca4fca41d595449a37a07b9db06ef219b38c8",
+        "receivedAt": "2026-11-26T21:29:01.440+00:00"
+      },
+      "employmentEvidence": "행정지원E(체험형 청년인턴)"
+    },
+    "job-alio-306927:auto-11bdc8784cea5948": {
+      "id": "job-alio-306927:auto-11bdc8784cea5948",
+      "noticeId": "job-alio-306927",
+      "rawUnitName": "기록물관리",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=306927",
+        "sha256": "4f2ec2109dbeaeee1bb65b60a5eca4fca41d595449a37a07b9db06ef219b38c8",
+        "receivedAt": "2026-11-26T21:29:01.440+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-306927:auto-8f08d0599520738a": {
+      "id": "job-alio-306927:auto-8f08d0599520738a",
+      "noticeId": "job-alio-306927",
+      "rawUnitName": "청문감사",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=306927",
+        "sha256": "4f2ec2109dbeaeee1bb65b60a5eca4fca41d595449a37a07b9db06ef219b38c8",
+        "receivedAt": "2026-11-26T21:29:01.440+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-306927:auto-8d4866196bba7fac": {
+      "id": "job-alio-306927:auto-8d4866196bba7fac",
+      "noticeId": "job-alio-306927",
+      "rawUnitName": "조사(본원)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=306927",
+        "sha256": "4f2ec2109dbeaeee1bb65b60a5eca4fca41d595449a37a07b9db06ef219b38c8",
+        "receivedAt": "2026-11-26T21:29:01.440+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-306927:auto-fcd9fb3258fd16d2": {
+      "id": "job-alio-306927:auto-fcd9fb3258fd16d2",
+      "noticeId": "job-alio-306927",
+      "rawUnitName": "조사(대전)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=306927",
+        "sha256": "4f2ec2109dbeaeee1bb65b60a5eca4fca41d595449a37a07b9db06ef219b38c8",
+        "receivedAt": "2026-11-26T21:29:01.440+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-306927:auto-7408df3982786f45": {
+      "id": "job-alio-306927:auto-7408df3982786f45",
+      "noticeId": "job-alio-306927",
+      "rawUnitName": "조사(경남)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=306927",
+        "sha256": "4f2ec2109dbeaeee1bb65b60a5eca4fca41d595449a37a07b9db06ef219b38c8",
+        "receivedAt": "2026-11-26T21:29:01.440+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-306927:auto-ca6f37f0e2277c8f": {
+      "id": "job-alio-306927:auto-ca6f37f0e2277c8f",
+      "noticeId": "job-alio-306927",
+      "rawUnitName": "조사(전남광주)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=306927",
+        "sha256": "4f2ec2109dbeaeee1bb65b60a5eca4fca41d595449a37a07b9db06ef219b38c8",
+        "receivedAt": "2026-11-26T21:29:01.440+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-306927:auto-e4d0c281109d2a79": {
+      "id": "job-alio-306927:auto-e4d0c281109d2a79",
+      "noticeId": "job-alio-306927",
+      "rawUnitName": "전문조사(본원)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=306927",
+        "sha256": "4f2ec2109dbeaeee1bb65b60a5eca4fca41d595449a37a07b9db06ef219b38c8",
+        "receivedAt": "2026-11-26T21:29:01.440+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-306927:auto-d6b4fe1c757bda87": {
+      "id": "job-alio-306927:auto-d6b4fe1c757bda87",
+      "noticeId": "job-alio-306927",
+      "rawUnitName": "전문조사(경기)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=306927",
+        "sha256": "4f2ec2109dbeaeee1bb65b60a5eca4fca41d595449a37a07b9db06ef219b38c8",
+        "receivedAt": "2026-11-26T21:29:01.440+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-306927:auto-b49f8bfb0eb141ce": {
+      "id": "job-alio-306927:auto-b49f8bfb0eb141ce",
+      "noticeId": "job-alio-306927",
+      "rawUnitName": "전문조사(대전)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=306927",
+        "sha256": "4f2ec2109dbeaeee1bb65b60a5eca4fca41d595449a37a07b9db06ef219b38c8",
+        "receivedAt": "2026-11-26T21:29:01.440+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-306927:auto-58a9dfdf8fe8fb91": {
+      "id": "job-alio-306927:auto-58a9dfdf8fe8fb91",
+      "noticeId": "job-alio-306927",
+      "rawUnitName": "전문조사(경남)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=306927",
+        "sha256": "4f2ec2109dbeaeee1bb65b60a5eca4fca41d595449a37a07b9db06ef219b38c8",
+        "receivedAt": "2026-11-26T21:29:01.440+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-306927:auto-d5379e907d7beae9": {
+      "id": "job-alio-306927:auto-d5379e907d7beae9",
+      "noticeId": "job-alio-306927",
+      "rawUnitName": "전문조사(전남광주)",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=306927",
+        "sha256": "4f2ec2109dbeaeee1bb65b60a5eca4fca41d595449a37a07b9db06ef219b38c8",
+        "receivedAt": "2026-11-26T21:29:01.440+00:00"
+      },
+      "employmentEvidence": "비정규직"
+    },
+    "job-alio-306927:auto-87f41fb06e774638": {
+      "id": "job-alio-306927:auto-87f41fb06e774638",
+      "noticeId": "job-alio-306927",
+      "rawUnitName": "변호사",
+      "status": "held",
+      "reason": "office_role_not_identifiable_from_unit_name",
+      "evidence": {
+        "url": "https://job.alio.go.kr/recruitview.do?idx=306927",
+        "sha256": "4f2ec2109dbeaeee1bb65b60a5eca4fca41d595449a37a07b9db06ef219b38c8",
+        "receivedAt": "2026-11-26T21:29:01.440+00:00"
+      },
+      "employmentEvidence": "비정규직"
     }
   },
-  "nextPage": 6,
+  "nextPage": 7,
   "schemaVersion": "automatic-refresh-state-0.2"
 }
